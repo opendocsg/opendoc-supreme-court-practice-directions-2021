@@ -1,7 +1,7 @@
 title: Supreme Court Practice Directions 2021
 remote_theme: opendocsg/opendoc-theme@master
 timezone: Asia/Singapore
-repository: opendocsg/opendoc-supreme-court-practice-directions
+repository: opendocsg/opendoc-supreme-court-practice-directions-2012
 plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
