@@ -1,21 +1,19 @@
 # Part I: Introduction
 
 <ul type="*">
-	<li>1. Citation</li>
-	<li>1A. Definitions</li>
-    <li>1B. References to repealed provisions of written laws</li>
-	<li>2. Commencement</li>
-	<li>3. Revocation of previous practice directions</li>
-	<li>4. Updating</li>
-	<li>5. Applicability of Practice Directions</li>
+	<li>1. Citation and application</li>
+	<li>2. Definitions</li>
+	<li>3. References to written laws</li>
+	<li>4. Commencement</li>
+	<li>5. Updating</li>
+	<li>6. Applicability of Practice Directions</li>
 		<ul>
 			<li>Practice Directions to apply to civil proceedings</li>
 			<li>Proceedings using the Electronic Filing Service</li>
-			<li>Proceedings not using the Electronic Filing Service</li>
 		</ul>
-	<li>6. Forms</li>
-	<li>7. Registrar’s Circulars</li>
-	<li>7A. Business of the Registry  </li>
+	<li>7. Calculation of time</li>
+	<li>8. Forms</li>
+	<li>9. Registrar’s Circulars</li>
 </ul>
 
 
