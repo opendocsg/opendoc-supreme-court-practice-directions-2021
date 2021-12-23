@@ -1,10 +1,30 @@
 # Part X: Evidence – Witnesses, Affidavits and Exhibits
 
 <ul type="*">
-	<li>78. Filing of writs of execution</li>
-	<li>79. Requests for the Sheriff’s attendance</li>
-	<li>80. Sale of immovable property</li>
-	<li>80A. Examination of Judgment Debtor</li>
+	<li>76. Witnesses</li>
+		<ul>
+			<li>Issuance of orders to attend court</li>
+			<li>Release of witness upon completion of evidence</li> 
+			<li>Request for Registrar to produce document or Court’s records</li>
+		</ul>
+	<li>77. Giving of evidence by person outside Singapore through live video link or live television link in any proceedings (other than proceedings in a criminal matter)</li> 
+	<li>78. Form of affidavits</li> 
+	<li>79. Non-documentary exhibits to affidavits</li>
+	<li>80. Documentary exhibits to affidavits</li>
+		<ul>
+			<li>More than 10 documentary exhibits</li> 
+			<li>Pagination</li> 
+			<li>Dividing sheets</li>
+			<li>Bookmarks</li> 
+			<li>Numbering</li> 
+			<li>References to exhibits in text of affidavit</li> 
+			<li>References to exhibits in other affidavits</li> 
+			<li>Related documents</li>
+		</ul>
+	<li>81. Affirming and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link</li> 
+	<li>82. Affirming of documents by persons who do not understand English, are illiterate or blind</li> 
+	<li>83. Effect of non-compliance</li>
+	<li>84. Objections to the contents of affidavits of evidence-in-chief</li>
 </ul>
 
 ## 78. Filing of writs of execution
