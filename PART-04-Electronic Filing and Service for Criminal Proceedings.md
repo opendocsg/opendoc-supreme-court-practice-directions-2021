@@ -1,4 +1,4 @@
-# Part IV: Interlocutory Applications
+# Part IV: Electronic Filing and Service for Criminal Proceedings 
 
 <ul type="*">
 	<li>36. Distribution of applications </li>
