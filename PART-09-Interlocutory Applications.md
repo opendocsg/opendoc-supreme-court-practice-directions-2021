@@ -1,4 +1,4 @@
-# Part IX: Judgments and Orders
+# Part IX: Interlocutory Applications 
 
 <ul type="*">
 	<li>75. Draft orders</li>
