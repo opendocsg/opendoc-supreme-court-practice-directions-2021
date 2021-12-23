@@ -1,35 +1,16 @@
 # Part V: Civil Proceedings that Do Not Use the Electronic Filing Service 
 
 <ul type="*">
-	<li>44. Introduction</li>
-	<ul>
-		<li>Location of electronically stored documents</li>
-		<li>Meaning of “metadata information”</li>
-		<li>Meaning of “not reasonably accessible documents”</li>
-		<li>Meaning of “forensic inspection”</li>
-	</ul>
-	<li>45. Electronic discovery plans during general discovery</li>
-	<li>46. Discovery of metadata information</li>
-	<li>47. Reasonable searches for electronically stored documents</li>
-	<ul>
-		<li>Applications to Court</li>
-		<li>Review for the purpose of asserting privilege</li>
-	</ul>
-	<li>48. Proportionality and economy</li>
-	<li>49. Form of list</li>
-	<li>50. Inspection of electronically stored documents</li>
-	<ul>
-		<li>Inspection of computer databases</li>
-	</ul>
-	<li>51. Forensic inspection of electronic media or recording devices</li>
-	<li>52. Supply of copies of electronically stored documents</li>
-	<ul>
-		<li>Requests for the supply of copies</li>
-		<li>Applications for the supply of copies</li>
-	</ul>
-	<li>53. Discovery by the supply of copies in lieu of inspection</li>
-	<li>54. Restriction on use of privileged document, inspection of which has been inadvertently allowed</li>
-	<li>55. Costs</li>
+	<li>48. Application</li>
+	<li>49. Information to be provided in cause papers and documents that are filed in the Registry</li>
+	<li>50. Form of affidavits</li>
+		<ul>
+			<li>Binding of affidavits</li>
+			<li>51. Documentary exhibits to affidavits</li>
+			<li>Dividing sheets</li>
+			<li>More than 10 documentary exhibits</li>
+		</ul>
+	<li>52. File inspection and obtaining hard copy extracts or certified true copies of documents</li>
 </ul>
 
 ## 44. Introduction
