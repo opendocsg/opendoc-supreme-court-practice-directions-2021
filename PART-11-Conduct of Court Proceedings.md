@@ -1,55 +1,48 @@
 # Part XI: Conduct of Court Proceedings 
 
 <ul type="*">
-	<li>81. Application of this Part</li>
-	<li>82. Requests for further arguments before the Judge or Registrar</li>
-	<li>83. Civil appeals before the General Division from the State Courts</li>
-	<ul>
-		<li>Appeals under Order 55D of the Rules of Court</li>
-		<li>Appeals from the Family Court</li>
-		<li>Appeals from the Employment Claims Tribunal</li>
-	</ul>
-	<li>84. Civil appeals before the General Division from tribunal or person under Order 55 of the Rules of Court</li>
-	<li>84A. Whether an appeal to the Appellate Division is to be heard by 2 or 3 Judges</li>
-	<li>85. Whether an appeal to the Court of Appeal is to be heard by a 2 or 3 Judge Court of Appeal</li>
-	<li>85A. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges</li>
-	<li>85B. Leave of the Court of Appeal or the Appellate Division to receive further affidavits in relation to an application to strike out a notice of appeal</li>
-	<li>86. Quantum of security to be provided under Order 57, Rule 3(3) of the Rules of Court as in force immediately before 2 January 2021</li>
-	<li>86A. Appeals Information Sheet for civil appeals to the Court of Appeal and civil appeals to the Appellate Division</li>
-	<li>87. Filing of records of appeal, core bundles and written Cases for civil appeals under Order 56A, Rules 8 and 9 and Order 57, Rules 9 and 9A of the Rules of Court</li>
-	<li>87A. Request for leave to exceed page limit for Appellant’s Case, Respondent’s Case and Appellant’s Reply for civil appeals to the Court of Appeal and civil appeals to the Appellate Division</li>
-	<li>87B. Requests for waiver or deferment of appeal court fees</li>
-	<li>88. Hard copies and soft copies for hearing of civil appeals before the Court of Appeal and civil appeals before the Appellate Division</li>
-	<li>89. Preparation of appeal records in civil appeals to the Court of Appeal and civil appeals to the Appellate Division</li>
-	<ul>
-		<li>Arrangement</li>
-		<li>Pagination in soft copy</li>
-		<li>Table of contents</li>
-		<li>Spacing</li>
-		<li>Core bundles – Order 56A, Rule 8(3) and Order 57, Rule 9(2A)</li>
-		<li>Responsibility for good order and completeness of appeal records</li>
-		<li>Superﬂuous, irrelevant or duplicative documents</li>
-	</ul>
-	<li>89A. Bundle of documents ﬁled with leave of the Court of Appeal or the Appellate Division</li>
-	<li>89B. Inclusion in appeal bundles of documents ordered to be sealed or redacted</li>
-	<li>90. Skeletal arguments for appeals and matters before the General Division, Appellate Division, Court of Appeal and Court of 3 Judges</li>
-	<ul>
-		<li>Skeletal arguments for civil matters before the Court of Appeal and civil matters before the Appellate Division</li>
-		<li>Further skeletal arguments for civil and criminal matters before the Court of Appeal and civil matters before the Appellate Division</li>
-		<li>Timelines for submission of skeletal arguments for appeal before the General Division</li>
-		<li>Application of this paragraph to Court of 3 Judges</li>
-	</ul>
-	<li>90A. Applications in civil matters before the Court of Appeal and civil matters before the Appellate Division</li>
-	<li>90B. Applications to the Court of Appeal, and applications to the Appellate Division, for leave to appeal in civil matters</li>
-	<li>91. Use of presentation slides for all proceedings before the General Division, Appellate Division, Court of Appeal and Court of 3 Judges</li>
-	<ul>
-		<li>Typeface</li>
-		<li>Colours</li>
-		<li>Animation and sounds</li>
-		<li>Corporate logos</li>
-	</ul>
-	<li>92. Further arguments before the Court of Appeal and the Appellate Division</li>
-	<li>92A. Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act and the Legal Aid and Advice Regulations</li>
+	<li>85. Urgent applications outside of the Court’s office hours</li>
+	<li>86. Duty Registrar</li> 
+	<li>87. Request for urgent hearing before Judge</li>
+	<li>88. Attendance of solicitors in Court and mentioning on behalf of other solicitors</li> 
+	<li>89. Absence from Court on medical grounds</li> 
+	<li>90. Attendance at hearings in chambers</li> 
+	<li>91. The Central Display Management System</li> 
+	<li>92. Precedence and preaudience of Senior Counsel</li> 
+	<li>93. Court dress</li>
+	<li>94. Forms of address</li> 
+	<li>95. Citation of Case Numbers</li> 
+	<li>96. Submissions and examination by leading and assisting counsel</li>
+	<li>97. Use of electronic and other devices</li>
+	<li>98. Publication of and reports and comments on Court cases</li> 
+	<li>99. Lead counsel’s statement on trial proceedings</li> 
+	<li>100. Late filing fees</li> 
+	<li>101. Filing of documents and authorities for use in Court generally</li>
+		<ul>
+			<li>Time for filing of documents</li> 
+			<li>General requirements as regards documents filed for use in Court</li> 
+			<li>Bundle of authorities</li>
+		</ul>
+	<li>102. Documents for use in trials of originating claims in open court</li>
+		<ul>
+			<li>Time for filing of documents under Order 9, Rule 25(9) of the Rules of Court 2021</li> 
+			<li>Mode of filing documents</li> 
+			<li>Bundles of documents</li> 
+			<li>Core bundle of documents</li>
+			<li>Opening statements</li>
+			<li>Bundle of authorities</li>
+		</ul>
+	<li>103. Bundles of authorities for other open court hearings</li> 
+	<li>104. Hearings in chambers</li> 
+	<li>105. Written submissions and bundles of authorities for special date hearings and hearings of originating applications</li>
+	<li>106. Citation of judgments</li>
+		<ul>
+			<li>Use of judgments as authorities in submissions</li> 
+			<li>Use of judgments from foreign jurisdictions</li>
+			<li>Citation practice</li>
+			<li>The neutral citation system for local judgments</li>
+			<li>Ancillary Provisions</li>
+		</ul>
 </ul>
 
 
