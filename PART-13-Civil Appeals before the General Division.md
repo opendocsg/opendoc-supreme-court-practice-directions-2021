@@ -1,4 +1,4 @@
-# Part XIII: Electronic Filing and Service
+# Part XIII: Civil Appeals before the General Division
 
 <ul type="*">
 	<li>100. Application</li>
