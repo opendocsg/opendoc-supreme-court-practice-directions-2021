@@ -1,4 +1,4 @@
-# Part VI: Evidence - Witnesses, Affidavits and Exhibits
+# Part VI: Amicable Resolution of Disputes for Civil Cases 
 
 <ul type="*">
 	<li>56. Witnesses</li>
