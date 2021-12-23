@@ -1,30 +1,8 @@
 # Part VI: Amicable Resolution of Disputes for Civil Cases 
 
 <ul type="*">
-	<li>56. Witnesses</li>
-	<ul>
-		<li>Issuance of subpoenas</li>
-		<li>Release of witness upon completion of evidence</li>
-	</ul>
-    <li>56A. Giving of evidence by person outside Singapore through live video or live television link in any proceedings (other than proceedings in a criminal matter)</li>
-	<li>57. Form of affidavits</li>
-	<li>58. Non-documentary exhibits to affidavits</li>
-	<li>59. Documentary exhibits to affidavits</li>
-	<ul>
-		<li>More than 10 documentary exhibits</li>
-		<li>Pagination</li>
-		<li>Dividing sheets</li>
-		<li>Bookmarks</li>
-		<li>Numbering</li>
-		<li>References to exhibits in other affidavits</li>
-		<li>Related documents</li>
-	</ul>
-    <li>59A. Swearing and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link</li>
-	<li>60. Swearing or affirming of documents by deponents who are blind or illiterate in English</li>
-	<li>61. Effect of non-compliance</li>
-	<li>62. Objections to the contents of affidavits of evidence-in-chief</li>
-	<li>63. Order 41 of the Rules of Court</li>
-	<li>63A. Lead Counsel’s Statement on Trial Proceedings</li>
+	<li>53. Overview of Amicable Resolution of Disputes (ADR) for civil cases</li>
+	<li>54. ADR Offer and Response to ADR Offer</li>
 </ul>
 
 
