@@ -1,4 +1,4 @@
-# Part XI: Appeals and Hearings Before Court of 3 Judges
+# Part XI: Conduct of Court Proceedings 
 
 <ul type="*">
 	<li>81. Application of this Part</li>

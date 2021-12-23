@@ -1,4 +1,4 @@
-# Part X: Enforcement of Judgments and Orders
+# Part X: Evidence – Witnesses, Affidavits and Exhibits
 
 <ul type="*">
 	<li>78. Filing of writs of execution</li>

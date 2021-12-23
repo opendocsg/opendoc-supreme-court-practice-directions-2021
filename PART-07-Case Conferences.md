@@ -1,4 +1,4 @@
-# Part VII: Fixing of Matters for Hearing
+# Part VII: Case Conferences 
 
 <ul type="*">
 	<li>64. Waiting time for the hearing of matters</li>

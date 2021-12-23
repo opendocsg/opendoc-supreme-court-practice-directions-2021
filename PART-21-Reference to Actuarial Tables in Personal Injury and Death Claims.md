@@ -1,4 +1,4 @@
-# Part XXI: Applications Under The Mental Capacity Act
+# Part XXI: Reference to Actuarial Tables in Personal Injury and Death Claims 
 
 <ul type="*">
 	<li>147. Transfer of mental capacity proceedings to District Court</li>

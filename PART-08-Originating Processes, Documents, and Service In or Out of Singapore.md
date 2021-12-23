@@ -1,4 +1,4 @@
-# Part VIII: Documents and Authorities For Use In Court
+# Part VIII: Originating Processes, Documents, and Service In or Out of Singapore 
 
 <ul type="*">
 	<li>69. Filing of documents and authorities for use in Court</li>

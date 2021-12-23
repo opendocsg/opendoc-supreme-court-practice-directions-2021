@@ -1,4 +1,4 @@
-# Part XIV: Electronic Filing and Service for Criminal Proceedings
+# Part XIV: Proceedings before the Appellate Division, the Court of Appeal, the Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act 
 
 <ul type="*">
 	<li>116. Application</li>

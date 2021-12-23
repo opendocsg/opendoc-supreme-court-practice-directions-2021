@@ -1,4 +1,4 @@
-# Part XX: Bankruptcy and Winding Up Matters
+# Part XX: Medical Negligence Claims 
 
 <ul type="*">
 	<li>143. Bankruptcy applications</li>

@@ -1,4 +1,4 @@
-# Part XVII: Adoption and Probate Matters
+# Part XVII: Admiralty Matters 
 
 <ul type="*">
 	<li>131. [deleted] Applications for adoption orders</li>
