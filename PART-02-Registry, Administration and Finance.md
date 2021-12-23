@@ -1,51 +1,49 @@
 # Part II: Registry, Administration and Finance 
 
 <ul type="*">
-	<li>8. Operating hours of the Supreme Court</li>
-	<li>9. Hours for the sittings of the Supreme Court</li>
-	<li>10. Calculation of time</li>
-	<li>11. Urgent applications outside of the Court's office hours</li>
-	<li>12. Duty Registrar</li>
-    <li>12A. Request for urgent hearing before Judge</li>
-	<li>13. Attendance of solicitors in Court and mentioning on behalf of other solicitors</li>
-	<li>13A. Attendance at hearings in Chambers</li>
-	<li>14. Absence from Court on medical grounds</li>
-	<li>15. The Central Display Management System</li>
-	<li>16. Precedence and preaudience of Senior Counsel</li>
-	<li>17. Court dress</li>
-	<li>18. Forms of address</li>
-	<li>19. Submissions and examination by leading and assisting counsel</li>
-	<li>20. Interpreters and translation</li>
-	<li>21. Production of record of hearing</li>
-	<li>22. Use of electronic and other devices</li>
-	<li>23. Certification of transcripts</li>
-	<li>24. Access to case file, inspection, taking copies and searches</li>
+	<li>10. Business of the Registry</li>
+	<li>11. Operating hours of the Supreme Court</li>
+	<li>12. Hours for the sittings of the Supreme Court</li>
+	<li>13. Hearings by video conferencing or telephone conferencing</li>
+	<li>14. Production of record of hearing</li>
+	<li>15. Certification of transcripts</li>
+	<li>16. Interpreters and translation</li>
+	<li>17. Access to case file, inspection, taking copies and searches</li>
 		<ul>
 			<li>Access by parties to a case file</li>
 			<li>File inspection by non-parties or parties who are not registered users</li>
 			<li>Obtaining certified true copies of documents</li>
 			<li>Electronic cause books and registers maintained by the Registry</li>
 		</ul>
-	<li>24A. Personal Data</li>
+	<li>18. Personal Data</li>
 		<ul>
 			<li>Consent to collection, use or disclosure of personal data</li>
 			<li>Access to personal data</li>
 			<li>Correction of personal data</li>
 		</ul>
-	<li>25. Instruments creating power of attorney</li>
-	<li>26. Filing directions to the Accountant-General for payment into and out of Court</li>
-	<li>27. Requests and other Correspondence</li>
-	<li>28. Authorisation for collection of mail and Court documents</li>
-	<li>29. Electronic payment of Court fees</li>
+	<li>19. Documents creating power of attorney</li>
+	<li>20. Filing directions to the Accountant-General for payment in or payment out or furnishing security for costs by depositing monies in the Registry</li>
 		<ul>
-			<li>Implementation of the electronic system for the payment of Court fees</li>
-			<li>Modes of electronic payment</li>
-			<li>Scope of electronic system</li>
+			<li>Direction to Accountant-General for Payment In or Payment Out</li>
+			<li>Furnishing security for costs by depositing monies in the Registry</li>
+			<li>Request for information on balance of monies paid into Court or deposited in the Registry</li>
+		</ul>
+	<li>21. Requests and other Correspondence</li>
+	<li>22. Requesting a hearing date through the Electronic Filing Service</li>
+	<li>23. Fixing of hearing dates</li>
+	<li>24. Adjournment or vacation of trial dates and part-heard cases</li> 
+	<li>25. Adjournment or vacation of hearings other than trials</li>
+	<li>26. Authorisation for collection of Court documents or mail</li>
+	<li>27. Electronic payment of Court fees</li>
+		<ul>
+			<li>Implementation of electronic means for payment of Court fees</li>
+			<li>Modes of payment by electronic means</li>
+			<li>Scope of payment by electronic means</li>
 			<li>Registrar’s discretion</li>
 		</ul>
-	<li>29A. Publication of and reports and comments on Court cases</li>
-	<li>29B. Citation of Case Numbers</li>
-</ul>
+	<li>28. Use of the Video Conference Facilities and the Mobile Infocomm Technology Facilities</li>
+	<li>29. Applications to use the Video Conference Facilities and Usage of Additional Equipment</li>
+	<li>30. Applications to use the Mobile Infocomm Technology Facilities</li>
 
 
 ## 8. Operating hours of the Supreme Court
