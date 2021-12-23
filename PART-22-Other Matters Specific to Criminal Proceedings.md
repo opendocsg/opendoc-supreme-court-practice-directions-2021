@@ -1,4 +1,4 @@
-# Part XXII: Other Matters Specific to Criminal Proceedings 
+# Part XXII: Other Matters Specific to Criminal Proceedings
 
 <ul type="*">
 	<li>153. Application</li>
