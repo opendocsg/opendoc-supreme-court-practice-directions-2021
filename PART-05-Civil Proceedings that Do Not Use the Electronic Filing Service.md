@@ -1,4 +1,4 @@
-# Part V: Discovery and Inspection of Electronically Stored Documents
+# Part V: Civil Proceedings that Do Not Use the Electronic Filing Service 
 
 <ul type="*">
 	<li>44. Introduction</li>
