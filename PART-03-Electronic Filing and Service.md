@@ -1,4 +1,4 @@
-# Part III: Originating Processes and Documents
+# Part III: Electronic Filing and Service 
 
 <ul type="*">
 	<li>30. Originating Summonses </li>
