@@ -1,4 +1,4 @@
-# Part II: General Matters
+# Part II: Registry, Administration and Finance 
 
 <ul type="*">
 	<li>8. Operating hours of the Supreme Court</li>
