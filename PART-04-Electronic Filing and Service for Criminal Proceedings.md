@@ -1,24 +1,7 @@
 # Part IV: Electronic Filing and Service for Criminal Proceedings 
 
 <ul type="*">
-	<li>36. Distribution of applications </li>
-	<li>37. Filing of summonses </li>
-	<ul>
-		<li>All interlocutory applications to be made by summons </li>
-		<li>"<i>Ex parte</i>"" and “<i>by consent</i>” summonses </li>
-	</ul>
-	<li>37A. Filing of Distinct Applications in Separate Summonses </li>
-    <li>37B. Summary Table for Applications for Further and Better Particulars, Discovery, Production of Documents or Interrogatories</li>
-	<li>38. Summonses to be heard in open Court </li>
-	<li>39. Summonses for directions </li>
-	<li>40. Transfer of proceedings to the State Courts </li>
-	<li>41. Ex parte applications for injunctions </li>
-	<li>42. Mareva injunctions and search orders </li>
-	<ul>
-		<li>Applications for search orders </li>
-	</ul>
-	<li>42A. Documents in support of ex parte applications for injunctions (including Mareva injunctions) and search orders </li>
-	<li>43. Applications for discovery or interrogatories against network service providers</li>
+	<li>47. Application</li>
 </ul>
 
 
