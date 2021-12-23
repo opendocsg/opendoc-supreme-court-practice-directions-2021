@@ -1,4 +1,4 @@
-# Part XII: Taxation Matters and Costs
+# Part XII: Judgments and Orders 
 
 <ul type="*">
 	<li>93. Scope of certain paragraphs</li>
