@@ -1,6 +1,6 @@
 # Part I: Introduction
 
-<ul type="*">
+<ol type="*">
 	<li>1. Citation and application</li>
 	<li>2. Definitions</li>
 	<li>3. References to written laws</li>
@@ -14,7 +14,7 @@
 	<li>7. Calculation of time</li>
 	<li>8. Forms</li>
 	<li>9. Registrar’s Circulars</li>
-</ul>
+</ol>
 
 ## 1. Citation and application
 ## 2. Definitions
