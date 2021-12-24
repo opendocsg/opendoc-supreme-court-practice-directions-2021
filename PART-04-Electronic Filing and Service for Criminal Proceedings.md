@@ -156,8 +156,6 @@ When composing the summons electronic form online through the Electronic Filing 
 	<li>(c) Where the nature of the items removed under the order makes this appropriate, the applicant will be required to insure them.</li>
 </ul>
 
-## 42A. Documents in support of *ex parte* applications for injunctions (including *Mareva* injunctions) and search orders
-
 (1) Without prejudice to the requirements stated in Paragraphs 41 and 42 of these Practice Directions, in order to assist the Court hearing *ex parte* applications for injunctions (including *Mareva* injunctions) and search orders, an applicant must include in the affidavit prepared in support of the application the following information under clearly defined headings:
 
 <ul type="*">
@@ -173,8 +171,6 @@ When composing the summons electronic form online through the Electronic Filing 
 (2) An applicant must prepare skeletal submissions on the points to be raised at the hearing of the *ex parte* application. At the hearing, the applicant shall give a copy of the skeletal submissions to the Court and to any opponent present. As soon as possible after the hearing, the applicant shall file the skeletal submissions in Court.
 
 (3) The Court may also require the applicant to prepare a note of the hearing setting out the salient points and arguments canvassed before the Court and may order such a note to be served together with the court documents on any opponent who is not present at the hearing or within a reasonable time after the service of the court documents.
-
-## 43. Applications for discovery or interrogatories against network service providers
 
 (1) This paragraph applies to applications made under Order 24, Rule 6(1) or Order 26A, Rule 1(1) of the Rules of Court:
 
