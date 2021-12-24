@@ -13,7 +13,9 @@
 		</ul>
 </ul>
 
-## 138. Transfer of Matrimonial, Divorce and Guardianship of Infants Proceedings
+## 156. Applications for admission as an advocate and solicitor of the Supreme Court
+## 157. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act
+## 158. Electronic applications for practising certificate 
 
 (1) The Honourable the Chief Justice has made the following orders under section 28A of the Supreme Court of Judicature Act (Cap. 322):
 
@@ -43,8 +45,6 @@
 
 (8) Pursuant to the Family Justice Act 2014 (Act No. 27 of 2014), with eﬀect from 1 October 2014, family proceedings shall be heard and determined by the Family Justice Courts. Notwithstanding this, any family proceedings commenced in or transferred to the High Court before 1 October 2014 shall, on and after that date, be continued in and dealt with by the High Court before 2 January 2021 or the General Division on or after 2 January 2021.
 
-## 139. Transfer of Section 17A(2) Supreme Court of Judicature Act Proceedings
-
 (1) In relation to proceedings which may be heard and determined by the High Court before 2 January 2021 or the General Division on or after 2 January 2021 pursuant to section 17A(2) of the Supreme Court of Judicature Act (referred to in this Part as “section 17A(2) proceedings”), the Honourable the Chief Justice has made the following orders under section 28A of the Supreme Court of Judicature Act:
 
 <ul type="*">
@@ -67,8 +67,6 @@
 
 (8) Pursuant to the Family Justice Act 2014, with eﬀect from 1 October 2014, section 17A(2) proceedings shall be heard and determined by the Family Justice Courts. Notwithstanding this, any section 17A(2) proceedings commenced in or transferred to the High Court before 1 October 2014 shall, on and after that date, be continued in and dealt with by the High Court before 2 January 2021 or the General Division on or after 2 January 2021.
 
-## 140. Documents to be filed at the Legal Registry of the Supreme Court
-
 (1) All documents relating to family proceedings and section 17A(2) proceedings which are to be heard and determined by the High Court before 2 January 2021, or the General Division on or after 2 January 2021, shall be ﬁled at the Legal Registry of the Supreme Court. These include:
 
 <ul type="*">
@@ -88,8 +86,6 @@
 (1) The format of all orders made in applications taken out in proceedings by way of writ of summons under Part X of the Women’s Charter (Cap. 353) on or after 1 April 2006 shall comply with Form 32 of Appendix A of the Family Justice Courts Practice Directions. Orders made in proceedings commenced by way of petition under Part X of the Women’s Charter shall comply with Form 24 of the Women’s Charter (Matrimonial Proceedings) Rules 2003 (S 167/2003).
 
 (2) Paragraphs 41 and 42 shall be applicable to an application for a Mareva injunction and a search order. The orders of Court for such applications shall contain the text set out in Forms 6, 7 and 8 of Appendix A of these Practice Directions.
-
-## 142. Appeals on ancillary matters in Divorce Proceedings, Custody Matters or Section 17A(2) Supreme Court of Judicature Act Proceedings filed before 1 October 2014
 
 (1) Appeals against ﬁnal orders made by the District Judge in chambers on ancillary matters in divorce proceedings under the Women’s Charter (Cap. 353), custody proceedings under the Guardianship of Infants Act (Cap. 122), or section 17A(2) proceedings, which are ﬁled before 1 October 2014, shall be heard and determined by the High Court before 2 January 2021 or the General Division on or after 2 January 2021, and are governed by Order 55C of the Rules of Court. In practice, the District Judges furnish grounds of decision within 8 weeks of the ﬁling of the notice of appeal although the furnishing of grounds of decision is not a requirement under the Rules of Court.
 
