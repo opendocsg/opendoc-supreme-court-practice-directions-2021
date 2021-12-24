@@ -1,18 +1,10 @@
 # Part XXII: Other Matters Specific to Criminal Proceedings
 
 <ul type="*">
-	<li>153. Application</li>
-	<li>154. Information to be provided in cause papers and documents that are filed in the Legal Registry of the Supreme Court</li>
-	<li>155. Form of affidavits</li>
-	<ul>
-		<li>Binding of affidavits</li>
-	</ul>
-	<li>156. Documentary exhibits to affidavits</li>
-	<ul>
-		<li>Dividing sheets</li>
-		<li>More than 10 documentary exhibits</li>
-	</ul>
-	<li>157. File inspection and obtaining hard copy extracts or certified true copies of documents</li>
+	<li>165. Judge Case Conference Checklist for criminal trials in the General Division</li>
+	<li>166. Affidavit in support of an application for permission under section 394H of the Criminal Procedure Code</li>
+	<li>167. Written submissions for criminal appeals and other criminal matters before the Court of Appeal and the General Division</li> 
+	<li>168. Further written submissions for criminal matters before the Court of Appeal</li> 
 </ul>
 
 ## 153. Application
