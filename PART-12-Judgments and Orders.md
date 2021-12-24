@@ -14,11 +14,12 @@
 	<li>110. Judgments or orders by consent or on agreed terms involving disposition or transfer of property</li>
 </ul>
 
-## 93. Scope of certain paragraphs
+## 107. Draft orders 
+## 108. Judgment in default 
+## 109. Judgment Interest 
+## 110. Judgments or orders by consent or on agreed terms involving disposition or transfer of property 
 
 Paragraphs 94 and 96 apply to all taxations save where the entitlement to costs arose prior to 1 February 1992, in which case the bill should be drawn up in accordance with the provisions of Order 59 of the Rules of Court in force immediately prior to 1 February 1992 and, in accordance with the practice immediately prior to that date. For the avoidance of doubt, the directions contained in this part, save for paragraph 98, do not apply to taxations governed by the Bankruptcy (Costs) Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020. 
-
-## 94.  Form of bill of costs
 
 The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 59 of the Rules of Court. In addition, solicitors are to abide by the following requirements:
 
@@ -125,8 +126,6 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 	<li>(f) The total amount of GST allowed on a bill of costs will be indicated as a separate item in the Registrar’s certificate. Solicitors are responsible for ensuring that the GST figures accurately reflect the sums allowed by the Registrar.</li>
 </ul>
 
-## 95.  Electronic filing of bills of costs for taxation
-
 (1) Each bill of costs submitted to the Court through the Electronic Filing Service must:
 
 <ul type="*">
@@ -141,21 +140,15 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 
 (4) For the avoidance of doubt, the Registrar’s certificate of costs shall be filed as a Portable Document Format (PDF) document for bills of costs filed before 1 January 2013. For all other cases, the Registrar’s certificate of costs shall be composed online through the Electronic Filing Service.
 
-## 96.  Objections
-
 (1) Any objections in principle or as to quantum of the items claimed in a bill of costs must be indicated by the filing and service of a Notice of Dispute in Form 19 of Appendix A of these Practice Directions at least 7 days before the date fixed by the Registrar for the taxation of the bill of costs.
 
 (2) The Notice of Dispute shall be filed through the Electronic Filing Service in Portable Document Format (PDF) and be accompanied by a Notice of Dispute summary, the electronic form of which will be composed online through the Electronic Filing Service. The information required by the Electronic Filing Service to compose the Notice of Dispute summary includes the amounts of costs to be awarded under Sections 1, 2 and 3 of the bill of costs according to the respondent. 
-
-## 97.  Amount allowed as disbursements on account of use of Electronic Filing Service
 
 (1) If a document is filed using the Electronic Filing Service, $0.40 for each page of the document thus filed shall be allowed as costs between parties to proceedings. Such costs may be claimed by a receiving party from the paying party where the receiving party is entitled to costs for the filing of the document. These costs shall be allowed in addition to all other disbursements and Court fees. 
 
 (2) This paragraph shall apply to the taxation of costs as well as cases where the Court fixes a gross sum in lieu of taxation.
 
 (3) This paragraph shall not apply to any document filed through the service bureau.
-
-## 98.  Taxations involving the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid
 
 (1) The directions contained in this paragraph shall be followed in respect of all taxations in which the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid is involved. 
 
@@ -194,8 +187,6 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 
 (2) Counsel should note that the Court may fix costs where costs have been ordered to be in the cause, or on hearing applications for dismissal or striking out pursuant to an unless order, and be prepared to make submissions accordingly.
 
-## 99A. Costs Scheduling
-
 (1) The directions contained in this paragraph shall apply to:
 
 <ul type="*">
@@ -203,15 +194,11 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 	<li>(b) originating summonses involving cross-examination of any deponent.</li>
 </ul>
 
-
-
 (2) Each party to the proceedings described in sub-paragraph (1) shall be required to file a costs schedule using Form 18A in Appendix A of these Practice Directions. The costs schedule should set out with sufficient particularity the quantum of party-and-party costs and disbursements that the party intends to claim in the event that the party succeeds. A specimen form illustrating the use of Form 18A can be found in Appendix F of these Practice Directions. 
 
 (3) The relevant costs schedule will be taken into account for the purposes of assessing the quantum of costs to be awarded for the proceedings.
 
 (4) The costs schedule for the proceedings described in sub-paragraphs (1)(a) and (b) shall be filed together with the parties’ written closing submissions or, where there are no written closing submissions, before the parties’ oral closing submissions are presented.
-
-## 99B. Costs Guidelines
 
 (1) Solicitors making submissions on party-and-party costs (whether at taxation hearings or otherwise) or preparing their costs schedules pursuant to paragraph 99A of these Practice Directions may have regard to the costs guidelines set out in Appendix G of these Practice Directions (the “Costs Guidelines”).
 
