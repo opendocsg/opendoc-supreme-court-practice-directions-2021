@@ -1,25 +1,7 @@
 # Part XXI: Reference to Actuarial Tables in Personal Injury and Death Claims 
 
 <ul type="*">
-	<li>147. Transfer of mental capacity proceedings to District Court</li>
-	<li>148. Documents to be filed at the Legal Registry of the Supreme Court at the Supreme Court Building</li>
-	<li>149. Doctor's affidavit exhibiting medical report</li>
-	<ul>
-		<li>Affidavit by doctor required</li>
-		<li>The medical report</li>
-	</ul>
-	<li>150. Notification</li>
-	<ul>
-		<li>Dispensing with notification</li>
-	</ul>
-	<li>151. Application subsequent to the appointment of deputy</li>
-	<li>152. Where P ceases to lack capacity or dies</li>
-	<ul>
-		<li>Application to end proceedings</li>
-		<li>Applications where proceedings have concluded</li>
-		<li>Procedure to be followed when P dies</li>
-		<li>Discharge of security</li>
-	</ul>
+	<li>164. Reference to Actuarial Tables for the Assessment of Damages in Personal Injury and Death Claims</li>
 </ul>
 
 ## 147. Transfer of mental capacity proceedings to District Court
