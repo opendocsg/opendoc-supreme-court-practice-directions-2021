@@ -1,22 +1,17 @@
 # Part XII: Judgments and Orders 
 
 <ul type="*">
-	<li>93. Scope of certain paragraphs</li>
-	<li>94. Form of bill of costs</li>
-	<ul>
-		<li>Margin</li>
-		<li>Pagination</li>
-		<li>Format</li>
-		<li>Particulars</li>
-		<li>Goods and services tax</li>
-	</ul>
-	<li>95. Electronic filing of bills of costs for taxation</li>
-	<li>96. Objections</li>
-	<li>97. Amount allowed as disbursements on account of use of electronic transmission</li>
-	<li>98. Taxations involving the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid</li>
-	<li>99. Fixing costs in lieu of ordering taxation</li>
-	<li>99A. Costs Scheduling</li>
-	<li>99B. Costs Guidelines</li>
+	<li>107. Draft orders</li>
+	<li>108. Judgment in default</li>
+	<li>109. Judgment Interest</li>
+		<ul>
+			<li>Interest rates in judgments in default under Order 6, Rule 6(5), 7(7) or 9(3) of the Rules of Court 2021</li>
+			<li>Pre-judgment non-contractual interest</li>
+			<li>Pre-judgment contractual interest</li>
+			<li>Post-judgment interest</li>
+			<li>Interest under an order of court made under Order 13, Rule 9(3) of the Rules of Court 2021</li>
+		</ul>
+	<li>110. Judgments or orders by consent or on agreed terms involving disposition or transfer of property</li>
 </ul>
 
 ## 93. Scope of certain paragraphs
