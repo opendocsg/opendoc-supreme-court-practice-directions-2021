@@ -19,7 +19,22 @@
 	<li>46. Responsibility for accuracy and completeness of information submitted using the Electronic Filing Service</li>
 </ul>
 
-## 30. Originating Summonses
+## 31. Application 
+## 32. Establishment of Electronic Filing Service and appointment of electronic service provider 
+## 33. Appointment of agent to establish service bureau 
+## 34. Registered users and authorised users 
+## 35. Documents which must be filed, served, delivered or otherwise conveyed using the Electronic Filing Service
+## 36. Certificate of Service 
+## 37. Form of documents
+## 38. Pagination of documents 
+## 39. Filing documents through service bureau 
+## 40. Filing of documents to the Supreme Court through a State Courts service bureau 
+## 41. Limits on the size and number of documents submitted using the Electronic Filing Service
+## 42. Documents which cannot be converted into an electronic format 
+## 43. Rejection of documents, back-dating and refund of penalty 
+## 44. Documents used for urgent hearing 
+## 45. Hard copies of documents 
+## 46. Responsibility for accuracy and completeness of information submitted using the Electronic Filing Service
 
 (1) This paragraph applies to originating summonses filed on or after 1 January 2006.
 
@@ -45,8 +60,6 @@
     <li>(c) applications to wind up a limited liability partnership (Rule 5 of the Limited Liability Partnerships (Winding Up) Rules); and</li>
     <li>(d) applications to wind up a variable capital company or a sub-fund (Rule 6(1)(a) of the Variable Capital Companies (Winding Up) Rules 2020). </li>
 </ul>
-
-
 
 (8) In addition to any provisions in the Rules of Court or other written law, and subject to any further directions made by the Court, the Registrar hereby directs that the following applications made by originating summonses shall be heard in open Court:
 
@@ -147,8 +160,6 @@
 
 (10) Any document which does not comply with this paragraph may be rejected for filing by the Legal Registry of the Supreme Court.
 
-## 32. Personal service of processes and documents
-
 (1) The attention of solicitors is drawn to Order 62, Rule 2(1) of the Rules of Court, which provides:
 <ul type="*">
 	<li>“Personal service must be effected by a process server of the Supreme Court or by a solicitor or a <i>solicitor’s clerk whose name and particulars have been notified to the Registrar for this purpose</i>:</li>
@@ -165,8 +176,6 @@
 
 (6) Under no circumstances should any payment be made directly to the process server.
 
-## 33. Substituted service
-
 (1) In any application for substituted service, the applicant should persuade the Court that the proposed mode of substituted service will probably be effectual in bringing the document in question to the notice of the person to be served.
 
 (2) Two reasonable attempts at personal service should be made before an application for an order for substituted service is filed. In an application for substituted service, the applicant shall demonstrate by way of affidavit why he or she believes that the attempts at service made were reasonable.
@@ -181,8 +190,6 @@
 
 (7) An application for substituted service by advertisement (in one issue of the Straits Times if the person to be served is literate in English, or one issue of the Straits Times and one issue of one of the main non-English language newspapers where his language literacy is unknown) should only be considered as a last resort and should contain evidence that the person to be served is literate in the language of the newspaper in which the advertisement will be placed.
 
-## 34. Endorsements on originating processes and other documents
-
 (1) Where it is necessary to include endorsements on any document, the directions in this paragraph shall apply.
 
 (2) Endorsements are normally made on originating processes and other documents to show renewal, amendments and authorisation for service of the document in question. Such endorsements on originating processes and 
@@ -196,8 +203,6 @@ as electronic forms composed online:
 	<li>(b) Where endorsements can be made prior to the filing or issuance of a document, those endorsements shall be incorporated into the document before the document is filed or issued.</li>
 	<li>(c) Where endorsements must be made on a document which has already been filed or issued, a fresh copy of the document containing the relevant endorsements shall be prepared, and the document must be re-filed or re-issued, as the case may be. An example of this would be renewals of writs of summons.</li>
 </ul>
-
-## 35. Amendment of documents
 
 Application
 
@@ -265,8 +270,6 @@ Writ of Summons (Amendment No 1, pursuant to O 20, r 3)
 ```
 
 (11) The date of the electronic form shall reflect the date on which the document is amended.
-
-## 35A. Pleadings
 
 (1) The attention of advocates and solicitors is drawn to the pleading requirements laid down by the Court of Appeal in the case of *Sembcorp Marine Ltd v PPL Holdings Pte Ltd and anor* \[2013\] SGCA 43 for disputes involving a contextual approach to the construction of a contract.
 
