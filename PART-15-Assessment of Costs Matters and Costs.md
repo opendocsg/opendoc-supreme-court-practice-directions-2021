@@ -20,7 +20,15 @@
 </ul>
 
 
-## 120. Use of the Video Conference Facilities and the Mobile Infocomm Technology Facilities
+## 130. Scope of certain paragraphs 
+## 131. Form of bill of costs
+## 132. Electronic filing of bills of costs for assessment 
+## 133. Objections 
+## 134. Amount allowed as disbursements on account of use of Electronic Filing Service
+## 135. Assessments involving the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid
+## 136. Fixing costs instead of ordering assessment 
+## 137. Costs Scheduling 
+## 138. Costs Guidelines 
 
 (1) The video conference facilities and the Mobile Infocomm Technology Facilities ("MIT facilities") may, at the discretion of the Registrar, be used:
 
@@ -30,8 +38,6 @@
 </ul>
 
 (2) The Registrar may refuse any request for the use of any of the services described in this Part at any time owing to the unavailability of staff or equipment or for any other reason.  The Registrar need not give any reasons for the refusal of such a request.
-
-## 121. Applications to use the Video Conference Facilities and Usage of Additional Equipment
 
 (1) A request to use the video conference facilities for the hearing of any matter before a Judge or Registrar must be made by filing a Request through the Electronic Filing Service at least 14 working days before the hearing at which those facilities are to be used and Form 21 of Appendix A of these Practice Directions in Portable Document Format (PDF) must be annexed to the Request electronic form.
 
@@ -49,8 +55,6 @@
 	<li>(c) as a matter of general practice, the remote site will connect to the number and it is the responsibility of the party requesting the video conference to coordinate the booking and calling in from the remote site.</li>
 </ul>
 (6) Any person who desires to use audio-visual and computer equipment additional to those provided in a Courtroom will be asked to provide details of such equipment. The applicant must also be prepared to have the equipment available for testing with the audio-visual system of the Courtroom at least 3 working days before the first day fixed for the hearing. It is the responsibility of the applicant to provide equipment that is compatible with the audio-visual system of the Courtroom.
-
-## 122. Applications to use the Mobile Infocomm Technology Facilities
 
 (1) A request to use the MIT facilities for the hearing of any matter in open Court or in Chambers before a Judge or Registrar must be made by filing a Request through the Electronic Filing Service at least 14 working days before the hearing at which the MIT facilities are to be used and Form 21 of Appendix A of these Practice Directions in Portable Document Format (PDF) must be annexed to the Request electronic form.
 
