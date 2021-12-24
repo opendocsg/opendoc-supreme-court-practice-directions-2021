@@ -30,7 +30,7 @@
 	<li>123. Inclusion in appeal bundles of documents ordered to be sealed or redacted</li>
 		<ul>
 			<li>Inclusion of redacted documents in appeal bundles</li>
-			<li>Inclusion of sealed documents in appeal bundles</li>\
+			<li>Inclusion of sealed documents in appeal bundles</li>
 		</ul>
 	<li>124. Further written submissions for civil matters before the Appellate Division and the Court of Appeal</li>
 	<li>125. Applications in civil matters before the Appellate Division and the Court of Appeal, proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act</li>
