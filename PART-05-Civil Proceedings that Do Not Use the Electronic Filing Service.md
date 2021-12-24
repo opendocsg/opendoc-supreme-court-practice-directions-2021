@@ -13,7 +13,7 @@
 	<li>52. File inspection and obtaining hard copy extracts or certified true copies of documents</li>
 </ul>
 
-## 44. Introduction
+## 47. Application
 
 (1) This Part provides a framework for proportionate and economical discovery, inspection and supply of electronic copies of electronically stored documents. This Part or any portion thereof applies (a) by mutual agreement of all the parties in the cause or matter or (b) when the Court so orders, either on its own motion or on application by a party. A party that seeks to rely on this Part must cite the relevant paragraph(s) in any request or application made hereunder. 
 
