@@ -1,22 +1,16 @@
 # Part XIII: Civil Appeals before the General Division
 
 <ul type="*">
-	<li>100. Application</li>
-	<li>101. Establishment of Electronic Filing Service and appointment of network service provider</li>
-	<li>102. Appointment of agent to establish service bureau</li>
-	<li>103. Registered users and authorised users</li>
-	<li>104. Documents which must be filed, served, delivered or otherwise conveyed using the Electronic Filing Service</li>
-	<li>105. Certificate of Service</li>
-	<li>106. Form of documents</li>
-	<li>107. Pagination of documents</li>
-	<li>108. Filing documents through service bureau</li>
-	<li>109. Filing of documents to the Supreme Court through a State Courts service bureau</li>
-	<li>110. Limits on the size and number of documents submitted using the Electronic Filing Service</li>
-	<li>111. Documents which cannot be converted into an electronic format</li>
-	<li>112. Rejection of documents, back-dating and refund of penalty</li>
-	<li>113. Urgent hearing</li>
-	<li>114. Hard copies of documents</li>
-	<li>115. Responsibility for accuracy and completeness of information submitted using the Electronic Filing Service</li>
+	<li>111. Application of this Part</li>
+	<li>112. Request for further arguments before Judge</li>
+	<li>113. Civil Appeals from the State Courts to General Division</li>
+		<ul>
+			<li>Appeals from District Judge and Magistrate to General Division under Order 18, Rule 17 of the Rules of Court 2021</li>
+			<li>Appeals from District Court and Magistrate’s Court to General Division under Order 19, Rule 14 of the Rules of Court 2021</li> 
+			<li>Appeals from the Employment Claims Tribunal</li>
+		</ul>
+	<li>114. Civil Appeals from Registrar to Judge in chambers</li> 
+	<li>115. Civil Appeals from Tribunals to General Division</li> 
 </ul>
 
 ## 100.  Application
