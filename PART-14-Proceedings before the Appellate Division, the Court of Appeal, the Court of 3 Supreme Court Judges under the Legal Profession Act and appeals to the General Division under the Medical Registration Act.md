@@ -46,7 +46,20 @@
 	<li>129. Request for waiver or deferment of Court fees</li>
 </ul>
 
-## 116. Application
+## 116. Application of this Part 
+## 117. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges 
+## 118. Appeals Information Sheet for civil appeals to the Appellate Division and the Court of Appeal 
+## 119. Page limits 
+## 120. Formatting requirements for written Cases and written submissions
+## 121. Preparation of records of appeal, written Cases, written submissions and core bundles 
+## 122. Filing of appeal records and provision of hard and soft copies of documents 
+## 123. Inclusion in appeal bundles of documents ordered to be sealed or redacted 
+## 124. Further written submissions for civil matters before the Appellate Division and the Court of Appeal
+## 125. Applications in civil matters before the Appellate Division and the Court of Appeal, proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act 
+## 126. Applications to the Appellate Division, and applications to the Court of Appeal, for permission to appeal in civil matters 
+## 127. Use of presentation slides for all proceedings before the Appellate Division, Court of Appeal and Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act 
+## 128. Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act and the Legal Aid and Advice Regulations 
+## 129. Request for waiver or deferment of Court fees 
 
 (1) The directions contained in this Part shall apply to the ﬁling, service, delivery and conveyance of documents in criminal proceedings commenced in the High Court on or after 10 January 2005 but before 2 January 2021 or in the General Division on or after 2 January 2021, and criminal proceedings commenced in the Court of Appeal on or after 10 January 2005.
 

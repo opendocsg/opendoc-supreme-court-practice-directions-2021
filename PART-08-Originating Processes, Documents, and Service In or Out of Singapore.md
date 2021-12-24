@@ -34,7 +34,15 @@
 	<li>65. Substituted service</li>
 </ul>
 
-## 69. Filing of documents and authorities for use in Court
+## 57. Originating Applications 
+## 58. Identification numbers to be stated in cause papers 
+## 59. Endorsements on originating processes and other documents 
+## 60. Amendment of documents 
+## 61. Pleadings 
+## 62. Personal service of processes and documents 
+## 63. Application for service out of Singapore of originating process or other court document 
+## 64. Court’s power to dismiss an action if no reasonable steps taken to serve originating process expeditiously 
+## 65. Substituted service
 
 (1) Subject to any directions in these Practice Directions to the contrary, in particular paragraphs 71(3) and 104, all documents for use at any hearing in Court must be filed using the Electronic Filing Service at least 1 clear day in advance of the hearing. These documents include written submissions, skeletal arguments, bundles of documents, bundles of pleadings, bundles of affidavits, core bundles and all opening statements.
 
@@ -212,21 +220,15 @@ Relevance: Choice of law considerations are relevant even when determining the n
 	<li>(f) Opening statements may be amended at trial, but counsel will be expected to explain the reasons for the amendments.</li>
 </ul>
 
-## 72. Bundles of authorities for other open Court hearings
-
 (1) In all criminal proceedings and civil and criminal appeals heard in open Court in the General Division, counsel shall submit their own bundle of authorities. In this regard, paragraph 71(12) to (13) shall, *mutatis mutandis*, be complied with.
 
 (2) In all criminal proceedings and civil and criminal appeals heard in open Court in the Court of Appeal, all civil appeals heard in open Court in the Appellate Division, as well as all disciplinary proceedings (or appeals therefrom) brought under any statute, including the Legal Profession Act and the Medical Registration Act which are heard by a Court of 3 Judges, counsel shall submit a soft copy of the bundle of authorities in Adobe Portable Document Format (PDF) together with the other documents required to be submitted under paragraph 88(3).
 
 (3) With regard to soft copy bundles of authorities, the requirements set out in paragraphs 69(5), 71(12)(a), 71(12)(b) and 71(13) shall be complied with. The soft copy bundle of authorities shall contain electronic bookmarks to each case therein, bearing the name of each of the cases for easy electronic access. The page numbers of any hard copy bundle of authorities must correspond to the page numbers in the Portable Document Format (PDF) version.
 
-## 73. Hearings in Chambers
-
 (1) In all hearings in Chambers before a Judge or Registrar, counsel shall submit their own bundles of documents (where necessary) and bundles of authorities. Order 34, Rule 3A of the Rules of Court and the requirements of paragraph 71(11) to (13) shall, *mutatis mutandis*, be complied with in this regard, save that the bundles may be submitted at the hearing itself before the Judge or Registrar, as the case may be.
 
 (2) The party using the paper copy of the bundle of authorities should file through Electronic Filing Service a list of authorities to be used at least one clear day in advance of the hearing. In the event that it is not possible for the party to do so, he must explain to the Judge or Registrar conducting the hearing why it was not possible for him to do so and must also undertake to file the list of authorities using Electronic Filing Service by the next working day after the hearing.
-
-## 73A. Written submissions and bundles of authorities for special date hearings
 
 (1) For any contested special date hearing before a Judge sitting in the General Division, each party shall:
 
@@ -246,8 +248,6 @@ Relevance: Choice of law considerations are relevant even when determining the n
 (4) For any special date hearing before a Registrar, any party who wishes to rely on written submissions at the hearing is required to comply with sub-paragraph (1) above.
 
 (5) This paragraph does not apply to any hearings for which specific directions on the filing of written submissions or bundle of authorities are provided for in these Practice Directions.
-
-## 74. Citation of judgments
 
 (1) The Honourable the Chief Justice has directed that counsel who wish to cite a judgment as authority in support of their oral or written submissions shall adhere to the following directions. These directions are intended to provide guidance to advocates and solicitors as to (a) the extent to which it is necessary to deploy both local and foreign judgments in support of their case; and (b) the practice of citing such judgments.
 
@@ -348,8 +348,6 @@ Level of Court         : SGCA (Singapore Court of Appeal)
 Sequential Number   : 5 (fifth written judgment rendered by the Court of Appeal in 2003)
 Paragraph Number(s): Paragraphs 3 and 8 of the judgment
 ```
-
-**Ancillary provisions**
 
 (9) The Court in exercising its discretion as to costs may, where appropriate in the circumstances, take into account the extent to which counsel has complied with this practice direction in the citation of judgments before the Court.
 

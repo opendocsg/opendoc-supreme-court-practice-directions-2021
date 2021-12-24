@@ -5,7 +5,7 @@
 </ul>
 
 
-## 143. Bankruptcy applications
+## 163. Compliance with protocol 
 
 The following arrangements will apply to hearings of bankruptcy matters:
 
@@ -24,8 +24,6 @@ The following arrangements will apply to hearings of bankruptcy matters:
 
 
 (2) *Ex parte* applications for substituted service in bankruptcy proceedings will be dealt with by the Duty Registrar.
-
-## 144. Applications to set aside statutory demands made under the Bankruptcy Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020
 
 (1) Rule 97 of the Bankruptcy Rules and Rule 67 of the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020 allow a debtor to apply to set aside a statutory demand within such of the following periods, after the date on which the statutory demand is served or deemed to be served on the debtor, as may be applicable:
 
@@ -48,11 +46,7 @@ The following arrangements will apply to hearings of bankruptcy matters:
 	<li>the Court will normally set aside the statutory demand if, in its opinion, on the evidence there is a genuine triable issue.</li>
 </ul>
 
-## 145. Judicial Management and Winding Up applications under the Companies Act or the Insolvency, Restructuring and Dissolution Act 2018 
-
 After a winding up application has been filed, the applicant or his solicitor should file the necessary documents using the checklist provided in the Electronic Filing Service. Once the necessary documents under the checklist have been filed, the applicant or his solicitor should generate and file the winding up memorandum before attending before the Duty Registrar in compliance with Rule 32 of the Companies (Winding Up) Rules or Rule 73 of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020. This requirement shall similarly apply to judicial management applications under the Companies Act (Cap. 50) or the Insolvency, Restructuring and Dissolution Act 2018 (Act 40 of 2018).
-
-## 146. Documents for use in open Court trials of contested winding-up applications
 
 (1) This paragraph shall apply to trials of contested winding-up applications in open Court.
 
@@ -75,7 +69,6 @@ After a winding up application has been filed, the applicant or his solicitor sh
 	<li>(d) The requirements set out in paragraph 71(11)(c)-(f) shall, <i>mutatis mutandis</i>, be complied with in respect of proceedings falling within this paragraph.</li>
 	<li>(e) The bundles of documents including the agreed bundle and core bundle, if applicable, shall be filed and served on all relevant parties at least 5 working days before trial.</li>
 </ul>
-
 
 ***Bundles of authorities***
 

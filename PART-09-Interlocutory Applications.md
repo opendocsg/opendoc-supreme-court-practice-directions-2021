@@ -20,7 +20,16 @@
 	<li>75. Giving of security by receiver</li>
 </ul>
 
-## 75. Draft orders
+## 66. Filing of summonses 
+## 67. Filing of Distinct Applications in Separate Summonses 
+## 68. Summary Table for Applications for Further and Better Particulars or Production of Documents 
+## 69. Applications to be heard in open court
+## 70. Transfer of proceedings to the State Courts 
+## 71. Applications without notice for injunctions 
+## 72. Injunctions prohibiting the disposal of assets and search orders 
+## 73. Documents in support of applications without notice for injunctions (including injunctions prohibiting the disposal of assets) and search orders 
+## 74. Applications for production of documents against network service providers 
+## 75. Giving of security by receiver 
 
 (1) Order 42, Rule 8(1) and (2) of the Rules of Court place the burden of approving the drafts of *inter partes* judgments and orders on the solicitors themselves. The solicitors should therefore approve the drafts and not submit these drafts to the Registrar for approval.
 
@@ -51,8 +60,6 @@
 
 (6) Where the other party has no solicitor, the draft shall be submitted to the Registrar.
 
-## 76. Judgment in default of appearance or service of defence
-
 (1) The previous practice of applying for a search for appearance and obtaining a certificate of non-appearance before judgment in default of appearance is entered is discontinued.
 
 (2) The procedure for applying for judgment in default of appearance or service of defence will be by way of filing a Request to enter judgment in Form 79A together with the judgment in Form 79 of Appendix A to the Rules of Court. Solicitors’ attention is drawn to Order 13, Rule 7(1) and Order 19, Rule 8A of the Rules of Court, which state:
@@ -66,8 +73,6 @@
 (4) In order to satisfy itself that a defendant is in default of appearance or service of defence, the Court may require an affidavit to be filed stating the time and manner service of the Writ of Summons was effected on the defendant, as well as the steps taken to ascertain that the defendant had failed to enter an appearance or serve a defence, as the case may be.
 
 (5) For the avoidance of doubt, Requests for entry of default judgment shall be filed as a Portable Document Format (PDF) document for suits where the memorandum of service has been filed before 1 January 2013. For all other cases, the Request for entry of default judgment electronic form shall be composed online through the Electronic Filing Service.
-
-## 77. Judgment Interest
 
 ***Interest rates in default judgments***
 
@@ -133,8 +138,6 @@
 (10) The directions set out in sub-paragraph (11) shall apply to orders made under Order 30, Rule 6(2) for payment of interest on or after 1 April 2007.
 
 (11) Pursuant to the Chief Justice’s directions as provided under Order 30, Rule 6(2), the interest ordered by the Court on the sum shown by the receiver’s account as due from him and which the receiver has failed to pay into Court shall be 5.33% per annum until further notice. Interest shall accrue for the period which the sum was in possession of the receiver.
-
-## 77A. Consent judgments or orders involving disposition or transfer of property
 
 (1) In any request or application for a consent judgment or order involving any disposition or transfer of property, parties must provide the following information to the Court:
 

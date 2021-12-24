@@ -46,17 +46,33 @@
 	<li>30. Applications to use the Mobile Infocomm Technology Facilities</li>
 </ul>
 
-## 8. Operating hours of the Supreme Court
+## 10. Business of the Registry
+## 11. Operating hours of the Supreme Court
+## 12. Hours for the sittings of the Supreme Court
+## 13. Hearings by video conferencing or telephone conferencing
+## 14. Production of record of hearing
+## 15. Certification of transcripts
+## 16. Interpreters and translation
+## 17. Access to case file, inspection, taking copies and searches 
+## 18. Personal Data
+## 19. Documents creating power of attorney
+## 20. Filing directions to the Accountant-General for payment in or payment out or furnishing security for costs by depositing monies in the Registry 
+## 21. Requests and other Correspondence
+## 22. Requesting a hearing date through the Electronic Filing Service
+## 23. Fixing of hearing dates
+## 24. Adjournment or vacation of trial dates and part-heard cases 
+## 25. Adjournment or vacation of hearings other than trials
+## 26. Authorisation for collection of Court documents or mail
+## 27. Electronic payment of Court fees
+## 28. Use of the Video Conference Facilities and the Mobile Infocomm Technology Facilities
+## 29. Applications to use the Video Conference Facilities and Usage of Additional Equipment
+## 30. Applications to use the Mobile Infocomm Technology Facilities
 
 (1) The Supreme Court operates from 8.30 a.m. to 6.00 p.m. from Monday to Friday. However, various offices and counters within the Supreme Court have different operating hours.
 
 (2) The Legal Registry of the Supreme Court (Level 2) is open from 9.00 a.m. to 5.30 p.m. from Monday to Thursday. On Friday, it is open from 9.00 a.m. to 5.00 p.m.
 
-## 9. Hours for the sittings of the Supreme Court
-
 The Honourable the Chief Justice has directed that the General Division, the Appellate Division and the Court of Appeal shall sit from 10.00 a.m. to 1.00 p.m. and from 2.15 p.m. to 5.00 p.m. Registrars shall sit from 9.00 a.m. to 1.00 p.m. and from 2.30 p.m. to 5.00 p.m. This is subject to the presiding Judge’s or Registrar’s discretion to commence or conclude a hearing at an earlier or later time.
-
-## 10. Calculation of time
 
 Unless otherwise stated, the provisions in the Rules of Court shall apply to the calculation of time in these Practice Directions. In particular:
 
@@ -98,8 +114,6 @@ __Extension, etc., of time (O. 3, r. 4)__
 
 (5) Paragraph (3) shall not apply to the period within which any action or matter is required to be set down for trial or hearing or within which any notice of appeal is required to be filed.
 
-## 11. Urgent applications outside of the Court's office hours
-
 (1) When an applicant files an application for any civil matter (including applications for interim injunctions or interim preservation of subject matter of proceedings, evidence and assets to satisfy judgments) or criminal matter, and the application is so urgent that it has to be attended to outside of the hours specified in paragraph 12(2) of these Practice Directions, the applicant’s counsel must contact the Registrar on duty at 6332 4351 or 6332 4352.
 
 (2) When the applicant seeks an urgent hearing for the application, all the papers required for the application must have been prepared, together with the appropriate draft orders of Court. Where the documents (including the originating process) have yet to be filed in Court when counsel seeks the urgent hearing, he must furnish an undertaking to the Registrar processing the application to have these documents filed in Court by such time as the Registrar may direct and, in any event, no later than the next working day. 
@@ -109,8 +123,6 @@ __Extension, etc., of time (O. 3, r. 4)__
 (4) The Registrar will only arrange for the matter to be heard outside of office hours if it is so urgent that it cannot be heard the next working day. The hearing may take place in the Registrar’s Chambers in the Supreme Court or at any place as directed by the Judge or Registrar hearing the matter.
 
 (5) If the application is of sufficient urgency, the Registrar may also direct counsel to send the application and supporting documents by email. The Judge or Registrar has the discretion to decide whether to deal with the application by email or to hear counsel personally.
-
-## 12. Duty Registrar
 
 (1) The duties of the Duty Registrar are to:
 
@@ -144,7 +156,6 @@ __Extension, etc., of time (O. 3, r. 4)__
 	<li>(a) file the documents at least one hour before attending before the Duty Registrar, so that the documents would already be in the electronic case file for the Duty Registrar’s reference. Solicitors should as far as possible only attend before the Duty Registrar after they have received notification from the Court that the documents have been accepted; or</li>
 	<li>(b) attend before the Duty Registrar with the paper documents. The Duty Registrar will require the solicitor to give an undertaking to file all the documents by the next working day before dealing with the matter.</li>
 </ul>
-## 12A. Request for urgent hearing before Judge
 
 (1) Before an applicant attends before the Duty Registrar to request an urgent hearing before a Judge of any application for any civil matter, the applicant should complete (as far as possible) and file Form 1A of Appendix A of these Practice Directions. A copy of Form 1A should be served on each respondent to the application at the time of filing, unless the application is an *ex parte* application and service of Form 1A would or might defeat the purpose of the application.
 
@@ -173,8 +184,6 @@ __Extension, etc., of time (O. 3, r. 4)__
     <li>(e) every page must have a margin on all 4 sides, each of at least 35mm in width.</li>
 </ul>
 
-## 13. Attendance of solicitors in Court and mentioning on behalf of other solicitors
-
 (1) Subject to sub-paragraph (2), a solicitor appearing in any cause or matter may mention for counsel for all other parties provided that:
 
 <ul type="*">
@@ -186,13 +195,9 @@ __Extension, etc., of time (O. 3, r. 4)__
 
 (3) Solicitors appearing in any cause or matter should be punctual in attending Court, as delay in the commencement of the hearing leads to wastage of judicial time. Appropriate sanctions may be imposed for solicitors who do not arrive for hearings on time.
 
-## 13A. Attendance at hearings in Chambers
-
 (1) For the avoidance of doubt, the general rule is that hearings in chambers in civil proceedings are private in nature, and that members of the public are not entitled to attend such hearings.
 
 (2) However, subject to any written law, the Court may, in its discretion, permit interested parties, such as instructing solicitors, foreign legal counsel and parties to the matter, to attend hearings in chambers. In exercising its discretion, the Court may consider a broad range of factors including: (a) the interest that the person seeking permission has in the matter before the Court; (b) the interests of the litigants; (c) the reasons for which such permission is sought; and (d) the Court’s interest in preserving and upholding its authority and dignity.
-
-## 14. Absence from Court on medical grounds
 
 (1) If:
 
@@ -247,8 +252,6 @@ is required to attend Court and wishes to absent himself from Court on medical g
 
 (8) This paragraph shall apply to both civil and criminal proceedings.
 
-## 15. The Central Display Management System
-
 (1) The Central Display Management System (CDMS) is used for the following types of hearings:
 
 <ul type="*">
@@ -264,15 +267,11 @@ Solicitors should indicate in the CDMS that they are ready for hearing only when
 
 (4) Senior Counsel will continue to be given the precedence and the right of preaudience according to paragraph 16.
 
-## 16. Precedence and preaudience of Senior Counsel
-
 (1) By virtue of section 31 of the Legal Profession Act (Cap. 161) and existing custom and usage, Senior Counsel are given precedence and the right of preaudience.
 
 (2) In order to give substance to the principle of precedence and preaudience to Senior Counsel, the Honourable the Chief Justice has directed that Senior Counsel who intend to appear before Judges or Registrars for summonses should inform the Registrar in writing not later than 2 clear days before the scheduled hearing date. Senior Counsel should indicate their presence in the Central Display Management System (CDMS), and shall be given precedence and the right of preaudience, subject to the Judge’s or Registrar’s overriding discretion.
 
 (3) All other counsel, including those who appear on behalf of their Senior Counsel, will be heard according to the order in which their matters appear on the CDMS, subject to the Judge’s or Registrar’s overriding discretion.
-
-## 17. Court dress
 
 (1) The attire for male advocates and solicitors appearing in open Court will be the existing gown worn over an ordinary long-sleeved white shirt with a turn-down collar, a tie of a subdued or sober colour, a dark jacket, dark trousers and black or plain coloured shoes.
 
@@ -294,8 +293,6 @@ Solicitors should indicate in the CDMS that they are ready for hearing only when
 	<li>(b) silk and wool mix; or</li>
 	<li>(c) artificial silk.</li>
 </ul>
-
-## 18. Forms of address
 
 The Honourable the Chief Justice has directed that the following forms of address shall apply:
 
@@ -346,8 +343,6 @@ The Honourable the Chief Justice has directed that the following forms of addres
 </tbody>
 </table>
 
-## 19. Submissions and examination by leading and assisting counsel
-
 (1) In the event that a party is represented by more than one counsel at a hearing, whether in open Court or in Chambers, the making of submissions and the questioning of witnesses may be carried out by one counsel for each party only.
 
 (2) If a party would like certain portions of the submissions, or examination, cross-examination or re-examination of witnesses to be conducted by different counsel in the same case, an oral application should be made to Court as early as is practicable and by no later than the commencement of the trial or hearing for leave to do so. The following information should be provided to the Court for the purposes of the application:
@@ -372,9 +367,6 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 </ul>
 
 (7) Unless stated otherwise, this paragraph shall apply to both civil and criminal proceedings. 
-
-
-## 20. Interpreters and translation
 
 (1) The directions set out in sub-paragraphs (2) to (9) below are to be followed in relation to all requests for interpretation services of interpreters from the Supreme Court's Interpreters Section, whether the services are required for hearings in open Court or in Chambers.
 
@@ -406,8 +398,6 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 
 (12) Litigants in person may submit their requests for interpretation services or translation of documents for Supreme Court proceedings using the respective forms available on the website at [http://www.supremecourt.gov.sg.](http://www.supremecourt.gov.sg/)
 
-## 21. Production of record of hearing
-
 (1) Pursuant to Order 38A, Rule 1 of the Rules of Court, the Registrar hereby directs that with effect from 1 August 2005, there shall be audio recording of all open Court trials in actions begun by writs. Such audio recording shall be made using the Digital Transcription System (DTS) only.
 
 (2) Pursuant to Order 38A, Rule 1(1)(b), the Registrar further directs that in proceedings where no audio recording is made, the notes of hearing shall be taken down by the Judge, judicial officer, Justices’ Law Clerk or court officer, whether by hand or through the use of a computer or electronic device.
@@ -427,8 +417,6 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 
 (7) Sub-paragraph (6) shall apply to both civil and criminal proceedings.
 
-## 22. Use of electronic and other devices
-
 (1) In order to maintain the dignity of Court proceedings, the Honourable the Chief Justice has directed that, in all hearings in open Court or Chambers before a Judge or Registrar, video and/or image recording is strictly prohibited.
 
 (2) Additionally, audio recording during a hearing is strictly prohibited without prior approval of the Judge or Registrar hearing the matter.
@@ -442,8 +430,6 @@ provided that such use does not in any way disrupt or trivialise the proceedings
 
 (4) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection) Act 2016 (Act No. 19 of 2016).
 
-## 23.Certification of transcripts
-
 Pursuant to Order 38A, Rule 2 of the Rules of Court, the Registrar hereby directs that transcripts of any record of hearing or notes of hearing may be certified by:
 
 (1) the Judge or judicial officer having conduct of the proceedings;
@@ -451,8 +437,6 @@ Pursuant to Order 38A, Rule 2 of the Rules of Court, the Registrar hereby direct
 (2) with the approval of the Court, the personal secretary to the Judge or judicial officer having conduct of the proceedings; or
 
 (3) with the approval of the Court, the service provider.
-
-## 24. Access to case file, inspection, taking copies and searches
 
 Access by parties to a case file
 
@@ -516,8 +500,6 @@ Obtaining certified true copies of documents
 
 (11) An application may be made by any person for a licence to use any information contained in any electronic cause book or register subject to such terms and conditions as the Registrar may determine. Successful applicants will be required to enter into separate technical services agreements with the Electronic Filing Service provider. Applications under this sub-paragraph must be made in writing, identifying the data fields sought and providing details of how the information will be used.
 
-## 24A. Personal Data
-
 (1) For the purposes of the following paragraphs:
 
 <ul type="*">
@@ -555,8 +537,6 @@ Obtaining certified true copies of documents
 
 (8) Where a correction is made pursuant to a request under sub-paragraph (7), any information that is licensed for use under paragraph 24(11) will be updated accordingly with the corrected personal data.
 
-## 25. Instruments creating power of attorney
-
 (1) To deposit an instrument creating a power of attorney under Order 60, Rule 6 of the Rules of Court, the instrument and other supporting documents, if any, are to be filed, served, delivered or otherwise conveyed to the Court through the Electronic Filing Service or the service bureau. 
 
 (2) The directions set out in sub-paragraph (1) will also apply to a party who wishes to file a document which alters the powers created in an instrument that is filed, served, delivered or otherwise conveyed to the Court on or after 28 May 2002. If the document relates to an instrument that is presented for deposit before 28 May 2002, the document must be filed manually in hard copy form.
@@ -574,15 +554,11 @@ Obtaining certified true copies of documents
 
 (6) A party seeking to file an instrument creating a power of attorney executed before a notary public or under a corporate seal must produce the original instrument to the Legal Registry within one working day after filing the instrument. The application will be processed only after the original instrument is produced. 
 
-## 26. Filing directions to the Accountant-General for payment into and out of Court
-
 (1) Where monies are sought to be paid into Court pursuant to a judgment or order of the Court, a copy of the judgment or order must be referenced in the draft direction to the Accountant-General for payment in and submitted to the Legal Registry of the Supreme Court for approval.
 
 (2) Where monies are sought to be paid out of Court pursuant to a judgment or order of the Court, pursuant to the acceptance of a payment into Court made under Order 22 of the Rules of Court or pursuant to Order 56A, Rule 13 or Order 57, Rule 11, a copy of the judgment or order, or of the notice in Form 32 of Appendix A to the Rules of Court, or of the written consent attached to the draft direction to the Accountant-General for payment out, must be submitted to the Legal Registry for approval.
 
 (3) Each draft direction for payment into or payment out of Court shall contain amounts in a single currency. Where monies in different currencies are to be paid into or out of Court, separate draft directions must be prepared for each currency in which payment is to be made. 
-
-## 27. Requests and other Correspondence
 
 (1) All Requests relating to or in connection with any pending cause or matter are to be made using the electronic forms available through the Electronic Filing Service. Where an electronic form is available through the Electronic Filing Service for the Request that is sought, the Registry has the discretion to refuse acceptance of other forms of written correspondence (including letters) and to refuse to act on such correspondence. 
 
@@ -614,8 +590,6 @@ If a letter is sent to the Court by a law firm in any other way, it is liable to
 
 (7) Registrar’s Directions and Notices from the Registry will be sent to law firms who are registered users of the Electronic Filing Service through the Electronic Filing Service. Registered users are to ensure that the inbox of their Electronic Filing Service account(s) are checked and cleared regularly.
 
-## 28. Authorisation for collection of mail and Court documents
-
 (1) Without prejudice to sub-paragraphs (3) and (4), all law firms are required to notify the Legal Registry of the Supreme Court of the particulars of person(s) authorised to collect Court documents or mail from the Supreme Court on their behalf by submitting a request to authorise user through the Electronic Filing Service. 
 
 (2) Where such authorised persons are no longer so authorised, law firms are required to revoke or delete the authorisation immediately by submitting a request through the Electronic Filing Service. Until receipt of such notification of revocation or deletion, Court documents and mail shall continue to be released to such authorised persons upon production of evidence of identification.
@@ -624,8 +598,6 @@ If a letter is sent to the Court by a law firm in any other way, it is liable to
 
 (4) A law firm may authorise a courier service-provider to collect Court documents or mail from the Supreme Court on their behalf. At the time of collection, the courier service-provider should produce a letter of authorisation which is printed on the law firm’s letterhead and addressed to the courier service-provider. The said letter of authorisation should clearly state the case number, the name of the courier service-provider appointed to collect and the Court documents or mail to be collected. An employee or representative of the courier service-provider collecting the Court documents or mail may be requested to provide evidence that will allow the Supreme Court to verify that he is an employee or representative from the courier service-provider and will have to acknowledge receipt of the Court documents or mail
 collected.
-
-## 29. Electronic payment of Court fees
 
 ***Implementation of the electronic system for the payment of Court fees***
 
@@ -643,8 +615,6 @@ collected.
 
 (4) Unless otherwise approved by the Registrar, payment of Court fees collected over-the-counter must be made by electronic means. The Registrar may, in any case, waive the requirement for the payment to be effected by electronic means, on such terms and conditions as he or she deems fit. 
 
-## 29A. Publication of and reports and comments on Court cases
-
 (1) This paragraph applies to solicitors, litigants (whether acting by solicitors or in person), the media and all other persons reporting on or commenting about cases which are before any court ("court cases"). All categories of persons mentioned above are collectively referred to as "all concerned".
 
 (2) All concerned are reminded that reports or comments in public on court cases must not flout any existing law or order of court or be calculated to affect, or be reasonably capable of affecting, the outcome of any decision by the court.
@@ -652,8 +622,6 @@ collected.
 (3) All concerned are not to publish, report or comment on publicly any affidavit or statutory declaration which has not been adduced as evidence or referred to in any hearing in open Court or in Chambers or any other court document which has not been served on the relevant party or parties in the court proceedings. 
 
 (4) All concerned are not to publish, report or comment on publicly any statements made in Chambers by anyone which is expressly stated to be confidential or is impliedly confidential. Solicitors may inform their clients of statements made in Chambers when it is necessary for them to render proper advice to their clients.
-
-## 29B. Citation of Case Numbers
 
 (1) All originating processes and summons filed in the Supreme Court on or after 1 January 2015 shall bear case numbers in the following format:
 

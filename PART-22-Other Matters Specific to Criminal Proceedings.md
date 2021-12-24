@@ -7,11 +7,12 @@
 	<li>168. Further written submissions for criminal matters before the Court of Appeal</li> 
 </ul>
 
-## 153. Application
+## 165. Judge Case Conference Checklist for criminal trials in the General Division 
+## 166. Affidavit in support of an application for permission under section 394H of the Criminal Procedure Code 
+## 167. Written submissions for criminal appeals and other criminal matters before the Court of Appeal and the General Division 
+## 168. Further written submissions for criminal matters before the Court of Appeal 
 
 The directions contained in this Part shall apply to proceedings that do not require the use of the Electronic Filing Service under paragraph 104(2).
-
-## 154. Information to be provided in cause papers and documents that are filed in the Legal Registry of the Supreme Court
 
 To facilitate the contacting of lawyers having conduct of an action or charge of a matter by members of the staff of the Supreme Court, the following information shall be inserted on backing sheets of all cause papers and documents filed in the Legal Registry in the format set out: 
 ```
@@ -29,8 +30,6 @@ Ref : (File reference of law firm.)
 The information is to be inserted as a block near the bottom right hand
 corner of the backing sheets.
 
-## 155. Form of affidavits
-
 (1) In addition to the requirements set out in paragraph 57, affidavits shall be:
 <ul type="*">
 	<li>(a) on A4-ISO paper of durable quality with a blank margin not less than 35mm wide on all 4 sides of the page;</li>
@@ -43,8 +42,6 @@ corner of the backing sheets.
 
 (2) Affidavits of 30 pages or less (including exhibits and dividing and backing sheets) may be stapled at the top left hand corner of the paper firmly. Any affidavit (including exhibits, dividing and backing sheets) exceeding 30 pages shall be bound with plastic ring binding or plastic spine thermal binding (the plastic rings or spines to be red for plaintiffs/appellants, and blue for defendants/respondents) with a transparent plastic cover in front and at the back.
 
-## 156. Documentary exhibits to affidavits
-
 ***Dividing sheets***
 
 (1) The dividing sheet that separates the documentary exhibits shall be in light colour *other than white*, marked, typed or stamped clearly with an exhibit mark as follows:
@@ -52,8 +49,6 @@ corner of the backing sheets.
 ***More than 10 documentary exhibits***
 
 (2) In addition to the requirements set out in paragraph 59 (except sub-paragraphs 59(5)), when there are more than 10 different documentary exhibits in an affidavit, each document shall be flagged by means of a plastic tag, marked in accordance with the exhibit reference and such flags shall run vertically down the right edge of the exhibits evenly spaced out so as not to overlap one another. The table of contents itself shall bear the top most flag, marked “TABLE”.
-
-## 157. File inspection and obtaining hard copy extracts or certified true copies of documents
 
 (1) In order to inspect a case file in civil proceedings that do not use the Electronic Filing Service, the following procedure should be followed:
 

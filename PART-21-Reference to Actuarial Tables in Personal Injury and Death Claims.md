@@ -4,7 +4,7 @@
 	<li>164. Reference to Actuarial Tables for the Assessment of Damages in Personal Injury and Death Claims</li>
 </ul>
 
-## 147. Transfer of mental capacity proceedings to District Court
+## 164. Reference to Actuarial Tables for the Assessment of Damages in Personal Injury and Death Claims 
 
 (1) The Supreme Court of Judicature (Transfer of Mental Capacity Proceedings to District Court) Order 2010, made under section 28A of the Supreme Court of Judicature Act (Cap. 322), came into operation on 1 March 2010 (“the Transfer Order”).
 
@@ -16,8 +16,6 @@
 </ul>
 
 (3) Pursuant to the Family Justice Act 2014, with eﬀect from 1 October 2014, proceedings under the MCA shall be heard and determined by the Family Justice Courts. Notwithstanding this, any proceedings under the MCA commenced in the High Court before 1 October 2014 shall, on and after that date, be continued in and dealt with by the High Court before 2 January 2021 or the General Division on or after 2 January 2021.
-
-## 148. Documents to be filed at the Legal Registry of the Supreme Court at the Supreme Court Building
 
 (1) All documents relating to mental capacity proceedings which are to be heard and determined by the High Court before 2 January 2021 or the General Division on or after 2 January 2021 shall be ﬁled at the Legal Registry of the Supreme Court at the Supreme Court Building. These include:
 <ul type="*">
@@ -40,8 +38,6 @@
 
 (8) The affidavit must include any other material information and supporting documents, such as the consents of all relevant family members and a property valuation report.
 
-## 149. Doctor's affidavit exhibiting medical report
-
 ***Affidavit by doctor required***
 
 (1) Under Order 40A, Rule 3 of the Rules of Court, expert evidence "is to be given in a written report signed by the expert and exhibited in an affidavit sworn to or affirmed by him testifying that the report exhibited is his and that he accepts full responsibility for the report". Where a medical report is relied on for the purposes of an application under the MCA, the doctor who prepared the medical report should affirm or swear to an affidavit and exhibit his or her medical report.
@@ -58,8 +54,6 @@
 	<li>(c) contain a clear opinion on the prognosis of the person concerned and, if necessary, the likelihood of requiring increased or reduced medical expenses in the foreseeable future; and</li>
 	<li>(d) be current and should be made not more than 6 months before the  date of the hearing of the application.</li>
 </ul>
-
-## 150. Notification
 
 (1) The definition of “P” in Order 99, Rule 1 of the Rules of Court shall be applicable in these Practice Directions. “P” means a person who lacks or, so far as consistent with the context, is alleged to lack capacity (within the meaning of the MCA) and to whom any proceedings under the MCA relate.
 
@@ -117,13 +111,9 @@
 (12) The Court may, on its own motion, dispense with the notification of
 P.
 
-## 151. Application subsequent to the appointment of deputy
-
 (1) An application to vary an order made in mental capacity proceedings shall be made by way of summons supported by affidavit and served on every party who had initially been served with the originating summons as well as on the Public Guardian, within 2 working days after the date on which the application is filed.
 
 (2)If an application under sub-paragraph (1) is filed more than 6 months from the date of the order, the application must be served personally on every defendant. If such an application is filed 6 months or less from the date of the order, the service on every party to the proceedings may be by way of ordinary service.
-
-## 152. Where P ceases to lack capacity or dies
 
 (1) Where P ceases to lack capacity or dies, the following steps in sub-paragraphs (2) to (7) may, where relevant, need to be taken to finalise the court’s involvement in P’s affairs. 
 

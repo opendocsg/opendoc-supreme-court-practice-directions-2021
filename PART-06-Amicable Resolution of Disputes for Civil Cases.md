@@ -7,7 +7,8 @@
 
 
 
-## 56. Witnesses
+## 53. Overview of Amicable Resolution of Disputes (ADR) for civil cases 
+## 54. ADR Offer and Response to ADR Offer 
 
 ***Issuance of subpoenas***
 
@@ -18,8 +19,6 @@
 ***Release of witness upon completion of evidence***
 
 (3) Every witness will be released by the Court upon completion of his evidence and it is the duty of counsel to apply to the Court if counsel desires the witness to remain.
-
-## 56A. Giving of evidence by person outside Singapore through live video or live television link in any proceedings (other than proceedings in a criminal matter)
 
 (1) Any application for leave for any person outside Singapore to give evidence by live video or live television link in any proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, not later than eight weeks before the date of commencement of the hearing at which the person is to give evidence. The application may also contain a prayer for the issue of a letter of request, to the relevant authorities of a foreign jurisdiction, for permission for evidence to be given by live video or live television link by a person located in that jurisdiction, if the laws of that jurisdiction require the issue of such a letter of request.
 
@@ -34,8 +33,6 @@
 (3) An application for the issue of a letter of request, to the relevant authorities of a foreign jurisdiction, for permission for evidence to be given by live video or live television link by a person located in that jurisdiction, if not contained in an application mentioned in sub-paragraph (1), must be made expeditiously and, in any case, unless the Court otherwise directs, not later than eight weeks before the date of commencement of the hearing at which the person is to give evidence.
 
 (4) To avoid doubt, the proceedings mentioned in sub-paragraph (1) include all civil proceedings involving the examination of any person.
-
-## 57. Form of affidavits
 
 (1) Affidavits shall have a blank margin not less than 35mm wide on all 4 sides of the page. They shall be printed or typed and double-spaced. 
 
@@ -64,8 +61,6 @@
 
 (7) Hard copies of affidavits may be printed on one side or both sides of each page.
 
-## 58. Non-documentary exhibits to affidavits
-
 (1) Non-documentary exhibits (e.g., tapes, samples of merchandise, etc.) shall be clearly marked with the exhibit mark in such a manner that there is no likelihood of the exhibit being separated or misplaced. The affidavit should indicate that the exhibit (e.g., tapes, samples of merchandise, etc.) is a non-documentary exhibit and refer to it according to the relevant exhibit number.
 
 (2) Where the exhibit consists of more than one item (e.g., CD-ROMs in a box) each and every such separate item of the exhibits shall similarly be separately marked with enough of the usual exhibit marks to ensure precise identification.
@@ -73,8 +68,6 @@
 (3) Where it is impracticable to mark on the article itself, such article or the container thereof shall be tagged or labelled with the exhibit mark securely attached to the exhibit in such a manner that it is not easily removable.
 
 (4) Very small non-documentary exhibits shall be enclosed or mounted in a sealed transparent container and tagged or labelled as aforesaid. An enlarged photograph showing the relevant characteristics of such exhibits shall, where applicable, be exhibited in the affidavit.
-
-## 59. Documentary exhibits to affidavits
 
 (1) Every page of every exhibit must be fully and clearly legible. Where necessary, magnified copies of the relevant pages should be inserted in appropriate places.
 
@@ -134,15 +127,11 @@ A Commissioner for Oaths”
 
 (8) Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub-paragraph (3) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit. 
 
-## 59A. Swearing and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link
-
 (1) A remote communication technology mentioned in Order 41, Rule 13(1) of the Rules of Court must be capable of creating a live video link or live television link through which a commissioner for oaths is able to do all of the things mentioned in Order 41, Rule 13(3) of the Rules of Court.
 
 (2) For the purposes of Order 41, Rule 13(2) of the Rules of Court, the deponent and the commissioner for oaths may sign the affidavit electronically by applying a security procedure that results in a secure electronic signature under section 18 of the Electronic Transactions Act (Cap. 88).
 
 (3) Where an affidavit is made pursuant to Order 41, Rule 13 of the Rules of Court, the affidavit should be made, as far as possible, as if the deponent were appearing before the commissioner for oaths in person, and the attestation must state that the affidavit was sworn (or affirmed) and signed in Singapore with the deponent appearing before the commissioner for oaths through a live video link or live television link, or that the affidavit was signed by the deponent and/or the commissioner for oaths electronically in Singapore, or both, as the case may be.
-
-## 60. Swearing or affirming of documents by deponents who are blind or illiterate in English
 
 (1) Rule 8 of the Commissioners for Oaths Rules (Cap. 322, Rule 3) restricts advocates and solicitors who are appointed as commissioners for oaths to taking affidavits or statutory declarations, or administering oaths, for deponents who speak and understand English. In view of this, many deponents who are illiterate in English are brought by solicitors to Supreme Court commissioners for oaths to swear or affirm affidavits and statutory declarations. As the Supreme Court commissioners for oaths are under a duty to ensure that the deponent understands the document being deposed to, they are obliged to interpret the document to intended deponents; this is also the case in relation to blind deponents. This necessary exercise may take a considerable time and may cause long delays for other persons who wish to take affidavits or statutory declarations before the Supreme Court commissioners for oaths.
 
@@ -158,11 +147,7 @@ A Commissioner for Oaths”
 	<li>(c) Head Interpreter (Malay) - 6332 3970.</li>
 </ul>
 
-## 61. Effect of non-compliance
-
 Any affidavit or exhibit which does not comply with the directions contained in this Part may be rejected by the Court and made the subject of an order for costs.
-
-## 62.Objections to the contents of affidavits of evidence-in-chief
 
 (1) If, on an application for directions under Order 25, Rule 3 or Order 37, Rule 1 of the Rules of Court or otherwise, orders are made prescribing the time within which objection to the contents of affidavits of evidence-in-chief must be taken, the objections must be taken in accordance with the directions contained in this paragraph and not otherwise.
 
@@ -171,8 +156,6 @@ Any affidavit or exhibit which does not comply with the directions contained in 
 (3) The notice in Form 9 should set out all the objections to the contents of affidavits of evidence-in-chief that will be raised at the hearing of the cause or matter and all the grounds thereof.
 
 (4) An adjudication on the material objected to in affidavits of evidence-in-chief filed pursuant to an order of Court should only be sought at the trial or hearing of the cause or matter for which the affidavits of evidence-in-chief were filed, and not before. If an adjudication is sought prior to the trial or hearing of the cause or matter, the application for the adjudication will be adjourned to be dealt with at the trial or hearing of the cause or matter, and the applicant may be ordered to pay the costs of the adjournment.
-
-## 63. Order 41 of the Rules of Court
 
 (1) For the avoidance of doubt, the provisions of Order 41 of the Rules of Court shall continue to apply.
 
@@ -184,7 +167,5 @@ Any affidavit or exhibit which does not comply with the directions contained in 
 </ul>
 
 Non-compliance with any of the requirements of Order 41, Rule 1(4) may result in an order of costs being made against the solicitor personally.
-
-## 63A. Lead Counsel’s Statement on Trial Proceedings
 
 (1) For every case proceeding to trial in the General Division, each party shall file and serve a Lead Counsel’s Statement in Form 9A of Appendix A of these Practice Directions to provide a list of issues for trial and an accurate estimation of the trial days needed after taking into account the time needed for the examination of each witness. The Lead Counsel’s Statement shall be filed and served within one week after objections to affidavits of evidence-in-chief are taken, unless the Court otherwise directs.

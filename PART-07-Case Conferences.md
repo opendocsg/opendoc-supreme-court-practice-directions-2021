@@ -12,13 +12,12 @@
 		</ul>
 </ul>
 
-## 64. Waiting time for the hearing of matters
+## 55. Attendance of counsel at case conferences 
+## 56. Documents to be filed for case conferences 
 
 (1) The average waiting times between the filing of certain processes or other steps in the proceedings and the date for the hearing or pre-trial conference of the matter are set out in Appendix B of these Practice Directions. Solicitors are directed to take note of these waiting times as they must be ready to proceed at the end of the relevant period. The average waiting times in Appendix B do not apply to special date fixings.
 
 (2) This paragraph shall apply to both civil and criminal proceedings.
-
-## 65. Requesting a hearing date through the Electronic Filing Service
 
 (1) When filing applications through the Electronic Filing Service, solicitors may be permitted to make a request for a preferred hearing date for the following classes of applications:
 
@@ -31,8 +30,6 @@
 (2) Solicitors should confer with all parties to the application before selecting a preferred hearing date. Counsel arguing the application for all parties should be available to attend the hearing on the date selected.
 
 (3) In the event that it is not possible to confer with opposing counsel on a preferred hearing date, whether due to the nature or urgency of the application or otherwise, solicitors shall select a date where counsel arguing the application for the applicant will be available.
-
-## 66. Fixing of hearing dates
 
 (1) To assist the Registrar at the fixing of hearing dates, solicitors should provide updated information as to the current status of the cause or matter, including the prospects of settlement and any other developments which are likely to affect the length of the trial. In order to facilitate a more realistic assessment of the time required for the hearing, they will also be required to inform the Registrar of the number of witnesses they intend to call, the estimated amount of time required for each party to cross-examine all the opposing party’s witnesses and the estimated total length of hearing.
 
@@ -49,16 +46,11 @@
 
 (5) Further, parties are to note that any request for an early hearing date for any application, cause or matter is subject to the discretion and availability of the Court. In deciding when to fix an application, cause or matter for hearing or render its decision in any application, cause or matter, the Court is not obliged to give effect to any private agreement between parties on timelines and hearing dates.  
 
-
-## 67. Adjournment or vacation of trial dates and part-heard cases
-
 (1) Where dates have been fixed for the trial of any cause or matter, any request for an adjournment or vacation of the trial dates shall be made to the Court by way of summons with a supporting affidavit, even in those cases where counsel for the other party or parties consent to the adjournment.
 
 (2) Subject to any directions of the Court, when a case is adjourned, the Registrar shall assign such days as are available for the hearing of the case, and counsel will be expected to take the dates at short notice.
 
 (3) In the event that the hearing of a case is not concluded within the number of days allotted, the Court may direct the hearing of the case to continue beyond the allotted time, rather than adjourning the case part-heard to another date. Counsel for parties in all cases should therefore be prepared to continue with the hearing of the matter notwithstanding the fact that the time originally allotted may have expired.
-
-## 68. Adjournment or vacation of hearings other than trials
 
 (1) Before solicitors make a Request through the Electronic Filing Service to the Court for an adjournment or vacation of any hearings other than trials, they should seek the consent of the other party or parties to the matter.  Unilateral requests made without first seeking the consent or views of the other party or parties to the matter will not be entertained, except in the most exceptional circumstances.
 

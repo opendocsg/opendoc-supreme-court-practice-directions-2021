@@ -4,12 +4,9 @@
 	<li>47. Application</li>
 </ul>
 
-
-## 36. Distribution of applications
+## 47. Application
 
 All applications in Chambers (including summonses and summonses for directions) shall be filed without specifying whether the application is to be heard before a Judge in person or the Registrar.
-
-## 37. Filing of summonses
 
 ***All interlocutory applications to be made by summons***
 
@@ -22,8 +19,6 @@ All applications in Chambers (including summonses and summonses for directions) 
 (3) After the filing of any “*ex parte*” or “*by consent*” summons, the application will be examined by the Judge or Registrar as the case may be. If he is satisfied that the application is in order and all other requirements have been complied with, he may make the order(s) applied for on the day fixed for the hearing of the application without the attendance of the applicant or his solicitor.
 
 (4) Summonses that are filed using the Electronic Filing Service will be routed to the inbox of the applicant solicitor's Electronic Filing Service account. Where the summons is filed through the service bureau, it may be collected at the service bureau. Enquiries by telephone will not be entertained.
-
-## 37A. Filing of Distinct Applications in Separate Summonses
 
 (1) Where a party intends to make more than one distinct substantive application in a cause or matter, he must file each application in a separate summons. Distinct applications should not be combined in a single summons, unless they are inextricably or closely linked, or involve overlapping or substantially similar issues. For example, it can be envisaged that applications for:
 <ul type="*">
@@ -38,8 +33,6 @@ All applications in Chambers (including summonses and summonses for directions) 
 	<li>In the defendant’s summons setting out a prayer for the striking out of certain paragraphs of the Statement of Claim, the defendant may include an alternative prayer for the plaintiff to be ordered to amend those paragraphs of the Statement of Claim.</li>
 </ul>
 (3) Any summons that is not in compliance with this paragraph may be rejected by the Legal Registry of the Supreme Court. The Court may also direct the party to file separate summonses before proceeding with the hearing or proceed with the hearing on the solicitor’s undertaking to file further summonses for the distinct applications.
-
-## 37B. Summary Table for Applications for Further and Better Particulars, Discovery, Production of Documents or Interrogatories
 
 (1) Unless otherwise directed, this paragraph applies to any application made for an order under Order 18, Rule 12, Order 24, Rule 1, 5, 6, 11 or 12, Order 26, Rule 1 or Order 26A, Rule 1 of the Rules of Court, where:
 
@@ -68,8 +61,6 @@ The Court may also direct that this paragraph applies to any other application.
 	<li>(b) the party must file and serve the party’s affidavit or written submissions (as the case may be) in accordance with the timelines directed by the Court.</li>
 </ul>
 
-## 38. Summonses to be heard in open Court
-
 (1) Order 32, Rule 11 of the Rules of Court provides that all summonses shall be heard in Chambers, subject to any provisions in the Rules of Court, written law, directions by the Court and practice directions issued by the Registrar.
 
 (2) The following applications are examples of summonses to be heard in open Court pursuant to written law:
@@ -83,9 +74,6 @@ The Court may also direct that this paragraph applies to any other application.
     <li>(f) applications to rectify the register of partners of a limited liability partnership (Rule 5(1)(e) of the Limited Liability Partnerships (Winding Up) Rules); and</li>
     <li>(g) applications to rectify the register of members kept by a variable capital company (Rule 6(1)(f) of the Variable Capital Companies (Winding Up) Rules 2020). </li>
 </ul>
-
-
-
 
 (3) In addition to any provisions in the Rules of Court or other written law, and subject to further directions made by the Court, the Registrar hereby directs that the following applications by summons shall be heard in open Court:
 
@@ -107,16 +95,11 @@ The Court may also direct that this paragraph applies to any other application.
     <li>(o) applications to rectify the register of members of a company under section 152 of the Insolvency, Restructuring and Dissolution Act 2018.</li>
 </ul>
 
-
-## 39. Summonses for directions
-
 (1) The principal intention of the summons for directions is to ensure that there is a thorough stocktaking of the issues in an action and the manner in which the evidence should be presented at a trial, with a view to shortening the length of the trial and saving costs generally.
 
 (2) Parties should have completed their discovery of documents by the time of the first hearing of the summons for directions. There should be full discovery on either side.
 
 (3) Parties should also make all interlocutory applications at the hearing of the summons for directions.
-
-## 40. Transfer of proceedings to the State Courts
 
 Where a claim in the General Division which may have initially exceeded $250,000 is subsequently reduced below this amount, solicitors should bring this to the attention of the Registrar and apply by summons or at the hearing of the summons for directions for an order that the action be transferred to a State Court for trial under section 54C of the State Courts Act (Cap 321), which provides:
 <ul type="*">
@@ -128,8 +111,6 @@ Where a claim in the General Division which may have initially exceeded $250,000
 	<li>(3) An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the State Court to which the application relates, if the value of the claim had been within the District Court limit or the Magistrate’s Court limit, as the case may be.</li>
 	<li><em>Explanation —</em> The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute suﬃcient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the General Division of the High Court under any enforcement arrangements currently in force.</li>
 </ul>
-
-## 41. *Ex parte* applications for injunctions
 
 (1) Order 29, Rule 1 of the Rules of Court provides that an application for the grant of an injunction may be made *ex parte* in cases of urgency. However, the cases of *Castle Fitness Consultancy Pte Ltd v Manz* \[1989\] SLR 896 and *The ‘Nagasaki Spirit’* (No 1) \[1994\] 1 SLR 434 take the position that an opponent to an *ex parte* application, especially where the application seeks injunctive relief, should be invited to attend at the hearing of the application.
 
@@ -175,8 +156,6 @@ When composing the summons electronic form online through the Electronic Filing 
 	<li>(c) Where the nature of the items removed under the order makes this appropriate, the applicant will be required to insure them.</li>
 </ul>
 
-## 42A. Documents in support of *ex parte* applications for injunctions (including *Mareva* injunctions) and search orders
-
 (1) Without prejudice to the requirements stated in Paragraphs 41 and 42 of these Practice Directions, in order to assist the Court hearing *ex parte* applications for injunctions (including *Mareva* injunctions) and search orders, an applicant must include in the affidavit prepared in support of the application the following information under clearly defined headings:
 
 <ul type="*">
@@ -192,8 +171,6 @@ When composing the summons electronic form online through the Electronic Filing 
 (2) An applicant must prepare skeletal submissions on the points to be raised at the hearing of the *ex parte* application. At the hearing, the applicant shall give a copy of the skeletal submissions to the Court and to any opponent present. As soon as possible after the hearing, the applicant shall file the skeletal submissions in Court.
 
 (3) The Court may also require the applicant to prepare a note of the hearing setting out the salient points and arguments canvassed before the Court and may order such a note to be served together with the court documents on any opponent who is not present at the hearing or within a reasonable time after the service of the court documents.
-
-## 43. Applications for discovery or interrogatories against network service providers
 
 (1) This paragraph applies to applications made under Order 24, Rule 6(1) or Order 26A, Rule 1(1) of the Rules of Court:
 
