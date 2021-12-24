@@ -1,16 +1,13 @@
 # Part XVI: Enforcement of Judgments and Orders 
 
 <ul type="*">
-	<li>124. Arrest of ships</li>
-	<li>124A. Arrest of ships in shipyards</li>
-	<li>125. Form of undertaking</li>
-	<li>126. Release of vessel lying under arrest</li>
-	<li>126A. Caveat against release</li>
-	<li>127. Filing of supporting documents</li>
-	<li>128. Hard copies at hearing of admiralty matters</li>
-	<li>129. Searches for caveats against arrest or release</li>
-	<li>130. Registration of service clerks for admiralty matters</li>
-	<li>130A. Applications for appraisement and sale</li>
+	<li>139. Applying for enforcement order</li>
+	<li>140. Requests for the Sheriff’s attendance</li>
+	<li>141. Service of Notice of Seizure or Attachment on the directions of the Sheriff</li>
+	<li>142. Claims and objections to seizure or attachment</li>
+	<li>143. Sale of immovable property</li>
+	<li>144. Sheriff’s Internet Website</li>
+	<li>145. Examination of Enforcement Respondent</li> 
 </ul>
 
 ## 124. Arrest of ships

@@ -1,35 +1,22 @@
 # Part III: Electronic Filing and Service 
 
 <ul type="*">
-	<li>30. Originating Summonses </li>
-	<ul>
-		<li>Forms for originating summonses </li>
-		<li>Originating summonses to be heard in open Court </li>
-	</ul>
-	<li>31. Identification numbers to be stated in cause papers </li>
-	<ul>
-		<li>Parties named in the title of the documents</li>
-		<li>Parties not named in the title of the documents</li>
-		<li>Documents filed by 2 or more parties</li>
-		<li>Identification numbers for non-parties</li>
-		<li>Special cases</li>
-		<li>Identification numbers</li>
-		<li>Guidelines for the selection of identification numbers</li>
-		<li>Inability to furnish identification number at the time of filing a document</li>
-		<li>Meaning of document</li>
-		<li>Non-compliance</li>
-	</ul>		
-	<li>32. Personal service of processes and documents </li>
-	<li>33. Substituted service </li>
-	<li>34. Endorsements on originating processes and other documents </li>
-	<li>35. Amendment of documents </li>
-	<ul>
-		<li>Application</li>
-		<li>Amendment of any document</li>
-		<li>Amendment of pleadings</li>
-		<li>Amendment endorsements on electronic forms</li>
-	</ul>
-	<li>35A. Pleadings</li>
+	<li>31. Application</li> 
+	<li>32. Establishment of Electronic Filing Service and appointment of electronic service provider</li> 
+	<li>33. Appointment of agent to establish service bureau</li> 
+	<li>34. Registered users and authorised users</li> 
+	<li>35. Documents which must be filed, served, delivered or otherwise conveyed using the Electronic Filing Service</li>
+	<li>36. Certificate of Service</li> 
+	<li>37. Form of documents</li>
+	<li>38. Pagination of documents</li> 
+	<li>39. Filing documents through service bureau</li> 
+	<li>40. Filing of documents to the Supreme Court through a State Courts service bureau</li> 
+	<li>41. Limits on the size and number of documents submitted using the Electronic Filing Service</li>
+	<li>42. Documents which cannot be converted into an electronic format</li>
+	<li>43. Rejection of documents, back-dating and refund of penalty</li> 
+	<li>44. Documents used for urgent hearing</li> 
+	<li>45. Hard copies of documents</li> 
+	<li>46. Responsibility for accuracy and completeness of information submitted using the Electronic Filing Service</li>
 </ul>
 
 ## 30. Originating Summonses

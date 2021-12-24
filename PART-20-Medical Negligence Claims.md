@@ -1,16 +1,7 @@
 # Part XX: Medical Negligence Claims 
 
 <ul type="*">
-	<li>143. Bankruptcy applications</li>
-	<li>144. Applications to set aside statutory demands made under the Bankruptcy Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020</li>
-	<li>145. Judicial Management and Winding Up applications under the Companies Act or the Insolvency, Restructuring and Dissolution Act 2018 </li>
-	<li>146. Documents for use in open Court trials of contested winding-up applications</li>
-	<ul>
-		<li>Bundles of documents</li>
-		<li>Bundles of authorities</li>
-		<li>Opening statements</li>
-		<li>Timeline for tendering documents</li>
-	</ul>
+	<li>163. Compliance with protocol</li>
 </ul>
 
 

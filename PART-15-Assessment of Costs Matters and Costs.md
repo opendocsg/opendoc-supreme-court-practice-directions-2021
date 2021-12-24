@@ -1,10 +1,22 @@
 # Part XV: Assessment of Costs Matters and Costs
 
 <ul type="*">
-	<li>120. Use of the Video Conference Facilities and the Mobile Infocomm Technology Facilities</li>
-	<li>121. Applications to use the Video Conference Facilities and Usage of Additional Equipment</li>
-	<li>122. Applications to use the Mobile Infocomm Technology Facilities</li>
-	<li>123. [deleted] Fees</li>
+	<li>130. Scope of certain paragraphs</li>
+	<li>131. Form of bill of costs</li>
+		<ul>
+			<li>Margin</li>
+			<li>Pagination</li>
+			<li>Format</li>
+			<li>Particulars</li> 
+			<li>Goods and services tax</li>
+		</ul>
+	<li>132. Electronic filing of bills of costs for assessment</li> 
+	<li>133. Objections</li>
+	<li>134. Amount allowed as disbursements on account of use of Electronic Filing Service</li>
+	<li>135. Assessments involving the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid</li>
+	<li>136. Fixing costs instead of ordering assessment</li>
+	<li>137. Costs Scheduling</li>
+	<li>138. Costs Guidelines</li>
 </ul>
 
 

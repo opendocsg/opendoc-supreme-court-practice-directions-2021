@@ -1,11 +1,15 @@
 # Part VII: Case Conferences 
 
 <ul type="*">
-	<li>64. Waiting time for the hearing of matters</li>
-	<li>65. Requesting a hearing date through the Electronic Filing Service</li>
-	<li>66. Fixing of hearing dates</li>
-	<li>67. Adjournment or vacation of trial dates and part-heard cases</li>
-	<li>68. Adjournment or vacation of hearings other than trials</li>
+	<li>55. Attendance of counsel at case conferences</li>
+	<li>56. Documents to be filed for case conferences</li>
+		<ul>
+			<li>Pre-Case Conference Questionnaire</li>
+			<li>List of Issues</li>
+			<li>Expert Witness Template</li>
+			<li>Position on an order under Order 9, Rule 8(1) of the Rules of Court 2021</li> 
+			<li>Single application pending trial checklist (SAPT Checklist)</li>
+		</ul>
 </ul>
 
 ## 64. Waiting time for the hearing of matters

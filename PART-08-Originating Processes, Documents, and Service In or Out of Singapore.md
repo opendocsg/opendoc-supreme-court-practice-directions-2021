@@ -1,33 +1,37 @@
 # Part VIII: Originating Processes, Documents, and Service In or Out of Singapore 
 
 <ul type="*">
-	<li>69. Filing of documents and authorities for use in Court</li>
-	<ul>
-		<li>Bundle of authorities</li>
-	</ul>
-	<li>70. Bundle of documents filed on setting down</li>
-	<ul>
-		<li>Directions for electronic creation and filing of bundles of documents</li>
-	</ul>
-	<li>71. Documents for use in trials of writ actions in open Court</li>
-	<ul>	
-		<li>Only opening statement to be filed through the Electronic Filing Service</li>
-		<li>Timeline for filing documents</li>
-		<li>Bundles of documents</li>
-		<li>Bundles of authorities</li>
-		<li>Opening statements</li>
-	</ul>
-	<li>72. Bundles of authorities for other open Court hearings</li>
-	<li>73. Hearings in Chambers</li>
-	<li>73A. Written submissions and bundles of authorities for special date hearings</li>
-	<li>74. Citation of judgments</li>
-	<ul>
-		<li>Use of judgments as authorities in submissions</li>
-		<li>Use of judgments from foreign jurisdictions</li>
-		<li>Citation practice</li>
-		<li>The neutral citation system for local judgments</li>
-		<li>Ancillary provisions</li>
-	</ul>
+	<li>57. Originating Applications</li>
+		<ul>
+			<li>Form of originating applications</li> 
+			<li>Originating applications to be heard in open court</li> 
+		</ul>
+	<li>58. Identification numbers to be stated in cause papers</li>
+		<ul>
+			<li>Parties named in the title of the documents</li> 
+			<li>Parties not named in the title of the documents</li> 
+			<li>Documents filed by 2 or more parties</li> 
+			<li>Identification numbers for non-parties</li> 
+			<li>Special cases</li>
+			<li>Identification numbers</li> 
+			<li>Guidelines for the selection of identification numbers</li> 
+			<li>Inability to furnish identification number at the time of filing a document</li>
+			<li>Meaning of document</li> 
+			<li>Non-compliance</li>
+		</ul>
+	<li>59. Endorsements on originating processes and other documents</li> 
+	<li>60. Amendment of documents</li>
+		<ul>
+			<li>Application</li>
+			<li>Amendment of any document</li> 
+			<li>Amendment of pleadings</li> 
+			<li>Amendment endorsements on electronic forms</li> 
+		</ul>
+	<li>61. Pleadings</li> 
+	<li>62. Personal service of processes and documents</li> 
+	<li>63. Application for service out of Singapore of originating process or other court document</li> 
+	<li>64. Court’s power to dismiss an action if no reasonable steps taken to serve originating process expeditiously</li> 
+	<li>65. Substituted service</li>
 </ul>
 
 ## 69. Filing of documents and authorities for use in Court

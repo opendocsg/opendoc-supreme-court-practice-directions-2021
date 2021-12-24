@@ -44,7 +44,7 @@
 	<li>28. Use of the Video Conference Facilities and the Mobile Infocomm Technology Facilities</li>
 	<li>29. Applications to use the Video Conference Facilities and Usage of Additional Equipment</li>
 	<li>30. Applications to use the Mobile Infocomm Technology Facilities</li>
-
+</ul>
 
 ## 8. Operating hours of the Supreme Court
 
