@@ -45,14 +45,32 @@
 		</ul>
 </ul>
 
-
-## 81. Application of this Part
+## 85. Urgent applications outside of the Court’s office hours 
+## 86. Duty Registrar 
+## 87. Request for urgent hearing before Judge
+## 88. Attendance of solicitors in Court and mentioning on behalf of other solicitors 
+## 89. Absence from Court on medical grounds 
+## 90. Attendance at hearings in chambers 
+## 91. The Central Display Management System 
+## 92. Precedence and preaudience of Senior Counsel 
+## 93. Court dress
+## 94. Forms of address 
+## 95. Citation of Case Numbers 
+## 96. Submissions and examination by leading and assisting counsel 
+## 97. Use of electronic and other devices
+## 98. Publication of and reports and comments on Court cases 
+## 99. Lead counsel’s statement on trial proceedings 
+## 100. Late filing fees 
+## 101. Filing of documents and authorities for use in Court generally 
+## 102. Documents for use in trials of originating claims in open court 
+## 103. Bundles of authorities for other open court hearings 
+## 104. Hearings in chambers 
+## 105. Written submissions and bundles of authorities for special date hearings and hearings of originating applications 
+## 106. Citation of judgments 
 
 (1) The directions in this Part shall, subject to sub-paragraph (2) below, *mutatis mutandis*, apply to appeals before the General Division, hearings before the Appellate Division, hearings before the Court of Appeal and disciplinary proceedings (or appeals therefrom) brought under any statute, including the Legal Profession Act and the Medical Registration Act, which are heard by a Court of 3 Judges.
 
 (2) Where disciplinary proceedings (or appeals therefrom) brought under any statute, including the Legal Profession Act and the Medical Registration Act, are heard by a Court of 3 Judges, 1 hard copy each of the parties’ written submissions, the record of proceedings, the originating summons and all aﬃdavits ﬁled in the originating summons shall be tendered, unless otherwise directed.
-
-## 82. Requests for further arguments before the Judge or Registrar
 
 (1) All requests for further arguments shall be made by way of Request filed through the Electronic Filing Service and should, either in the Request electronic form or a document attached thereto:
 
@@ -69,8 +87,6 @@
 
 (3) All requests should be addressed to the Registrar.
 
-## 83. Civil appeals before the General Division  from the State Courts
-
 ***Appeals under Order 55D of the Rules of Court***
 
 (1) In appeals under Order 55D of the Rules of Court, the appellant and the respondent are to tender one hard copy of the record of appeal and the Cases, as well as any bundle of authorities to be relied upon to the Legal Registry of the Supreme Court not less than 5 working days before the hearing of the appeal, to assist the Judge hearing the appeal.  
@@ -83,15 +99,11 @@
 
 (3) In addition to any provisions in the Rules of Court or other written law, and subject to any further directions made by the Court, the Registrar hereby directs that appeals to the General Division from the Employment Claims Tribunal shall be heard in open Court.
 
-## 84. Civil appeals before the General Division from tribunal or person under Order 55 of the Rules of Court
-
 (1) Order 55, Rule 6(4) of the Rules of Court states that it is the appellant's duty to apply to the Judge or other person presiding at the proceedings in which the decision appealed against was given, for the signed copy of any note made by him of the proceedings and to furnish that copy for the use of the Court. For the avoidance of doubt, the onus is on the appellant to file a record of proceedings, comprising the signed copy of the notes of proceedings, and any further grounds of decision, in the General Division.
 
 (2) The appellant and the respondent are to tender one hard copy of the notes of proceedings, grounds of decision and any skeletal arguments or bundles of authorities to be relied upon to the Legal Registry of the Supreme Court not less than 5 working days before the hearing of the appeal, to assist the Judge hearing the appeal.
 
 (3) No affidavits shall be filed in respect of the appeal without the leave of court.
-
-## 84A. Whether an appeal to the Appellate Division is to be heard by 2 or 3 Judges
 
 (1) The time for an appellant to ﬁle the record of appeal, the Case and the core bundle of documents for hearing before the Appellate Division is 2 months after the service of the notice mentioned in Order 56A, Rule 7(3) of the Rules of Court where the appeal is to be heard by a 3 Judge Court, and one month after the service of that notice where the appeal is to be heard by a 2 Judge Court.
 
@@ -101,8 +113,6 @@
 
 (4) If the Judge of ﬁrst instance does not determine the issue of whether the appeal should be heard before a 2 or 3 Judge Court, or if the appellant should dispute the determination of the Judge of ﬁrst instance, the matter will be referred to a Judge sitting in the Appellate Division, whose determination is ﬁnal. An appellant who wishes to dispute the determination of the Judge of ﬁrst instance must, within 7 days after the service of the notice mentioned in Order 56A, Rule 7(3), inform the Legal Registry by ﬁling a Request.
 
-## 85. Whether an appeal to the Court of Appeal is to be heard by a 2 or 3 Judge Court of Appeal
-
 (1) The time for an appellant to file the record of appeal, the Case and the core bundle of documents for hearing before the Court of Appeal is 2 months after the service of the notice referred to in Order 57, Rule 5(2) of the Rules of Court where the appeal is to be heard by a 3 Judge Court, and one month after the service of that notice where the appeal is to be heard by a 2 Judge Court.
 
 (2) To resolve any confusion or uncertainty over the issue of whether an appeal is to be heard by a 2 or 3 Judge Court of Appeal, this issue will be determined by the Judge who heard the matter at first instance.
@@ -111,17 +121,11 @@
 
 (4) If the Judge of first instance does not determine the issue of whether the appeal should be heard before a 2 or 3 Judge Court of Appeal, or if the appellant should dispute the determination of the Judge of first instance, the matter will be referred to a Judge sitting in the Court of Appeal, whose determination is final. An appellant who wishes to dispute the determination of the Judge of first instance must, within 7 days after the service of the notice referred to in Order 57, Rule 5(2), inform the Legal Registry by filing a Request
 
-## 85A. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges
-
 Pursuant to section 50(1) of the Supreme Court of Judicature Act (Cap. 322) and notwithstanding any determination that may be made under paragraph 85(2) or (4) of these Practice Directions, the Court of Appeal may determine, as and when appropriate, whether to convene a panel of 5 or any greater uneven number of Judges. Such determination of the Court of Appeal will be final.
-
-## 85B. Leave of the Court of Appeal or the Appellate Division to receive further aﬃdavits in relation to an application to strike out a notice of appeal
 
 (1) Under Order 57, Rule 16, a respondent may make an application to strike out a notice of appeal within the time frame provided in the Rule. The leave of the Court of Appeal to receive any further affidavit pursuant to Order 57, Rule 16(13), may be sought by way of correspondence to the Court of Appeal, or an appointment before a Judge sitting in the Court of Appeal in a case management conference.
 
 (2) Under Order 56A, Rule 17, a respondent may make an application to strike out a notice of appeal within the time frame provided in the Rule. The leave of the Appellate Division to receive any further aﬃdavit pursuant to Order 56A, Rule 17(16), may be sought by way of correspondence to the Appellate Division, or an appointment before a Judge sitting in the Appellate Division in a case management conference.
-
-## 86. Quantum of security to be provided under Order 57, Rule 3(3) of the Rules of Court as in force immediately before 2 January 2021
 
 (1)  Pursuant to rule 14 of the Rules of Court (Amendment No. 5) Rules 2020, Order 57, Rule 3(3) of the Rules of Court as in force immediately before 2 January 2021 and sub-paragraph (2) continue to apply:
 <ul type="*">
@@ -135,13 +139,9 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act (Cap. 322) and 
 
 (2) The Honourable the Chief Justice has, in exercise of the powers conferred on him by Order 57, Rule 3(3) of the Rules of Court as in force immediately before 2 January 2021, ﬁxed the sum to be provided by the appellant by way of security for the respondent’s costs of an appeal to the Court of Appeal mentioned in sub-paragraph (1)(a) or (b) at $15,000 for appeals against interlocutory orders and $20,000 for all other appeals.
 
-## 86A. Appeals Information Sheet for civil appeals to the Court of Appeal and civil appeals to the Appellate Division
-
 (1) The Chief Justice has directed that for civil appeals to the Court of Appeal and civil appeals to the Appellate Division, parties shall ﬁle in court and serve on every other party to the appeal or his solicitor an Appeals Information Sheet in Form 27 of Appendix A to these Practice Directions at the same time as their respective Cases under Order 56A, Rules 8 and 9 of the Rules of Court (for appeals to the Appellate Division) and Order 57, Rules 9 and 9A of the Rules of Court (for appeals to the Court of Appeal) are ﬁled and served.
 
 (2) Where appropriate, parties or their solicitors may be required to attend in person to take directions on the conduct of the appeal.
-
-## 87. Filing of records of appeal, core bundles and written Cases for civil appeals under Order 56A, Rules 8 and 9 and Order 57, Rules 9 and 9A of the Rules of Court
 
 (1) Under Order 56A, Rule 8(1) and Order 57, Rule 9(1) of the Rules of Court, the appellant is required to ﬁle the record of appeal (or in the case of a further appeal from the Appellate Division, the supplemental record of appeal), the Appellant’s Case and the core bundle. Under Order 56A, Rule 9(2) and (3) and Order 57, Rule 9A(2) and (2A), the respondent has to ﬁle the Respondent’s Case and the Respondent’s supplemental core bundle (if any). Under Order 56A, Rule 9(7) and (9) and Order 57, Rule 9A(5A) and (5C), the appellant may ﬁle an Appellant’s Reply and the Appellant’s supplemental core bundle (if any). The record of appeal (and the supplemental record of appeal, if any), core bundle and supplemental core bundle are collectively referred to in this paragraph as “appeal bundles”.
 
@@ -190,17 +190,11 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act (Cap. 322) and 
 
 (6) When the core bundles and supplemental core bundles are tendered at the Legal Registry of the Supreme Court pursuant to paragraph 88(1), the Legal Registry staff will state on the top right hand corner of the bundle the exact amount of Court fees payable under Order 90B. The parties should then pay the Court fees as indicated.
 
-## 87A. Request for leave to exceed page limit for Appellant’s Case, Respondent’s Case and Appellant’s Reply for civil appeals to the Court of Appeal and civil appeals to the Appellate Division
-
 (1)  Parties shall apply for leave of the Court of Appeal or the Appellate Division (as the case may be) to exceed the page limit for the Appellant’s Case, the Respondent’s Case or the Appellant’s Reply by ﬁling a Request in the Electronic Filing Service stating the reasons for requiring additional pages and the number of additional pages required.
 
 (2) The application for leave to exceed the page limit for the Appellant’s Case or the Respondent’s Case shall be filed at least 14 days before the date the Appellant’s Case or the Respondent’s Case, as the case may be, is due to be filed. The application for leave to exceed the page limit for the Appellant’s Reply shall be filed at least 7 days before the date the Appellant’s Reply is due to be filed. Applications filed out of time will be rejected.
 
-## 87B. Request for waiver or deferment of court fees
-
 A request for the waiver or deferment of the whole or any part of any appeal court fees under Order 91, Rule 5 of the Rules of Court must be supported by an affidavit in Form 14A of Appendix A of these Practice Directions. The affidavit in Form 14A must verify Form 14B of Appendix A of these Practice Directions.
-
-## 88. Hard copies and soft copies for hearing of civil appeals before the Court of Appeal and civil appeals before the Appellate Division
 
 (1) In order to assist the Judges sitting in the Court of Appeal or the Appellate Division, the appellant and the respondent are required to tender hard copies of the Appellant’s and Respondent’s Cases, the Appellant’s Reply (if any), core bundles of documents and supplemental core bundles of documents (if any) to the Legal Registry of the Supreme Court at the same time when ﬁling them within the prescribed time under Order 56A, Rule 9 or Order 57, Rule 9A of the Rules of Court (as the case may be). The following directions must be complied with:
 
@@ -235,8 +229,6 @@ A request for the waiver or deferment of the whole or any part of any appeal cou
 </ul>
 
 (5) The CD-ROM shall be clearly labelled with the case number and title of the proceedings. If there is more than one CD-ROM, the CD-ROMs shall be numbered sequentially.
-
-## 89. Preparation of appeal records in civil appeals to the Court of Appeal and civil appeals to the Appellate Division
 
 ***Arrangement***
 
@@ -330,8 +322,6 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 (9) The Court of Appeal or the Appellate Division (as the case may be) will have no hesitation in making a special order for costs in cases in which it is of the opinion that costs have been wasted by the inclusion of superﬂuous, irrelevant or duplicative documents.
 
-## 89A. Bundle of documents ﬁled with leave of the Court of Appeal or the Appellate Division
-
 (1) Where leave is granted by the Court of Appeal or the Appellate Division for the ﬁling of any bundle of documents under Order 57, Rule 9A(23) or Order 56A, Rule 9(22) (as the case may be), the party shall ﬁle the bundle of documents by tendering the requisite hard copies of the bundle of documents to the Legal Registry of the Supreme Court in accordance with paragraph 88(1) of these Practice Directions. 
 
 (2) In addition to hard copies, the party filing the bundle of documents is required to tender soft copies of the bundle of documents in Portable Document Format (PDF) at the same time in a CD-ROM in accordance with paragraphs 88(4) and (5) of these Practice Directions.
@@ -339,8 +329,6 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 (3) When the bundle of documents is tendered at the Legal Registry of the Supreme Court pursuant to this paragraph, the Legal Registry staff will state on the top right hand corner of the bundle the exact amount of Court fees payable under Order 90B.  The parties should then pay the Court fees as indicated.
 
 (4) The directions set out in paragraph 89 of these Practice Directions in relation to the preparation of the bundles shall, with the necessary modifications, apply to the bundle of documents.
-
-## 89B. Inclusion in appeal bundles of documents ordered to be sealed or redacted
 
 (1) This paragraph applies only where certain documents tendered before the court below have been ordered to be sealed or redacted.
 
@@ -380,8 +368,6 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 (7) For the avoidance of doubt, documents that have been ordered to be expunged should not in any event be tendered to the Court of Appeal or the Appellate Division in any form.
 
-## 90. Skeletal arguments for appeals and matters before the General Division, Appellate Division, Court of Appeal and Court of 3 Judges
-
 (1) For the avoidance of doubt, this paragraph applies to:
 
 <ul type="*">
@@ -407,8 +393,6 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 	<li>(g) every page shall have a margin on all 4 sides, each of at least 35mm in width.</li>
 </ul>
 
-
-
 ***Skeletal arguments for civil matters before the Court of Appeal and civil matters before the Appellate Division***
 
 (5) The need for parties to avoid prolixity in their “skeletal arguments” is emphasised. All skeletal arguments in civil matters before the Court of Appeal, and civil matters before the Appellate Division, shall not exceed 20 pages. Any skeletal arguments in breach of this requirement will be rejected. The cover page and backing page shall be excluded from any computation of the number of pages.
@@ -433,8 +417,6 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 (11) Sub-paragraphs (1) to (8A) also apply to disciplinary proceedings, or appeals therefrom, brought under any statute, including the Legal Profession Act (Cap. 161) and the Medical Registration Act (Cap. 174), which are heard by a Court of 3 Judges.
 
-## 90A. Applications in civil matters before the Court of Appeal and civil matters before the Appellate Division
-
 (1) Unless otherwise provided by any written law or otherwise directed, reply aﬃdavits (if any) for applications in civil matters before the Court of Appeal and civil matters before the Appellate Division are to be ﬁled and served within 7 days after the date the application and the aﬃdavit in support of the application (if any) are served on the party.
 
 (2) No further aﬃdavits shall be ﬁled without the leave of the Court of Appeal or the Appellate Division (as the case may be).
@@ -451,8 +433,6 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 </ul>
 
 (5) If no aﬃdavits or submissions are ﬁled by the timelines prescribed by this paragraph, the Court of Appeal or the Appellate Division (as the case may be) will proceed on the basis that the party does not intend to ﬁle any aﬃdavit or submissions and may, in accordance with section 55(1)(*a*) or section 37(1)(*a*) of the Supreme Court of Judicature Act (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
-
-## 90B. Applications to the Court of Appeal, and applications to the Appellate Division, for leave to appeal in civil matters
 
 (1) Any written submissions in respect of:
 
@@ -479,8 +459,6 @@ shall be in Form 31A or 31B of Appendix A of these Practice Directions.
 
 (5) This paragraph does not apply to any application for leave to appeal against a decision of the General Division made before 2 January 2021 against which no appeal was brought before 2 January 2021, in a case where leave of the Court of Appeal was required to bring an appeal to the Court of Appeal under section 34(2), (2A) or (4) of the Supreme Court of Judicature Act as in force immediately before 2 January 2021. For any such application for leave to appeal, paragraph 90A sets out the directions for the filing of affidavits and written submissions.
 
-## 91. Use of presentation slides for all proceedings before the General Division, Appellate Division, Court of Appeal and Court of 3 Judges
-
 Subject to approval by the Court, parties may utilise presentation slides to assist in oral submissions before the Court. Presentation slides may be projected in the courtroom or hearing chambers when oral submissions are made. Presentation slides shall comply with the following standards:
 
 ***Typeface***
@@ -498,8 +476,6 @@ Subject to approval by the Court, parties may utilise presentation slides to ass
 ***Corporate logos***
 
 (4) Corporate logos of the law practice may be displayed on the presentation slides. Care should be taken to ensure that the size and location of corporate logos do not distract from the substance of the presentation slides. 
-
-## 92. Further arguments before the Court of Appeal and the Appellate Division
 
 (1) From time to time, requests are received for further arguments to be presented before the Court of Appeal or the Appellate Division after the conclusion of the hearing of the appeal. Such requests should not be made as all relevant arguments should have been presented at the hearing proper. 
 
@@ -524,8 +500,6 @@ Subject to approval by the Court, parties may utilise presentation slides to ass
 (6) A copy of the request should be furnished to all parties concerned.
 
 (7) All requests should be addressed to the Registrar.
-
-## 92A. **Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act and the Legal Aid and Advice Regulations** 
 
 (1) Where a Grant of Aid lapses or is cancelled in the course of any proceedings in the Court of Appeal or the Appellate Division, counsel should promptly notify the Court of Appeal or the Appellate Division (as the case may be) of the lapse or the cancellation in writing. This is given that questions may arise from the lapse or the cancellation of a Grant of Aid as to whether security for costs would need to be furnished to enable the proceedings in the Court of Appeal or the Appellate Division (as the case may be) to continue to be pursued.
 
