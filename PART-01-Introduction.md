@@ -16,8 +16,15 @@
 	<li>9. Registrar’s Circulars</li>
 </ul>
 
-
-## 1. Citation
+## 1. Citation and application
+## 2. Definitions
+## 3. References to written laws
+## 4. Commencement
+## 5. Updating
+## 6. Applicability of Practice Directions
+## 7. Calculation of time
+## 8. Forms
+## 9. Registrar’s Circulars
 
 (1) These Practice Directions may be cited as the Supreme Court Practice Directions 2021,
 and will apply, on and after 1 April 2022, to:
@@ -36,32 +43,20 @@ of Appeal, that is governed by the Rules of Court (Cap 322, R 5, 2014 Ed); and
 
 (b) any criminal proceedings
 
-## 1A. Definitions
-
 In these Practice Directions, unless the context otherwise requires:<br>
  “Appellate Division” means the Appellate Division of the High Court; and<br>
  “General Division” means the General Division of the High Court.
 
-## 1B. References to repealed provisions of written laws
-
 In these Practice Directions, any reference to a repealed provision of any written law is a reference to that provision as in force immediately before the date the provision is repealed.
-
-## 2. Commencement
 
 These Practice Directions shall come into effect on 1 January 2013.
 
-## 3. Revocation of previous practice directions
-
 These Practice Directions are issued to consolidate all previous practice directions of the Supreme Court.  All previous editions of practice directions are revoked with effect from 1 January 2013.
-
-## 4. Updating
 
 (1) Amendments to these Practice Directions will be done on a paragraph-for-paragraph basis.  These Practice Directions will be
 automatically updated with the new amended paragraphs.  A list of amendments made will also be found on the Supreme Court website, on a noter-up page entitled 'Amendments'.
 
 (2) Where legislation is cited in these Practice Directions, the citation shall be read to refer to the edition of that legislation currently in force.
-
-## 5. Applicability of Practice Directions
 
 ***Practice Directions to apply to civil proceedings***
 
@@ -93,15 +88,9 @@ automatically updated with the new amended paragraphs.  A list of amendments mad
 
 and Part XXII applies.
 
-## 6. Forms
-
 The forms in Appendix A of these Practice Directions shall be used where applicable, with such variations as the circumstances of the case may require.
 
-## 7. Registrar’s Circulars
-
 Registrar’s Circulars can be found at the Supreme Court web site at http://[www.supremecourt.gov.sg](http://www.supremecourt.gov.sg).
-
-## 7A. Business of the Registry
 
 (1) Pursuant to section 71(1) of the Supreme Court of Judicature Act and Order 60, Rule 1(1) of the Rules of Court, the Chief Justice has directed that the Registry of the Supreme Court (“the Registry”) shall comprise the Division for the Court of Appeal and the Appellate Division, the Division for the General Division and the Division for the Singapore International Commercial Court.
 
