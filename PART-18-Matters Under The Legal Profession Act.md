@@ -1,9 +1,9 @@
 # Part XVIII: Matters Under The Legal Profession Act 
 
 <ul type="*">
-	<li>156. Applications for admission as an advocate and solicitor of the Supreme Court</ul>
-	<li>157. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act</ul>
-	<li>158. Electronic applications for practising certificate</ul>
+	<li>156. Applications for admission as an advocate and solicitor of the Supreme Court</li>
+	<li>157. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act</li>
+	<li>158. Electronic applications for practising certificate</li>
 </ul>
 
 ## 134. Applications for admission as an advocate and solicitor of the Supreme Court
