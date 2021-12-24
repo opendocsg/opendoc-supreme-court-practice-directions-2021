@@ -55,7 +55,7 @@ automatically updated with the new amended paragraphs.  A list of amendments mad
 
 (3) For proceedings that do not use the Electronic Filing Service, the following paragraphs of Parts I to XXI do not apply:
 
-<ul type='*'>
+<ul type='a'>
 	<li>(a) 37(3);</li>
 	<li>(b) 59(5);</li>
 	<li>(c) 69(1) to 69(3);</li>
