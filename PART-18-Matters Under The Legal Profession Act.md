@@ -1,4 +1,4 @@
-# Part XVIII: Matters Under The Legal Profession Act 
+# Part 18: Matters Under The Legal Profession Act
 
 <ul type="*">
 	<li>156. Applications for admission as an advocate and solicitor of the Supreme Court</li>
