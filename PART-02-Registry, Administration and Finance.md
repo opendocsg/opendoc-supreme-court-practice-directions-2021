@@ -1,4 +1,4 @@
-# Part II: Registry, Administration and Finance 
+# Part 2: Registry, Administration and Finance
 
 <ul type="*">
 	<li>10. Business of the Registry</li>
