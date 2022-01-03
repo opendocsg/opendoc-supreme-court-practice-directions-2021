@@ -1,4 +1,4 @@
-# Part VII: Case Conferences 
+# Part 7: Case Conferences
 
 <ul type="*">
 	<li>55. Attendance of counsel at case conferences</li>
