@@ -1,4 +1,4 @@
-# Part XVII: Admiralty Matters 
+# Part 17: Admiralty Matters
 
 <ul type="*">
   <li>146. Arrest of ships</li>
