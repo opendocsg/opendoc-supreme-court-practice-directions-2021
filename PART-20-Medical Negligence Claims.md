@@ -1,4 +1,4 @@
-# Part XX: Medical Negligence Claims 
+# Part 20: Medical Negligence Claims
 
 <ul type="*">
 	<li>163. Compliance with protocol</li>
