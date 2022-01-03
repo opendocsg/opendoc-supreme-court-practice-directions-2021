@@ -1,4 +1,4 @@
-# Part XXII: Other Matters Specific to Criminal Proceedings
+# Part 22: Other Matters Specific to Criminal Proceedings
 
 <ul type="*">
 	<li>165. Judge Case Conference Checklist for criminal trials in the General Division</li>
