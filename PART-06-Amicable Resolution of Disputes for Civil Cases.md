@@ -1,4 +1,4 @@
-# Part VI: Amicable Resolution of Disputes for Civil Cases 
+# Part 6: Amicable Resolution of Disputes for Civil Cases
 
 <ul type="*">
 	<li>53. Overview of Amicable Resolution of Disputes (ADR) for civil cases</li>

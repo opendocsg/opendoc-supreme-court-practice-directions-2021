@@ -1,4 +1,4 @@
-# Part XXI: Reference to Actuarial Tables in Personal Injury and Death Claims 
+# Part 21: Reference to Actuarial Tables in Personal Injury and Death Claims
 
 <ul type="*">
 	<li>164. Reference to Actuarial Tables for the Assessment of Damages in Personal Injury and Death Claims</li>
