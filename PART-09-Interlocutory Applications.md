@@ -1,4 +1,4 @@
-# Part IX: Interlocutory Applications 
+# Part 9: Interlocutory Applications
 
 <ul type="*">
 	<li>66. Filing of summonses</li>
