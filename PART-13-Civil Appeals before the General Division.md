@@ -1,4 +1,4 @@
-# Part XIII: Civil Appeals before the General Division
+# Part 13: Civil Appeals before the General Division
 
 <ul type="*">
 	<li>111. Application of this Part</li>
