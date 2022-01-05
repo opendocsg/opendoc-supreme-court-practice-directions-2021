@@ -16,73 +16,60 @@
 	<li>9. Registrar’s Circulars</li>
 </ul>
 
-## 1. Citation and application
-## 2. Definitions
-## 3. References to written laws
-## 4. Commencement
-## 5. Updating
-## 6. Applicability of Practice Directions
-## 7. Calculation of time
-## 8. Forms
-## 9. Registrar’s Circulars
+## 1.	Citation and application
 
-These Practice Directions may be cited as the Supreme Court Practice Directions.
+(1)	These Practice Directions may be cited as the Supreme Court Practice Directions 2021, and will apply, on and after 1 April 2022, to:
 
-In these Practice Directions, unless the context otherwise requires:<br>
- “Appellate Division” means the Appellate Division of the High Court; and<br>
- “General Division” means the General Division of the High Court.
+(a)	any cause or matter, in the General Division, the Appellate Division or the Court of Appeal, that is governed by the Rules of Court 2021; and
 
-In these Practice Directions, any reference to a repealed provision of any written law is a reference to that provision as in force immediately before the date the provision is repealed.
+(b)	any criminal proceedings commenced, in the General Division or the Court of Appeal, on or after 1 April 2022.
 
-These Practice Directions shall come into effect on 1 January 2013.
+(2)	The Supreme Court Practice Directions as in force immediately before 1 April 2022 continue to apply, on and after 1 April 2022, to:
 
-These Practice Directions are issued to consolidate all previous practice directions of the Supreme Court.  All previous editions of practice directions are revoked with effect from 1 January 2013.
+(a)	any cause or matter, in the General Division, the Appellate Division or the Court of Appeal, that is governed by the Rules of Court (Cap 322, R 5, 2014 Ed); and
 
-(1) Amendments to these Practice Directions will be done on a paragraph-for-paragraph basis.  These Practice Directions will be
-automatically updated with the new amended paragraphs.  A list of amendments made will also be found on the Supreme Court website, on a noter-up page entitled 'Amendments'.
+(b)	any criminal proceedings commenced, in the General Division or the Court of Appeal, before 1 April 2022.
 
-(2) Where legislation is cited in these Practice Directions, the citation shall be read to refer to the edition of that legislation currently in force.
+## 2.	Definitions
 
-***Practice Directions to apply to civil proceedings***
+In these Practice Directions, unless the context otherwise requires: “Appellate Division” means the Appellate Division of the High Court; and “General Division” means the General Division of the High Court.
 
-(1) These Practice Directions shall apply to civil proceedings only unless otherwise stated.
+## 3.	References to written laws
 
-***Proceedings using the Electronic Filing Service***
+In these Practice Directions, unless the context otherwise requires:
 
-(2) For proceedings using the Electronic Filing Service, Part XXII of these Practice Directions does not apply.
+(a)	any reference to a repealed provision of any written law is a reference to that provision as in force immediately before the date the provision is repealed;
 
-***Proceedings not using the Electronic Filing Service***
+(b)	any reference to “Rules of Court 2021” is a reference to the Rules of Court 2021 as in force on or after 1 April 2022; and
 
-(3) For proceedings that do not use the Electronic Filing Service, the following paragraphs of Parts I to XXI do not apply:
+(c)	where any legislation is cited in these Practice Directions, the citation is to be read as referring to the version of that legislation currently in force.
 
-<ol type="a">
-	<li>37(3);</li>
-	<li>59(5);</li>
-	<li>(c) 69(1) to 69(3);</li>
-	<li>(d) 70(3) and (5);</li>
-	<li>(e) 71(3) to 71(7);</li>
-	<li>(f) 75(3) to (5);</li>
-	<li>(g) 78;</li>
-	<li>(h) 97;</li>
-	<li>(i) 100 to 115;</li>
-	<li>(j) 116 to 119;</li>
-	<li>(k) 134(6); and</li>
-	<li>(l) 145;</li>
-</ol>
+## 4.	Commencement
 
-and Part XXII applies.
+These Practice Directions come into operation on 1 April 2022.
 
-The forms in Appendix A of these Practice Directions shall be used where applicable, with such variations as the circumstances of the case may require.
+## 5.	Updating
 
-Registrar’s Circulars can be found at the Supreme Court web site at http://[www.supremecourt.gov.sg](http://www.supremecourt.gov.sg).
+Amendments to these Practice Directions will be done on a paragraph-for-paragraph basis. These Practice Directions will be automatically updated with the new amended paragraphs. A list of amendments made will also be found on the Singapore Courts website at http://www.judiciary.gov.sg.
 
-(1) Pursuant to section 71(1) of the Supreme Court of Judicature Act and Order 60, Rule 1(1) of the Rules of Court, the Chief Justice has directed that the Registry of the Supreme Court (“the Registry”) shall comprise the Division for the Court of Appeal and the Appellate Division, the Division for the General Division and the Division for the Singapore International Commercial Court.
+## 6.	Applicability of Practice Directions
 
-(2) There shall be a Divisional Registrar for the Court of Appeal and the Appellate Division, a Divisional Registrar for the General Division, and a Divisional Registrar for the Singapore International Commercial Court. The Divisional Registrar for each division of the Registry shall have control and supervision of the aﬀairs of that division. Overall control and supervision of the Registry shall remain with the Registrar of the Supreme Court.
+Practice Directions to apply to civil proceedings
 
-(3) The Chief Justice may designate any Assistant Registrar as Senior Assistant Registrar. The Chief Justice may also designate the Deputy Registrar, any Senior Assistant Registrar or any Assistant Registrar as Divisional Registrar or Deputy Divisional Registrar of any division of the Registry.
+(1)	These Practice Directions apply to civil proceedings only, unless otherwise stated.
 
-(4) Appendix H sets out the names of the Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars.
+Proceedings using the Electronic Filing Service
 
-(5) Pursuant to Order 60, Rule 1(3) of the Rules of Court, the business of the Registry is governed by the Rules of Court and these Practice Directions. For the avoidance of doubt, it is hereby declared that any instruction manuals which may be issued from time to time by the Government are not applicable to the business of the Registry.
+(2)	For proceedings using the Electronic Filing Service, Part 5 of these Practice Directions does not apply.
 
+## 7.	Calculation of time
+
+Unless otherwise stated, the provisions in the Rules of Court 2021 relating to the calculation of time apply to the calculation of time in these Practice Directions.
+
+## 8.	Forms
+
+The forms specified by number in the Rules of Court 2021 are set out in Appendix A of these Practice Directions. The forms specified by number in these Practice Directions are set out in Appendix B of these Practice Directions. The forms are to be used where applicable, with such variations as the circumstances of the case may require.
+ 
+## 9.	Registrar’s Circulars
+
+Registrar’s	Circulars	can	be	found	at	the	Singapore	Courts	website	at http://www.judiciary.gov.sg
