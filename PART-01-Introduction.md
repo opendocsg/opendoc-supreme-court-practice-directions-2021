@@ -54,11 +54,11 @@ Amendments to these Practice Directions will be done on a paragraph-for-paragrap
 
 ## 6.	Applicability of Practice Directions
 
-Practice Directions to apply to civil proceedings
+***Practice Directions to apply to civil proceedings***
 
 (1)	These Practice Directions apply to civil proceedings only, unless otherwise stated.
 
-Proceedings using the Electronic Filing Service
+***Proceedings using the Electronic Filing Service***
 
 (2)	For proceedings using the Electronic Filing Service, Part 5 of these Practice Directions does not apply.
 
