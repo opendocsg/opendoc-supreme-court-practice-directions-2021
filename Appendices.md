@@ -1,6 +1,6 @@
 # Appendices
 
-## Appendix A : Forms 
+## Appendix A – Forms prescribed in the Rules of Court 2021 
 
 <ul type="*">
 	<li><a href="./downloads/Appendix_A/Form_01.pdf" download>Form 1. Specimen Government Medical Certificate</a></li>
@@ -50,13 +50,13 @@
 	<li><a href="./downloads/Appendix_A/Form_34.pdf" download>Form 34. Information Sheet to be exhibited in an Affidavit in support of a Leave Application under section 394H of the Criminal Procedure Code</a></li>
 </ul>
 
-## Appendix B : Waiting Periods
+## Appendix B – Forms prescribed in the Supreme Court Practice Directions 2021 
 
 <ul type="*">
 	<li><a href="./downloads/Appendix_B/Appendix_B.pdf" download>WAITING PERIODS</a></li>
 </ul>
 
-## Appendix C : Sample Bills Of Costs 
+## Appendix C – Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars 
 
 <ul type="*">
 	<li><a href="./downloads/Appendix_C/Appendix_C1.pdf" download>1. Sample Bill of Costs for contentious matters - Trials</a></li>
@@ -64,7 +64,9 @@
 	<li><a href="./downloads/Appendix_C/Appendix_C3.pdf" download>3. Sample Bill of Costs for non-contentious matters</a></li>
 </ul>
 
-## Appendix E : Discovery and Inspection of Electronic Documents
+## Appendix D – Guidelines for Advocates and Solicitors Advising Clients about ADR 
+
+## Appendix E – Sample Bills of Costs 
 
 <ul type="*">
 	<li><a href="./downloads/Appendix_E/APPENDIX_E_PART_1.pdf" download>1. Checklist of Issues for Good Faith Collaboration</a></li>
@@ -73,32 +75,21 @@
 	<li><a href="./downloads/Appendix_E/APPENDIX_E_PART_4.pdf" download>4. Reasonable Usable Formats</a></li>
 </ul>
 
-## Appendix F : Sample Costs Schedule
+## Appendix F – Sample Costs Schedule 
 
 <ul type="*">
 	<li><a href="./downloads/Appendix_F/APPENDIX_F.pdf" download>SAMPLE COSTS SCHEDULE</a></li>
 </ul>
 
-## Appendix G : Guidelines for Party-and-Party costs awards in the Supreme Court of Singapore
+## Appendix G – Guidelines for Party-and-Party Costs Awards in the Supreme Court of Singapore 
 
 <ul type="*">
 	<li><a href="./downloads/Appendix_G/Appendix_G.pdf" download>GUIDELINES FOR PARTY-AND-PARTY COSTS AWARDS IN THE SUPREME COURT OF SINGAPORE</a></li>
 </ul>
 
-## Appendix H : Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars
+## Appendix H – Protocol for Medical Negligence Cases in the General Division of the High Court 
 
 <ul type="*">
 	<li><a href="./downloads/Appendix_H/Appendix_H.pdf" download>REGISTRAR, DEPUTY REGISTRAR, DIVISIONAL AND DEPUTY DIVISIONAL REGISTRARS, AND SENIOR ASSISTANT REGISTRARS</a></li>
 </ul>
 
-## Appendix I : Guidelines for Advocates and Solicitors advising clients about ADR
-
-<ul type="*">
-	<li><a href="./downloads/Appendix_I/Appendix_I.pdf" download>GUIDELINES FOR ADVOCATES AND SOLICITORS ADVISING CLIENTS ABOUT ADR</a></li>
-</ul>
-
-## Appendix J : Protocol for Medical Negligence Cases in The General Division of The High Court
-
-<ul type="*">
-	<li><a href="./downloads/Appendix_J/APPENDIX_J.pdf" download>PROTOCOL FOR MEDICAL NEGLIGENCE CASES IN THE GENERAL DIVISION OF THE HIGH COURT</a></li>
-</ul>
