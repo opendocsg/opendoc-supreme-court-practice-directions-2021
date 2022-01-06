@@ -321,7 +321,7 @@ The Direction to the Accountant-General for Payment Out must be in Form 44(b) of
 
 (6)	Where a party wishes to furnish security for costs for an appeal or an application filed in the Supreme Court by depositing monies in the Registry, he or she must deposit the monies in one of the following manners:
 <ul type="*">
-<li>(a)	<span style="text-decoration: underline">By electronic payment</span>: The party is to send his or her case details by email to the Finance Directorate of the Supreme Court at <a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg>SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>. The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Directorate.</li>
+<li>(a)	<span style="text-decoration: underline">By electronic payment</span>: The party is to send his or her case details by email to the Finance Directorate of the Supreme Court at <a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg">SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>. The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Directorate.</li>
 
 <li>(b)	<span style="text-decoration: underline">By making payment at the Supreme Court</span>: The party will be required to complete a requisite form when he or she attends at the Supreme Court. The accepted payment modes are Cash, Cashier’s Order (made payable to “Registrar Supreme Court/AG”), NETS and credit card. Upon payment at the counter, a receipt will be issued to the party.</li>
 </ul>
