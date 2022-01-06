@@ -229,7 +229,7 @@ The Chief Justice has directed that the General Division, the Appellate Division
 <li>(c)	details of appeals filed in the Court of Appeal, appeals filed in the Appellate Division and appeals filed in the General Division; and</li>
 
 <li>(d)	any other information as may from time to time be found necessary.</li>
-
+</ul>
 (11)	Searches for any Court records mentioned in sub-paragraph (10) may be conducted through the Electronic Filing Service at a service bureau or at the Registry. The fees prescribed by the Fourth Schedule to the Rules of Court 2021 will be payable for such searches.
 
 (12)	An application may be made by any person for a licence to use any information contained in any electronic cause book or register subject to such terms and conditions as the Registrar may determine. Successful applicants will be required to enter into separate technical services agreements with the Electronic Filing Service provider. Applications under this sub-paragraph must be made in writing, identifying the data fields sought and providing details of how the information will be used.
