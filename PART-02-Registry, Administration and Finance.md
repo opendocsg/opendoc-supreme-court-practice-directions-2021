@@ -321,7 +321,8 @@ The Direction to the Accountant-General for Payment Out must be in Form 44(b) of
 
 (6)	Where a party wishes to furnish security for costs for an appeal or an application filed in the Supreme Court by depositing monies in the Registry, he or she must deposit the monies in one of the following manners:
 <ul type="*">
-<li>(a)	<span style="text-decoration: underline">By electronic payment</span>: The party is to send his or her case details by email to the Finance Directorate of the Supreme Court at <a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg>SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>. The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Directorate.</li>
+
+<li>(a)	<span style="text-decoration: underline">By electronic payment</span>: The party is to send his or her case details by email to the Finance Directorate of the Supreme Court at <a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg">SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>. The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Directorate.</li>
 
 <li>(b)	<span style="text-decoration: underline">By making payment at the Supreme Court</span>: The party will be required to complete a requisite form when he or she attends at the Supreme Court. The accepted payment modes are Cash, Cashier’s Order (made payable to “Registrar Supreme Court/AG”), NETS and credit card. Upon payment at the counter, a receipt will be issued to the party.</li>
 </ul>
@@ -339,6 +340,33 @@ The party must provide proof of such deposit when filing the appeal or applicati
 </ul>
  
 ## 21. Requests and other Correspondence
+
+(1)	All Requests relating to or in connection with any pending cause or matter are to be made using the electronic forms available through the Electronic Filing Service. Where an electronic form is available through the Electronic Filing Service for the Request that is sought, the Registry has the discretion to refuse acceptance of other forms of written correspondence (including letters) and to refuse to act on such correspondence.
+
+(2)	All correspondence to the Court relating to or in connection with any pending cause or matter must be copied to all other parties to the cause or matter or to their solicitors unless there are good reasons for not doing so. Solicitors are further reminded that the Court should not be copied on correspondence between parties or their solicitors. The Registry has the discretion to reject or refuse to act on any inappropriate correspondence or correspondence that is not copied to all other parties to the cause or matter or to their solicitors unless there are good reasons for not doing so.
+
+(3)	Apart from Requests coming within sub-paragraph (1), all correspondence relating to or in connection with any cause or matter before the Court of Appeal, the Appellate Division, the General Division or a Judge must be addressed to the Registrar.
+
+(4)	In addition, all letters should be captioned with the number of the case to which they relate and the names of the parties. For example:
+```
+SUIT NO. 1 OF 2021 (if an action begun by originating claim);
+
+
+Between AB (and ANOR or ORS, if there are 2 or more claimants, as the case may be) and CD (and ANOR or ORS, if there are 2 or more defendants, as the case may be)
+```
+If the letter relates to an interlocutory application, the reference number of that application should be stated in the caption below the parties’ names. For example:
+```
+SUMMONS NO. 1 OF 2021
+```
+
+(5)	Compliance with the directions in this paragraph will facilitate the expeditious processing of the request.
+
+(6)	A letter may be sent to the Court by a law firm using the Electronic Filing Service only. If a letter is sent to the Court by a law firm in any other way, it is liable to be rejected. If a letter is sent to the Court by a law firm without the information specified in sub-paragraph (4), it is also liable to be rejected.
+
+(7)	Sub-paragraph (6) does not apply to a party who is not legally represented.
+
+(8)	Registrar’s Directions and Notices from the Registry will be sent to law firms who are registered users of the Electronic Filing Service through the Electronic Filing Service. Registered users are to ensure that the inbox of their Electronic Filing Service account(s) are checked and cleared regularly.
+
 ## 22. Requesting a hearing date through the Electronic Filing Service
 ## 23. Fixing of hearing dates
 ## 24. Adjournment or vacation of trial dates and part-heard cases 
