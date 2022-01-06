@@ -189,7 +189,7 @@ The Chief Justice has directed that the General Division, the Appellate Division
 
 ***Obtaining certified true copies of documents***
 
-(8)	Users are encouraged to use the Authentic Court Order system to validate orders of court issued after 2 January 2020 by going to [http://www.courtorders.gov.sg]{http://www.courtorders.gov.sg). However, certified true copies of orders of court will still be available upon application.
+(8)	Users are encouraged to use the Authentic Court Order system to validate orders of court issued after 2 January 2020 by going to [http://www.courtorders.gov.sg](http://www.courtorders.gov.sg). However, certified true copies of orders of court will still be available upon application.
 
 (9)	Applications to obtain certified true copies of documents should be made by way of filing a Request through the Electronic Filing Service.
 
