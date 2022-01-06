@@ -148,7 +148,7 @@ The Chief Justice has directed that the General Division, the Appellate Division
 <li>(b)	If a party requires the services of an interpreter in a language apart from those listed in Form 1 of Appendix B of these Practice Directions, it is the duty of the party to engage such an interpreter directly to obtain his or her services for the scheduled hearing.</li>
 
 <li>(c)	Interpreters who are not from the Supreme Court's Interpreters Section must be sworn in before the Duty Registrar before they may provide interpretation services for proceedings in Court.</li>
-<ul>
+</ul>
 
 (10)	Requests for translation of documents in Chinese, Malay or Tamil for use in Supreme Court proceedings must be filed through the Electronic Filing Service at least 4 weeks before the date the translations are required. Failure to comply with the directions set out in this sub- paragraph may result in translations not being available or provided by the date they are required.
 
