@@ -50,7 +50,7 @@ These Practice Directions come into operation on 1 April 2022.
 
 ## 5.	Updating
 
-Amendments to these Practice Directions will be done on a paragraph-for-paragraph basis. These Practice Directions will be automatically updated with the new amended paragraphs. A list of amendments made will also be found on the Singapore Courts website at http://www.judiciary.gov.sg.
+Amendments to these Practice Directions will be done on a paragraph-for-paragraph basis. These Practice Directions will be automatically updated with the new amended paragraphs. A list of amendments made will also be found on the Singapore Courts website at [http://www.judiciary.gov.sg](http://www.judiciary.gov.sg).
 
 ## 6.	Applicability of Practice Directions
 
@@ -72,4 +72,4 @@ The forms specified by number in the Rules of Court 2021 are set out in Appendix
  
 ## 9.	Registrar’s Circulars
 
-Registrar’s	Circulars	can	be	found	at	the	Singapore	Courts	website	at http://www.judiciary.gov.sg
+Registrar’s	Circulars	can	be	found	at	the	Singapore	Courts	website	at [http://www.judiciary.gov.sg](http://www.judiciary.gov.sg)
