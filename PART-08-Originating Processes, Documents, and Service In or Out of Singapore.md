@@ -212,9 +212,11 @@ NO IDENTIFICATION NUMBERS EXIST
  
 <li>(c)	Where endorsements must be made on a document which has already been filed or issued, a fresh copy of the document containing the relevant endorsements must be prepared, and the document must be re-filed or re-issued, as the case may be. An example of this would be renewals of originating claims.</li>
 </ul>
+
 ## 60. Amendment of documents 
 ## 61. Pleadings 
 ## 62. Personal service of processes and documents 
 ## 63. Application for service out of Singapore of originating process or other court document 
 ## 64. Court’s power to dismiss an action if no reasonable steps taken to serve originating process expeditiously 
 ## 65. Substituted service
+
