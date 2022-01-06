@@ -13,53 +13,68 @@
 </ul>
 
 ## 55. Attendance of counsel at case conferences 
+
+(1)	A case conference referred to in Order 9, Rule 1 of the Rules of Court 2021 should be attended by lead counsel, or counsel who is familiar with the case and has sufficient authority to make decisions. Otherwise, the Court may stand down or adjourn the case conference until a counsel who has sufficient knowledge and authority is present.
+
+(2)	A case conference is generally conducted by the Registrar, but the Registrar may refer any matter at any time to the assigned Judge in that action, or if there is none, to any Judge. A case conference conducted by the Registrar is referred to as a Registrar’s Case Conference (“RCC”).
+
 ## 56. Documents to be filed for case conferences 
 
-(1) The average waiting times between the filing of certain processes or other steps in the proceedings and the date for the hearing or pre-trial conference of the matter are set out in Appendix B of these Practice Directions. Solicitors are directed to take note of these waiting times as they must be ready to proceed at the end of the relevant period. The average waiting times in Appendix B do not apply to special date fixings.
+***Pre-Case Conference Questionnaire***
 
-(2) This paragraph shall apply to both civil and criminal proceedings.
+(1)	The Pre-Case Conference Questionnaire (“PCQ”) is intended to facilitate the Court’s discussion with parties at the case conferences on the various issues, timelines and milestones for each case. Counsel or parties who are not legally represented should familiarise themselves with the PCQ and be ready to address the Court on the issues relevant to the parties’ respective cases.
 
-(1) When filing applications through the Electronic Filing Service, solicitors may be permitted to make a request for a preferred hearing date for the following classes of applications:
+(2)	Unless the Court otherwise directs, each party must file the PCQ in the manner and form set out in Form 6 of Appendix B of these Practice Directions, to the extent possible, 1 week before the first RCC. Parties are to confer and discuss the matters in the PCQ, including agreed positions (if any) before filing the PCQ.
 
+(3)	Unless otherwise directed by the Court, the first RCC will be fixed:
 <ul type="*">
-	<li>(a) interlocutory applications to be heard before Registrars;</li>
-	<li>(b) bankruptcy applications; and</li>
-	<li>(c) winding up applications.</li>
+<li>(a)	in a case where the defendant is to be served in Singapore, 8 weeks after the originating claim or originating application is issued; or</li>
+ 
+<li>(b)	in a case where an originating claim or originating application is to be served out of Singapore, 12 weeks after the originating claim or originating application is issued.</li>
 </ul>
+(4)	At the first RCC, the PCQ will be discussed with the Registrar. The Registrar may direct parties to update or supplement parts of the PCQ at a later stage, if necessary.
 
-(2) Solicitors should confer with all parties to the application before selecting a preferred hearing date. Counsel arguing the application for all parties should be available to attend the hearing on the date selected.
+***List of Issues***
 
-(3) In the event that it is not possible to confer with opposing counsel on a preferred hearing date, whether due to the nature or urgency of the application or otherwise, solicitors shall select a date where counsel arguing the application for the applicant will be available.
+(5)	At an appropriate stage of the proceedings, the Court may direct the parties to file a List of Issues (“LOI”) which may also be included in the PCQ.
 
-(1) To assist the Registrar at the fixing of hearing dates, solicitors should provide updated information as to the current status of the cause or matter, including the prospects of settlement and any other developments which are likely to affect the length of the trial. In order to facilitate a more realistic assessment of the time required for the hearing, they will also be required to inform the Registrar of the number of witnesses they intend to call, the estimated amount of time required for each party to cross-examine all the opposing party’s witnesses and the estimated total length of hearing.
+(6)	The LOI is a neutral case management tool which identifies the principal issues in dispute and enables the Court and parties to determine matters such as the scope of production of documents and the scope of factual and expert evidence (if any) which should be adduced. The LOI will be continually reviewed and refined by the Court and the parties at the case conferences as the case progresses.
 
-(2) Solicitors who attend the fixing should be fully acquainted with the cause or matter being fixed for hearing. They should preferably be the solicitor having conduct of the cause or matter.
+(7)	Where both parties are not legally represented, the Court may work with the parties on the drafting of the LOI during the case conference.
 
-(3) Solicitors must attend the fixing. It is not acceptable for their clerks to attend in their stead.
+***Expert Witness Template***
 
-(4) The attention of solicitors is drawn to Order 34, Rule 5 of the Rules of Court, which provides:
+(8)	Prior to the RCC where the issue of expert evidence (if any) is discussed, the parties are to fill in an Expert Witness Template in Form 7 of Appendix B of these Practice Directions.
 
+(9)	The Expert Witness Template requires the parties to provide information such as the general information pertaining to the proposed expert(s), the list of issues to be referred to the proposed expert(s), the proposed timelines for the proposed expert(s) to render his or her opinion, and the proposed duration for the expert(s) evidence at trial.
+
+***Position on an order under Order 9, Rule 8(1) of the Rules of Court 2021***
+
+(10)	Order 9, Rule 8(1) of the Rules of Court 2021 states:
+ 
+**Affidavits of evidence-in-chief (O. 9, r. 8)**
+
+8.—(1) If the application to challenge the jurisdiction of the Court has been dealt with or where there is no challenge to the jurisdiction of the Court, after pleadings have been filed and served but before any exchange of documents, the Court may, in any particular case, order the parties to file and serve their lists of witnesses and the affidavits of evidence in chief of all or some of the witnesses simultaneously or in any sequence.
+
+(11)	In appropriate cases, the parties will be required to indicate at the RCC whether they have any objection to an order under Order 9, Rule 8(1) of the Rules of Court 2021 being made in their case.
+
+***Single application pending trial checklist (SAPT Checklist)***
+
+(12)	At least 2 weeks before the date of the RCC where the issue of the filing of the SAPT will be discussed, or within such other period as the Court may direct, the Court may direct parties to complete the SAPT Checklist. A sample SAPT Checklist can be found in Form 8 of Appendix B of these Practice Directions. The SAPT Checklist is intended for parties to indicate their preferred sequence of the matters set out in the SAPT.
+
+(13)	The parties must fill in the SAPT Checklist in the following manner:
 <ul type="*">
-	<li>It shall be the duty of all parties to an action entered in any list to furnish without delay to the Registrar all available information as to the action being or being likely to be settled, or affecting the estimated length of the trial, <i>and, if the action is settled or withdrawn, to notify the Registrar of the fact without delay.</i></li>
-	<li>[emphasis added]</li>
+<li>(a)	At the point of filing the SAPT, the applicant must complete columns A, B and C of the SAPT Checklist and serve it on the respondent.</li>
+
+<li>(b)	The parties are to confer on the applicant’s proposed sequence for the matters to be heard as set out in column C of the SAPT Checklist.</li>
+
+<li>(c)	Where the parties agree on the proposed sequence for the matters to be heard as set out in column C of the SAPT Checklist, the respondent is to indicate this in column D of the SAPT Checklist.</li>
+
+<li>(d)	Where the respondent does not agree to the whole or any part of the applicant’s proposed sequence for the matters to be heard as set out in column C of the SAPT Checklist, the applicant is to include brief reasons for the applicant’s position, and the respondent is to set out in column D of the SAPT Checklist the respondent’s proposed sequence for the matters to be heard as well as brief reasons for the respondent’s position.</li>
 </ul>
+(14)	The respondent must file the completed SAPT checklist at least 1 week before the date of the RCC where the issue of the filing of the SAPT will be discussed, or within such other period as the Court may direct.
 
-(5) Further, parties are to note that any request for an early hearing date for any application, cause or matter is subject to the discretion and availability of the Court. In deciding when to fix an application, cause or matter for hearing or render its decision in any application, cause or matter, the Court is not obliged to give effect to any private agreement between parties on timelines and hearing dates.  
+(15)	Directions may be given by the Court for the soft copy of the SAPT Checklist in Microsoft Word format to be sent via email to the Registry.
 
-(1) Where dates have been fixed for the trial of any cause or matter, any request for an adjournment or vacation of the trial dates shall be made to the Court by way of summons with a supporting affidavit, even in those cases where counsel for the other party or parties consent to the adjournment.
+(16)	The Court will then issue the directions on the SAPT to inform parties of the sequence of the matters to be heard for the SAPT.
 
-(2) Subject to any directions of the Court, when a case is adjourned, the Registrar shall assign such days as are available for the hearing of the case, and counsel will be expected to take the dates at short notice.
-
-(3) In the event that the hearing of a case is not concluded within the number of days allotted, the Court may direct the hearing of the case to continue beyond the allotted time, rather than adjourning the case part-heard to another date. Counsel for parties in all cases should therefore be prepared to continue with the hearing of the matter notwithstanding the fact that the time originally allotted may have expired.
-
-(1) Before solicitors make a Request through the Electronic Filing Service to the Court for an adjournment or vacation of any hearings other than trials, they should seek the consent of the other party or parties to the matter.  Unilateral requests made without first seeking the consent or views of the other party or parties to the matter will not be entertained, except in the most exceptional circumstances.
-
-(2) Subject to sub-paragraph (3) below, the Request electronic form should be filed through the Electronic Filing Service at least 2 working days before the hearing, setting out the reasons for the requested adjournment or vacation of hearings.
-
-(3) Where an adjournment of any matter before the Court of Appeal or the Appellate Division is sought, the Request in electronic form should be ﬁled through the Electronic Filing Service as soon as practicable after the sitting in which the matter is scheduled to be heard has been assigned and notiﬁed to the parties. Where there is a delay in the making of the request, the reason or reasons for the delay must be provided with the request. Any request for an adjournment on account of counsel’s diaries will not readily be acceded to.
-
-(4) If the consent of all other parties to the matter is obtained, a letter stating that all parties have consented to the requested adjournment or vacation of hearings may be attached to the Request electronic form.  However, this does not mean that the Request will be granted as a matter of course.  The Court will still evaluate the merits of the Request before making its decision.  
-
-(5) If the consent of one or more of the other parties is not obtained, the letter should set out the reasons for the other parties’ objections, or explain why the consent of one or more of the other parties cannot be obtained. Any relevant correspondence between the parties should also be attached to the Request electronic form. The Court will then evaluate the contents of the Request and the relevant correspondence before deciding whether the requested adjournment or vacation of hearings should be allowed.
-
-(6) In any other case, solicitors on record for all parties must attend before the Court to make an application for an adjournment. See also paragraph 13 of these Practice Directions.
