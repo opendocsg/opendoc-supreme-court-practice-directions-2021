@@ -321,7 +321,6 @@ The Direction to the Accountant-General for Payment Out must be in Form 44(b) of
 
 (6)	Where a party wishes to furnish security for costs for an appeal or an application filed in the Supreme Court by depositing monies in the Registry, he or she must deposit the monies in one of the following manners:
 <ul type="*">
-
 <li>(a)	<span style="text-decoration: underline">By electronic payment</span>: The party is to send his or her case details by email to the Finance Directorate of the Supreme Court at <a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg">SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>. The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Directorate.</li>
 
 <li>(b)	<span style="text-decoration: underline">By making payment at the Supreme Court</span>: The party will be required to complete a requisite form when he or she attends at the Supreme Court. The accepted payment modes are Cash, Cashier’s Order (made payable to “Registrar Supreme Court/AG”), NETS and credit card. Upon payment at the counter, a receipt will be issued to the party.</li>
@@ -368,12 +367,111 @@ SUMMONS NO. 1 OF 2021
 (8)	Registrar’s Directions and Notices from the Registry will be sent to law firms who are registered users of the Electronic Filing Service through the Electronic Filing Service. Registered users are to ensure that the inbox of their Electronic Filing Service account(s) are checked and cleared regularly.
 
 ## 22. Requesting a hearing date through the Electronic Filing Service
+
+(1)	When filing applications through the Electronic Filing Service, solicitors may be permitted to make a request for a preferred hearing date for the following classes of applications:
+<ul type="*">
+<li>(a)	interlocutory applications to be heard before Registrars;</li>
+
+<li>(b)	bankruptcy applications; and</li>
+
+<li>(c)	winding up applications.</li>
+</ul>
+(2)	Solicitors should confer with all parties to the application before selecting a preferred hearing date. Counsel arguing the application for all parties should be available to attend the hearing on the date selected.
+
+(3)	In the event that it is not possible to confer with opposing counsel on a preferred hearing date, whether due to the nature or urgency of the application or otherwise, solicitors must select a date where counsel arguing the application for the applicant will be available.
+
 ## 23. Fixing of hearing dates
+
+(1)	To assist the Registrar in the fixing of hearing dates, solicitors should provide updated information as to the current status of the cause or matter, including the prospects of settlement and any other developments which are likely to affect the length of the trial. In order to facilitate a more realistic assessment of the time required for the hearing, they will also be required to inform the Registrar of the number of witnesses they intend to call, whether any witness will require interpretation services, the estimated amount of time required for each party to cross- examine all the opposing party’s witnesses and the estimated total length of hearing.
+
+(2)	Solicitors who attend before the Registrar for the fixing of hearing dates should be fully acquainted with the cause or matter being fixed for hearing. They should preferably be the solicitor having conduct of the cause or matter.
+
+(3)	It is the duty of all parties to an action to furnish without delay to the Registrar all available information as to the likelihood of the action being settled, or affecting the estimated length of the trial, and, if the action is settled or withdrawn, to notify the Registrar of the fact without delay.
+
+(4)	Further, parties are to note that any request for an early hearing date for any application, cause or matter is subject to the discretion and availability of the Court. In deciding when to fix an application, cause or matter for hearing or render its decision in any application, cause or matter, the Court is not obliged to give effect to any private agreement between parties on timelines and hearing dates.
+
 ## 24. Adjournment or vacation of trial dates and part-heard cases 
+
+(1)	Where dates have been fixed for the trial of any cause or matter, any request for an adjournment or vacation of the trial dates must be made to the Court by way of summons with a supporting affidavit, even in those cases where there is consent to the adjournment or vacation of the trial dates.
+
+(2)	Subject to any directions of the Court, when a case is adjourned, the Registrar will assign such days as are available for the hearing of the case, and counsel will be expected to take the dates at short notice.
+ 
+(3)	In the event that the hearing of a case is not concluded within the number of days allotted, the Court may direct the hearing of the case to continue beyond the allotted time, rather than adjourning the case part-heard to another date. Counsel for parties in all cases should therefore be prepared to continue with the hearing of the matter despite the fact that the time originally allotted may have expired.
+
 ## 25. Adjournment or vacation of hearings other than trials
+
+(1)	Before any party makes a Request through the Electronic Filing Service to the Court for an adjournment or vacation of any hearings other than trials, he or she should seek the consent of the other party or parties to the matter. Unilateral requests made without first seeking the consent or views of the other party or parties to the matter will not be entertained, except in the most exceptional circumstances.
+
+(2)	Subject to sub-paragraph (3) below, the Request electronic form should be filed through the Electronic Filing Service at least 2 working days before the hearing, setting out the reasons for the requested adjournment or vacation of the hearing.
+
+(3)	Where an adjournment of any matter before the Court of Appeal or the Appellate Division is sought, the Request electronic form should be filed through the Electronic Filing Service as soon as practicable after the sitting in which the matter is scheduled to be heard has been assigned and notified to the parties. Where there is a delay in the making of the Request, the reason or reasons for the delay must be provided with the Request. Any request for an adjournment solely on account of counsel’s unavailability will not be acceded to readily.
+
+(4)	If the consent of all other parties to the matter is obtained, a letter stating that all parties have consented to the requested adjournment or vacation of hearings may be attached to the Request electronic form. However, this does not mean that the Request will be granted as a matter of course. The Court will still evaluate the merits of the Request before making its decision.
+
+(5)	If the consent of one or more of the other parties is not obtained, the letter should set out the reasons for the other parties’ objections, or explain why the consent of one or more of the other parties cannot be obtained. Any relevant correspondence between the parties should also be attached to the Request electronic form. The Court will then evaluate the contents of the Request and the relevant correspondence before deciding whether the requested adjournment or vacation of hearings should be allowed.
+
+(6)	In any other case, parties must attend before the Court to make an application for an adjournment. See also paragraph 88 of these Practice Directions.
+
 ## 26. Authorisation for collection of Court documents or mail
+
+(1)	Without limiting sub-paragraphs (3) and (4), all law firms are required to notify the Registry of the particulars of person(s) authorised to collect Court documents or mail from the Supreme Court on their behalf by submitting a request to authorise user through the Electronic Filing Service.
+
+(2)	Where such authorised persons are no longer so authorised, law firms are required to revoke or delete the authorisation immediately by submitting a request through the Electronic Filing Service. Until receipt of such notification of revocation or deletion, Court documents and mail will continue to be released to such authorised persons upon production of evidence of identification.
+
+(3)	Any solicitor may collect Court documents or mail on behalf of his or her firm and any person who is not legally represented may collect Court documents or mail intended for him or her in any matter in which he or she is a party.
+
+(4)	A law firm may authorise a courier service provider to collect Court documents or mail from the Supreme Court on their behalf. At the time of collection, the courier service provider should produce a letter of authorisation which is printed on the law firm’s letterhead and addressed to the courier service provider. The said letter of authorisation should clearly state the case number, the name of the courier service provider appointed to collect and the Court documents or mail to be collected. An employee or representative of the courier service provider collecting the Court documents or mail may be requested to provide evidence that will allow the Registry to verify that he or she is an employee or representative from the courier service provider, and will have to acknowledge receipt of the Court documents or mail collected.
+
 ## 27. Electronic payment of Court fees
+
+***Implementation of electronic means for payment of Court fees***
+
+(1)	Subject to these Practice Directions, all Court fees not paid using the Electronic Filing Service must be paid by electronic means.
+
+***Modes of payment by electronic means***
+
+(2)	Payment by electronic means includes payment effected by Interbank GIRO (IBG), NETS and selected credit cards. For law firms with standing GIRO arrangements with the Supreme Court, payment by IBG would be the most appropriate mode of electronic payment where Court fees are paid over the counter. A law firm using IBG for such purposes will authorise the Supreme Court to deduct the fees from its bank account upon lodgement of the prescribed form.
+
+***Scope of payment by electronic means***
+
+(3)	The electronic means of payment cover all Court fees previously collected over the counter and hearing fees in the Supreme Court.
+
+***Registrar’s discretion***
+
+(4)	Unless otherwise approved by the Registrar, payment of Court fees collected over the counter must be made by electronic means. The Registrar may, in any case, waive the requirement for the payment to be effected by electronic means, on such terms and conditions as the Registrar deems fit.
+
 ## 28. Use of the Video Conference Facilities and the Mobile Infocomm Technology Facilities
+
+(1)	The video conference facilities and the Mobile Infocomm Technology Facilities (“MIT facilities”) may, at the discretion of the Registrar, be used:
+<ul type="*">
+<li>(a)	for the hearing of any matter, whether before a Judge or Registrar, in open court or in chambers; or</li>
+ 
+<li>(b)	for any other dispute resolution process.</li>
+</ul>
+(2)	The Registrar may refuse any request for the use of any of the services described in this Part at any time owing to the unavailability of staff or equipment or for any other reason. The Registrar need not give any reasons for the refusal of such a request.
+
 ## 29. Applications to use the Video Conference Facilities and Usage of Additional Equipment
+
+(1)	A request to use the video conference facilities for the hearing of any matter before a Judge or Registrar must be made by filing a Request electronic form in the manner and form set out in Form 2 of Appendix B of these Practice Directions through the Electronic Filing Service at least 14 working days before the hearing at which those facilities are to be used.
+
+(2)	An application to use the video conference facilities for any other dispute resolution process must be made by submitting Form 2 of Appendix B of these Practice Directions to the Registrar, through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out, at least 14 working days before the dispute resolution proceedings at which it is to be used.
+
+(3)	Upon a successful request to use the video conference facilities,
+<ul type="*">
+<li>(a)	prior arrangements for equipment testing have to be made at least 5 working days before the first day fixed for the hearing, in order to ensure equipment compatibility;</li>
+
+<li>(b)	applicants will be informed of the number for video conferencing during the testing session; and</li>
+
+<li>(c)	as a matter of general practice, the remote site will connect to the number and it is the responsibility of the party requesting the video conference to coordinate the booking and calling in from the remote site.</li>
+</ul>
+(4)	Any person who desires to use audio-visual and computer equipment additional to those provided in a courtroom will be asked to provide details of such equipment. The applicant must also be prepared to have the equipment available for testing with the audio-visual system of the courtroom at least 3 working days before the first day fixed for the hearing. It is the responsibility of the applicant to provide equipment that is compatible with the audio-visual system of the courtroom.
+
 ## 30. Applications to use the Mobile Infocomm Technology Facilities
 
+(1)	A request to use the MIT facilities for the hearing of any matter in open court or in chambers before a Judge or Registrar must be made by filing a Request electronic form in the manner and form set out in Form 2 of Appendix B of these Practice Directions through the Electronic Filing Service at least 14 working days before the hearing at which the MIT facilities are to be used.
+
+(2)	An application to use the MIT facilities for any other dispute resolution process must be made by submitting Form 2 of Appendix B of these Practice Directions to the Registrar, through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out as soon as practicable, as availability of the resources is on a first-come- first served basis.
+
+(3)	MIT facilities are available for use in both open court and in chambers.
+
+(4)	Any applicant desiring to use MIT facilities is required to provide details of the type of evidence to be presented and media format in the application form. The applicant must also be prepared to have the presentation material or media available for testing with the MIT facilities at least 5 working days before the first day fixed for the hearing. It is the responsibility of the applicant to provide presentation materials or media format that is compatible with the equipment provided by the Court.
