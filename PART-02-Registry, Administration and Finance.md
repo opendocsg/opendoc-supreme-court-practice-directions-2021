@@ -348,14 +348,14 @@ The party must provide proof of such deposit when filing the appeal or applicati
 
 (4)	In addition, all letters should be captioned with the number of the case to which they relate and the names of the parties. For example:
 ```
-**SUIT NO. 1 OF 2021** (if an action begun by originating claim);
+SUIT NO. 1 OF 2021 (if an action begun by originating claim);
 
 
-**Between AB** (and **ANOR** or **ORS**, if there are 2 or more claimants, as the case may be) **and CD** (and **ANOR** or **ORS**, if there are 2 or more defendants, as the case may be)
+Between AB (and ANOR or ORS, if there are 2 or more claimants, as the case may be) and CD (and ANOR or ORS, if there are 2 or more defendants, as the case may be)
 ```
 If the letter relates to an interlocutory application, the reference number of that application should be stated in the caption below the parties’ names. For example:
 ```
-***SUMMONS NO. 1 OF 2021***
+SUMMONS NO. 1 OF 2021
 ```
 
 (5)	Compliance with the directions in this paragraph will facilitate the expeditious processing of the request.
