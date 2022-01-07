@@ -249,23 +249,24 @@ NO IDENTIFICATION NUMBERS EXIST
 
 (7)	The following colours must be used to indicate the history of the amendments in pleadings:
 <ul type="*">
-<li>((a)	black for the first round of amendments;</li>
+<li>(a)	black for the first round of amendments;</li>
 
-<li>((b)	red for the second round of amendments;</li>
+<li>(b)	red for the second round of amendments;</li>
 
-<li>((c)	green for the third round of amendments;</li>
+<li>(c)	green for the third round of amendments;</li>
 
-<li>((d)	blue for the fourth round of amendments; and</li>
+<li>(d)	blue for the fourth round of amendments; and</li>
 
-<li>((e)	brown for subsequent rounds of amendments.</li>
+<li>(e)	brown for subsequent rounds of amendments.</li>
 </ul>
+
 ***AMENDMENT FOR THIRD TIME OR MORE***
 
 (8)	From the third round of amendments onwards, the amended pleading should comprise 2 versions of the document:
 <ul type="*">
-<li>((a)	a clean version without the amendments shown; followed in the same document by</li>
+<li>(a)	a clean version without the amendments shown; followed in the same document by</li>
 
-<li>((b)	a version showing the amendments in colour.</li>
+<li>(b)	a version showing the amendments in colour.</li>
  </ul>
 Only 1 amended pleading consisting of these 2 versions is required to be filed.
 
@@ -298,6 +299,7 @@ Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Cou
 
 <li>(d)	the obligation of the parties to disclose evidence would be limited by the extent to which the evidence is relevant to the facts pleaded in sub-paragraph (2)(a) and (b).</li>
 </ul>
+
 ## 62. Personal service of processes and documents 
 
 (1)	The attention of solicitors is drawn to Order 7, Rule 2(2) of the Rules of Court 2021.
@@ -376,6 +378,7 @@ Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Cou
 
 <li>(t)	the claim is for a committal order under Order 23 of the Rules of Court 2021.</li>
 </ul>
+
 ## 64. Court’s power to dismiss an action if no reasonable steps taken to serve originating process expeditiously
 
 (1)	Under Order 2, Rule 3(2) of the Rules of Court 2021, the claimant has to take reasonable steps to serve the originating claim with a statement of claim, or the originating application supported by affidavit, on a defendant expeditiously:
