@@ -130,6 +130,7 @@
 
 <li>(d)	for bankruptcy matters, the creditor must, in addition to his or her own identification number, also provide the identification number of the debtor in the first document filed by the creditor in the bankruptcy proceedings.</li>
 </ul>
+
 ***Identification numbers***
 
 (6)	When entering the identification number in the Electronic Filing Service, the full identification number, including the letters before and after the number should be entered.
@@ -214,9 +215,207 @@ NO IDENTIFICATION NUMBERS EXIST
 </ul>
 
 ## 60. Amendment of documents 
+
+***Application***
+
+(1)	The directions in this paragraph apply to documents and pleadings filed in any proceedings.
+
+***Amendment of any document***
+
+(2)	Where a document is required to be amended and filed in Court, a fresh copy of the document with the amendments included must be prepared, regardless of the number and length of the amendments sought to be made.
+
+(3)	The procedure for amending a document is as follows:
+<ul type="*">
+<li>(a)	A fresh amended copy of the document should be produced.</li>
+
+<li>(b)	The number of times the document has been amended must be indicated in parentheses after the name of the document. It should therefore be entitled “[document name] (Amendment No. 1)” or “[document name] (Amendment No. 2)”, or as appropriate.</li>
+
+<li>(c)	The changes made in the document from the latest version of the document filed in Court should be indicated in the following way:</li>
+<ul type="*">
+<li>(i)	deletions must be made by drawing a single line across the words to be deleted; and</li>
+
+<li>(ii)	insertions must be underlined.</li>
+ 
+</ul>
+</ul>
+(4)	The directions in sub-paragraph (3)(b) do not apply to originating applications and summonses amended from an application or summons to an application or summons without notice or the other way around.
+
+(5)	The directions in sub-paragraph (3)(c) do not apply to the originating processes, summonses and other electronic forms that are composed online through the Electronic Filing Service.
+
+***Amendment of pleadings***
+
+(6)	The directions in sub-paragraphs (2) and (3) apply to the amendment of pleadings. A Statement of Claim which is amended for the first time should be filed as “Statement of Claim (Amendment No. 1)”, and a Defence that is amended for the second time should be filed as “Defence (Amendment No. 2)”.
+
+***COLOUR SCHEMES FOR AMENDMENTS***
+
+(7)	The following colours must be used to indicate the history of the amendments in pleadings:
+<ul type="*">
+<li>(a)	black for the first round of amendments;</li>
+
+<li>(b)	red for the second round of amendments;</li>
+
+<li>(c)	green for the third round of amendments;</li>
+
+<li>(d)	blue for the fourth round of amendments; and</li>
+
+<li>(e)	brown for subsequent rounds of amendments.</li>
+</ul>
+
+***AMENDMENT FOR THIRD TIME OR MORE***
+
+(8)	From the third round of amendments onwards, the amended pleading should comprise 2 versions of the document:
+<ul type="*">
+<li>(a)	a clean version without the amendments shown; followed in the same document by</li>
+
+<li>(b)	a version showing the amendments in colour.</li>
+ </ul>
+Only 1 amended pleading consisting of these 2 versions is required to be filed.  
+
+***Amendment endorsements on electronic forms***
+
+(9)	An amended pleading or other document must be endorsed with a statement that it has been amended, specifying the date on which it was amended and by whom the order (if any) authorising the amendment was made and the date of the order, and if no such order was made, the relevant provision in the Rules of Court 2021 pursuant to which the amendment was made. Where electronic forms are amended, the amendment endorsement must take either one of the following forms:
+<ul type="*">
+<li>(a)	By order of court made on [date order was made]; or</li>
+
+<li>(b)	Pursuant to Order 9, Rule [cite specific sub-rule number] of the Rules of Court 2021.</li>
+</ul>
+(10)	The amendment endorsement must be appended to the title of the electronic form, after the amendment number as required under sub-paragraph (3)(b). Where an electronic form is amended more than once, the endorsement need only cite the basis for the most recent amendment. For example:
+```
+Originating Application (Amendment No. 3, by Order of Court made on 1 April 2022)
+Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Court 2021)
+```
+(11)	The date of the electronic form must reflect the date on which the document is amended.
+
 ## 61. Pleadings 
+
+(1)	The attention of advocates and solicitors is drawn to the pleading requirements laid down by the Court of Appeal in the case of Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal [2013] 4 SLR 193 for disputes involving a contextual approach to the construction of a contract.
+ 
+(2)	In particular, the Court of Appeal made the following observations at [73] of the judgment:
+<ul type="*">
+<li>(a)	parties who contend that the factual matrix is relevant to the construction of the contract must plead with specificity each fact of the factual matrix that they wish to rely on in support of their construction of the contract;</li>
+
+<li>(b)	the factual circumstances in which the facts in sub-paragraph (2)(a) were known to both or all the relevant parties must also be pleaded with sufficient particularity;</li>
+
+<li>(c)	parties should in their pleadings specify the effect which such facts will have on their contended construction; and</li>
+
+<li>(d)	the obligation of the parties to disclose evidence would be limited by the extent to which the evidence is relevant to the facts pleaded in sub-paragraph (2)(a) and (b).</li>
+</ul>
+
 ## 62. Personal service of processes and documents 
+
+(1)	The attention of solicitors is drawn to Order 7, Rule 2(2) of the Rules of Court 2021.
+
+(2)	Solicitors are required to notify the Registry of the particulars of their employees who have been authorised by them to serve processes and documents (“authorised process servers”) by submitting a request to authorise user through the Electronic Filing Service. Where such authorised process servers are no longer so authorised, solicitors are to revoke or delete the authorisation immediately by submitting a request through the Electronic Filing Service. Solicitors’ employees do not require the authorisation of the Registrar to effect personal service of processes and documents.
+
+(3)	As personal service can be effected by a solicitor, a solicitor’s employee, a litigant who is not legally represented or such a person’s employee, Court process servers will not be assigned to effect personal service of originating processes and documents unless there are special reasons.
+
+(4)	If there are special reasons requiring personal service by a Court process server, a Request for such service should be filed through the Electronic Filing Service, setting out the special reasons. The approval of the Duty Registrar should then be obtained for such service. Once approval has been obtained and the fees prescribed by the Fourth Schedule to the Rules of Court 2021 have been paid, a process server will be assigned to effect service and an appointment for service convenient to both the litigant and the assigned process server will be given.
+
+(5)	On the appointed date, the person accompanying the Court process server should call at the Registry. The party requesting service to be effected by the Court process server will be responsible for all transport charges incurred for the purposes of effecting service.
+
 ## 63. Application for service out of Singapore of originating process or other court document 
-## 64. Court’s power to dismiss an action if no reasonable steps taken to serve originating process expeditiously 
+
+(1)	Under Order 8, Rule 1(2) of the Rules of Court 2021, a claimant applying for the Court’s approval to serve an originating process or other court document out of Singapore must file a supporting affidavit stating, among others, why the Court has the jurisdiction, or is the appropriate court, to hear the action.
+
+(2)	For the purposes of showing why the Court is the appropriate court to hear the action, the claimant should include in the supporting affidavit any relevant information showing that:
+<ul type="*">
+<li>(a)	there is a good arguable case that there is sufficient nexus to Singapore;</li>
+
+<li>(b)	Singapore is the forum conveniens; and</li>
+
+<li>(c)	there is a serious question to be tried on the merits of the claim.</li>
+</ul>
+(3)	For the purposes of sub-paragraph 2(a), the claimant should refer to any of the following non-exhaustive list of factors (as may be applicable) in the supporting affidavit:
+<ul type="*">
+<li>(a)	relief is sought against a person who is domiciled, ordinarily resident or carrying on business in Singapore, or who has property in Singapore;</li>
+
+<li>(b)	an injunction is sought ordering the defendant to do or refrain from doing anything in Singapore (whether or not damages are also claimed in respect of a failure to do or the doing of that thing);</li>
+ 
+<li>(c)	the claim is brought against a person duly served in or outside Singapore, and a person outside Singapore is a necessary or proper party to the claim;</li>
+
+<li>(d)	the claim is brought to enforce, rescind, dissolve, annul or otherwise affect a contract, or to recover damages or obtain other relief in respect of the breach of a contract, being (in either case) a contract which —</li>
+<ul type="*">
+<li>(i)	was made in Singapore, or was made as a result of an essential step being taken in Singapore;</li>
+
+<li>(ii)	was made by or through an agent trading or residing in Singapore on behalf of a principal trading or residing out of Singapore;</li>
+
+<li>(iii)	is by its terms, or by implication, governed by the law of Singapore; or</li>
+
+<li>(iv)	contains a term to the effect that that Court will have jurisdiction to hear and determine any action in respect of the contract;</li>
+</ul>
+<li>(e)	the claim is brought in respect of a breach committed in Singapore of a contract made in or outside Singapore and irrespective of the fact, if such be the case, that the breach was preceded or accompanied by a breach committed outside Singapore that rendered impossible the performance of so much of the contract as ought to have been performed in Singapore;</li>
+
+<li>(f)	the claim:</li>
+<ul type="*">
+<li>(i)		is founded on a tort, wherever committed, which is constituted, at least in part, by an act or omission occurring in Singapore; or</li>
+
+<li>(ii)	is wholly or partly founded on, or is for the recovery of damages in respect of, damage suffered in Singapore caused by a tortious act or omission wherever occurring</li>
+</ul>
+<li>(g)	the whole subject matter is immovable property situated in Singapore (with or without rents or profits) or the perpetuation of testimony relating to immovable property so situated;</li>
+ 
+<li>(h)	the claim is brought to construe, rectify, set aside or enforce an act, deed, will, contract, obligation or liability affecting immovable property situated in Singapore;</li>
+
+<li>(i)	the claim is made for a debt secured on immovable property situated in Singapore, or is made to assert, declare or determine proprietary or possessory rights, or rights of security, in or over movable property, or to obtain authority to dispose of movable property, situated in Singapore;</li>
+
+<li>(j)	the claim is brought to execute the trusts of a written instrument, being trusts that ought to be executed according to the law of Singapore and of which the person to be served with the originating process is a trustee, or for any relief or remedy which might be obtained in any such action;</li>
+
+<li>(k)	the claim is made for the administration of the estate of a person who died domiciled in Singapore or for any relief or remedy which might be obtained in any such action;</li>
+
+<li>(l)	the claim is brought in an administration action within the meaning of Order 32 of the Rules of Court 2021;</li>
+
+<li>(m)	the claim is brought to enforce any judgment or arbitral award, or any adjudication determination within the meaning of the Building and Construction Industry Security of Payment Act;</li>
+
+<li>(n)	the claim is made under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act or any other written law;</li>
+
+<li>(o)	the claim is a restitutionary one (including a claim for quantum meruit or quantum valebat) or for an account or other relief against the defendant as trustee or fiduciary, and the defendant’s alleged liability arises out of any act done, whether by the defendant or otherwise, in Singapore;</li>
+
+<li>(p)	the claim is founded on a cause of action arising in Singapore;</li>
+
+<li>(q)	the claim is for a contribution or an indemnity in respect of a liability enforceable by proceedings in Singapore;</li>
+ 
+<li>(r)	the claim is in respect of matters in which the defendant has submitted or agreed to submit to the jurisdiction of the Court;</li>
+
+<li>(s)	the claim concerns the construction, effect or enforcement of any written law; or</li>
+
+<li>(t)	the claim is for a committal order under Order 23 of the Rules of Court 2021.</li>
+</ul>
+
+## 64. Court’s power to dismiss an action if no reasonable steps taken to serve originating process expeditiously
+
+(1)	Under Order 2, Rule 3(2) of the Rules of Court 2021, the claimant has to take reasonable steps to serve the originating claim with a statement of claim, or the originating application supported by affidavit, on a defendant expeditiously:
+<ul type="*">
+<li>(a)	Order 6, Rule 5(6) and (7) of the Rules of Court 2021 set out the relevant periods within which reasonable steps to serve the originating claim on the defendant, whether in or out of Singapore, must be made; and</li>
+
+<li>(b)	Order 6, Rule 11(4) and (5) of the Rules of Court 2021 set out the relevant periods within which reasonable steps to serve the originating application and the supporting affidavit on the defendant, whether in or out of Singapore, must be made./li>
+</ul>
+(2)	Under Order 2, Rule 6(3)(a) and/or Order 9, Rule 5(1)(a) of the Rules of Court 2021, the Court may dismiss the action if it is not satisfied that the claimant has taken reasonable steps to effect service of the originating claim or originating application expeditiously. Whether a claimant has taken reasonable steps to serve the originating claim or originating application on the defendant expeditiously would depend on the facts of the case. A non-exhaustive list of factors that may be relevant to this inquiry include:
+<ul type="*">
+<li>(a)	The chosen mode(s) to effect personal service on the defendant;/li>
+
+<li>(b)	The day and time during which personal service was attempted on the defendant;/li>
+
+<li>(c)	The number of times for which personal service was attempted on the defendant;/li>
+
+<li>(d)	The reason(s) for which each attempt at personal service was unsuccessful;/li>
+
+<li>(e)	Whether an application for substituted service has been or will be taken out by the claimant./li>
+</ul>
+(3)	Before exercising its powers under Order 2, Rule 6(3)(a) and/or Order 9, Rule 5(1)(a) of the Rules of Court 2021, the Court may require an affidavit relating to service attempts to be filed by or on behalf of the claimant. The claimant has to demonstrate in the affidavit relating to service attempts that the steps taken to serve the originating claim or originating application on the defendant are reasonable and expeditious in the circumstances.
+ 
 ## 65. Substituted service
+
+(1)	In any application for substituted service, the applicant should persuade the Court that the proposed mode of substituted service will probably be effective in bringing the document in question to the notice of the person to be served.
+
+(2)	2 reasonable attempts at personal service should be made before an application for an order for substituted service is filed. In an application for substituted service, the applicant must demonstrate by way of affidavit why he or she believes that the attempts at service made were reasonable.
+
+(3)	The applicant should, where appropriate, also consider other modes of substituted service, such as AR registered post or electronic means (including email or Internet transmission) in addition to or in substitution for substituted service by posting on doors or gates of residential or business premises.
+
+(4)	An application for substituted service by posting at an address or by AR registered post should contain evidence (for example, relevant search results from the Inland Revenue Authority of Singapore, the Singapore Land Authority, the Housing & Development Board or the Accounting and Corporate Regulatory Authority) that the person to be served is resident or can be located at the property.
+ 
+(5)	To avoid doubt, substituted service by AR registered post is deemed to be effected when the postal service has delivered the document, or attempted to deliver the document (in cases where no one is present or willing to accept the document).
+
+(6)	If substituted service is by email, it has to be shown that the email account to which the document will be sent belongs to the person to be served and that it is currently active.
+
+(7)	An application for substituted service by advertisement (in one issue of the Straits Times if the person to be served is literate in English, or one issue of the Straits Times and one issue of one of the main non-English language newspapers where his or her language literacy is unknown) should only be considered as a last resort and should contain evidence that the person to be served is literate in the language of the newspaper in which the advertisement will be placed.
+
 
