@@ -130,6 +130,7 @@
 
 <li>(d)	for bankruptcy matters, the creditor must, in addition to his or her own identification number, also provide the identification number of the debtor in the first document filed by the creditor in the bankruptcy proceedings.</li>
 </ul>
+
 ***Identification numbers***
 
 (6)	When entering the identification number in the Electronic Filing Service, the full identification number, including the letters before and after the number should be entered.
@@ -229,7 +230,7 @@ NO IDENTIFICATION NUMBERS EXIST
 
 <li>(b)	The number of times the document has been amended must be indicated in parentheses after the name of the document. It should therefore be entitled “[document name] (Amendment No. 1)” or “[document name] (Amendment No. 2)”, or as appropriate.</li>
 
-(c)	The changes made in the document from the latest version of the document filed in Court should be indicated in the following way:</li>
+<li>(c)	The changes made in the document from the latest version of the document filed in Court should be indicated in the following way:</li>
 <ul type="*">
 <li>(i)	deletions must be made by drawing a single line across the words to be deleted; and</li>
 
@@ -268,7 +269,7 @@ NO IDENTIFICATION NUMBERS EXIST
 
 <li>(b)	a version showing the amendments in colour.</li>
  </ul>
-Only 1 amended pleading consisting of these 2 versions is required to be filed.
+Only 1 amended pleading consisting of these 2 versions is required to be filed.  
 
 ***Amendment endorsements on electronic forms***
 
@@ -416,3 +417,5 @@ Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Cou
 (6)	If substituted service is by email, it has to be shown that the email account to which the document will be sent belongs to the person to be served and that it is currently active.
 
 (7)	An application for substituted service by advertisement (in one issue of the Straits Times if the person to be served is literate in English, or one issue of the Straits Times and one issue of one of the main non-English language newspapers where his or her language literacy is unknown) should only be considered as a last resort and should contain evidence that the person to be served is literate in the language of the newspaper in which the advertisement will be placed.
+
+
