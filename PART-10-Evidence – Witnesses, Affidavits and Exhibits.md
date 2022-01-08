@@ -124,6 +124,7 @@ For example, “2nd Df; Tan Ah Kow; 4th; 15.12.2021”.</li>
 and </li>
 
 <li>(b)	the exhibits must be set out in the sequence in which reference is made to them in the affidavit.</li>
+</ul>
 
 ***Pagination***
 
