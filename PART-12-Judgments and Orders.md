@@ -102,10 +102,10 @@
 
 <table>
 <tr><td> Rate of interest </td><td> … % p.a. </td></tr>
-<tr><td> Principal sum	</td<td> $ </td></tr>
-<tr><td> Period of interest </td<td> From … to … </td></tr>
-<tr><td> Amount of interest </td<td> $ </td></tr>
-<tr><td> Total amount of interest payable to date of judgment </td<td> $ </td></tr>
+<tr><td> Principal sum	</td><td> $ </td></tr>
+<tr><td> Period of interest </td><td> From … to … </td></tr>
+<tr><td> Amount of interest </td><td> $ </td></tr>
+<tr><td> Total amount of interest payable to date of judgment </td><td> $ </td></tr>
 </table>
 
 <li>(ii)	The period of interest must be as pleaded, except that it must end on the date of judgment and not on the date of payment.</li>
