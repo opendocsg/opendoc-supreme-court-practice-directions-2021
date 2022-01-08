@@ -700,9 +700,10 @@ In all civil and criminal proceedings, including civil and criminal appeals, hea
 <li>(i)	written submissions (with a cover page and a table of contents); and</li>
 
 <li>(ii)	bundle of authorities (which are in compliance with the requirements under paragraph 101(5) to (11) of these Practice Directions); and</li>
+</ul>
 
 <li>(b)	file a soft copy of the written submissions into the electronic case file using the Electronic Filing Service at least 1 clear day before the hearing.</li>
-<ul>
+</ul>
 
 (2)	Written submissions for originating applications should not exceed 35 pages (including the cover page, table of contents and all annexes and appendices). All written submissions for originating applications must include a cover page and a table of contents. Parties are to note that where the Court allows the prescribed page limit to be exceeded, fees are payable under the Fourth Schedule to the Rules of Court 2021.
 
