@@ -100,11 +100,13 @@
 <ul type="*"> 
 <li>(i)	There must be an appendix attached to the draft judgment filed together with the application for judgment in default in Forms 11 or 14 of Appendix A of these Practice Directions, as the case may be, in the following form:</li>
 
-| Rate of interest | … % p.a. |
-| Principal sum	| $ |
-| Period of interest | From … to … |
-| Amount of interest | $ |
-| Total amount of interest payable to date of judgment | $ |
+<table>
+<tr><td> Rate of interest </td><td> … % p.a. </td></tr>
+<tr><td> Principal sum	</td<td> $ </td></tr>
+<tr><td> Period of interest </td<td> From … to … </td></tr>
+<tr><td> Amount of interest </td<td> $ </td></tr>
+<tr><td> Total amount of interest payable to date of judgment </td<td> $ </td></tr>
+</table>
 
 <li>(ii)	The period of interest must be as pleaded, except that it must end on the date of judgment and not on the date of payment.</li>
 
