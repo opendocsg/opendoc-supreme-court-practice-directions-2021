@@ -63,12 +63,13 @@
 <br>$1 million</em></td><td><em>With value of <br>more than $1<br> million</em></td></tr>
 	<tr><td>7. On sealing or filing of –
 <br>…</td><td></td><td></td></tr>
-	<tr><td>Items</td><td>Items</td><td>Items</td></tr>
-	<tr><td>Items</td><td>Items</td><td>Items</td></tr>
-	<tr><td>Items</td><td>Items</td><td>Items</td></tr>
-	<tr><td>Items</td><td>Items</td><td>Items</td></tr>
-	<tr><td>Items</td><td>Items</td><td>Items</td></tr>
-	<tr><td>Items</td><td>Items</td><td>Items</td></tr>
+	<tr><td><ul type="*"><li>(k) a summons for any subsequent application with Court’s permission made after the single application pending trial —</li></ul></td><td></td><td></td></tr>
+	<tr><td>(i)	first subsequent application</td><td>$500</td><td>$1,000</td></tr>
+	<tr><td>(ii)	second subsequent application</td><td>$1,000</td><td>$1,500</td></tr>
+	<tr><td>(iii)	third subsequent application</td><td>$1,500</td><td>$2,000</td></tr>
+	<tr><td>(iv)	fourth subsequent application</td><td>$2,000</td><td>$2,500</td></tr>
+	<tr><td>(v)	any subsequent application</td><td>N + $1,000</td><td>N+$1,000</td></tr>
+	<tr><td>Items</td><td>where “N” is the fee payable for the last application</td><td>where “N” is the fee payable for the last application</td></tr>
 </table>
 
 ## 67. Filing of Distinct Applications in Separate Summonses 
