@@ -58,9 +58,9 @@
 (9)	Where the intended application is filed subsequent to the SAPT and is one that should have been dealt with under the SAPT (“subsequent application”), the relevant fees for the subsequent application are as stipulated under item 7(k), Part 1 of the Fourth Schedule to the Rules of Court 2021 as follows:
 
 <table>
-	<tr><td>Items</td><td>***Supreme Court***</td><td>***Supreme Court***</td></tr>
-	<tr><td></td><td>*With value up to
-<br>$1 million*</td><td>*With value of <br>more than $1<br> million*</td></tr>
+	<tr><td><strong><em>Items</strong></em></td><td><strong><em>Supreme Court</strong></em></td><td><strong><em>Supreme Court</strong></em></td></tr>
+	<tr><td></td><td><em>With value up to
+<br>$1 million</em></td><td><em>With value of <br>more than $1<br> million</em></td></tr>
 	<tr><td>7. On sealing or filing of –
 <br>…</td><td></td><td></td></tr>
 	<tr><td>Items</td><td>Items</td><td>Items</td></tr>
