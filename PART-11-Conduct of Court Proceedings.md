@@ -329,7 +329,7 @@ The Chief Justice has directed that the following forms of address apply:
 <span style="text-decoration: underline">For example:</span>
 
 | Case Number Format | Type of Case
-| ----------- | ----------- | ----------- |
+| ----------- | ----------- | 
 | CA/CA [Case Number]/[Year filed]	| Appeal to the Court of Appeal |
 | AD/CA [Case Number]/[Year filed]	| Appeal to the Appellate Division |
 | CA/OA [Case Number]/[Year filed]	| Originating Application filed in the Court of Appeal |
