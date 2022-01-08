@@ -16,8 +16,6 @@
 
 ## 107. Draft orders 
 
-107.	Draft orders
-
 (1)	Order 17, Rule 3(5) and (6) of the Rules of Court 2021 place the burden of approving the drafts of judgments and orders on the solicitors themselves. The solicitors should therefore approve the drafts and not submit these drafts to the Registrar for approval.
 
 (2)	The Registrar’s signature on a judgment or order is only for the purpose of validity and does not in any way affect the regularity or irregularity of the contents of any judgment or order.
