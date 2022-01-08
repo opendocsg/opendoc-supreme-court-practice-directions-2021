@@ -776,6 +776,7 @@ The following are examples of law reports that should be used for citation:
 <li>(a)	Cases reported in the Singapore Law Reports must be cited using their Singapore Law Reports citations, in priority to their neutral citations.</li>
 
 <li>(b)	Unreported decisions must be cited using their neutral citations.</li>
+
 **COURT DESIGNATORS**
 
 SGCA – Singapore Court of Appeal
@@ -798,7 +799,7 @@ Paragraph Number(s): Paragraphs 3 and 8 of the judgment
 ```
 </ul>
 
-***Ancillary Provisions
+***Ancillary Provisions***
 
 (9)	The Court in exercising its discretion as to costs may, where appropriate in the circumstances, take into account the extent to which counsel has complied with this paragraph.
 
