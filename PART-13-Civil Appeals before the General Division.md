@@ -33,7 +33,7 @@ The directions in this Part apply to civil appeals before the General Division (
 <li>(e)	set out the proposed further arguments briefly, together with any authorities; and</li>
 
 <li>(f)	include a copy of each of the authorities cited.</li>
-<ul>
+</ul>
 
 (2)	A copy of the Request should be furnished to all parties to the appeal.
 
@@ -95,7 +95,7 @@ The directions in this Part apply to civil appeals before the General Division (
 <li>(a)	the table of contents of all volumes of the bundle of authorities must be placed at the beginning of Volume I; and</li>
 
 <li>(b)	each volume must have a table of contents indicating the authorities that are contained in that volume.</li>
-</ul>
+</ul>  
 
 ***Appeals from the Employment Claims Tribunal***
 
