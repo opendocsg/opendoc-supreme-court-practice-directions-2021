@@ -47,9 +47,105 @@
 </ul>
 
 ## 116. Application of this Part 
+
+The directions in this Part apply to all appeals, applications and other proceedings before:
+
+<ul type="*">
+<li>(a)	the Court of Appeal;</li>
+
+<li>(b)	the Appellate Division;</li>
+
+<li>(c)	the Court of 3 Supreme Court Judges under the Legal Profession Act; and</li>
+
+<li>(d)	the General Division under section 55 of the Medical Registration Act.</li>
+</ul>
+
 ## 117. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges 
+
+Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of Appeal may determine, as and when appropriate, whether to convene a panel of 5 or any greater uneven number of Judges. Such determination of the Court of Appeal will be final.
+
 ## 118. Appeals Information Sheet for civil appeals to the Appellate Division and the Court of Appeal 
+
+(1)	The Chief Justice has directed that for civil appeals to the Appellate Division and civil appeals to the Court of Appeal, parties must file in court and serve on every other party to the appeal or his or her solicitor an Appeals Information Sheet in Form 19 of Appendix B of these Practice Directions by the following times:
+
+<ul type="*">
+<li>(a)	for appeals under Order 19 of the Rules of Court 2021 – at the same time as when parties’ respective Cases under Order 19, Rule 30 of the Rules of Court 2021 are filed and served; and</li>
+ 
+<li>(b)	for appeals under Order 18 of the Rules of Court 2021 – at the same time as when parties’ written submissions under Order 18, Rule 33 of the Rules of Court 2021 are filed and served.</li>
+</ul>
+
+(2)	Where appropriate, parties or their solicitors may be required to attend in person to take directions on the conduct of the appeal.
+
 ## 119. Page limits 
+
+(1)	The following table sets out the prescribed page limits for various documents filed under the Rules of Court 2021 in civil proceedings before the Appellate Division and the Court of Appeal:
+
+<table>
+		<tr>
+			<td><strong>S/N</strong></td>
+			<td><strong>Document</strong></td>
+			<td><strong>Prescribed page limit</strong></td>
+		</tr>
+		<tr>
+			<td><strong><em>Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
+		</tr>
+		<tr>
+			<td>(a)</td>
+			<td>Written submissions required to be filed for appeals to the Appellate Division and the Court of Appeal under Order 18 of the Rules of Court 2021</td>
+			<td>35 pages</td>
+		</tr>
+		<tr>
+			<td>(b)</td>
+			<td>The appellant’s Case required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+			<td>55 pages</td>
+		</tr>
+		<tr>
+			<td>(c)</td>
+			<td>The appellant’s core bundle of documents required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+			<td>55 pages (excluding the written judgment or grounds of decision of the lower Court and the extracted order of the
+lower Court)</td>
+		</tr>
+		<tr>
+			<td>(d)</td>	
+			<td>The respondent’s Case required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+			<td>55 pages</td>
+		</tr>
+		<tr>
+			<td>(e)</td>	
+			<td>The respondent’s core bundle of documents that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>	
+			<td>35 pages</td>	
+		</tr>
+		<tr>
+			<td>(f)</td>	
+			<td>The appellant’s Reply that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>	
+			<td>25 pages</td>	
+		</tr>
+		<tr>
+			<td>(g)	
+			<td>The second core bundle that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>		
+			<td>25 pages</td>
+		</tr>
+		<tr>
+			<td><strong><em>Documents filed for applications under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
+		</tr>
+		<tr>
+			<td>(h)</td>
+			<td>Written submissions filed for applications to the Appellate Division and the Court of Appeal under Order 18 and Order 19 of the Rules of Court 2021 (excluding applications for permission to appeal)</td>
+			<td>35 pages</td>
+		</tr>
+		<tr>
+			<td>(i)</td>
+			<td>Written submissions filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021</td>
+			<td>15 pages</td>
+		</tr>
+		<tr>
+			<td>(j)</td>
+			<td>Bundle of documents filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021</td>
+			<td>25 pages</td>
+		</tr>
+</table>
+
+
 ## 120. Formatting requirements for written Cases and written submissions
 ## 121. Preparation of records of appeal, written Cases, written submissions and core bundles 
 ## 122. Filing of appeal records and provision of hard and soft copies of documents 
@@ -60,68 +156,3 @@
 ## 127. Use of presentation slides for all proceedings before the Appellate Division, Court of Appeal and Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act 
 ## 128. Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act and the Legal Aid and Advice Regulations 
 ## 129. Request for waiver or deferment of Court fees 
-
-(1) The directions contained in this Part shall apply to the ﬁling, service, delivery and conveyance of documents in criminal proceedings commenced in the High Court on or after 10 January 2005 but before 2 January 2021 or in the General Division on or after 2 January 2021, and criminal proceedings commenced in the Court of Appeal on or after 10 January 2005.
-
-(2) The attention of solicitors is drawn to the Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Regulations 2012, which shall have eﬀect in relation to any document that is required to be ﬁled with, served on, delivered or otherwise conveyed to the Supreme Court or any party to any criminal matter that is to be heard in the Supreme Court under the Criminal Procedure Code (Cap 68).
-
-(3) In addition, the following paragraphs of these Practice Directions shall apply, *mutatis mutandis*, to specified documents filed under this Part:
-
-<ul type="*">
-	<li>(a) 12(8);</li>
-	<li>(b) 27;</li>
-	<li>(c) 31(6);</li>
-	<li>(d) 34(3)(b) and (c);</li>
-	<li>(e) 35(2) to (6);</li>
-	<li>(f) 57, save for sub-paragraph (4)(e);</li>
-	<li>(g) 106;</li>
-	<li>(h) 107;</li>
-	<li>(i) 108, save for the provisions relating to fees;</li>
-	<li>(j) 109;</li>
-	<li>(k) 110;</li>
-	<li>(l) 111;</li>
-	<li>(m) 112, save for the provision relating to fees;</li>
-	<li>and</li>
-	<li>(n) 112.</li>
-</ul>
-
-## 117. Hard copies of documents
-
-(1) The provisions of this paragraph are without prejudice to the provisions of the Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Regulations 2012.
-
-(2) Counsel in magistrate’s appeals, criminal revisions, criminal motions, show cause proceedings and special case hearings before the General Division should ensure that 2 hard copies each of any skeletal arguments and/or bundles of authorities are tendered to the Legal Registry of the Supreme Court.
-
-(3) Counsel in criminal appeals, criminal motions and criminal references before the Court of Appeal should ensure that 4 hard copies of any skeletal arguments are tendered to the Legal Registry.
-
-(4) For the avoidance of doubt, it shall not be necessary for bundles of authorities to be filed electronically.
-
-## 118. Timelines for filing
-
-(1) Skeletal arguments that are to be electronically filed must be filed and served in accordance with the following timelines:
-
-<ul type="*">
-	<li>(a) in a case where the matter is before the General Division, at least 10 days before the hearing; and</li>
-	<li>(b) in a case where the matter is before the Court of Appeal, by 4 p.m. on the Monday three weeks before the start of the Court of Appeal sitting period within which that matter is scheduled for hearing, regardless of the actual day (within that sitting period) on which that matter is scheduled for hearing before the Court of Appeal. (For example, if the sitting period starts on Monday, 18 February 2019 and ends on Friday, 8 March 2019, all skeletal arguments for matters listed before the Court of Appeal in that sitting period must be filed by 4 p.m. on Monday, 28 January 2019.)</li>
-</ul>
-
-(2) Hard copies of bundles of authorities shall be tendered to the Legal Registry of the Supreme Court at the same time as hard copies of skeletal arguments.
-
-(3) Where an accused person intends to plead guilty to the charge(s) proceeded with at a preliminary inquiry or committal hearing, the prosecution shall tender hard copies of the following to the Legal Registry of the Supreme Court at least 2 working days before the hearing:
-
-<ul type="*">
-	<li>(a) a statement of the facts of the case;</li>
-	<li>(b) the draft charge(s) the prosecution will be proceeding with, where applicable; and</li>
-	<li>(c) any other supporting documents, including any documents referred to in the statement of the facts of the case.</li>
-</ul>
-
-(4) In all other cases fixed for a preliminary inquiry or committal hearing, the prosecution shall tender hard copies of the following to the Legal Registry of the Supreme Court at least 5 clear days before the hearing:
-
-<ul type="*">
-	<li>(a) the conditioned statements of all witnesses;</li>
-	<li>(b) the draft charge(s) the prosecution will be proceeding with, where applicable; and</li>
-	<li>(c) any other supporting documents, including any exhibits referred to in the conditioned statements of all witnesses.</li>
-</ul>
-
-## 119. Filing fees
-
-The attention of solicitors is drawn to Regulations 7 and 8 of the Criminal Procedure Code (Electronic Filing and Service) Regulations 2012, which govern the payment of fees for the use of the service bureau and the electronic filing service for criminal proceedings.
