@@ -20,7 +20,7 @@
 
 (1)	These Practice Directions may be cited as the Supreme Court Practice Directions 2021, and will apply, on and after 1 April 2022, to:
 
-<ul>
+<ul type="*">
 	
 <li>(a)	any cause or matter, in the General Division, the Appellate Division or the Court of Appeal, that is governed by the Rules of Court 2021; and</li>
 
@@ -30,7 +30,7 @@
 	
 (2)	The Supreme Court Practice Directions as in force immediately before 1 April 2022 continue to apply, on and after 1 April 2022, to:
 
-<ul>
+<ul type="*">
 
 <li>(a)	any cause or matter, in the General Division, the Appellate Division or the Court of Appeal, that is governed by the Rules of Court (Cap 322, R 5, 2014 Ed); and</li>
 
