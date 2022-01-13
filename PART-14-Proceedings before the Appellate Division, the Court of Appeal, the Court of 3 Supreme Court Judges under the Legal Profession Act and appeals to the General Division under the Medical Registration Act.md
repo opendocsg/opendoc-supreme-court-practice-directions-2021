@@ -80,13 +80,6 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 
 (1)	The following table sets out the prescribed page limits for various documents filed under the Rules of Court 2021 in civil proceedings before the Appellate Division and the Court of Appeal:
 
-| **S/N** |	**Document** | **Prescribed page limit** |
-|:-------------:|:-------------:|:-------------:|   
-| ***Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021*** |
-| (a)	| Written submissions required to be filed for appeals to the Appellate Division and the Court of Appeal under Order 18 of the Rules of Court 2021 | 35 pages |
-| (b)	| The appellant’s Case required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021 |	55 pages |
-| (c)	| The appellant’s core bundle of documents required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021 | 55 pages (excluding the written judgment or grounds of decision of the lower Court and the extracted order of the lower Court) |
-
 <table>
 		<tr>
 			<th><strong>S/N</strong></th>
@@ -94,7 +87,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 			<th><strong>Prescribed page limit</strong></th>
 		</tr>
 		<tr>
-			<td colspan="3"><strong><em>Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
+			<td colspan="3" style="text-align: center; vertical-align: middle;"><strong><em>Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
 		</tr>
 		<tr>
 			<td>(a)</td>
@@ -133,7 +126,7 @@ lower Court)</td>
 			<td>25 pages</td>
 		</tr>
 		<tr>
-			<td colspan="3"><strong><em>Documents filed for applications under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
+			<td colspan="3" style="text-align: center; vertical-align: middle;"><strong><em>Documents filed for applications under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
 		</tr>
 		<tr>
 			<td>(h)</td>
