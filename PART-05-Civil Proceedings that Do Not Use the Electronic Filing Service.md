@@ -6,7 +6,9 @@
 	<li>50. Form of affidavits</li>
 		<ul>
 			<li>Binding of affidavits</li>
-			<li>51. Documentary exhibits to affidavits</li>
+		</ul>
+	<li>51. Documentary exhibits to affidavits</li>
+		<ul>
 			<li>Dividing sheets</li>
 			<li>More than 10 documentary exhibits</li>
 		</ul>
@@ -38,6 +40,7 @@ The information is to be inserted as a block near the bottom of the cover sheet 
 
 <li>(b)	produced by printing or typewriting, and in any case not by carbon copying. A document produced by a photographic or similar process giving a positive and permanent representation free from blemishes will be treated, to the extent that it contains an exact copy of matter produced by either of the above processes, as if it were so produced. Photographic copies which are not clearly legible will be rejected.</li>
 </ul>
+
 ***Binding of affidavits***
 
 (2)	Affidavits of 30 pages or less (including exhibits and dividing and backing sheets) may be stapled firmly at the top left hand corner of the paper. Any affidavit (including exhibits, dividing and backing sheets) exceeding 30 pages must be bound with plastic ring binding or plastic spine thermal binding (the plastic rings or spines to be red for claimants/appellants, and blue for defendants/respondents) with a transparent plastic cover in front and at the back.
