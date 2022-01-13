@@ -20,16 +20,24 @@
 
 (1)	These Practice Directions may be cited as the Supreme Court Practice Directions 2021, and will apply, on and after 1 April 2022, to:
 
-(a)	any cause or matter, in the General Division, the Appellate Division or the Court of Appeal, that is governed by the Rules of Court 2021; and
+<ul>
+	
+<li>(a)	any cause or matter, in the General Division, the Appellate Division or the Court of Appeal, that is governed by the Rules of Court 2021; and</li>
 
-(b)	any criminal proceedings commenced, in the General Division or the Court of Appeal, on or after 1 April 2022.
+<li>(b)	any criminal proceedings commenced, in the General Division or the Court of Appeal, on or after 1 April 2022.</li>
 
+</ul>
+	
 (2)	The Supreme Court Practice Directions as in force immediately before 1 April 2022 continue to apply, on and after 1 April 2022, to:
 
-(a)	any cause or matter, in the General Division, the Appellate Division or the Court of Appeal, that is governed by the Rules of Court (Cap 322, R 5, 2014 Ed); and
+<ul>
 
-(b)	any criminal proceedings commenced, in the General Division or the Court of Appeal, before 1 April 2022.
+<li>(a)	any cause or matter, in the General Division, the Appellate Division or the Court of Appeal, that is governed by the Rules of Court (Cap 322, R 5, 2014 Ed); and</li>
 
+<li>(b)	any criminal proceedings commenced, in the General Division or the Court of Appeal, before 1 April 2022.</li>
+
+</ul>
+	
 ## 2.	Definitions
 
 In these Practice Directions, unless the context otherwise requires: “Appellate Division” means the Appellate Division of the High Court; and “General Division” means the General Division of the High Court.
