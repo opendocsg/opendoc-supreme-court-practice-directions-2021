@@ -6,7 +6,9 @@
 	<li>50. Form of affidavits</li>
 		<ul>
 			<li>Binding of affidavits</li>
-			<li>51. Documentary exhibits to affidavits</li>
+		</ul>
+	<li>51. Documentary exhibits to affidavits</li>
+		<ul>
 			<li>Dividing sheets</li>
 			<li>More than 10 documentary exhibits</li>
 		</ul>
