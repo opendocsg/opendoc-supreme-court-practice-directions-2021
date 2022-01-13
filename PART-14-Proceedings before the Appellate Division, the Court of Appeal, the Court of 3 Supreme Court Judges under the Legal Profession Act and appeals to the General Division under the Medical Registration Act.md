@@ -80,14 +80,14 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 
 (1)	The following table sets out the prescribed page limits for various documents filed under the Rules of Court 2021 in civil proceedings before the Appellate Division and the Court of Appeal:
 
-<table>
+<table style="text-align: center; vertical-align: middle;">
 		<tr>
 			<th><strong>S/N</strong></th>
 			<th><strong>Document</strong></th>
 			<th><strong>Prescribed page limit</strong></th>
 		</tr>
 		<tr>
-			<td style="text-align: center; vertical-align: middle;" colspan="3"><strong><em>Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
+			<td colspan="3"><strong><em>Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
 		</tr>
 		<tr>
 			<td>(a)</td>
@@ -126,7 +126,7 @@ lower Court)</td>
 			<td>25 pages</td>
 		</tr>
 		<tr>
-			<td style="text-align: center; vertical-align: middle;" colspan="3"><strong><em>Documents filed for applications under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
+			<td colspan="3"><strong><em>Documents filed for applications under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
 		</tr>
 		<tr>
 			<td>(h)</td>
