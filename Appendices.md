@@ -1,3 +1,4 @@
+<div style="text-align:justify;">
 # Appendices
 
 ## Appendix A – Forms prescribed in the Rules of Court 2021 
@@ -46,4 +47,5 @@
 <ul type="*">
 	<li><a href="./downloads/Appendix_A/Form_01.pdf" download>sample</a></li>
 </ul>
+	</div>
 
