@@ -1,4 +1,4 @@
-<p align:justify>
+<p style="text-align:right;">
 <h1>Appendices</h1>
 </p>
 
