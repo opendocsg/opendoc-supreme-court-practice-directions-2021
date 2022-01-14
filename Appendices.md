@@ -1,5 +1,5 @@
 
-<h1 align='center'>Appendices</h1>
+<h1 align='justify'>Appendices</h1>
 
 
 ## Appendix A – Forms prescribed in the Rules of Court 2021 
