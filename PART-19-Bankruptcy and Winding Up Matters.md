@@ -9,7 +9,7 @@
 			<li>Bundles of documents</li>
 			<li>Bundles of authorities</li>
 			<li>Opening statements</li>
-			<li>Timeline for tendering documents 2014</li>
+			<li>Timeline for tendering documents</li>
 		</ul>
 </ul>
 
