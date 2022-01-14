@@ -1,6 +1,6 @@
-<p style="text-align:right;">
-<h1>Appendices</h1>
-</p>
+
+<h1 style="text-align: right;">Appendices</h1>
+
 
 ## Appendix A – Forms prescribed in the Rules of Court 2021 
 
