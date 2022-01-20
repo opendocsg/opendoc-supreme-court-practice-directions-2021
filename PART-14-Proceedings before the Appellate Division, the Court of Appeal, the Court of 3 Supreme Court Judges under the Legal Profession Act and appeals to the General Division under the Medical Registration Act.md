@@ -269,7 +269,9 @@ lower Court)</td>
 
 (7)	An application for permission under sub-paragraph (5) that is filed outside of the prescribed deadlines (as set out at sub-paragraph (6)) may be rejected.
 
+
 ## 120. Formatting requirements for written Cases and written submissions
+
 
 (1)	The formatting requirements set out in this paragraph apply to the following documents:
 
@@ -414,7 +416,9 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 (13)	To assist the Court in identifying the documents referred to by a party in written submissions filed in appeals to the Appellate Division and the Court of Appeal under Order 18 of the Rules of Court 2021, the party should indicate, in the written submissions, where the document can be found in the case file in the proceedings in the lower Court. The party should provide: (a) a clear description of the document; (b) the date on which the document was electronically filed; and (c) where the document is a constituent component of another electronic filing, the exact page in the Portable Document Format (PDF) version of the electronic filing where the document may be found.
 
+
 ## 122. Filing of appeal records and provision of hard and soft copies of documents 
+
 
 (1)	Subject to sub-paragraph (2), all documents that are required to be filed:
 
@@ -545,7 +549,9 @@ For example -
 
 (17)	The CD-ROM must be clearly labelled with the case number and title of the proceedings. If there is more than one CD-ROM, the CD-ROMs must be numbered sequentially.
 
+
 ## 123. Inclusion in appeal bundles of documents ordered to be sealed or redacted 
+
 
 (1)	This paragraph applies where certain documents tendered before the lower Court have been ordered to be sealed or redacted, unless the entire case file in the Appellate Division or the Court of Appeal (as the case may be) has been sealed from public inspection.
 
