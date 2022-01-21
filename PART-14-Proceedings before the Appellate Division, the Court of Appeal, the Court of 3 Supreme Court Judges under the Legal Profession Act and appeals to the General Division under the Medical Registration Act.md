@@ -80,6 +80,71 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 
 (1)	The following table sets out the prescribed page limits for various documents filed under the Rules of Court 2021 in civil proceedings before the Appellate Division and the Court of Appeal:
 
+<table>
+		<tr>
+			<th><strong>S/N</strong></th>
+			<th><strong>Document</strong></th>
+			<th><strong>Prescribed page limit</strong></th>
+		</tr>
+		<tr>
+			<td colspan="3" align="center"><strong><em>Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
+		</tr>
+		<tr>
+			<td>(a)</td>
+			<td>Written submissions required to be filed for appeals to the Appellate Division and the Court of Appeal under Order 18 of the Rules of Court 2021</td>
+			<td>35 pages</td>
+		</tr>
+		<tr>
+			<td>(b)</td>
+			<td>The appellant’s Case required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+			<td>55 pages</td>
+		</tr>
+		<tr>
+			<td>(c)</td>
+			<td>The appellant’s core bundle of documents required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+			<td>55 pages (excluding the written judgment or grounds of decision of the lower Court and the extracted order of the
+lower Court)</td>
+		</tr>
+		<tr>
+			<td>(d)</td>
+			<td>The respondent’s Case required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+			<td>55 pages</td>
+		</tr>
+		<tr>
+			<td>(e)</td>
+			<td>The respondent’s core bundle of documents that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+			<td>35 pages</td>
+		</tr>
+		<tr>
+			<td>(f)</td>
+			<td>The appellant’s Reply that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+			<td>25 pages</td>
+		</tr>
+		<tr>
+			<td>(g)
+			<td>The second core bundle that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+			<td>25 pages</td>
+		</tr>
+		<tr>
+			<td colspan="3" align="center"><strong><em>Documents filed for applications under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
+		</tr>
+		<tr>
+			<td>(h)</td>
+			<td>Written submissions filed for applications to the Appellate Division and the Court of Appeal under Order 18 and Order 19 of the Rules of Court 2021 (excluding applications for permission to appeal)</td>
+			<td>35 pages</td>
+		</tr>
+		<tr>
+			<td>(i)</td>
+			<td>Written submissions filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021</td>
+			<td>15 pages</td>
+		</tr>
+		<tr>
+			<td>(j)</td>
+			<td>Bundle of documents filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021</td>
+			<td>25 pages</td>
+		</tr>
+</table>
+
 (2)	The following table sets out the prescribed page limits for various documents filed (a) under the Rules of Court 2021 for proceedings before the General Division under the Medical Registration Act; and (b) under the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act:
 
 (3)	The cover page(s) and the table of contents are to be included in the page count for the purposes of determining whether a document is within the prescribed page limit as set out in sub-paragraphs (1) and (2).
