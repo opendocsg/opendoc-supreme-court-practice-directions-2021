@@ -1,7 +1,5 @@
 # Part 14: Proceedings before the Appellate Division, the Court of Appeal, the Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act
 
-test
-
 <ul type="*">
 	<li>116. Application of this Part</li>
 	<li>117. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges</li>
