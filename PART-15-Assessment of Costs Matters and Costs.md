@@ -28,6 +28,50 @@
 ## 135. Assessments involving the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid
 ## 136. Fixing costs instead of ordering assessment 
 ## 137. Costs Scheduling 
+
+<table>
+<thead>
+  <tr>
+	  <th><strong>Office</strong></th>
+	  <th><strong>Form of Address</strong></th>
+	  <th><strong>Abbreviated Form of Address</strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chief Justice</td>
+    <td>“Chief Justice [name]”</td>
+    <td>“[name] CJ”</td>
+  </tr>
+  <tr>
+    <td>Justice of the Court of Appeal</td>
+    <td rowspan="5">“Justice [name]”</td>
+    <td>“[name] JCA”</td>
+  </tr>
+  <tr>
+    <td>Judge of the Appellate Division</td>
+    <td>“[name] JAD”</td>
+  </tr>
+  <tr>
+    <td>Judge of the High Court</td>
+    <td>“[name] J”</td>
+  </tr>
+  <tr>
+    <td>Senior Judge</td>
+    <td>“[name] SJ”</td>
+  </tr>
+  <tr>
+    <td>International Judge</td>
+    <td>“[name] IJ”</td>
+  </tr>
+  <tr>
+    <td>Judicial Commissioner</td>
+    <td>“Judicial Commissioner [name]”</td>
+    <td>“[name] JC”</td>
+  </tr>
+</tbody>
+</table>
+
 ## 138. Costs Guidelines 
 
 <table>
