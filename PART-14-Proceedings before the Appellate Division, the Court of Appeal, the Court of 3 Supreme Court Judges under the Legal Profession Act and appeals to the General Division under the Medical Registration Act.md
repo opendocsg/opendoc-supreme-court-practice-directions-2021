@@ -82,12 +82,12 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 
 <table>
 		<tr>
-			<th><strong>S/N</strong></th>
-			<th><strong>Document</strong></th>
-			<th><strong>Prescribed page limit</strong></th>
+			<td><strong>S/N</strong></td>
+			<td><strong>Document</strong></td>
+			<td><strong>Prescribed page limit</strong></td>
 		</tr>
 		<tr>
-			<td colspan="3" align="center"><strong><em>Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
+			<td colspan="3"><strong><em>Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
 		</tr>
 		<tr>
 			<td>(a)</td>
@@ -126,7 +126,7 @@ lower Court)</td>
 			<td>25 pages</td>
 		</tr>
 		<tr>
-			<td colspan="3" align="center"><strong><em>Documents filed for applications under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
+			<td colspan="3"><strong><em>Documents filed for applications under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
 		</tr>
 		<tr>
 			<td>(h)</td>
