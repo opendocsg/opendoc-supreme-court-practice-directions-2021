@@ -46,7 +46,7 @@
 	<li>129. Request for waiver or deferment of Court fees</li>
 </ul>
 
-## 116. Application of this Part 
+## 116. Application of this Part
 
 The directions in this Part apply to all appeals, applications and other proceedings before:
 
@@ -60,25 +60,93 @@ The directions in this Part apply to all appeals, applications and other proceed
 <li>(d)	the General Division under section 55 of the Medical Registration Act.</li>
 </ul>
 
-## 117. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges 
+## 117. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges
 
 Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of Appeal may determine, as and when appropriate, whether to convene a panel of 5 or any greater uneven number of Judges. Such determination of the Court of Appeal will be final.
 
-## 118. Appeals Information Sheet for civil appeals to the Appellate Division and the Court of Appeal 
+## 118. Appeals Information Sheet for civil appeals to the Appellate Division and the Court of Appeal
 
 (1)	The Chief Justice has directed that for civil appeals to the Appellate Division and civil appeals to the Court of Appeal, parties must file in court and serve on every other party to the appeal or his or her solicitor an Appeals Information Sheet in Form 19 of Appendix B of these Practice Directions by the following times:
 
 <ul type="*">
 <li>(a)	for appeals under Order 19 of the Rules of Court 2021 – at the same time as when parties’ respective Cases under Order 19, Rule 30 of the Rules of Court 2021 are filed and served; and</li>
- 
+
 <li>(b)	for appeals under Order 18 of the Rules of Court 2021 – at the same time as when parties’ written submissions under Order 18, Rule 33 of the Rules of Court 2021 are filed and served.</li>
 </ul>
 
 (2)	Where appropriate, parties or their solicitors may be required to attend in person to take directions on the conduct of the appeal.
 
-## 119. Page limits 
+## 119. Page limits
 
 (1)	The following table sets out the prescribed page limits for various documents filed under the Rules of Court 2021 in civil proceedings before the Appellate Division and the Court of Appeal:
+
+<table>
+<thead>
+  <tr>
+	  <th><strong>S/N</strong></th>
+	  <th><strong>Document</strong></th>
+	  <th><strong>Prescribed page limit</strong></th>
+  </tr>
+</thead>
+<tbody>
+	<tr>
+		<td colspan="3"><b><i>Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021</td>
+	</tr>
+  <tr>
+    <td>(a)</td>
+    <td>Written submissions required to be filed for appeals to the Appellate Division and the Court of Appeal under Order 18 of the Rules of Court 2021</td>
+    <td>35 pages</td>
+  </tr>
+  <tr>
+    <td>(b)</td>
+    <td>The appellant’s Case required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+    <td>55 pages</td>
+  </tr>
+	<tr>
+		<td>(c)</td>
+		<td>The appellant’s core bundle of documents required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+		<td>55 pages (excluding the written judgment or grounds of decision of the lower Court and the extracted order of the lower Court)</td>
+	</tr>
+	<tr>
+		<td>(d)</td>
+		<td>The respondent’s Case required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+		<td>55 pages</td>
+	</tr>
+	<tr>
+		<td>(e)</td>
+		<td>The respondent’s core bundle of documents that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+		<td>35 pages</td>
+	</tr>
+	<tr>
+		<td>(f)</td>
+		<td>The appellant’s Reply that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+		<td>25 pages</td>
+	</tr>
+	<tr>
+		<td>(g)</td>
+		<td>The second core bundle that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+		<td>25 pages</td>
+	</tr>
+	<tr>
+		<td colspan="3"><b><i>Documents filed for applications under Order 18 and Order 19 of the Rules of Court 2021</td>
+	</tr>
+	<tr>
+		<td>(h)</td>
+		<td>Written submissions filed for applications to the Appellate Division and the Court of Appeal under Order 18 and Order 19 of the Rules of Court 2021 (excluding applications for permission to appeal)</td>
+		<td>35 pages</td>
+	</tr>
+	<tr>
+		<td>(i)</td>
+		<td>Written submissions filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021</td>
+		<td>15 pages</td>
+	</tr>
+	<tr>
+		<td>(j)</td>
+		<td>Bundle of documents filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021</td>
+		<td>25 pages</td>
+	</tr>
+</tbody>
+</table>
 
 (2)	The following table sets out the prescribed page limits for various documents filed (a) under the Rules of Court 2021 for proceedings before the General Division under the Medical Registration Act; and (b) under the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act:
 
@@ -126,7 +194,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 <li>(f)	every page must have a margin on all 4 sides, each of at least 35 mm in width.</li>
 </ul>
 
-## 121. Preparation of records of appeal, written Cases, written submissions and core bundles 
+## 121. Preparation of records of appeal, written Cases, written submissions and core bundles
 
 ***Arrangement of appeal records***
 
@@ -147,7 +215,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 <ul type="*">
 <li>(i)	the notice of appeal to the Court of Appeal;</li>
 <li>(ii) the certificate of payment of security for costs in respect of the appeal to the Court of Appeal;</li>
-<li>(iii) the written judgment or grounds of decision of the Appellate Division or, if there is no judgment or grounds of decision, the certified minute sheet of the Appellate Division;</li>	
+<li>(iii) the written judgment or grounds of decision of the Appellate Division or, if there is no judgment or grounds of decision, the certified minute sheet of the Appellate Division;</li>
 <li>(iii) <strong>Volume III</strong> – Affidavits (in chronological order), and transcripts or notes of evidence and arguments.</li>
 <li>(iv) the order granting permission to appeal to the Court of Appeal;</li>
 <li>(v)	parties’ Cases filed in the Appellate Division; and</li>
@@ -244,7 +312,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 (13)	To assist the Court in identifying the documents referred to by a party in written submissions filed in appeals to the Appellate Division and the Court of Appeal under Order 18 of the Rules of Court 2021, the party should indicate, in the written submissions, where the document can be found in the case file in the proceedings in the lower Court. The party should provide: (a) a clear description of the document; (b) the date on which the document was electronically filed; and (c) where the document is a constituent component of another electronic filing, the exact page in the Portable Document Format (PDF) version of the electronic filing where the document may be found.
 
-## 122. Filing of appeal records and provision of hard and soft copies of documents 
+## 122. Filing of appeal records and provision of hard and soft copies of documents
 
 (1)	Subject to sub-paragraph (2), all documents that are required to be filed:
 
@@ -371,19 +439,19 @@ are to be electronically filed by the relevant deadlines.
 (16)	The files in the CD-ROMs that are required to be tendered under this paragraph must be named in accordance with the following format:
 
 ```
-<party> - <document title> 
+<party> - <document title>
 
 For example -
 
-1st Appellant – Appellant’s Case 
+1st Appellant – Appellant’s Case
 
 1st Appellant – Appellant’s Reply
 
-1st Appellant – Bundle of Authorities Vol 1 
+1st Appellant – Bundle of Authorities Vol 1
 
 1st Appellant – Bundle of Authorities Vol 2
 
-1st Appellant – Record of Appeal Vol 1 
+1st Appellant – Record of Appeal Vol 1
 
 1st Appellant – Record of Appeal Vol 2
 
@@ -391,7 +459,7 @@ For example -
 
 (17)	The CD-ROM must be clearly labelled with the case number and title of the proceedings. If there is more than one CD-ROM, the CD-ROMs must be numbered sequentially.
 
-## 123. Inclusion in appeal bundles of documents ordered to be sealed or redacted 
+## 123. Inclusion in appeal bundles of documents ordered to be sealed or redacted
 
 (1)	This paragraph applies where certain documents tendered before the lower Court have been ordered to be sealed or redacted, unless the entire case file in the Appellate Division or the Court of Appeal (as the case may be) has been sealed from public inspection.
 
@@ -453,7 +521,7 @@ For example -
 
 Where the Appellate Division or the Court of Appeal (as the case may be) orders further written submissions to be filed for any civil matter, such written submissions must not exceed 10 pages unless otherwise directed by the Appellate Division or the Court of Appeal (as the case may be). Any written submissions filed in breach of any requirement in this paragraph may be rejected. The written submissions are to comply with all formatting requirements prescribed in paragraph 120(2) of these Practice Directions.
 
-## 125. Applications in civil matters before the Appellate Division and the Court of Appeal, proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act 
+## 125. Applications in civil matters before the Appellate Division and the Court of Appeal, proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act
 
 (1)	If no affidavits or submissions are filed for applications to the Appellate Division or the Court of Appeal by the timelines prescribed by Order 18, Rules 35 and 37 and Order 19, Rules 35 and 37 of the Rules of Court 2021, the Appellate Division or the Court of Appeal (as the case may be) will proceed on the basis that the party does not intend to file any affidavit or submissions and may, in accordance with section 37(1) or section 55(1) of the Supreme Court of Judicature Act (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
 
@@ -461,7 +529,7 @@ Where the Appellate Division or the Court of Appeal (as the case may be) orders 
 
 (3)	In relation to applications referred to under section 192 of the Legal Profession Act, if no affidavits or submission are filed by the relevant prescribed timelines, the Court of 3 Supreme Court Judges will proceed on the basis that the party does not intend to file any affidavit or submissions and may, in accordance with section 192 of the Legal Profession Act decide the matter based on the documents before it without hearing oral arguments.
 
-## 126. Applications to the Appellate Division, and applications to the Court of Appeal, for permission to appeal in civil matters 
+## 126. Applications to the Appellate Division, and applications to the Court of Appeal, for permission to appeal in civil matters
 
 (1)	Any written submissions in respect of:
 
@@ -489,7 +557,7 @@ must be in Form 24 or 25 of Appendix B of these Practice Directions.
 
 (4)	If no written submissions are filed in the Appellate Division or the Court of Appeal by the timelines prescribed by Order 18, Rule 29 or Order 19, Rule 26 of the Rules of Court 2021 (as the case may be), the Appellate Division or the Court of Appeal (as the case may be) will proceed on the basis that the party does not intend to file any written submissions and may, in accordance with section 37(1) or section 55(1) of the Supreme Court of Judicature Act (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
 
-## 127. Use of presentation slides for all proceedings before the Appellate Division, Court of Appeal and Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act 
+## 127. Use of presentation slides for all proceedings before the Appellate Division, Court of Appeal and Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act
 
 Subject to approval by the Court, parties may utilise presentation slides to assist in oral submissions before the Court. Presentation slides may be projected in the courtroom or hearing chambers when oral submissions are made. Presentation slides must comply with the following standards:
 
@@ -509,13 +577,12 @@ Subject to approval by the Court, parties may utilise presentation slides to ass
 
 (4)	Corporate logos of the law practice may be displayed on the presentation slides. Care should be taken to ensure that the size and location of corporate logos do not distract from the substance of the presentation slides.
 
-## 128. Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act and the Legal Aid and Advice Regulations 
+## 128. Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act and the Legal Aid and Advice Regulations
 
 (1)	Where a Grant of Aid lapses or is cancelled in the course of any proceedings in the Appellate Division or the Court of Appeal, counsel must promptly notify the Appellate Division or the Court of Appeal (as the case may be) of the lapse or the cancellation in writing. This is given that questions may arise from the lapse or the cancellation of a Grant of Aid as to whether security for costs would need to be furnished to enable the proceedings in the Appellate Division or the Court of Appeal (as the case may be) to continue to be pursued.
 
 (2)	To avoid doubt, “Grant of Aid” in sub-paragraph (1) means a document issued under section 8 of the Legal Aid and Advice Act stating that legal aid is granted to a person (whether on a provisional basis or otherwise).
 
-## 129. Request for waiver or deferment of Court fees 
+## 129. Request for waiver or deferment of Court fees
 
 For the purposes of proceedings referred to in Parts 13 and 14 of these Practice Directions, a request for the waiver or deferment of the whole or any part of any appeal Court fees under Order 25, Rule 3(1) of the Rules of Court 2021 must be supported by an affidavit in Form 28 of Appendix B of these Practice Directions. The affidavit in Form 28 must verify Form 29 of Appendix B of these Practice Directions.
-
