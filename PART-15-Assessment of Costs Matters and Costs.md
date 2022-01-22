@@ -42,6 +42,8 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 <ul type="*">
 <li> <strong><em>PARTY-AND-PARTY BILLS</em></strong>
 
+<br><br>
+
 (a)	For party-and-party bills:
 
 <ul type="*">
@@ -55,11 +57,15 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 <li><strong><em>SPECIMEN BILLS</em></strong>
 
+<br><br>
+
 (b)	Specimen bills illustrating the use of Forms 30, 31 and 32 in Appendix B of these Practice Directions are found in Appendix E of these Practice Directions.
 
 </li>
 
 <li><strong><em>SOLICITOR-AND-CLIENT BILLS</em></strong>
+
+<br><br>
 
 (c)	A bill of costs drawn up for assessment of costs between a solicitor and his or her client should be drawn up in the same manner described in sub-paragraph (3)(a) except as follows:
 
@@ -71,6 +77,8 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 </li>
 
 <li><strong><em>BILLS OF COSTS REQUIRED TO BE ASSESSED UNDER SECTION 18(3) OF THE MOTOR VEHICLES (THIRD-PARTY RISKS AND COMPENSATION) ACT</em></strong>
+
+<br><br>
 
 (d)	Whenever costs are required to be assessed by virtue of the Motor Vehicles (Third-Party Risks and Compensation) Act, a bill should be drawn up for assessment between the solicitor and his or her client and another bill drawn up for assessment between the client and the other party to the proceedings in which the solicitor acted for the client. A waiver of the filing fees for the solicitor-and-client bill may be requested when this bill is filed:
 
@@ -95,6 +103,8 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 <ul type="*">
 <li> <strong><em>REGISTRATION NUMBERS</em></strong>
 
+<br><br>
+
 (a)	For registration numbers,
 
 <ul type="*">
@@ -108,11 +118,15 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 <li><strong><em>INPUT TAX ALLOWABLE</em></strong>
 
+<br><br>
+
 (b)	The proportion of input tax for which the receiving parties, or one or more of them, are not entitled to credit should be stated, as a percentage, in parentheses after the GST registration number of the party or parties concerned. For a person who is not liable to be registered within the meaning of the First Schedule to the Goods and Services Tax Act, this proportion should be 100%.
 
 </li>
 
 <li><strong><em>APPORTIONMENT</em></strong>
+
+<br><br>
 
 (c)	For apportionment:
 
@@ -125,6 +139,8 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 <li><strong><em>SUMMARY OF THE GOODS AND SERVICES TAX CLAIMED FOR WORK DONE</em></strong>
 
+<br><br>
+
 (d)	Where applicable, the following information should be included at the end of the first and of the second sections:
 
 <ul type="*">
@@ -136,7 +152,25 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 </li>
 
+<li><strong><em>SUMMARY	OF THE	GOODS	AND	SERVICES TAX	CLAIMED	FOR DISBURSEMENTS</em></strong>
+
+<br><br>
+
+(e)	Where applicable, the following information should be included at the end of the third section:
+
+<ul type="*">
+<li>(i)	a summation of the disbursements on which no GST is chargeable by the solicitors for the receiving party or the receiving party, as the case may be;</li>
+<li>(ii)	a summation of the disbursements on which GST at the applicable rate is chargeable by the solicitors for the receiving party or the receiving party, as the case may be;</li>
+<li>(iii)	the proportion, as a percentage, of input tax for which the receiving parties, or one or more of them, are not entitled to credit;</li>
+<li>(iv)	a quantification of the input tax on the disbursements on which GST is chargeable by the solicitors for the receiving party for which the receiving parties, or one or more of them, are not entitled to credit; and</li>
+<li>(v)	a quantification of the GST claimed on the disbursements.</li>
+</ul>
+
+</li>
+
 <li><strong><em>REGISTRAR’S CERTIFICATE</em></strong>
+
+<br><br>
 
 (f)	The total amount of GST allowed on a bill of costs will be indicated as a separate item in the Registrar’s certificate. Solicitors are responsible for ensuring that the GST figures accurately reflect the sums allowed by the Registrar.
 </li>
