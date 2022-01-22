@@ -41,20 +41,22 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 <ul type="*">
 <li> <strong><em>PARTY-AND-PARTY BILLS</em></strong>
-		
+
 (a)	For party-and-party bills:
+
 <ul type="*">
 <li>(i)	A bill of costs drawn up for assessment of costs between one party to proceedings and another should be divided into 3 separate sections as required by Order 21, Rule 20(1) of the Rules of Court 2021.</li>
 <li>(ii)	Form 30 in Appendix B of these Practice Directions should be used for contentious business in respect of work done for a trial or in contemplation of a trial.</li>
 <li>(iii)	Form 31 in Appendix B of these Practice Directions should be used for contentious business in respect of, or in contemplation of, work done other than for a trial; such as work done for an appeal or for a specific interlocutory application.</li>
-
 <li>(iv)	Form 32 in Appendix B of these Practice Directions should be used for non-contentious business.</li>
 </ul>
+
 </li>
-<br>
+
 <li><strong><em>SPECIMEN BILLS</em></strong>
 
 (b)	Specimen bills illustrating the use of Forms 30, 31 and 32 in Appendix B of these Practice Directions are found in Appendix E of these Practice Directions.
+
 </li>
 
 <li><strong><em>SOLICITOR-AND-CLIENT BILLS</em></strong>
@@ -65,8 +67,9 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 <li>(i)	A solicitor will be deemed to have indicated that all items included in the bill are in relation to work done or disbursements incurred with the approval of the client.</li>
 <li>(ii)	Any agreement, whether oral or in writing, between the solicitor and his or her client relating to the amount of costs payable either as a global sum or in respect of particular items included in the bill should be indicated on the bill. Any agreement between the solicitor and his or her client as to the rate to be used to compute the solicitor’s costs should also be indicated in the bill.</li>
 </ul>
+
 </li>
-<br>
+
 <li><strong><em>BILLS OF COSTS REQUIRED TO BE ASSESSED UNDER SECTION 18(3) OF THE MOTOR VEHICLES (THIRD-PARTY RISKS AND COMPENSATION) ACT</em></strong>
 
 (d)	Whenever costs are required to be assessed by virtue of the Motor Vehicles (Third-Party Risks and Compensation) Act, a bill should be drawn up for assessment between the solicitor and his or her client and another bill drawn up for assessment between the client and the other party to the proceedings in which the solicitor acted for the client. A waiver of the filing fees for the solicitor-and-client bill may be requested when this bill is filed:
@@ -75,7 +78,11 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 <li>(i)	The party-and-party bill should be filed first and the solicitor-and-client bill should reference the first bill.</li>
 <li>(ii)	The party-and-party bill and the solicitor-and-client bill can be drawn up as described in sub-paragraph (3)(a) and (c) with the modification set out in sub-paragraph (3)(d)(iii) below.</li>
 <li>(iii)	It is not necessary to repeat serially in the solicitor-and-client bill the items which have already been serially set out in the party-and-party bill. It is sufficient, ordinarily, to incorporate all such items by reference and proceed to set out in detail any additional items, i.e., items not already set out in the party-and-party bill. However, if a sum claimed for an item of disbursement in the solicitor-and-client bill is different from the corresponding sum claimed in the party-and-party bill, it will be necessary to set out serially again in the solicitor-and-client bill all the items of disbursement already set out in the party-and-party bill (including, where appropriate, the different sum or sums claimed) as well as additional items of disbursement not so set out. In addition, the global sums claimed for Sections 1 and 2 of the solicitor-and-client bill should be indicated at the end of the respective sections whether or not they are the same sums as those claimed for Sections 1 and 2 of the party-and-party bill.</li>
-</ul></ul>
+</ul>
+
+</li>
+
+</ul>
 
 ***Particulars***
 
@@ -84,21 +91,25 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 ***Goods and services tax***
 
 (5)	A party claiming goods and services tax (GST) in a bill of costs must comply with the directions set out in this sub-paragraph. A party who fails to comply with the directions set out in this sub-paragraph will be presumed not to be claiming GST in the bill concerned.
+
 <ul type="*">
 <li> <strong><em>REGISTRATION NUMBERS</em></strong>
-		
+
 (a)	For registration numbers,
+
 <ul type="*">
 <li>(i)	The GST registration number allocated by the Comptroller of Goods and Services Tax to the solicitors for the receiving party or parties should appear at the top left hand corner of the first page of the bill of costs.</li>
 <li>(ii)	The GST registration numbers, if any, allocated to the receiving parties or to any one or more of them, as the case may be, must also appear at the same location in all documents.</li>
 <li>(iii)	The GST registration numbers should be indicated as follows: “GST Reg. No. (solicitors for claimant/solicitors for 1st defendant/2nd defendant (or as the case may be)): xxxxx.”</li>
 <li>(iv)	Where no GST registration number has been allocated to a receiving party, a statement to this effect should be included after the GST registration numbers of the solicitors for the receiving parties, or the receiving parties, as the case may be, in the following manner: “1st and 2nd defendants/3rd claimant/(or as the case may be): no GST Reg. No.”</li>
 </ul>
+
 </li>
-<br>
+
 <li><strong><em>INPUT TAX ALLOWABLE</em></strong>
 
 (b)	The proportion of input tax for which the receiving parties, or one or more of them, are not entitled to credit should be stated, as a percentage, in parentheses after the GST registration number of the party or parties concerned. For a person who is not liable to be registered within the meaning of the First Schedule to the Goods and Services Tax Act, this proportion should be 100%.
+
 </li>
 
 <li><strong><em>APPORTIONMENT</em></strong>
@@ -109,8 +120,9 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 <li>(i)	The first and second sections of the bill of costs, which set out the work done in the cause or matter except for assessment of costs and the work done for and in the assessment of costs, should each be divided into such number of parts as will enable the bill to reflect the different rates of GST applicable during the relevant period of time.</li>
 <li>(ii)	The third section, which sets out the disbursements made in the cause or matter, should similarly be divided, with the first part setting out the disbursements on which no GST is chargeable by the solicitors for the receiving party or the receiving party, as the case may be.</li>
 </ul>
+
 </li>
-<br>
+
 <li><strong><em>SUMMARY OF THE GOODS AND SERVICES TAX CLAIMED FOR WORK DONE</em></strong>
 
 (d)	Where applicable, the following information should be included at the end of the first and of the second sections:
@@ -121,11 +133,14 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 <li>(iii)	a quantification of the input tax on the costs claimed in the section concerned for which the receiving parties, or one or more of them, are not entitled to credit; and</li>
 <li>(iv)	a quantification of the GST claimed on the costs claimed in the section concerned.</li>
 </ul>
-<br>
+
+</li>
+
 <li><strong><em>REGISTRAR’S CERTIFICATE</em></strong>
-	
+
 (f)	The total amount of GST allowed on a bill of costs will be indicated as a separate item in the Registrar’s certificate. Solicitors are responsible for ensuring that the GST figures accurately reflect the sums allowed by the Registrar.
 </li>
+
 </ul>
 
 ## 132. Electronic filing of bills of costs for assessment
@@ -134,9 +149,7 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 <ul type="*">
 <li>(a)	be in Portable Document Format (PDF);</li>
-
 <li>(b)	comply with paragraph 131 of these Practice Directions; and</li>
-
 <li>(c)	be accompanied by a bill of costs summary, the electronic form of which will be composed online through the Electronic Filing Service. The information required by the Electronic Filing Service to compose the bill of costs summary includes the costs claimed under Sections 1, 2 and 3 of the bill of costs.</li>
 </ul>
 
@@ -168,34 +181,34 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 <ul type="*">
 <li>(a)	the receiving party must, prior to the filing of the bill of costs in Court through the Electronic Filing Service, send the bill of costs to be filed to the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid, as the case may be;</li>
-
 <li>(b)	the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid, as the case may be, should then inform the receiving party whether he or she agrees or disagrees with the amounts claimed in the bill of costs; and</li>
-
 <li>(c)	when filing the bill of costs in Court through the Electronic Filing Service, the receiving party must state whether the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid, as the case may be, disagrees with the amounts claimed in the bill of costs. The bill of costs should also be served on the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid, as may be applicable, on the same day that the bill of costs is filed.</li>
 </ul>
 
 (3)	If the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid, as the case may be, agrees with the amounts claimed in the bill of costs, then:
 
 <ul type="*">
-<li>(a)	for costs required to be assessed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act:</li>
+<li>(a)	for costs required to be assessed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act:
 
 <ul type="*">
 <li>(i)	where no party-and-party bill of costs has been filed; or</li>
-
 <li>(ii)	where the solicitor-and-client costs is not referenced to a party-and-party bill filed early, the receiving party and the Public Trustee need not attend at the assessment and the bill will be assessed in their absence. However, if the Registrar disagrees with the quantum of costs agreed on, he or she may nonetheless direct the attendance of the receiving party and the Public Trustee, at a later date;</li>
 </ul>
 
-<li>(b)	for:</li>
+</li>
+
+<li>(b)	for:
 
 <ul type="*">
 <li>(i)	party-and-party bills filed by the creditor under the Bankruptcy (Costs) Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020, to which the estate of the bankrupt is the respondent;</li>
-
 <li>(ii)	party-and-party bills filed by the creditor in companies winding-up matters where the Official Receiver is appointed liquidator and to which the company in liquidation is the respondent to the bill of costs; or</li>
-
 <li>(iii)	solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act where the Director of Legal Aid is the respondent, the receiving party and the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, need not attend at the assessment and the bill will be assessed in their absence. However, if the Registrar disagrees with the quantum of costs agreed on, he or she may nonetheless direct the attendance of the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, and the receiving party, at a later date.</li>
 </ul>
+
+</li>
+
 </ul>
- 
+
 (4)	If costs are required to be assessed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act and the bill of costs claiming the same is referenced to an earlier party-and-party bill filed pursuant to paragraph 131(3)(d), the Public Trustee need not attend the assessment of the bill and the party-and-party and solicitor-and-client costs will be assessed in the absence of the Public Trustee. However, the Public Trustee may attend at the assessment if he or she so wishes, and must attend if an express direction is made by the Registrar that he or she attends in relation to a particular bill of costs.
 
 ## 136. Fixing costs instead of ordering assessment
@@ -216,7 +229,6 @@ Powers of the Court (O. 21, r. 2)
 
 <ul type="*">
 <li>(a)	trials of originating claims in open court, including originating claims that were ordered to be converted from originating applications; and</li>
- 
 <li>(b)	originating applications involving cross-examination of any maker of an affidavit.</li>
 </ul>
 
