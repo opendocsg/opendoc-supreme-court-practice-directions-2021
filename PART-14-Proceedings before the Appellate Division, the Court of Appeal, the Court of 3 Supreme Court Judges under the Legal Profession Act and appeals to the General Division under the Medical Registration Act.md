@@ -80,16 +80,60 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 
 (1)	The following table sets out the prescribed page limits for various documents filed under the Rules of Court 2021 in civil proceedings before the Appellate Division and the Court of Appeal:
 
-<div>
 <table>
 <thead>
+  <tr>
+	  <th><strong>Office</strong></th>
+	  <th><strong>Form of Address</strong></th>
+	  <th><strong>Abbreviated Form of Address</strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chief Justice</td>
+    <td>“Chief Justice [name]”</td>
+    <td>“[name] CJ”</td>
+  </tr>
+  <tr>
+    <td>Justice of the Court of Appeal</td>
+    <td rowspan="5">“Justice [name]”</td>
+    <td>“[name] JCA”</td>
+  </tr>
+  <tr>
+    <td>Judge of the Appellate Division</td>
+    <td>“[name] JAD”</td>
+  </tr>
+  <tr>
+    <td>Judge of the High Court</td>
+    <td>“[name] J”</td>
+  </tr>
+  <tr>
+    <td>Senior Judge</td>
+    <td>“[name] SJ”</td>
+  </tr>
+  <tr>
+    <td>International Judge</td>
+    <td>“[name] IJ”</td>
+  </tr>
+  <tr>
+    <td>Judicial Commissioner</td>
+    <td>“Judicial Commissioner [name]”</td>
+    <td>“[name] JC”</td>
+  </tr>
+</tbody>
+</table>
+
+
+<div>
+<table>
+ <thead>
   <tr>
 	  <th><strong>S/N</strong></th>
 	  <th><strong>Document</strong></th>
 	  <th><strong>Prescribed page limit</strong></th>
   </tr>
-</thead>
-<tbody>
+ </thead>
+ <tbody>
 	<tr>
 		<td colspan="3"><b><i>Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021</td>
 	</tr>
