@@ -73,72 +73,70 @@
 </table>
 
 ## 138. Costs Guidelines 
-
 <table>
 <thead>
-		<tr>
-			<th><strong>S/N</strong></th>
-			<th><strong>Document</strong></th>
-			<th><strong>Prescribed page limit</strong></th>
-		</tr>
+<tr>
+<th><strong>S/N</strong></th>
+<th><strong>Document</strong></th>
+<th><strong>Prescribed page limit</strong></th>
+</tr>
 </thead>
 <tbody
-		<tr>
-			<td colspan="3"><strong><em>Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
-		</tr>
-		<tr>
-			<td>(a)</td>
-			<td>Written submissions required to be filed for appeals to the Appellate Division and the Court of Appeal under Order 18 of the Rules of Court 2021</td>
-			<td>35 pages</td>
-		</tr>
-		<tr>
-			<td>(b)</td>
-			<td>The appellant’s Case required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
-			<td>55 pages</td>
-		</tr>
-		<tr>
-			<td>(c)</td>
-			<td>The appellant’s core bundle of documents required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
-			<td>55 pages (excluding the written judgment or grounds of decision of the lower Court and the extracted order of the
+<tr>
+<td colspan="3"><strong><em>Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
+</tr>
+<tr>
+<td>(a)</td>
+<td>Written submissions required to be filed for appeals to the Appellate Division and the Court of Appeal under Order 18 of the Rules of Court 2021</td>
+<td>35 pages</td>
+</tr>
+<tr>
+<td>(b)</td>
+<td>The appellant’s Case required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+<td>55 pages</td>
+</tr>
+<tr>
+<td>(c)</td>
+<td>The appellant’s core bundle of documents required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+<td>55 pages (excluding the written judgment or grounds of decision of the lower Court and the extracted order of the
 lower Court)</td>
-		</tr>
-		<tr>
-			<td>(d)</td>
-			<td>The respondent’s Case required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
-			<td>55 pages</td>
-		</tr>
-		<tr>
-			<td>(e)</td>
-			<td>The respondent’s core bundle of documents that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
-			<td>35 pages</td>
-		</tr>
-		<tr>
-			<td>(f)</td>
-			<td>The appellant’s Reply that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
-			<td>25 pages</td>
-		</tr>
-		<tr>
-			<td>(g)
-			<td>The second core bundle that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
-			<td>25 pages</td>
-		</tr>
-		<tr>
-			<td colspan="3"><strong><em>Documents filed for applications under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
-		</tr>
-		<tr>
-			<td>(h)</td>
-			<td>Written submissions filed for applications to the Appellate Division and the Court of Appeal under Order 18 and Order 19 of the Rules of Court 2021 (excluding applications for permission to appeal)</td>
-			<td>35 pages</td>
-		</tr>
-		<tr>
-			<td>(i)</td>
-			<td>Written submissions filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021</td>
-			<td>15 pages</td>
-		</tr>
-		<tr>
-			<td>(j)</td>
-			<td>Bundle of documents filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021</td>
-			<td>25 pages</td>
-		</tr>
+</tr>
+<tr>
+<td>(d)</td>
+<td>The respondent’s Case required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+</tr>
+<tr>
+<td>(e)</td>
+<td>The respondent’s core bundle of documents that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+<td>35 pages</td>
+</tr>
+<tr>
+<td>(f)</td>
+<td>The appellant’s Reply that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+<td>25 pages</td>
+</tr>
+<tr>
+<td>(g)
+<td>The second core bundle that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021</td>
+<td>25 pages</td>
+</tr>
+<tr>
+<td colspan="3"><strong><em>Documents filed for applications under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
+</tr>
+<tr>
+<td>(h)</td>
+<td>Written submissions filed for applications to the Appellate Division and the Court of Appeal under Order 18 and Order 19 of the Rules of Court 2021 (excluding applications for permission to appeal)</td>
+<td>35 pages</td>
+</tr>
+<tr>
+<td>(i)</td>
+<td>Written submissions filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021</td>
+<td>15 pages</td>
+</tr>
+<tr>
+<td>(j)</td>
+<td>Bundle of documents filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021</td>
+<td>25 pages</td>
+</tr>
 </tbody>
 </table>
