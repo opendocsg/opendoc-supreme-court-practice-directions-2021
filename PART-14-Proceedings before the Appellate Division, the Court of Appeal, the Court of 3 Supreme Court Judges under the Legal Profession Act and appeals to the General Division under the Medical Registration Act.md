@@ -80,6 +80,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 
 (1)	The following table sets out the prescribed page limits for various documents filed under the Rules of Court 2021 in civil proceedings before the Appellate Division and the Court of Appeal:
 
+<div>
 <table>
 <thead>
   <tr>
@@ -147,6 +148,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 	</tr>
 </tbody>
 </table>
+</div>
 
 (2)	The following table sets out the prescribed page limits for various documents filed (a) under the Rules of Court 2021 for proceedings before the General Division under the Medical Registration Act; and (b) under the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act:
 
