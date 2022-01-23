@@ -4,30 +4,30 @@
 	<li>76. Witnesses</li>
 		<ul>
 			<li>Issuance of orders to attend court</li>
-			<li>Release of witness upon completion of evidence</li> 
+			<li>Release of witness upon completion of evidence</li>
 			<li>Request for Registrar to produce document or Court’s records</li>
 		</ul>
-	<li>77. Giving of evidence by person outside Singapore through live video link or live television link in any proceedings (other than proceedings in a criminal matter)</li> 
-	<li>78. Form of affidavits</li> 
+	<li>77. Giving of evidence by person outside Singapore through live video link or live television link in any proceedings (other than proceedings in a criminal matter)</li>
+	<li>78. Form of affidavits</li>
 	<li>79. Non-documentary exhibits to affidavits</li>
 	<li>80. Documentary exhibits to affidavits</li>
 		<ul>
-			<li>More than 10 documentary exhibits</li> 
-			<li>Pagination</li> 
+			<li>More than 10 documentary exhibits</li>
+			<li>Pagination</li>
 			<li>Dividing sheets</li>
-			<li>Bookmarks</li> 
-			<li>Numbering</li> 
-			<li>References to exhibits in text of affidavit</li> 
-			<li>References to exhibits in other affidavits</li> 
+			<li>Bookmarks</li>
+			<li>Numbering</li>
+			<li>References to exhibits in text of affidavit</li>
+			<li>References to exhibits in other affidavits</li>
 			<li>Related documents</li>
 		</ul>
-	<li>81. Affirming and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link</li> 
-	<li>82. Affirming of documents by persons who do not understand English, are illiterate or blind</li> 
+	<li>81. Affirming and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link</li>
+	<li>82. Affirming of documents by persons who do not understand English, are illiterate or blind</li>
 	<li>83. Effect of non-compliance</li>
 	<li>84. Objections to the contents of affidavits of evidence-in-chief</li>
 </ul>
 
-## 76. Witnesses 
+## 76. Witnesses
 
 ***Issuance of orders to attend court***
 
@@ -43,7 +43,7 @@
 
 (4)	A request to produce a document filed in Court or the Court’s records pursuant to Order 15, Rule 4(15) of the Rules of Court 2021 must be made in Form 12 of Appendix B of these Practice Directions.
 
-## 77. Giving of evidence by person outside Singapore through live video link or live television link in any proceedings (other than proceedings in a criminal matter) 
+## 77. Giving of evidence by person outside Singapore through live video link or live television link in any proceedings (other than proceedings in a criminal matter)
 
 (1)	Any application for permission for any person outside Singapore to give evidence by live video link or live television link in any proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, not later than 8 weeks before the date of commencement of the hearing at which the person is to give evidence. The application may also contain a prayer for the issue of a letter of request, to the relevant authorities of a foreign jurisdiction, for permission for evidence to be given by live video or live television link by a person located in that jurisdiction, if the laws of that jurisdiction require the issue of such a letter of request.
 
@@ -61,7 +61,7 @@
 
 (4)	To avoid doubt, the proceedings mentioned in sub-paragraph (1) include all civil proceedings involving the examination of any person.
 
-## 78. Form of affidavits 
+## 78. Form of affidavits
 
 (1)	Affidavits must be in Form 31 of Appendix A of these Practice Directions. In addition to the requirements under Order 15, Rule 19 of the Rules of Court 2021, affidavits should comply with the following requirements:
 
@@ -81,11 +81,8 @@
 <li>(iii)	the ordinal number of the affidavit in relation to the previous affidavits filed in the cause or matter by the maker of the affidavit;</li>
 
 <li>(iv)	the date the affidavit is to be filed;
-
-```
+<br>
 For example, “2nd Df; Tan Ah Kow; 4th; 15.12.2021”.</li>
-```
-
 </ul>
 
 <li>(d)	every page of the affidavit must be paginated consecutively, and the page number must be inserted at the centre top of each page of the affidavit other than the exhibits and separators. Exhibits and separators must be paginated in accordance with paragraph 80(3) below.</li>
@@ -96,7 +93,7 @@ For example, “2nd Df; Tan Ah Kow; 4th; 15.12.2021”.</li>
 (2)	When filing affidavits for use during a hearing of an interlocutory application, the summons number of the interlocutory application must be provided in the Electronic Filing Service in addition to the case number of the suit or matter.
 
 (3)	Every affidavit which is filed in conjunction with a summons must have endorsed at the top left hand corner of the first page of the affidavit the summons number.
- 
+
 (4)	Unless otherwise directed by the Court, hard copies of affidavits should be printed on both sides of each page.
 
 ## 79. Non-documentary exhibits to affidavits
@@ -109,7 +106,7 @@ For example, “2nd Df; Tan Ah Kow; 4th; 15.12.2021”.</li>
 
 (4)	Very small non-documentary exhibits must be enclosed or mounted in a sealed transparent container and tagged or labelled as referred to in sub-paragraph (3) above. An enlarged photograph showing the relevant characteristics of such exhibits must, where applicable, be exhibited in the affidavit.
 
-## 80. Documentary exhibits to affidavits 
+## 80. Documentary exhibits to affidavits
 
 (1)	Every page of every exhibit must be fully and clearly legible. Where necessary, magnified copies of the relevant pages should be inserted in appropriate places.
 
@@ -118,16 +115,18 @@ For example, “2nd Df; Tan Ah Kow; 4th; 15.12.2021”.</li>
 (2)	When there are more than 10 different documentary exhibits in an affidavit:
 
 <ul type="*">
+
 <li>(a)	a table of contents of the documentary exhibits (enumerating every exhibit in the affidavit) must be inserted before the first exhibit in the manner of the example set out below:
-		<table>
-			<tr><td>Reference in affidavit</td><td>Nature of Exhibit</td><td>Page No</td></tr>
-			<tr><td>"TAK-1"</td><td>Certificate of marriage</td><td>6</td></tr>
-			<tr><td>"TAK-2"</td><td>Certificate of birth</td><td>8</td></tr>
-		</table>
+
+| Reference in affidavit | Nature of Exhibit | Page No |
+| --------- | --------- | ---------- |
+| "TAK-1" | Certificate of marriage | 6 |
+| "TAK-2" | Certificate of birth | 8 |
 
 and </li>
 
 <li>(b)	the exhibits must be set out in the sequence in which reference is made to them in the affidavit.</li>
+
 </ul>
 
 ***Pagination***
@@ -177,7 +176,7 @@ Documents referred to in affidavit (O. 15, r. 27)
 
 (9)	Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub-paragraph (3) above, and the exhibit must have a front page showing a table of contents of the items in the exhibit.
 
-## 81. Affirming and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link 
+## 81. Affirming and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link
 
 (1)	A remote communication technology mentioned in Order 15, Rule 22(1) of the Rules of Court 2021 must be capable of creating a live video link or live television link through which a commissioner for oaths is able to do all of the things mentioned in Order 15, Rule 22(3) of the Rules of Court 2021.
 
@@ -185,7 +184,7 @@ Documents referred to in affidavit (O. 15, r. 27)
 
 (3)	Where an affidavit is made pursuant to Order 15, Rule 22 of the Rules of Court 2021, the affidavit should be made, as far as possible, as if the maker of the affidavit were appearing before the commissioner for oaths in person, and the attestation must state that the affidavit was affirmed and signed in Singapore with the maker of the affidavit appearing before the commissioner for oaths through a live video link or live television link, or that the affidavit was signed by the maker of the affidavit and/or the commissioner for oaths electronically in Singapore, or both, as the case may be.
 
-## 82. Affirming of documents by persons who do not understand English, are illiterate or blind 
+## 82. Affirming of documents by persons who do not understand English, are illiterate or blind
 
 (1)	A remote communication technology mentioned in Order 15, Rule 22(1) of the Rules of Court 2021 must be capable of creating a live video link or live television link through which a commissioner for oaths is able to do all of the things mentioned in Order 15, Rule 22(3) of the Rules of Court 2021.
 
@@ -224,11 +223,11 @@ Safeguards for persons who do not understand English, are illiterate or blind (O
 <li>(c)	Head Interpreter (Malay languages) – 6332 3970.</li>
 </ul>
 
-## 83. Effect of non-compliance 
+## 83. Effect of non-compliance
 
 Any affidavit or exhibit which does not comply with the directions contained in this Part may be rejected by the Court and made the subject of an order for costs.
 
-## 84. Objections to the contents of affidavits of evidence-in-chief 
+## 84. Objections to the contents of affidavits of evidence-in-chief
 
 (1)	Objections to the contents of affidavits of evidence-in-chief under Order 15, Rule 16(6) of the Rules of Court 2021 must be taken by filing and serving a notice in Form 13 of Appendix B of these Practice Directions.
 
