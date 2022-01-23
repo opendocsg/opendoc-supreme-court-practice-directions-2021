@@ -202,7 +202,7 @@ Documents filed for proceedings before the General Division under section 55 of 
 
 (5)	If any party wishes to seek permission from the relevant Court in accordance with the Rules of Court 2021 or the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 (as the case may be) to exceed the page limits prescribed under sub-paragraphs (1) and (2), the party must file a Request in the Electronic Filing Service stating the reasons for requiring additional pages, the number of additional pages required and the position of the other parties on the request. Parties are to note the fees that are payable under the Rules of Court 2021 or the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 (as the case may be) for the filing of documents exceeding the prescribed page limit.
 
-(6)	An application for permission under sub-paragraph (5) must be filed by the deadlines as set out in the following table: latest1501
+(6)	An application for permission under sub-paragraph (5) must be filed by the deadlines as set out in the following table: latest1510
 
 <table>
 <thead>
@@ -230,8 +230,10 @@ Documents filed for proceedings before the General Division under section 55 of 
 	<tr>
 		<td>(b)</td>
 		<td>In relation to the following documents:
-			(i)	the appellant’s Case and the respondent’s Case that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021; and
-			(ii)the appellant’s core bundle of documents and the respondent’s core bundle of documents that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021.</td>
+			<ul type="*">
+			<li>(i)	the appellant’s Case and the respondent’s Case that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021; and</li>
+			<li>(ii)the appellant’s core bundle of documents and the respondent’s core bundle of documents that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021.</li></ul>
+		</td>
 		<td>14 days before the filing deadline</td>
 	</tr>
 	<tr>
@@ -240,8 +242,9 @@ Documents filed for proceedings before the General Division under section 55 of 
 	<tr>
 		<td>(c)</td>
 		<td>In relation to the following documents:
-			(i)	written submissions filed for applications to the Appellate Division and the Court of Appeal under Order 18 and Order 19 of the Rules of Court 2021 (including applications for permission to appeal); and
-			(ii)	bundle of documents filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021.
+			<ul type="*">
+			<li>(i)	written submissions filed for applications to the Appellate Division and the Court of Appeal under Order 18 and Order 19 of the Rules of Court 2021 (including applications for permission to appeal); and</li>
+			<li>(ii)	bundle of documents filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021.</li></ul>
 		</td>
 		<td>5 days before the filing deadline</td>
 	</tr>
