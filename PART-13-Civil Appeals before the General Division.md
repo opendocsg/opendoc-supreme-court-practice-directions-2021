@@ -6,14 +6,14 @@
 	<li>113. Civil Appeals from the State Courts to General Division</li>
 		<ul>
 			<li>Appeals from District Judge and Magistrate to General Division under Order 18, Rule 17 of the Rules of Court 2021</li>
-			<li>Appeals from District Court and Magistrate’s Court to General Division under Order 19, Rule 14 of the Rules of Court 2021</li> 
+			<li>Appeals from District Court and Magistrate’s Court to General Division under Order 19, Rule 14 of the Rules of Court 2021</li>
 			<li>Appeals from the Employment Claims Tribunal</li>
 		</ul>
-	<li>114. Civil Appeals from Registrar to Judge in chambers</li> 
-	<li>115. Civil Appeals from Tribunals to General Division</li> 
+	<li>114. Civil Appeals from Registrar to Judge in chambers</li>
+	<li>115. Civil Appeals from Tribunals to General Division</li>
 </ul>
 
-## 111. Application of this Part 
+## 111. Application of this Part
 
 The directions in this Part apply to civil appeals before the General Division (excluding appeals under section 55 of the Medical Registration Act).
 
@@ -39,7 +39,7 @@ The directions in this Part apply to civil appeals before the General Division (
 
 (3)	All Requests should be addressed to the Registrar.
 
-## 113. Civil Appeals from the State Courts to General Division 
+## 113. Civil Appeals from the State Courts to General Division
 
 ***Appeals from District Judge and Magistrate to General Division under Order 18, Rule 17 of the Rules of Court 2021***
 
@@ -58,7 +58,7 @@ The directions in this Part apply to civil appeals before the General Division (
 ***Appeals from District Court and Magistrate’s Court to General Division under Order 19, Rule 14 of the Rules of Court 2021***
 
 (4)	Where an appeal is filed under Order 19, Rule 14 of the Rules of Court 2021, the appellant must tender 1 hard copy each of the following documents to the Registry:
- 
+
 <ul type="*">
 <li>(a)	the record of appeal, the appellant’s Case, the appellant’s core bundle  of documents and the appellant’s bundle of authorities, within the timeline prescribed in Order 19, Rule 17(4) of the Rules of Court 2021; and</li>
 
@@ -68,14 +68,15 @@ The directions in this Part apply to civil appeals before the General Division (
 (5)	Where an appeal is filed under Order 19, Rule 14 of the Rules of Court 2021, the respondent must tender 1 hard copy each of the respondent’s Case, the respondent’s core bundle of documents (if necessary) and the respondent’s bundle of authorities to the Registry within the timeline prescribed in Order 19, Rule 17(8) of the Rules of Court 2021.
 
 (6)	The table below sets out the prescribed page limits under Order 19, Rule 19 of the Rules of Court 2021 of the following documents:
-| S/N	| Document | Prescribed page limit
+
+| S/N	| Document | Prescribed page limit |
 | ----------- | ----------- | ----------- |
-| (a)	| Appellant’s Case	| 35 pages
-| (b)	| Appellant’s core bundle of documents (excluding the written judgment or grounds of decision of the lower Court and the extracted order of the lower Court)	| 55 pages
-| (c)	| Respondent’s Case	| 35 pages
-| (d)	| Respondent’s core bundle of documents	| 35 pages
-| (e)	| Appellant’s Reply	| 20 pages
-| (f)	| Appellant’s second core bundle	| 25 pages
+| (a)	| Appellant’s Case	| 35 pages |
+| (b)	| Appellant’s core bundle of documents (excluding the written judgment or grounds of decision of the lower Court and the extracted order of the lower Court)	| 55 pages |
+| (c)	| Respondent’s Case	| 35 pages |
+| (d)	| Respondent’s core bundle of documents	| 35 pages |
+| (e)	| Appellant’s Reply	| 20 pages |
+| (f)	| Appellant’s second core bundle	| 25 pages |
 
 (7)	The page limits set out in the table at sub-paragraph (6) include the cover page and table of contents. The appellant’s Case, the respondent’s Case and the appellant’s Reply must each include a cover page and a table of contents. Parties are to note that where the Court allows the prescribed page limit referred to at sub-paragraph (6) to be exceeded, fees are payable under the Fourth Schedule to the Rules of Court 2021.
 
@@ -95,13 +96,13 @@ The directions in this Part apply to civil appeals before the General Division (
 <li>(a)	the table of contents of all volumes of the bundle of authorities must be placed at the beginning of Volume I; and</li>
 
 <li>(b)	each volume must have a table of contents indicating the authorities that are contained in that volume.</li>
-</ul>  
+</ul>
 
 ***Appeals from the Employment Claims Tribunal***
 
 (11)	In addition to any provisions in the Rules of Court 2021 or other written law, and subject to any further directions made by the Court, the Registrar hereby directs that appeals to the General Division from the Employment Claims Tribunal are to be heard in open court.
 
-## 114. Civil Appeals from Registrar to Judge in chambers 
+## 114. Civil Appeals from Registrar to Judge in chambers
 
 (1)	Where an appeal is filed under Order 18, Rule 24 of the Rules of Court 2021, each party is to tender 1 hard copy each of his or her written submissions and bundle of authorities (if any) to the Registry within the timelines prescribed in Order 18, Rule 25(5) of the Rules of Court 2021.
 
@@ -115,7 +116,7 @@ The directions in this Part apply to civil appeals before the General Division (
 <li>(b)	each volume must have a table of contents indicating the authorities that are contained in that volume.</li>
 </ul>
 
-## 115. Civil Appeals from Tribunals to General Division 
+## 115. Civil Appeals from Tribunals to General Division
 
 (1)	Order 20, Rule 3(4) of the Rules of Court 2021 states that the supporting affidavit must include the record of proceedings if that is available and is necessary for the appeal. If the record of proceedings is not available at the time when the supporting affidavit is filed but subsequently becomes available, the appellant should seek permission from the Court to file a further affidavit to include the record of proceedings when it becomes available, if it is necessary for the appeal. To facilitate this, the appellant should promptly apply for any written grounds of decision, the record of evidence or notes of arguments taken in respect of the proceedings before the tribunal.
 
