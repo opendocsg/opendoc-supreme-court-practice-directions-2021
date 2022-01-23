@@ -202,7 +202,7 @@ Documents filed for proceedings before the General Division under section 55 of 
 
 (5)	If any party wishes to seek permission from the relevant Court in accordance with the Rules of Court 2021 or the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 (as the case may be) to exceed the page limits prescribed under sub-paragraphs (1) and (2), the party must file a Request in the Electronic Filing Service stating the reasons for requiring additional pages, the number of additional pages required and the position of the other parties on the request. Parties are to note the fees that are payable under the Rules of Court 2021 or the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 (as the case may be) for the filing of documents exceeding the prescribed page limit.
 
-(6)	An application for permission under sub-paragraph (5) must be filed by the deadlines as set out in the following table: latest
+(6)	An application for permission under sub-paragraph (5) must be filed by the deadlines as set out in the following table: latest1448
 
 <table>
 <thead>
