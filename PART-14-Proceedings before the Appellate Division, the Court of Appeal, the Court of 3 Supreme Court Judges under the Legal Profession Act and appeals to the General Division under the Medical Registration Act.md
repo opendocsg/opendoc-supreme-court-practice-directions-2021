@@ -220,21 +220,16 @@ Documents filed for proceedings before the General Division under section 55 of 
 	<tr>
     <td>(a)</td>
     <td>In relation to the following documents:
-			<br>
 			(i)	written submissions required to be filed for appeals to the Appellate Division and the Court of Appeal under Order 18 of the Rules of Court 2021;
-			<br>
 			(ii)	the appellant’s Reply that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021; and
-			<br>
-			(iii)	the second core bundle that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021.
-		</td>
+			(iii)	the second core bundle that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021.</td>
     <td>5 days before the filing deadline</td>
   </tr>
 	<tr>
 		<td>(b)</td>
 		<td>In relation to the following documents:
-			<li>(i)	the appellant’s Case and the respondent’s Case that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021; and</li>
-			<li>(ii)the appellant’s core bundle of documents and the respondent’s core bundle of documents that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021.</li>
-		</td>
+			(i)	the appellant’s Case and the respondent’s Case that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021; and
+			(ii)the appellant’s core bundle of documents and the respondent’s core bundle of documents that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021.</td>
 		<td>14 days before the filing deadline</td>
 	</tr>
 	<tr>
@@ -243,16 +238,14 @@ Documents filed for proceedings before the General Division under section 55 of 
 	<tr>
 		<td>(c)</td>
 		<td>In relation to the following documents:
-			<br>
-			<li>(i)	written submissions filed for applications to the Appellate Division and the Court of Appeal under Order 18 and Order 19 of the Rules of Court 2021 (including applications for permission to appeal); and</li>
-			<li>(ii)	bundle of documents filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021.</li>
+			(i)	written submissions filed for applications to the Appellate Division and the Court of Appeal under Order 18 and Order 19 of the Rules of Court 2021 (including applications for permission to appeal); and
+			(ii)	bundle of documents filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021.
 		</td>
 		<td>5 days before the filing deadline</td>
 	</tr>
 	<tr>
 		<td colspan="3"><strong><em>Documents filed for proceedings before the General Division under section 55 of the Medical Registration Act</em></strong></td>
 	</tr>
-	<tr>
 	<tr>
 		<td>(d)</td>
 		<td>Written submissions that are required to be filed for appeals to the General Division under the Medical Registration Act</td>
@@ -266,7 +259,6 @@ Documents filed for proceedings before the General Division under section 55 of 
 	<tr>
 		<td colspan="3"><strong><em>Documents filed for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act</em></strong></td>
 	</tr>
-	<tr>
 	<tr>
 		<td>(f)</td>
 		<td>Written submissions that are required to be filed for Originating Applications under sections 36U(1) and 98(1) of the Legal Profession Act and for a summons under section 82A(10) of the Legal Profession Act</td>
