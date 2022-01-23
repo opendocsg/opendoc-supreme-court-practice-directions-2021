@@ -797,13 +797,13 @@ The following are examples of law reports that should be used for citation:
     <td>1. Singapore Law Reports (2010 - ) (SLR current series)</td>
   </tr>
   <tr>
-    <td>&nbsp;2. Singapore Law Reports (Reissue) (SLR (R))</td>
+    <td>&nbsp;&nbsp;2. Singapore Law Reports (Reissue) (SLR (R))</td>
   </tr>
   <tr>
-    <td>&nbsp;3. Singapore Law Reports (1965-2009) (SLR 1965-2009)</td>
+    <td>&nbsp;&nbsp;3. Singapore Law Reports (1965-2009) (SLR 1965-2009)</td>
   </tr>
   <tr>
-    <td>&nbsp;4. Malayan Law Journal (MLJ)</td>
+    <td>&nbsp;&nbsp;4. Malayan Law Journal (MLJ)</td>
   </tr>
   <tr>
     <td>(b) Malaysia</td>
@@ -814,27 +814,27 @@ The following are examples of law reports that should be used for citation:
 		<td>1. Law reports published by the Incorporated Council of Law Report (e.g., Queen’s Bench (QB), Appeal Cases (AC), Chancery (Ch), Family (Fam), Probate (P)</td>
 	</tr>
 	<tr>
-		<td>&nbsp;2. Weekly Law Reports (WLR)</td>
+		<td>&nbsp;&nbsp;2. Weekly Law Reports (WLR)</td>
 	</tr>
 	<tr>
-		<td>&nbsp;3. All England Law (All ER)</td>
+		<td>&nbsp;&nbsp;3. All England Law (All ER)</td>
 	</tr>
 	<tr>
 		<td rowspan="2">(d) Australia	</td>
 		<td>1. Commonwealth Law Reports (CLR)</td>
 	</tr>
 	<tr>
-		<td>&nbsp;2. Australian Law Reports (ALR)</td>
+		<td>&nbsp;&nbsp;2. Australian Law Reports (ALR)</td>
 	</tr>
 	<tr>
 		<td rowspan="3">(e) Canada	</td>
 		<td>1. Supreme Court Reports (SCR))</td>
 	</tr>
 	<tr>
-		<td>&nbsp;2. Federal Court Reports (FC)</td>
+		<td>&nbsp;&nbsp;2. Federal Court Reports (FC)</td>
 	</tr>
 	<tr>
-		<td>&nbsp;3. Dominion Law Reports (DLR)</td>
+		<td>&nbsp;&nbsp;3. Dominion Law Reports (DLR)</td>
 	</tr>
 	<tr>
 		<td>(f) New Zealand	</td>
