@@ -540,7 +540,7 @@ The solicitor must explain why it was not possible to file the documents in adva
 		Denka Advantech Pte Ltd and Anor v Seraya Energy Pte Ltd and Anor [2020] 1 SLR 373
 
 		Relevance: The rule against penalties in Singapore remains focussed on whether the clause in question provides a genuine pre-estimate of the likely loss at the time of contracting, and its only legitimate interest is that of compensation
-    
+
 
 </li>
 
@@ -555,7 +555,7 @@ The solicitor must explain why it was not possible to file the documents in adva
 
 (9)	The Court may reject bundles of authorities that are not in compliance with sub- paragraph (8) above, and in exercising its discretion as to costs, take such non-compliance into account.
 
-(10)	Only authorities which are relevant or necessary for the trial or hearing may be included in the bundle. No bundle of authorities is necessary in cases where parties are not relying on any authority at the trial or hearing. In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary authorities, the Court will have no hesitation in making a special order for costs against the relevant party.</li>
+(10)	Only authorities which are relevant or necessary for the trial or hearing may be included in the bundle. No bundle of authorities is necessary in cases where parties are not relying on any authority at the trial or hearing. In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary authorities, the Court will have no hesitation in making a special order for costs against the relevant party.
 
 (11)	Where bundles of authorities are filed through the Electronic Filing Service, the following applies:
 
@@ -783,22 +783,65 @@ In all civil and criminal proceedings, including civil and criminal appeals, hea
 (6)	Counsel who cite a judgment must use the official series of the law report(s) or, if the official series is not available, any other law report series in which the judgment was published. Counsel should refrain from referring to (or including in the bundle of authorities) copies of judgments which are printed out from electronic databases, unless (a) such judgments are not available in any law report series; or (b) the print-outs are the exact copies of the judgments in the law report series.
 
 The following are examples of law reports that should be used for citation:
-| Jurisdiction	| Law Reports (in order of preference) |
-| ----------- | ----------- |
-| (a) Singapore	| 1. Singapore Law Reports (2010 - ) (SLR current series) |
-|  |	2.	Singapore Law Reports (Reissue) (SLR (R)) |
-|  | 3.	Singapore Law Reports (1965-2009) (SLR 1965-2009) |
-|  | 4.	Malayan Law Journal (MLJ) |
-| (b) Malaysia	| Malayan Law Journal (MLJ) |
-| (c) England & Wales	| 1.	Law reports published by the Incorporated Council of Law Report (e.g., Queen’s Bench (QB), Appeal Cases (AC), Chancery (Ch), Family (Fam), Probate (P) |
-|  | 2.	Weekly Law Reports (WLR) |
-|  | 3.	All England Law (All ER) |
-| (d) Australia	| 1.	Commonwealth Law Reports (CLR) |
-|  | 2.	Australian Law Reports (ALR) |
-| (e) Canada	| 1.	Supreme Court Reports (SCR) |
-|  | 2.	Federal Court Reports (FC) |
-|  | 3.	Dominion Law Reports (DLR) |
-| (f) New Zealand |	New Zealand Law Reports (NZLR) |
+
+<table>
+<thead>
+  <tr>
+	  <th><strong>Jurisdiction</strong></th>
+	  <th><strong>Law Reports (in order of preference)</strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="4">(a) Singapore</td>
+    <td>1. Singapore Law Reports (2010 - ) (SLR current series)</td>
+  </tr>
+  <tr>
+    <td>2. Singapore Law Reports (Reissue) (SLR (R))</td>
+  </tr>
+  <tr>
+    <td>3. Singapore Law Reports (1965-2009) (SLR 1965-2009)</td>
+  </tr>
+  <tr>
+    <td>4. Malayan Law Journal (MLJ)</td>
+  </tr>
+  <tr>
+    <td>(b) Malaysia</td>
+    <td>Malayan Law Journal (MLJ)</td>
+  </tr>
+	<tr>
+		<td rowspan="3">(c) England & Wales</td>
+		<td>1. Law reports published by the Incorporated Council of Law Report (e.g., Queen’s Bench (QB), Appeal Cases (AC), Chancery (Ch), Family (Fam), Probate (P)</td>
+	</tr>
+	<tr>
+		<td>2. Weekly Law Reports (WLR)</td>
+	</tr>
+	<tr>
+		<td>3. All England Law (All ER)</td>
+	</tr>
+	<tr>
+		<td rowspan="2">(d) Australia	</td>
+		<td>1. Commonwealth Law Reports (CLR)</td>
+	</tr>
+	<tr>
+		<td>2. Australian Law Reports (ALR)</td>
+	</tr>
+	<tr>
+		<td rowspan="3">(e) Canada	</td>
+		<td>1. Supreme Court Reports (SCR))</td>
+	</tr>
+	<tr>
+		<td>2. Federal Court Reports (FC)</td>
+	</tr>
+	<tr>
+		<td>3. Dominion Law Reports (DLR)</td>
+	</tr>
+	<tr>
+		<td>(f) New Zealand	</td>
+		<td>New Zealand Law Reports (NZLR)</td>
+	</tr>
+</tbody>
+</table>
 
 (7)	Counsel should, where possible, make specific citations by referring to the paragraph number of the judgment, and not to the page number of the judgment or report. For consistency, square brackets ([xx]) should be used to denote paragraph numbers.
 
