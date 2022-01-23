@@ -202,7 +202,7 @@ Documents filed for proceedings before the General Division under section 55 of 
 
 (5)	If any party wishes to seek permission from the relevant Court in accordance with the Rules of Court 2021 or the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 (as the case may be) to exceed the page limits prescribed under sub-paragraphs (1) and (2), the party must file a Request in the Electronic Filing Service stating the reasons for requiring additional pages, the number of additional pages required and the position of the other parties on the request. Parties are to note the fees that are payable under the Rules of Court 2021 or the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 (as the case may be) for the filing of documents exceeding the prescribed page limit.
 
-(6)	An application for permission under sub-paragraph (5) must be filed by the deadlines as set out in the following table: latest1448
+(6)	An application for permission under sub-paragraph (5) must be filed by the deadlines as set out in the following table: latest1454
 
 <table>
 <thead>
@@ -220,9 +220,9 @@ Documents filed for proceedings before the General Division under section 55 of 
 	<tr>
     <td>(a)</td>
     <td>In relation to the following documents:
-			(i)	written submissions required to be filed for appeals to the Appellate Division and the Court of Appeal under Order 18 of the Rules of Court 2021;
-			(ii)	the appellant’s Reply that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021; and
-			(iii)	the second core bundle that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021.</td>
+			<li>(i)	written submissions required to be filed for appeals to the Appellate Division and the Court of Appeal under Order 18 of the Rules of Court 2021;</li>
+			<li>(ii)	the appellant’s Reply that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021; and</li>
+			<li>(iii)	the second core bundle that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021.</li></td>
     <td>5 days before the filing deadline</td>
   </tr>
 	<tr>
