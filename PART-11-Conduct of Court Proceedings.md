@@ -2,42 +2,42 @@
 
 <ul type="*">
 	<li>85. Urgent applications outside of the Court’s office hours</li>
-	<li>86. Duty Registrar</li> 
+	<li>86. Duty Registrar</li>
 	<li>87. Request for urgent hearing before Judge</li>
-	<li>88. Attendance of solicitors in Court and mentioning on behalf of other solicitors</li> 
-	<li>89. Absence from Court on medical grounds</li> 
-	<li>90. Attendance at hearings in chambers</li> 
-	<li>91. The Central Display Management System</li> 
-	<li>92. Precedence and preaudience of Senior Counsel</li> 
+	<li>88. Attendance of solicitors in Court and mentioning on behalf of other solicitors</li>
+	<li>89. Absence from Court on medical grounds</li>
+	<li>90. Attendance at hearings in chambers</li>
+	<li>91. The Central Display Management System</li>
+	<li>92. Precedence and preaudience of Senior Counsel</li>
 	<li>93. Court dress</li>
-	<li>94. Forms of address</li> 
-	<li>95. Citation of Case Numbers</li> 
+	<li>94. Forms of address</li>
+	<li>95. Citation of Case Numbers</li>
 	<li>96. Submissions and examination by leading and assisting counsel</li>
 	<li>97. Use of electronic and other devices</li>
-	<li>98. Publication of and reports and comments on Court cases</li> 
-	<li>99. Lead counsel’s statement on trial proceedings</li> 
-	<li>100. Late filing fees</li> 
+	<li>98. Publication of and reports and comments on Court cases</li>
+	<li>99. Lead counsel’s statement on trial proceedings</li>
+	<li>100. Late filing fees</li>
 	<li>101. Filing of documents and authorities for use in Court generally</li>
 		<ul>
-			<li>Time for filing of documents</li> 
-			<li>General requirements as regards documents filed for use in Court</li> 
+			<li>Time for filing of documents</li>
+			<li>General requirements as regards documents filed for use in Court</li>
 			<li>Bundle of authorities</li>
 		</ul>
 	<li>102. Documents for use in trials of originating claims in open court</li>
 		<ul>
-			<li>Time for filing of documents under Order 9, Rule 25(9) of the Rules of Court 2021</li> 
-			<li>Mode of filing documents</li> 
-			<li>Bundles of documents</li> 
+			<li>Time for filing of documents under Order 9, Rule 25(9) of the Rules of Court 2021</li>
+			<li>Mode of filing documents</li>
+			<li>Bundles of documents</li>
 			<li>Core bundle of documents</li>
 			<li>Opening statements</li>
 			<li>Bundle of authorities</li>
 		</ul>
-	<li>103. Bundles of authorities for other open court hearings</li> 
-	<li>104. Hearings in chambers</li> 
+	<li>103. Bundles of authorities for other open court hearings</li>
+	<li>104. Hearings in chambers</li>
 	<li>105. Written submissions and bundles of authorities for special date hearings and hearings of originating applications</li>
 	<li>106. Citation of judgments</li>
 		<ul>
-			<li>Use of judgments as authorities in submissions</li> 
+			<li>Use of judgments as authorities in submissions</li>
 			<li>Use of judgments from foreign jurisdictions</li>
 			<li>Citation practice</li>
 			<li>The neutral citation system for local judgments</li>
@@ -45,7 +45,7 @@
 		</ul>
 </ul>
 
-## 85. Urgent applications outside of the Court’s office hours 
+## 85. Urgent applications outside of the Court’s office hours
 
 (1)	When an applicant files an application for any civil matter (including applications for interim injunctions or interim preservation of subject matter of action, evidence and assets to satisfy judgments) or criminal matter, and the application is so urgent that it has to be attended to outside of the hours specified in paragraph 86(2) of these Practice Directions, the applicant’s counsel or the applicant (if not legally represented) must contact the Registrar on duty at 6332 4351 or 6332 4352.
 
@@ -57,10 +57,10 @@
 
 (5)	If the application is of sufficient urgency, the Registrar may also direct counsel to send the application and supporting documents by email. The Judge or Registrar has the discretion to decide whether to deal with the application by email or to hear oral arguments from counsel.
 
-## 86. Duty Registrar 
+## 86. Duty Registrar
 
 (1)	The duties of the Duty Registrar are to:
- 
+
 <ul type="*">
 <li>(a)	hear consent applications or applications without notice;</li>
 
@@ -90,7 +90,7 @@
 (7)	A solicitor may, if he or she wishes to expedite matters, attend before the Duty Registrar even if his or her attendance is not ordinarily required.
 
 (8)	A solicitor or a litigant who is not legally represented (collectively, “parties”) who wishes to attend before a Duty Registrar and to refer him or her to documents filed must either:
- 
+
 <ul type="*">
 <li>(a)	file the documents at least 1 hour before attending before the Duty Registrar, so that the documents would already be in the electronic case file for the Duty Registrar’s reference. Parties should as far as possible only attend before the Duty Registrar after they have received notification from the Court that the documents have been accepted. Parties should also check with the Registry that the documents have been routed to the Duty Registrar before attending before the Duty Registrar; or</li>
 
@@ -115,7 +115,7 @@
 <li>(g)	whether he or she wishes to send in any documents via the Electronic Filing Service ahead of the hearing or during the hearing before the Duty Registrar;</li>
 
 <li>(h)	whether he or she wishes to tender any hard copy documents ahead of the hearing before the Duty Registrar;</li>
- 
+
 <li>(i)	the name(s) of all the parties who will be attending the hearing before the Duty Registrar, and the email address and telephone number of these parties.</li>
 </ul>
 
@@ -157,10 +157,10 @@ If parties wish to tender any hard copy documents ahead of the hearing before th
 <li>(e)	every page must have a margin on all 4 sides, each of at least 35mm in width.</li>
 </ul>
 
-## 88. Attendance of solicitors in Court and mentioning on behalf of other solicitors 
+## 88. Attendance of solicitors in Court and mentioning on behalf of other solicitors
 
 (1)	Subject to sub-paragraph (2), a solicitor appearing in any cause or matter may mention for counsel for all other parties provided that:
- 
+
 <ul type="*">
 <li>(a)	the solicitor obtains confirmation of his or her authority to mention on their behalf for the purpose of the hearing; and</li>
 
@@ -171,7 +171,7 @@ If parties wish to tender any hard copy documents ahead of the hearing before th
 
 (3)	Solicitors appearing in any cause or matter should be punctual in attending Court, as delay in the commencement of the hearing leads to wastage of judicial time. Appropriate sanctions may be imposed for solicitors who do not arrive for hearings on time.
 
-## 89. Absence from Court on medical grounds 
+## 89. Absence from Court on medical grounds
 
 (1)	If:
 
@@ -191,7 +191,7 @@ is required to attend Court and wishes to absent himself or herself from Court o
 
 <ul type="*">
 <li>(a)	be completely and properly filled in;</li>
- 
+
 <li>(b)	contain the name of the medical practitioner who issued the medical certificate;</li>
 
 <li>(c)	state the name of the hospital or clinic in which the medical practitioner practises;</li>
@@ -243,14 +243,14 @@ is required to attend Court and wishes to absent himself or herself from Court o
 
 (8)	This paragraph applies to both civil and criminal proceedings.
 
-## 90. Attendance at hearings in chambers 
+## 90. Attendance at hearings in chambers
 
 (1)	To avoid doubt, the general rule is that hearings in chambers in civil proceedings are private in nature, and that members of the public are not entitled to attend such hearings.
 
 (2)	However, subject to any written law, the Court may, in its discretion, allow any person such as instructing solicitors, foreign legal counsel and parties to the matter, to attend any hearing in chambers subject to space, security and the interests of justice. In exercising its discretion, the Court may consider a broad range of factors including: (a) the interest that the person seeking permission has in the matter before the Court; (b) the interests of the litigants;
 (c) the reasons for which such permission is sought; and (d) the Court’s interest in preserving and upholding its authority and dignity.
 
-## 91. The Central Display Management System 
+## 91. The Central Display Management System
 
 (1)	The Central Display Management System (CDMS) is used for the following types of hearings:
 
@@ -266,7 +266,7 @@ is required to attend Court and wishes to absent himself or herself from Court o
 
 (4)	Senior Counsel will continue to be given the precedence and the right of preaudience in accordance with paragraph 92.
 
-## 92. Precedence and preaudience of Senior Counsel 
+## 92. Precedence and preaudience of Senior Counsel
 
 (1)	By virtue of section 31 of the Legal Profession Act and existing custom and usage, Senior Counsel are given precedence and the right of preaudience.
 
@@ -302,7 +302,7 @@ is required to attend Court and wishes to absent himself or herself from Court o
 <li>(c)	artificial silk.</li>
 </ul>
 
-## 94. Forms of address 
+## 94. Forms of address
 
 The Chief Justice has directed that the following forms of address apply:
 
@@ -310,26 +310,59 @@ The Chief Justice has directed that the following forms of address apply:
 
 (b)	The Chief Justice, the Justices of the Court of Appeal, the Judges of the Appellate Division, the Judges of the High Court, the Senior Judges, the International Judges and the Judicial Commissioners must, in all cause lists, orders of court, correspondence and other documents, be described in the following manner without any accompanying gender prefix.
 
-| Office | Form of Address | Abbreviated Form of Address |
-| ----------- | ----------- | ----------- | 
-| Chief Justice	| “Chief Justice [name]” | “[name] CJ”
-| Justice of the Court of Appeal | “Justice [name]”	| “[name] JCA”
-| Judge of the Appellate Division	| | “[name] JAD”
-| Judge of the High Court		| | “[name] J”
-| Senior Judge | | “[name] SJ”
-| International Judge	| | “[name] IJ”
-| Judicial Commissioner	| “Judicial Commissioner [name]” | “[name] JC”
+<table>
+<thead>
+  <tr>
+	  <th><strong>Office</strong></th>
+	  <th><strong>Form of Address</strong></th>
+	  <th><strong>Abbreviated Form of Address</strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chief Justice</td>
+    <td>“Chief Justice [name]”</td>
+    <td>“[name] CJ”</td>
+  </tr>
+  <tr>
+    <td>Justice of the Court of Appeal</td>
+    <td rowspan="5">“Justice [name]”</td>
+    <td>“[name] JCA”</td>
+  </tr>
+  <tr>
+    <td>Judge of the Appellate Division</td>
+    <td>“[name] JAD”</td>
+  </tr>
+  <tr>
+    <td>Judge of the High Court</td>
+    <td>“[name] J”</td>
+  </tr>
+  <tr>
+    <td>Senior Judge</td>
+    <td>“[name] SJ”</td>
+  </tr>
+  <tr>
+    <td>International Judge</td>
+    <td>“[name] IJ”</td>
+  </tr>
+  <tr>
+    <td>Judicial Commissioner</td>
+    <td>“Judicial Commissioner [name]”</td>
+    <td>“[name] JC”</td>
+  </tr>
+</tbody>
+</table>
 
-## 95. Citation of Case Numbers 
+## 95. Citation of Case Numbers
 
 (1)	All originating processes and summonses filed in the Supreme Court must bear case numbers in the following format:
- 
+
 **<span style="text-decoration: underline">Description of Court/ Type of Application [Case number]/ Year filed</span>**
 
 <span style="text-decoration: underline">For example:</span>
 
 | Case Number Format | Type of Case
-| ----------- | ----------- | 
+| ----------- | ----------- |
 | CA/CA [Case Number]/[Year filed]	| Appeal to the Court of Appeal |
 | AD/CA [Case Number]/[Year filed]	| Appeal to the Appellate Division |
 | CA/OA [Case Number]/[Year filed]	| Originating Application filed in the Court of Appeal |
@@ -342,7 +375,7 @@ The Chief Justice has directed that the following forms of address apply:
 
 (2)	Parties are to cite the case number in full in all documents and correspondence which are submitted to the Court.
 
-## 96. Submissions and examination by leading and assisting counsel 
+## 96. Submissions and examination by leading and assisting counsel
 
 (1)	Subject to sub-paragraphs (2) and (3), in the event that a party is represented by more than one counsel at a hearing, whether in open court or in chambers, the making of submissions and the questioning of witnesses may be carried out by one counsel for each party only.
 
@@ -350,7 +383,7 @@ The Chief Justice has directed that the following forms of address apply:
 
 <ul type="*">
 <li>(a)	the issues on which each counsel will be making submissions; and/or</li>
- 
+
 <li>(b)	the witnesses to be examined, cross-examined or re-examined by each counsel, or the portions of their evidence for which each counsel will conduct the examination, cross-examination or re-examination.</li>
 </ul>
 
@@ -367,7 +400,7 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 
 <li>(b)	lead counsel are to inform the trial Judge at the Judge Case Conference (“JCC”), or if a JCC has not been fixed, at the start of the trial, whether their client will be making an application pursuant to sub-paragraph (2) above and, if so, the proposed division of advocacy tasks between lead counsel and junior assisting counsel.</li>
 </ul>
- 
+
 (6)	Unless otherwise stated, this paragraph applies to both civil and criminal proceedings.
 
 ## 97. Use of electronic and other devices
@@ -386,7 +419,7 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 
 (4)	The attention of Court users is also drawn to section 5 of the Administration of Justice (Protection) Act 2016.
 
-## 98. Publication of and reports and comments on Court cases 
+## 98. Publication of and reports and comments on Court cases
 
 (1)	This paragraph applies to solicitors, litigants (whether represented by solicitors or not), the media and all other persons reporting on or commenting about cases which are before any Court (“Court cases”). All categories of persons mentioned above are collectively referred to as “all concerned”.
 
@@ -396,11 +429,11 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 
 (4)	All concerned are not to publish, report or publicly comment on any statements made in chambers by anyone which is expressly stated to be confidential or is impliedly confidential. Solicitors may inform their clients of statements made in chambers when it is necessary for them to render proper advice to their clients.
 
-## 99. Lead counsel’s statement on trial proceedings 
+## 99. Lead counsel’s statement on trial proceedings
 
 For every case proceeding to trial in the General Division, each party must file and serve a lead counsel’s statement in Form 16 of Appendix B of these Practice Directions to provide a list of issues for trial and an accurate estimation of the trial days needed after taking into account the time needed for the examination of each witness. The lead counsel’s statement must be filed and served within 1 week after objections to the contents of the affidavits of evidence-in-chief are due to be taken, unless the Court otherwise directs.
 
-## 100. Late filing fees 
+## 100. Late filing fees
 
 The attention of parties is drawn to Order 3, Rule 2(4)(e) of the Rules of Court 2021 which provides that:
 
@@ -412,12 +445,12 @@ General powers of Court (O. 3, r. 2)
 (4) Where there is non-compliance with these Rules, any other written law, the Court’s orders or directions or any practice directions, the Court may exercise all or any of the following powers:
 
 …
- 
+
 
 (e) impose a late filing fee of $50 for each day that a document remains unfiled after the expiry of the period within which the document is required to be filed, excluding non-court days; …
 ```
 
-## 101. Filing of documents and authorities for use in Court generally 
+## 101. Filing of documents and authorities for use in Court generally
 
 ***Time for filing of documents***
 
@@ -437,7 +470,7 @@ The solicitor must explain why it was not possible to file the documents in adva
 
 (3)	Without limiting any directions in these Practice Directions, the following requirements apply to all documents filed for use in Court:
 
-<ul type="*"> 
+<ul type="*">
 <li>(a)	The cover page and table of contents are to be included in the page count for the purposes of determining whether a document is within the prescribed page limit (if any).</li>
 
 <li>(b)	Cover pages are mandatory for all documents.</li>
@@ -446,7 +479,7 @@ The solicitor must explain why it was not possible to file the documents in adva
 
 <li>(d)	Where a document consists of more than 1 volume:</li>
 
-<ul type="*"> 
+<ul type="*">
 <li>(i)	the table of contents of all volumes of the document must be placed at the beginning of Volume I; and</li>
 
 <li>(ii)	each volume must have a table of contents indicating the items that are contained in that volume.</li>
@@ -456,7 +489,7 @@ The solicitor must explain why it was not possible to file the documents in adva
 
 (4)	If the filing of a document is to be done by submitting only a hard copy of the same to the Registry in accordance with these Practice Directions or the Court’s direction:
 
-<ul type="*"> 
+<ul type="*">
 <li>(a)	Any fees payable pursuant to the Fourth Schedule to the Rules of Court 2021 must be paid over the counter at the same time as when the hard copy document is submitted to the Registry.</li>
 
 <li>(b)	Parties should, when making payment over the counter, indicate to the cashier the precise number of pages which comprise the documents.</li>
@@ -465,7 +498,7 @@ The solicitor must explain why it was not possible to file the documents in adva
 
 <li>(d)	To avoid doubt, this sub-paragraph does not apply where:</li>
 
-<ul type="*"> 
+<ul type="*">
 <li>(i)	a document is filed, and the fees payable pursuant to the Fourth Schedule to the Rules of Court 2021 are paid, through the Electronic Filing System; and</li>
 
 <li>(ii)	the party chooses to tender hard copy of the document to the Registry.</li>
@@ -483,14 +516,14 @@ The solicitor must explain why it was not possible to file the documents in adva
 
 (8)	Counsel must adhere to the following directions when preparing bundles of authorities for use in Court. These requirements also apply to paragraphs 102 to 105 of these Practice Directions:
 
-<ul type="*"> 
+<ul type="*">
 <li>(a)	The bundle of authorities must contain all the authorities, cases, statutes, subsidiary legislation and any other materials relied on.</li>
 
 <li>(b)	The bundle of authorities must be arranged in the following order – statutes in alphabetical order of the title, subsidiary legislation in alphabetical order of the title, cases in alphabetical order of the case name, secondary materials (such as textbooks and articles) in alphabetical order of the last name of the author, and any other materials in alphabetical order of the title or last name of the author as is appropriate.</li>
 
 <li>(c)	The bundle of authorities must have a table of contents immediately after the cover page. Where the bundle of authorities consists of more than 1 volume:</li>
- 
-<ul type="*"> 
+
+<ul type="*">
 <li>(i)	the table of contents of all volumes of the bundle of authorities must be placed at the beginning of Volume I; and</li>
 
 <li>(ii)	each volume must have a table of contents indicating the authorities that are contained in that volume.</li>
@@ -509,12 +542,13 @@ Denka Advantech Pte Ltd and Anor v Seraya Energy Pte Ltd and Anor [2020] 1 SLR 3
 
 Relevance: The rule against penalties in Singapore remains focussed on whether the clause in question provides a genuine pre-estimate of the likely loss at the time of contracting, and its only legitimate interest is that of compensation
 ```
+
 </li>
 
 <li>(f)	The bundle of authorities must be properly bound with plastic ring binding or plastic spine thermal binding. The rings or spines should be red for claimants/appellants and blue for defendants/respondents with a transparent plastic cover in front and at the back.</li>
 
 <li>(g)	The bundle of authorities must have flags to mark out the authorities. Such flags must bear the appropriate indicium by which the authority is referred to. Flags must be spaced out evenly along the right side of the bundle so that as far as possible they do not overlap one another.</li>
- 
+
 <li>(h)	The bundle of authorities must be paginated consecutively at the top right hand corner of each page. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively.</li>
 
 <li>(i)	The bundle of authorities must be legible. Clear copies of the authorities must be made available for inspection by the other parties or the Judge if the copies exhibited in the bundle of authorities are not legible.</li>
@@ -526,7 +560,7 @@ Relevance: The rule against penalties in Singapore remains focussed on whether t
 
 (11)	Where bundles of authorities are filed through the Electronic Filing Service, the following applies:
 
-<ul type="*"> 
+<ul type="*">
 <li>(a)	A bookmark should be created in the Portable Document Format (PDF) file for each authority in the bundle.</li>
 
 <li>(b)	The name given to each bookmark should be the same as the corresponding authority in the table of contents.</li>
@@ -534,17 +568,17 @@ Relevance: The rule against penalties in Singapore remains focussed on whether t
 <li>(c)	The page number of each printed volume of the bundle must correspond to the page number in the Portable Document Format (PDF) version of that volume of the bundle. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively.</li>
 </ul>
 
-## 102. Documents for use in trials of originating claims in open court 
+## 102. Documents for use in trials of originating claims in open court
 
 (1)	This paragraph applies to trials of originating claims in open court, including originating claims that were ordered to be converted from originating applications.
- 
+
 ***Time for filing of documents under Order 9, Rule 25(9) of the Rules of Court 2021***
 
 (2)	Order 9, Rule 25(9) of the Rules of Court 2021 requires the affidavits of evidence-in- chief of all witnesses or other affidavits, the bundles of documents and the opening statements to be filed and served as directed by the Court. Parties are to note that the timeline given pursuant to the Court’s directions under Order 9, Rule 25(9) of the Rules of Court 2021 is to be adhered to strictly, and that the timeline will apply to the filing of the documents into the electronic case file and, if applicable, the submission of the CD-ROM or DVD-ROM (containing the documents in Portable Document Format (PDF)) to the Registry.
 
 (3)	At the trial of the cause or matter, an adjournment may be ordered if:
 
-<ul type="*"> 
+<ul type="*">
 <li>(a)	the documents or any of them (save for the opening statement in cases where it is not required or dispensation was granted) were not filed and served within the prescribed time or at all; or</li>
 
 <li>(b)	one party seeks to tender any of the above documents or supplements to such documents (except for supplements to the opening statement at the trial of the cause or matter).</li>
@@ -562,7 +596,7 @@ Relevance: The rule against penalties in Singapore remains focussed on whether t
 
 (7)	Under Order 9, Rule 25(10) of the Rules of Court 2021, parties are required to file and serve bundles of documents which must contain:
 
-<ul type="*"> 
+<ul type="*">
 <li>(a)	the last pleading (which incorporates all the previous pleadings);</li>
 
 <li>(b)	the orders of the Court given at the case conferences which are relevant for the trial; and</li>
@@ -576,7 +610,7 @@ Where directed by the Court, the claimant’s solicitors are to prepare a table 
 
 (9)	The following directions apply to the electronic creation of bundles of documents:
 
-<ul type="*"> 
+<ul type="*">
 <li>(a)	An index of contents of each bundle in the manner and form set out in Form 18 of Appendix B of these Practice Directions must also be prepared. Bookmarks should be created in the Portable Document Format (PDF) file for each such reference in the index. There should be as many bookmarks in the PDF file as there are references in the index to documents in that PDF file.</li>
 
 <li>(b)	The name given to each bookmark should be the same as the corresponding reference in the index.</li>
@@ -588,7 +622,7 @@ Where directed by the Court, the claimant’s solicitors are to prepare a table 
 
 (10)	For proceedings using the Electronic Filing Service, a bundle of documents may be created online and filed through the Electronic Filing Service. The electronic bundle must be created in Portable Document Format (PDF). The electronic bundle may contain:
 
-<ul type="*"> 
+<ul type="*">
 <li>(a)	documents in the electronic case file; and</li>
 
 <li>(b)	documents that have been uploaded into the electronic case file by solicitors or other persons given access to the shared folder in the electronic case file.</li>
@@ -596,12 +630,12 @@ Where directed by the Court, the claimant’s solicitors are to prepare a table 
 
 (11)	The following directions apply to hard copies tendered to the Registry or the Court:
 
-<ul type="*"> 
+<ul type="*">
 <li>(a)	The bundles of documents should be paginated consecutively throughout at the top right hand corner and may be printed on one side or both sides of each page. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively.</li>
 
 <li>(b)	Where the bundle of documents consists of more than 1 volume:</li>
 
-<ul type="*"> 
+<ul type="*">
 <li>(i)	the index of contents of all volumes of the bundle of documents must be placed at the beginning of Volume I; and</li>
 
 <li>(ii)	each volume must have an index of contents indicating the documents that are contained in that volume.</li>
@@ -609,7 +643,7 @@ Where directed by the Court, the claimant’s solicitors are to prepare a table 
 
 <li>(c)	The documents in the bundles should:</li>
 
-<ul type="*"> 
+<ul type="*">
 <li>(i)	be firmly secured together with  plastic ring binding or plastic spine thermal binding. The rings or spines should be red for claimants and blue for defendants with a transparent plastic cover in front and at the back;</li>
 
 <li>(ii)	have flags to mark out documents to which repeated references will be made in the course of hearing. Such flags must bear the appropriate indicium by which the document is indicated in the index of contents. Flags must be spaced out evenly along the right side of the bundle so that, as far as possible, they do not overlap one another; and</li>
@@ -626,7 +660,7 @@ Where directed by the Court, the claimant’s solicitors are to prepare a table 
 
 (13)	The documents in the core bundle of documents should not only be paginated but should also be cross-referenced to copies of the documents included in the main bundles. The core bundle of documents must be prepared in an electronic format and also tendered to the Court in a loose-leaf file which can easily have further documents added to it if required. Where the core bundle of documents consists of more than 1 volume:
 
-<ul type="*"> 
+<ul type="*">
 <li>(a)	the table of contents of all volumes of the core bundle of documents must be placed at the beginning of Volume I; and</li>
 
 <li>(b)	each volume must have a table of contents indicating the documents that are contained in that volume.</li>
@@ -636,12 +670,12 @@ Where directed by the Court, the claimant’s solicitors are to prepare a table 
 
 (14)	A proper opening statement is of great assistance to the Court as it sets out the case in a nutshell, both as to facts and law. It is intended to identify both for the parties and the Judge the issues that are, and are not, in dispute. It enables the Judge to appreciate what the case is about, and what he or she is to look out for when reading and listening to the evidence that will follow. The need for brevity is emphasised as opening statements that contain long and elaborate arguments, and citations from and references to numerous authorities, do not serve this purpose:
 
-<ul type="*"> 
+<ul type="*">
 <li>(a)	Opening statements will be required from all parties in all originating claims in the General Division, except where dispensation has been granted by the Court and in motor vehicle accident actions.</li>
 
 <li>(b)	All opening statements must include the following:</li>
 
-<ul type="*"> 
+<ul type="*">
 <li>(i)	the nature of the case generally and the background facts insofar as they are relevant to the matter before the Court and indicating which facts, if any, are agreed;</li>
 
 <li>(ii)	the precise legal and factual issues involved are to be identified with cross- references as appropriate to the pleadings. These issues should be numbered and listed, and each point should be stated in no more than one or two sentences. The object here is to identify the issues in dispute and state each party’s position clearly, not to argue or elaborate on them;</li>
@@ -678,18 +712,18 @@ Where directed by the Court, the claimant’s solicitors are to prepare a table 
 
 (15)	In addition to the documents required to be filed and served under Order 9, Rule 25(9) of the Rules of Court 2021, the Court may direct parties to file and serve bundles of authorities.
 
-## 103. Bundles of authorities for other open court hearings 
+## 103. Bundles of authorities for other open court hearings
 
 In all civil and criminal proceedings, including civil and criminal appeals, heard in open court in the General Division, counsel must submit their own bundle of authorities. To avoid doubt, paragraph 101(5) to (11) of these Practice Directions applies, with the necessary modifications, to a bundle of authorities under this paragraph.
 
-## 104. Hearings in chambers 
+## 104. Hearings in chambers
 
 (1) In all hearings in chambers before a Judge or Registrar, counsel must submit their own bundles of documents (where necessary) and bundles of authorities. Order 9, Rule 25(10) and
 (11) of the Rules of Court 2021 and the requirements of paragraphs 101(5) to (11) and 102(7) to (11) of these Practice Directions must, with the necessary modifications, be complied with in this regard. Except where paragraph 105(1) of these Practice Directions applies, the bundles may be submitted at the hearing itself before the Judge or Registrar, as the case may be.
 
 (2) The party using a hard copy of the bundle of authorities for the hearing must, if directed by the Court, file the list of authorities (that corresponds to the table of contents of the hard copy of the bundle of authorities) into the case file using the Electronic Filing Service at least 1 clear day in advance of the hearing. In the event that it is not possible for the party to do so, he or she must explain to the Judge or Registrar conducting the hearing why it was not possible for him or her to do so and must also undertake to file the list of authorities using the Electronic Filing Service by the next working day after the hearing.
 
-## 105. Written submissions and bundles of authorities for special date hearings and hearings of originating applications 
+## 105. Written submissions and bundles of authorities for special date hearings and hearings of originating applications
 
 (1)	For any contested special date hearing and any hearing of an originating application before a Judge sitting in the General Division, subject to the Rules of Court 2021 and unless otherwise directed by the Court, each party must:
 
@@ -714,7 +748,7 @@ In all civil and criminal proceedings, including civil and criminal appeals, hea
 
 <li>(b)	each volume must have a table of contents indicating the authorities that are contained in that volume.</li>
 </ul>
- 
+
 (4)	If any party does not intend to rely on written submissions at the contested hearing referred to in sub-paragraph (1) (e.g., where the hearing does not involve complex issues), the party should seek the Court’s approval for a waiver by way of a Request using the Electronic Filing Service at least 7 days before the hearing.
 
 (5)	This paragraph does not apply to any hearing before a Judge which is fixed on the normal list. However, parties are encouraged to adhere to the directions set out in sub- paragraph (1) if the application will be contested. In the event that this is not done, the Judge may adjourn the hearing to enable the filing of written submissions or bundle of authorities if appropriate.
@@ -723,7 +757,7 @@ In all civil and criminal proceedings, including civil and criminal appeals, hea
 
 (7)	This paragraph does not apply to any hearings for which specific directions on the filing of written submissions or bundle of authorities are provided for in these Practice Directions.
 
-## 106. Citation of judgments 
+## 106. Citation of judgments
 
 (1)	The Chief Justice has directed that counsel who wish to cite a judgment as authority in support of their oral or written submissions must adhere to the following directions. These directions are intended to provide guidance to advocates and solicitors as to (a) the extent to which it is necessary to rely on local and foreign judgments in support of their case; and (b) the practice of citing such judgments.
 
