@@ -533,15 +533,14 @@ The solicitor must explain why it was not possible to file the documents in adva
 
 <li>(e)	The table of contents must contain a concise statement of the relevance of each authority to the specific issues before the Court. The relevance of each authority must be succinctly expressed and comprise no more than 3 sentences. The statement must be set out immediately after the name of the case. For example:
 
-```
-PEX International Pte Ltd v Lim Seng Chye and Anor [2021] 1 SLR 631
+        PEX International Pte Ltd v Lim Seng Chye and Anor [2021] 1 SLR 631
 
-Relevance: The foreseeability of the risk of harm is not generally necessary to mount a successful action in the tort of private nuisance but foreseeability of the type of harm is relevant.
+		Relevance: The foreseeability of the risk of harm is not generally necessary to mount a successful action in the tort of private nuisance but foreseeability of the type of harm is relevant.
 
-Denka Advantech Pte Ltd and Anor v Seraya Energy Pte Ltd and Anor [2020] 1 SLR 373
+		Denka Advantech Pte Ltd and Anor v Seraya Energy Pte Ltd and Anor [2020] 1 SLR 373
 
-Relevance: The rule against penalties in Singapore remains focussed on whether the clause in question provides a genuine pre-estimate of the likely loss at the time of contracting, and its only legitimate interest is that of compensation
-```
+		Relevance: The rule against penalties in Singapore remains focussed on whether the clause in question provides a genuine pre-estimate of the likely loss at the time of contracting, and its only legitimate interest is that of compensation
+    
 
 </li>
 
@@ -554,7 +553,7 @@ Relevance: The rule against penalties in Singapore remains focussed on whether t
 <li>(i)	The bundle of authorities must be legible. Clear copies of the authorities must be made available for inspection by the other parties or the Judge if the copies exhibited in the bundle of authorities are not legible.</li>
 </ul>
 
-(9)	The Court may reject bundles of authorities that are not in compliance with sub- paragraph (8) above, and in exercising its discretion as to costs, take such non-compliance into account.</li>
+(9)	The Court may reject bundles of authorities that are not in compliance with sub- paragraph (8) above, and in exercising its discretion as to costs, take such non-compliance into account.
 
 (10)	Only authorities which are relevant or necessary for the trial or hearing may be included in the bundle. No bundle of authorities is necessary in cases where parties are not relying on any authority at the trial or hearing. In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary authorities, the Court will have no hesitation in making a special order for costs against the relevant party.</li>
 
