@@ -204,6 +204,92 @@ Documents filed for proceedings before the General Division under section 55 of 
 
 (6)	An application for permission under sub-paragraph (5) must be filed by the deadlines as set out in the following table:
 
+<table>
+<thead>
+  <tr>
+	  <th><strong>S/N</strong></th>
+	  <th><strong>Document</strong></th>
+	  <th><strong>Deadline for filing an application for permission under sub-paragraph (5)</strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="3"><strong><em>Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021
+</em></strong></td>
+  </tr>
+	<tr>
+    <td>(a)</td>
+    <td>In relation to the following documents:
+			<br>
+			<ul type="*">
+			<li>(i)	written submissions required to be filed for appeals to the Appellate Division and the Court of Appeal under Order 18 of the Rules of Court 2021;</li>
+			<li>(ii)	the appellant’s Reply that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021; and</li>
+			<li>(iii)	the second core bundle that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021.</li>
+			</ul>
+		</td>
+    <td>5 days before the filing deadline</td>
+  </tr>
+	<tr>
+		<td>(b)</td>
+		<td>In relation to the following documents:
+			<br>
+			<ul type="*">
+			<li>(i)	the appellant’s Case and the respondent’s Case that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021; and</li>
+			<li>(ii)the appellant’s core bundle of documents and the respondent’s core bundle of documents that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021.</li>
+			</ul>
+		</td>
+		<td>14 days before the filing deadline</td>
+	</tr>
+	<tr>
+		<td colspan="3"><strong><em>Documents filed for applications under Order 18 and Order 19 of the Rules of Court</em></strong></td>
+	</tr>
+	<tr>
+		<td>(c)</td>
+		<td>In relation to the following documents:
+			<br>
+			<ul type="*">
+			<li>(i)	written submissions filed for applications to the Appellate Division and the Court of Appeal under Order 18 and Order 19 of the Rules of Court 2021 (including applications for permission to appeal); and</li>
+			<li>(ii)	bundle of documents filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021.</li>
+			</ul>
+		</td>
+		<td>5 days before the filing deadline</td>
+	</tr>
+	<tr>
+		<td colspan="3"><strong><em>Documents filed for proceedings before the General Division under section 55 of the Medical Registration Act</em></strong></td>
+	</tr>
+	<tr>
+	<tr>
+		<td>(d)</td>
+		<td>Written submissions that are required to be filed for appeals to the General Division under the Medical Registration Act</td>
+		<td>14 days before the filing deadline</td>
+	</tr>
+	<tr>
+		<td>(e)</td>
+		<td>Written submissions that are required to be filed for applications in respect of appeals to the General Division under the Medical Registration Act</td>
+		<td>5 days before the filing deadline</td>
+	</tr>
+	<tr>
+		<td colspan="3"><strong><em>Documents filed for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act</em></strong></td>
+	</tr>
+	<tr>
+	<tr>
+		<td>(f)</td>
+		<td>Written submissions that are required to be filed for Originating Applications under sections 36U(1) and 98(1) of the Legal Profession Act and for a summons under section 82A(10) of the Legal Profession Act</td>
+		<td>14 days before the filing deadline</td>
+	</tr>
+	<tr>
+		<td>(g)</td>
+		<td>Written submissions that are required to be filed for Originating Applications under section 49(4) and 102(2) of the Legal Profession Act</td>
+		<td>5 days before the filing deadline</td>
+	</tr>
+	<tr>
+		<td>(h)</td>
+		<td>Written submissions that are required to be filed for any other application made to the Court of 3 Supreme Court Judges</td>
+		<td>5 days before the filing deadline</td>
+	</tr>
+</tbody>
+</table>
+
 (7)	An application for permission under sub-paragraph (5) that is filed outside of the prescribed deadlines (as set out at sub-paragraph (6)) may be rejected.
 
 ## 120. Formatting requirements for written Cases and written submissions
