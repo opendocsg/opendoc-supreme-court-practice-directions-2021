@@ -90,7 +90,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 </thead>
 <tbody>
   <tr>
-    <td colspan="3">Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021</td>
+    <td colspan="3"><strong><em>Documents filed for appeals under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
   </tr>
 	<tr>
     <td>(a)</td>
