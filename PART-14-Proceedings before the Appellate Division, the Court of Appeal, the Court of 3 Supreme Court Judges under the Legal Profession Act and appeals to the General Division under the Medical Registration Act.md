@@ -220,23 +220,17 @@ Documents filed for proceedings before the General Division under section 55 of 
 	<tr>
     <td>(a)</td>
     <td>In relation to the following documents:
-			<br>
-			<ul type="*">
 			<li>(i)	written submissions required to be filed for appeals to the Appellate Division and the Court of Appeal under Order 18 of the Rules of Court 2021;</li>
 			<li>(ii)	the appellant’s Reply that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021; and</li>
 			<li>(iii)	the second core bundle that may be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021.</li>
-			</ul>
 		</td>
     <td>5 days before the filing deadline</td>
   </tr>
 	<tr>
 		<td>(b)</td>
 		<td>In relation to the following documents:
-			<br>
-			<ul type="*">
 			<li>(i)	the appellant’s Case and the respondent’s Case that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021; and</li>
 			<li>(ii)the appellant’s core bundle of documents and the respondent’s core bundle of documents that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021.</li>
-			</ul>
 		</td>
 		<td>14 days before the filing deadline</td>
 	</tr>
@@ -247,10 +241,8 @@ Documents filed for proceedings before the General Division under section 55 of 
 		<td>(c)</td>
 		<td>In relation to the following documents:
 			<br>
-			<ul type="*">
 			<li>(i)	written submissions filed for applications to the Appellate Division and the Court of Appeal under Order 18 and Order 19 of the Rules of Court 2021 (including applications for permission to appeal); and</li>
 			<li>(ii)	bundle of documents filed for applications to the Appellate Division and the Court of Appeal for permission to appeal under Order 18 and Order 19 of the Rules of Court 2021.</li>
-			</ul>
 		</td>
 		<td>5 days before the filing deadline</td>
 	</tr>
