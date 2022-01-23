@@ -794,51 +794,51 @@ The following are examples of law reports that should be used for citation:
 <tbody>
   <tr>
     <td rowspan="4">(a) Singapore</td>
-    <td>  1. Singapore Law Reports (2010 - ) (SLR current series)</td>
+    <td>1. Singapore Law Reports (2010 - ) (SLR current series)</td>
   </tr>
   <tr>
-    <td>  2. Singapore Law Reports (Reissue) (SLR (R))</td>
+    <td>&nbsp;2. Singapore Law Reports (Reissue) (SLR (R))</td>
   </tr>
   <tr>
-    <td>  3. Singapore Law Reports (1965-2009) (SLR 1965-2009)</td>
+    <td>&nbsp;3. Singapore Law Reports (1965-2009) (SLR 1965-2009)</td>
   </tr>
   <tr>
-    <td>  4. Malayan Law Journal (MLJ)</td>
+    <td>&nbsp;4. Malayan Law Journal (MLJ)</td>
   </tr>
   <tr>
     <td>(b) Malaysia</td>
-    <td>  Malayan Law Journal (MLJ)</td>
+    <td>Malayan Law Journal (MLJ)</td>
   </tr>
 	<tr>
 		<td rowspan="3">(c) England & Wales</td>
-		<td>  1. Law reports published by the Incorporated Council of Law Report (e.g., Queen’s Bench (QB), Appeal Cases (AC), Chancery (Ch), Family (Fam), Probate (P)</td>
+		<td>1. Law reports published by the Incorporated Council of Law Report (e.g., Queen’s Bench (QB), Appeal Cases (AC), Chancery (Ch), Family (Fam), Probate (P)</td>
 	</tr>
 	<tr>
-		<td>  2. Weekly Law Reports (WLR)</td>
+		<td>&nbsp;2. Weekly Law Reports (WLR)</td>
 	</tr>
 	<tr>
-		<td>  3. All England Law (All ER)</td>
+		<td>&nbsp;3. All England Law (All ER)</td>
 	</tr>
 	<tr>
 		<td rowspan="2">(d) Australia	</td>
-		<td>  1. Commonwealth Law Reports (CLR)</td>
+		<td>1. Commonwealth Law Reports (CLR)</td>
 	</tr>
 	<tr>
-		<td>  2. Australian Law Reports (ALR)</td>
+		<td>&nbsp;2. Australian Law Reports (ALR)</td>
 	</tr>
 	<tr>
 		<td rowspan="3">(e) Canada	</td>
-		<td>  1. Supreme Court Reports (SCR))</td>
+		<td>1. Supreme Court Reports (SCR))</td>
 	</tr>
 	<tr>
-		<td>  2. Federal Court Reports (FC)</td>
+		<td>&nbsp;2. Federal Court Reports (FC)</td>
 	</tr>
 	<tr>
-		<td>  3. Dominion Law Reports (DLR)</td>
+		<td>&nbsp;3. Dominion Law Reports (DLR)</td>
 	</tr>
 	<tr>
 		<td>(f) New Zealand	</td>
-		<td>  New Zealand Law Reports (NZLR)</td>
+		<td>New Zealand Law Reports (NZLR)</td>
 	</tr>
 </tbody>
 </table>
