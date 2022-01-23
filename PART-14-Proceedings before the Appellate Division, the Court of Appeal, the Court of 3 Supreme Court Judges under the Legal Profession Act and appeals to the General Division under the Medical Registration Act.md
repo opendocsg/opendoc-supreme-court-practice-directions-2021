@@ -150,6 +150,52 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 
 (2)	The following table sets out the prescribed page limits for various documents filed (a) under the Rules of Court 2021 for proceedings before the General Division under the Medical Registration Act; and (b) under the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act:
 
+<table>
+<thead>
+  <tr>
+	  <th><strong>S/N</strong></th>
+	  <th><strong>Document</strong></th>
+	  <th><strong>Prescribed page limit</strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="3"><strong><em>
+Documents filed for proceedings before the General Division under section 55 of the Medical Registration Act
+</em></strong></td>
+  </tr>
+	<tr>
+    <td>(a)</td>
+    <td>Written submissions that are required to be filed for appeals to the General Division under the Medical Registration Act</td>
+    <td>55 pages</td>
+  </tr>
+	<tr>
+		<td>(b)</td>
+		<td>Written submissions that are required to be filed for applications in respect of appeals to the General Division under the Medical Registration Act</td>
+		<td>35 pages</td>
+	</tr>
+	<tr>
+		<td colspan="3"><strong><em>Documents filed for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act
+</em></strong></td>
+	</tr>
+	<tr>
+		<td>(c)</td>
+		<td>Written submissions that are required to be filed	for	Originating	Applications under sections 36U(1) and  98(1) of the Legal Profession Act and for a summons under section 82A(10) of the Legal Profession Act</td>
+		<td>55 pages</td>
+	</tr>
+	<tr>
+		<td>(d)</td>
+		<td>Written submissions that are required to be filed for Originating Applications under section 49(4) and 102(2) of the Legal Profession Act</td>
+		<td>35 pages</td>
+	</tr>
+	<tr>
+		<td>(e)</td>
+		<td>Written submissions that are required to be filed for any other application made to the Court of 3 Supreme Court Judges</td>
+		<td>35 pages</td>
+	</tr>
+</tbody>
+</table>
+
 (3)	The cover page(s) and the table of contents are to be included in the page count for the purposes of determining whether a document is within the prescribed page limit as set out in sub-paragraphs (1) and (2).
 
 (4)	Cover page(s) are mandatory for all documents. A table of contents is mandatory for all documents for which the prescribed page limit is 20 pages or higher.
