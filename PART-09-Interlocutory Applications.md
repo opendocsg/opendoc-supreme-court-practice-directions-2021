@@ -3,11 +3,11 @@
 <ul type="*">
 	<li>66. Filing of summonses</li>
 		<ul>
-			<li>Summonses without notice and “by consent” summonses</li> 
-			<li>Applications filed with the Court’s approval under Order 9, Rule 9(8) or (10) of the Rules of Court 2021</li> 
+			<li>Summonses without notice and “by consent” summonses</li>
+			<li>Applications filed with the Court’s approval under Order 9, Rule 9(8) or (10) of the Rules of Court 2021</li>
 		</ul>
 	<li>67. Filing of Distinct Applications in Separate Summonses</li>
-	<li>68. Summary Table for Applications for Further and Better Particulars or Production of Documents</li> 
+	<li>68. Summary Table for Applications for Further and Better Particulars or Production of Documents</li>
 	<li>69. Applications to be heard in open court</li>
 	<li>70. Transfer of proceedings to the State Courts</li>
 	<li>71. Applications without notice for injunctions</li>
@@ -15,12 +15,12 @@
 		<ul>
 			<li>Applications for search orders</li>
 		</ul>
-	<li>73. Documents in support of applications without notice for injunctions (including injunctions prohibiting the disposal of assets) and search orders</li> 
-	<li>74. Applications for production of documents against network service providers</li> 
+	<li>73. Documents in support of applications without notice for injunctions (including injunctions prohibiting the disposal of assets) and search orders</li>
+	<li>74. Applications for production of documents against network service providers</li>
 	<li>75. Giving of security by receiver</li>
 </ul>
 
-## 66. Filing of summonses 
+## 66. Filing of summonses
 
 ***Summonses without notice and “by consent” summonses***
 
@@ -39,7 +39,7 @@
 (8) The Court’s approval to file further applications other than those directed at a case conference must be sought by letter setting out the essence of the intended application and the reasons why it is necessary at that stage of the proceedings.
 
 …
- 
+
 
 (10) No application may be taken out during the period starting 14 days before the commencement of the trial and ending when the Court has determined the merits of the action, except in a special case and with the trial Judge’s approval.
 ```
@@ -58,23 +58,72 @@
 (9)	Where the intended application is filed subsequent to the SAPT and is one that should have been dealt with under the SAPT (“subsequent application”), the relevant fees for the subsequent application are as stipulated under item 7(k), Part 1 of the Fourth Schedule to the Rules of Court 2021 as follows:
 
 <table>
-	<tr><td><strong><em>Items</strong></em></td><td><strong><em>Supreme Court</strong></em></td><td><strong><em>Supreme Court</strong></em></td></tr>
-	<tr><td></td><td><em>With value up to
-<br>$1 million</em></td><td><em>With value of <br>more than $1<br> million</em></td></tr>
-	<tr><td>7. On sealing or filing of –
-<br>…</td><td></td><td></td></tr>
-	<tr><td><ul type="*"><li>(k) a summons for any subsequent application with Court’s permission made after the single application pending trial —</li></ul></td><td></td><td></td></tr>
-	<tr><td>(i)	first subsequent application</td><td>$500</td><td>$1,000</td></tr>
-	<tr><td>(ii)	second subsequent application</td><td>$1,000</td><td>$1,500</td></tr>
-	<tr><td>(iii)	third subsequent application</td><td>$1,500</td><td>$2,000</td></tr>
-	<tr><td>(iv)	fourth subsequent application</td><td>$2,000</td><td>$2,500</td></tr>
-	<tr><td>(v)	any subsequent application</td><td>N + $1,000</td><td>N+$1,000</td></tr>
-	<tr><td></td><td>where “N” is the fee payable for the last application</td><td>where “N” is the fee payable for the last application</td></tr>
+	<tr>
+		<td><strong><em>Items</em></strong></td>
+		<td><strong><em>Supreme Court</em></strong></td>
+		<td><strong><em>Supreme Court</em></strong></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td><em>With value up to
+			<br>$1 million</em></td>
+			<td><em>With value of
+				<br>more than $1
+				<br> million</em></td>
+	</tr>
+	<tr>
+		<td>7. On sealing or filing of –
+			<br>…
+		</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>
+			<ul type="*">
+				<li><em>(k)</em> a summons for any subsequent application with Court’s permission made after the single application pending trial in respect of matters which should have been dealt with under the single	application pending trial —</li>
+			</ul>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>(i)	first subsequent application</td>
+		<td>$500</td>
+		<td>$1,000</td>
+	</tr>
+	<tr>
+		<td>(ii)	second subsequent application</td>
+		<td>$1,000</td>
+		<td>$1,500</td>
+	</tr>
+	<tr>
+		<td>(iii)	third subsequent application</td>
+		<td>$1,500</td>
+		<td>$2,000</td>
+	</tr>
+	<tr>
+		<td>(iv)	fourth subsequent application</td>
+		<td>$2,000</td>
+		<td>$2,500</td>
+	</tr>
+	<tr>
+		<td>(v)	any subsequent application</td>
+		<td>N + $1,000</td>
+		<td>N+$1,000</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>where “N” is the fee payable for the last application</td>
+		<td>where “N” is the fee payable for the last application</td>
+	</tr>
 </table>
 
 (10)	When filing an application subsequent to the SAPT with the Court’s approval, the party must state the filing fees as determined by the Court when granting approval for the filing of the application. The filing of such an application may be rejected if the wrong fee is indicated. Where the Court did not indicate the payable filing fees when granting approval for the filing of the application, the party must state the nature of the application that is being filed and, where appropriate, seek a waiver of the filing fees referred to at sub-paragraph (9) and explain why the application could not have been dealt with under the SAPT.
 
-## 67. Filing of Distinct Applications in Separate Summonses 
+## 67. Filing of Distinct Applications in Separate Summonses
 
 (1)	The directions in this paragraph do not apply to a single application pending trial under Order 9, Rule 9 of the Rules of Court 2021 but apply to all other applications unless the Court otherwise directs.
 
@@ -96,13 +145,13 @@ In the defendant’s summons setting out a prayer for the striking out of certai
 
 (4)	Any summons that is not in compliance with this paragraph may be rejected by the Registry. The Court may also direct the party to file separate summonses before proceeding with the hearing or proceed with the hearing on the solicitor’s undertaking to file further summonses for the distinct applications.
 
-## 68. Summary Table for Applications for Further and Better Particulars or Production of Documents 
+## 68. Summary Table for Applications for Further and Better Particulars or Production of Documents
 
 (1)	Unless otherwise directed, this paragraph applies to any application made for an order under Order 9, Rule 13 or Order 9, Rule 20 read with Order 11 of the Rules of Court 2021, where:
 
 <ul type="*">
 <li>(a)	more than 5 categories or sub-categories of particulars or documents are sought, or the parties agree that this paragraph applies to the application; and</li>
- 
+
 <li>(b)	the application is contested.</li>
 </ul>
 
@@ -126,7 +175,7 @@ The Court may also direct that this paragraph applies to any other application.
 
 <ul type="*">
 <li>(a)	the Court may adjust the timelines mentioned in sub-paragraph (3); and</li>
- 
+
 <li>(b)	the party must file and serve the party’s affidavit or written submissions (as the case may be) in accordance with the timelines directed by the Court.</li>
 </ul>
 
@@ -153,7 +202,7 @@ The Court may also direct that this paragraph applies to any other application.
 <li>(f)	applications for orders determining the order of priority of claims against the proceeds of sale of a ship under Order 33, Rule 22 of the Rules of Court 2021;</li>
 
 <li>(g)	applications in a pending action for apportionment of salvage under Order 33, Rule 32 of the Rules of Court 2021;</li>
- 
+
 <li>(h)	applications for objections to a decision on a reference under Order 33, Rule 43 of the Rules of Court 2021;</li>
 
 <li>(i)	applications under the Patents Act under Order 69, Rule 11(6) of the Rules of Court 2021;</li>
@@ -165,7 +214,7 @@ The Court may also direct that this paragraph applies to any other application.
 <li>(l)	applications to rectify the register of members of a company under section 152 of the Insolvency, Restructuring and Dissolution Act 2018.</li>
 </ul>
 
-## 70. Transfer of proceedings to the State Courts 
+## 70. Transfer of proceedings to the State Courts
 
 Where a claim in the General Division which may have initially exceeded $250,000 is subsequently reduced below this amount, solicitors should bring this to the attention of the Registrar and apply by summons or at the hearing of a case conference for an order that the action be transferred to a State Court for trial under section 54C of the State Courts Act, which provides:
 
@@ -181,7 +230,7 @@ General power to transfer from General Division of High Court to State Courts
 Explanation— The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute sufficient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the General Division of the High Court under any enforcement arrangements currently in force.
 ```
 
-## 71. Applications without notice for injunctions 
+## 71. Applications without notice for injunctions
 
 (1)	Order 13, Rule 1(3) of the Rules of Court 2021 provides that a party may apply for an injunction by originating application without notice or summons without notice, supported by an affidavit stating the urgency and explaining why the defendant should not be informed about the application and the merits of the application.
 
@@ -191,13 +240,13 @@ Explanation— The fact that the proceedings fall within the civil jurisdiction 
 <li>(a)	the attempts that were made to notify the other parties or their solicitors of the making of the application;</li>
 
 <li>(b)	what documents were given to the other parties or their solicitors and when these documents were given; and</li>
- 
+
 <li>(c)	whether the other parties or their solicitors consent to the application being heard without their presence.</li>
 </ul>
 
 (3)	The directions set out in sub-paragraph (2) need not be followed if the giving of the notice to the other parties, or some of them, would or might defeat the purpose of the application without notice. However, in such cases, the reasons for not following the directions should be clearly set out in the affidavit prepared and filed in support of the application without notice.
 
-## 72. Injunctions prohibiting the disposal of assets and search orders 
+## 72. Injunctions prohibiting the disposal of assets and search orders
 
 (1)	Applications for injunctions prohibiting the disposal of assets and for search orders, whether made with or without notice, will be heard by a Judge. To avoid doubt, all other applications without notice for interim injunctions may be heard by a Registrar.
 
@@ -211,7 +260,7 @@ Explanation— The fact that the proceedings fall within the civil jurisdiction 
 
 (5)	Form 26 of Appendix A of these Practice Directions states that the order must be served by a supervising solicitor and carried out in his or her presence and under his or her supervision. The supervising solicitor should be an experienced solicitor who is not a member or employee of the firm acting for the applicant and who has some familiarity with the operation of search orders. The affidavit prepared and filed in support of the application should include the identity and experience of the proposed supervising solicitor.
 
-## 73. Documents in support of applications without notice for injunctions (including injunctions prohibiting the disposal of assets) and search orders 
+## 73. Documents in support of applications without notice for injunctions (including injunctions prohibiting the disposal of assets) and search orders
 
 (1)	Without limiting the requirements stated in Order 13, Rule 1 of the Rules of Court 2021 and paragraphs 71 and 72 of these Practice Directions, in order to assist the Court hearing applications without notice for injunctions (including injunctions prohibiting the disposal of assets) and search orders, an applicant must include in the affidavit prepared and filed in support of the application the following information under clearly defined headings:
 
@@ -229,13 +278,13 @@ Explanation— The fact that the proceedings fall within the civil jurisdiction 
 <li>(f)	An undertaking to pay for losses that may be caused to the opponent or other persons by the granting of the orders sought, stating what assets are available to meet that undertaking and to whom the assets belong; and</li>
 
 <li>(g)	Any other material facts which the Court should be aware of.</li>
-</ul> 
+</ul>
 
 (2)	Without limiting paragraph 44 of these Practice Directions, an applicant must prepare and file skeletal arguments on the points to be raised at the hearing of the application without notice. At the hearing, the applicant must give a copy of the skeletal arguments to the Court and to any opponent present.
 
 (3)	The Court may also require the applicant to prepare a note of the hearing setting out the salient points and arguments canvassed before the Court and may order such a note to be served together with the Court documents on any opponent who is not present at the hearing or within a reasonable time after the service of the court documents.
 
-## 74. Applications for production of documents against network service providers 
+## 74. Applications for production of documents against network service providers
 
 (1)	This paragraph applies to applications made under Order 11, Rule 11 of the Rules of Court 2021:
 
@@ -249,7 +298,7 @@ Explanation— The fact that the proceedings fall within the civil jurisdiction 
 
 (3)	If the applicant requires an urgent hearing date, the onus lies on the applicant to attend before the Duty Registrar to highlight the nature of the application and to request that the application be fixed for hearing on an urgent basis.
 
-## 75. Giving of security by receiver 
+## 75. Giving of security by receiver
 
 (1)	Where the Court appoints a receiver pursuant to Order 13, Rule 9 of the Rules of Court 2021, the Court may give directions on the form and the amount of any security to be given by the receiver for the proper discharge of the receiver’s duties.
 
