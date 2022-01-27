@@ -14,401 +14,395 @@ Para.8
 <tbody>
   <tr>
     <td>1.</td>
-    <td>Summons</td>
+    <td><a href="./downloads/Appendix_A/Form_01.pdf" download>Summons</a></td>
   </tr>
   <tr>
     <td>2.</td>
-    <td>Summons Without Notice</td>
+    <td><a href="./downloads/Appendix_A/Form_02.pdf" download>Summons Without Notice</a></td>
   </tr>
   <tr>
     <td>3.</td>
-    <td>Notice of Appointment / Change of Solicitor</td>
+    <td><a href="./downloads/Appendix_A/Form_03.pdf" download>Notice of Appointment / Change of Solicitor</a></td>
   </tr>
   <tr>
     <td>4.</td>
-    <td>Notice of Intention of Party to Act in Person, in Place of Solicitor</td>
+    <td><a href="./downloads/Appendix_A/Form_04.pdf" download>Notice of Intention of Party to Act in Person, in Place of Solicitor</a></td>
   </tr>
   <tr>
     <td>5.</td>
-    <td>Notice of Ceasing to Act as Solicitor</td>
+    <td><a href="./downloads/Appendix_A/Form_05.pdf" download>Notice of Ceasing to Act as Solicitor</a></td>
   </tr>
   <tr>
     <td>6.</td>
-    <td>Summons for Withdrawal of Solicitor</td>
+    <td><a href="./downloads/Appendix_A/Form_06.pdf" download>Summons for Withdrawal of Solicitor</a></td>
   </tr>
   <tr>
     <td>7.</td>
-    <td>Order for Withdrawal of Solicitor</td>
+    <td><a href="./downloads/Appendix_A/Form_07.pdf" download>Order for Withdrawal of Solicitor</a></td>
   </tr>
   <tr>
     <td>8.</td>
-    <td>Originating Claim</td>
+    <td><a href="./downloads/Appendix_A/Form_08.pdf" download>Originating Claim</a></td>
   </tr>
   <tr>
     <td>9.</td>
-    <td>Statement of Claim</td>
+    <td><a href="./downloads/Appendix_A/Form_09.pdf" download>Statement of Claim</a></td>
   </tr>
   <tr>
     <td>10.</td>
-    <td>Notice of Intention to Contest or Not Contest</td>
+    <td><a href="./downloads/Appendix_A/Form_10.pdf" download>Notice of Intention to Contest or Not Contest</a></td>
   </tr>
   <tr>
     <td>11.</td>
-    <td>Application for Judgment for Failing to File Notice of Intention to Contest or Not Contest / When Notice of Intention Not to Contest All or Some Claims is Filed
-    </td>
+    <td><a href="./downloads/Appendix_A/Form_11.pdf" download>Application for Judgment for Failing to File Notice of Intention to Contest or Not Contest / When Notice of Intention Not to Contest All or Some Claims is Filed</a></td>
   </tr>
   <tr>
     <td>12.</td>
-    <td>Memorandum of Service</td>
+    <td><a href="./downloads/Appendix_A/Form_12.pdf" download>Memorandum of Service</a></td>
   </tr>
   <tr>
     <td>13.</td>
-    <td>Defence / Defence and Counterclaim / Defence to Counterclaim</td>
+    <td><a href="./downloads/Appendix_A/Form_13.pdf" download>Defence / Defence and Counterclaim / Defence to Counterclaim</a></td>
   </tr>
   <tr>
     <td>14.</td>
-    <td>Application for Judgment in Default of Defence / Defence to Counterclaim</td>
+    <td><a href="./downloads/Appendix_A/Form_14.pdf" download>Application for Judgment in Default of Defence / Defence to Counterclaim</a></td>
   </tr>
   <tr>
     <td>15.</td>
-    <td>Originating Application</td>
+    <td><a href="./downloads/Appendix_A/Form_15.pdf" download>Originating Application</a></td>
   </tr>
   <tr>
     <td>16.</td>
-    <td>Originating Application (Without Notice)</td>
+    <td><a href="./downloads/Appendix_A/Form_16.pdf" download>Originating Application (Without Notice)</a></td>
   </tr>
   <tr>
     <td>17.</td>
-    <td>Letter of Request for Examination of Witness Out Of Jurisdiction / Permission for Evidence to be Given By Live Video Or Live Television Link By Witness Out Of Jurisdiction 
-    </td>
+    <td><a href="./downloads/Appendix_A/Form_17.pdf" download>Letter of Request for Examination of Witness Out Of Jurisdiction / Permission for Evidence to be Given By Live Video Or Live Television Link By Witness Out Of Jurisdiction</a></td>
   </tr>
   <tr>
     <td>18.</td>
-    <td>Undertaking as to Expenses</td>
+    <td><a href="./downloads/Appendix_A/Form_18.pdf" download>Undertaking as to Expenses</a></td>
   </tr>
   <tr>
     <td>19.</td>
-    <td>Notice for Setting Down an Action for Trial</td>
+    <td><a href="./downloads/Appendix_A/Form_19.pdf" download>Notice for Setting Down an Action for Trial</a></td>
   </tr>
   <tr>
     <td>20.</td>
-    <td>Third Party Notice Claiming Contribution or Indemnity or Other Relief or Remedy
-    </td>
+    <td><a href="./downloads/Appendix_A/Form_20.pdf" download>Third Party Notice Claiming Contribution or Indemnity or Other Relief or Remedy</a></td>
   </tr>
   <tr>
     <td>21.</td>
-    <td>Third Party Notice Where Question or Issue to be Determined</td>
+    <td><a href="./downloads/Appendix_A/Form_21.pdf" download>Third Party Notice Where Question or Issue to be Determined</a></td>
   </tr>
   <tr>
     <td>22.</td>
-    <td>Summons for Permission to Issue a Third Party Notice</td>
+    <td><a href="./downloads/Appendix_A/Form_22.pdf" download>Summons for Permission to Issue a Third Party Notice</a></td>
   </tr>
   <tr>
     <td>23.</td>
-    <td>Summons for Third Party Directions</td>
+    <td><a href="./downloads/Appendix_A/Form_23.pdf" download>Summons for Third Party Directions</a></td>
   </tr>
   <tr>
     <td>24.</td>
-    <td>Injunction Prohibiting Disposal of Assets in Singapore</td>
+    <td><a href="./downloads/Appendix_A/Form_24.pdf" download>Injunction Prohibiting Disposal of Assets in Singapore</a></td>
   </tr>
   <tr>
     <td>25.</td>
-    <td>Injunction Prohibiting Disposal of Assets Worldwide</td>
+    <td><a href="./downloads/Appendix_A/Form_25.pdf" download>Injunction Prohibiting Disposal of Assets Worldwide</a></td>
   </tr>
   <tr>
     <td>26.</td>
-    <td>Order to Allow Entry and Search of Premises</td>
+    <td><a href="./downloads/Appendix_A/Form_26.pdf" download>Order to Allow Entry and Search of Premises</a></td>
   </tr>
   <tr>
     <td>27.</td>
-    <td>Notice of Payment into Court</td>
+    <td><a href="./downloads/Appendix_A/Form_27.pdf" download>Notice of Payment into Court</a></td>
   </tr>
   <tr>
     <td>28.</td>
-    <td>Notice of Acceptance of Money Paid Into Court</td>
+    <td><a href="./downloads/Appendix_A/Form_28.pdf" download>Notice of Acceptance of Money Paid Into Court</a></td>
   </tr>
   <tr>
     <td>29.</td>
-    <td>Order to Attend Court And / Or Produce Documents</td>
+    <td><a href="./downloads/Appendix_A/Form_29.pdf" download>Order to Attend Court And / Or Produce Documents</a></td>
   </tr>
   <tr>
     <td>30.</td>
-    <td>Order for Issue of Letter of Request to Relevant Authority Out of Jurisdiction</td>
+    <td><a href="./downloads/Appendix_A/Form_30.pdf" download>Order for Issue of Letter of Request to Relevant Authority Out of Jurisdiction</a></td>
   </tr>
   <tr>
     <td>31.</td>
-    <td>Affidavit</td>
+    <td><a href="./downloads/Appendix_A/Form_31.pdf" download>Affidavit</a></td>
   </tr>
   <tr>
     <td>32.</td>
-    <td>Notice of Discontinuance / Withdrawal</td>
+    <td><a href="./downloads/Appendix_A/Form_32.pdf" download>Notice of Discontinuance / Withdrawal</a></td>
   </tr>
   <tr>
     <td>33.</td>
-    <td>Judgment / Order of Court</td>
+    <td><a href="./downloads/Appendix_A/Form_33.pdf" download>Judgment / Order of Court</a></td>
   </tr>
   <tr>
     <td>34.</td>
-    <td>Withdrawal of Appeal or Application</td>
+    <td><a href="./downloads/Appendix_A/Form_34.pdf" download>Withdrawal of Appeal or Application</a></td>
   </tr>
   <tr>
     <td>35.</td>
-    <td>Notice of Appeal under Order 18 / 19</td>
+    <td><a href="./downloads/Appendix_A/Form_35.pdf" download>Notice of Appeal under Order 18 / 19</a></td>
   </tr>
   <tr>
     <td>36.</td>
-    <td>Certificate for Security for Costs</td>
+    <td><a href="./downloads/Appendix_A/Form_36.pdf" download>Certificate for Security for Costs</a></td>
   </tr>
   <tr>
     <td>37.</td>
-    <td>Undertaking for Security for Costs</td>
+    <td><a href="./downloads/Appendix_A/Form_37.pdf" download>Undertaking for Security for Costs</a></td>
   </tr>
   <tr>
     <td>38.</td>
-    <td>Enforcement Order</td>
+    <td><a href="./downloads/Appendix_A/Form_38.pdf" download>Enforcement Order</a></td>
   </tr>
   <tr>
     <td>39.</td>
-    <td>Consent to Entry of Satisfaction</td>
+    <td><a href="./downloads/Appendix_A/Form_39.pdf" download>Consent to Entry of Satisfaction</a></td>
   </tr>
   <tr>
     <td>40.</td>
-    <td>Notice of Seizure or Attachment</td>
+    <td><a href="./downloads/Appendix_A/Form_40.pdf" download>Notice of Seizure or Attachment</a></td>
   </tr>
   <tr>
     <td>41.</td>
-    <td>Order for Examination of Enforcement Respondent</td>
+    <td><a href="./downloads/Appendix_A/Form_41.pdf" download>Order for Examination of Enforcement Respondent</a></td>
   </tr>
   <tr>
     <td>42.</td>
-    <td>Committal Order</td>
+    <td><a href="./downloads/Appendix_A/Form_42.pdf" download>Committal Order</a></td>
   </tr>
   <tr>
     <td>43.</td>
-    <td>Order for Review of Detention</td>
+    <td><a href="./downloads/Appendix_A/Form_43.pdf" download>Order for Review of Detention</a></td>
   </tr>
   <tr>
     <td>44.</td>
-    <td>Directions to Accountant-General</td>
+    <td><a href="./downloads/Appendix_A/Form_44.pdf" download>Directions to Accountant-General</a></td>
   </tr>
   <tr>
     <td>45.</td>
-    <td>Authority to Company to Register Transfer</td>
+    <td><a href="./downloads/Appendix_A/Form_45.pdf" download>Authority to Company to Register Transfer</a></td>
   </tr>
   <tr>
     <td>46.</td>
-    <td>Statutory Declaration</td>
+    <td><a href="./downloads/Appendix_A/Form_46.pdf" download>Statutory Declaration</a></td>
   </tr>
   <tr>
     <td>47.</td>
-    <td>Reference Under Article 100 of the Constitution for Opinion on Constitutional Question
-    </td>
+    <td><a href="./downloads/Appendix_A/Form_47.pdf" download>Reference Under Article 100 of the Constitution for Opinion on Constitutional Question</a></td>
   </tr>
   <tr>
     <td>48.</td>
-    <td>Originating Claim in Action <em>In Rem</em>
-  </td>
+    <td><a href="./downloads/Appendix_A/Form_48.pdf" download>Originating Claim in Action <em>In Rem</em></a></td>
   </tr>
   <tr>
     <td>49.</td>
-    <td>Notice of Intention to Content or Not Contest an Originating Claim in Action <em>In Rem</em></td>
+    <td><a href="./downloads/Appendix_A/Form_49.pdf" download>Notice of Intention to Content or Not Contest an Originating Claim in Action <em>In Rem</em></a></td>
   </tr>
   <tr>
     <td>50.</td>
-    <td>Application for Judgment for Failing to File Notice of Intention to Contest or Not Contest / When Notice of Intention Not to Contest All or Some Claims is Filed</td>
+    <td><a href="./downloads/Appendix_A/Form_50.pdf" download>Application for Judgment for Failing to File Notice of Intention to Contest or Not Contest / When Notice of Intention Not to Contest All or Some Claims is Filed</a></td>
   </tr>
   <tr>
     <td>51.</td>
-    <td>Warrant of Arrest</td>
+    <td><a href="./downloads/Appendix_A/Form_51.pdf" download>Warrant of Arrest</a></td>
   </tr>
   <tr>
     <td>52.</td>
-    <td>Caveat against Arrest</td>
+    <td><a href="./downloads/Appendix_A/Form_52.pdf" download>Caveat against Arrest</a></td>
   </tr>
   <tr>
     <td>53.</td>
-    <td>Request for Service of Originating Claim In Rem by Sheriff</td>
+    <td><a href="./downloads/Appendix_A/Form_53.pdf" download>Request for Service of Originating Claim In Rem by Sheriff</a></td>
   </tr>
   <tr>
     <td>54.</td>
-    <td>Release</td>
+    <td><a href="./downloads/Appendix_A/Form_54.pdf" download>Release</a></td>
   </tr>
   <tr>
     <td>55.</td>
-    <td>Caveat against Release and Payment</td>
+    <td><a href="./downloads/Appendix_A/Form_55.pdf" download>Caveat against Release and Payment</a></td>
   </tr>
   <tr>
     <td>56.</td>
-    <td>Withdrawal of Caveat</td>
+    <td><a href="./downloads/Appendix_A/Form_56.pdf" download>Withdrawal of Caveat</a></td>
   </tr>
   <tr>
     <td>57.</td>
-    <td>Bail Bond</td>
+    <td><a href="./downloads/Appendix_A/Form_57.pdf" download>Bail Bond</a></td>
   </tr>
   <tr>
     <td>58.</td>
-    <td>Commission for Appraisement and Sale</td>
+    <td><a href="./downloads/Appendix_A/Form_58.pdf" download>Commission for Appraisement and Sale</a></td>
   </tr>
   <tr>
     <td>59.</td>
-    <td>Order for Recognition of Foreign Judgment / Recognition and Enforcement of Foreign Judgment / Enforcement of Judicial Settlement under the Choice of Court Agreements Act</td>
+    <td><a href="./downloads/Appendix_A/Form_59.pdf" download>Order for Recognition of Foreign Judgment / Recognition and Enforcement of Foreign Judgment / Enforcement of Judicial Settlement under the Choice of Court Agreements Act</a></td>
   </tr>
   <tr>
     <td>60.</td>
-    <td>Order for Registration of Commitment / Competition Commission Direction / Competition Appeal Board Decision
-    </td>
+    <td><a href="./downloads/Appendix_A/Form_60.pdf" download>Order for Registration of Commitment / Competition Commission Direction / Competition Appeal Board Decision</a></td>
   </tr>
   <tr>
     <td>61.</td>
-    <td>Search Warrant under Section 34 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act</td>
+    <td><a href="./downloads/Appendix_A/Form_61.pdf" download>Search Warrant under Section 34 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act</a></td>
   </tr>
   <tr>
     <td>62.</td>
-    <td>Order to Arrest Judgment Debtor Likely to Leave Singapore</td>
+    <td><a href="./downloads/Appendix_A/Form_62.pdf" download>Order to Arrest Judgment Debtor Likely to Leave Singapore</a></td>
   </tr>
   <tr>
     <td>63.</td>
-    <td>Order to Arrest Non-Appearing Judgment Debtor</td>
+    <td><a href="./downloads/Appendix_A/Form_63.pdf" download>Order to Arrest Non-Appearing Judgment Debtor</a></td>
   </tr>
   <tr>
     <td>64.</td>
-    <td>Order of Arrest / Attachment of Property before Judgment</td>
+    <td><a href="./downloads/Appendix_A/Form_64.pdf" download>Order of Arrest / Attachment of Property before Judgment</a></td>
   </tr>
   <tr>
     <td>65.</td>
-    <td>Judgment Debtor Summons</td>
+    <td><a href="./downloads/Appendix_A/Form_65.pdf" download>Judgment Debtor Summons</a></td>
   </tr>
   <tr>
     <td>66.</td>
-    <td>Notice of Application for Permission to Issue Judgment Debtor Summons</td>
+    <td><a href="./downloads/Appendix_A/Form_66.pdf" download>Notice of Application for Permission to Issue Judgment Debtor Summons</a></td>
   </tr>
   <tr>
     <td>67.</td>
-    <td>Affidavit for Permission to Issue a Judgment Debtor Summons</td>
+    <td><a href="./downloads/Appendix_A/Form_67.pdf" download>Affidavit for Permission to Issue a Judgment Debtor Summons</a></td>
   </tr>
   <tr>
     <td>68.</td>
-    <td>Judgment Notice</td>
+    <td><a href="./downloads/Appendix_A/Form_68.pdf" download>Judgment Notice</a></td>
   </tr>
   <tr>
     <td>69.</td>
-    <td>Order of Commitment</td>
+    <td><a href="./downloads/Appendix_A/Form_69.pdf" download>Order of Commitment</a></td>
   </tr>
   <tr>
     <td>70.</td>
-    <td>Certificate of Satisfaction</td>
+    <td><a href="./downloads/Appendix_A/Form_70.pdf" download>Certificate of Satisfaction</a></td>
   </tr>
   <tr>
     <td>71.</td>
-    <td>Order of Discharge</td>
+    <td><a href="./downloads/Appendix_A/Form_71.pdf" download>Order of Discharge</a></td>
   </tr>
   <tr>
     <td>72.</td>
-    <td>Order Suspending an Order of Commitment or for Discharge of Debtor</td>
+    <td><a href="./downloads/Appendix_A/Form_72.pdf" download>Order Suspending an Order of Commitment or for Discharge of Debtor</a></td>
   </tr>
   <tr>
     <td>73.</td>
-    <td>Consent of Litigation Representative of Person Under Disability</td>
+    <td><a href="./downloads/Appendix_A/Form_73.pdf" download>Consent of Litigation Representative of Person Under Disability</a></td>
   </tr>
   <tr>
     <td>74.</td>
-    <td>Certificate by Solicitor for Person Under Disability</td>
+    <td><a href="./downloads/Appendix_A/Form_74.pdf" download>Certificate by Solicitor for Person Under Disability</a></td>
   </tr>
   <tr>
     <td>75.</td>
-    <td>Affidavit in Support of Application for Distress</td>
+    <td><a href="./downloads/Appendix_A/Form_75.pdf" download>Affidavit in Support of Application for Distress</a></td>
   </tr>
   <tr>
     <td>76.</td>
-    <td>Authority to Distrain</td>
+    <td><a href="./downloads/Appendix_A/Form_76.pdf" download>Authority to Distrain</a></td>
   </tr>
   <tr>
     <td>77.</td>
-    <td>Writ of Distress</td>
+    <td><a href="./downloads/Appendix_A/Form_77.pdf" download>Writ of Distress</a></td>
   </tr>
   <tr>
     <td>78.</td>
-    <td>Authority to Follow Goods</td>
+    <td><a href="./downloads/Appendix_A/Form_78.pdf" download>Authority to Follow Goods</a></td>
   </tr>
   <tr>
     <td>79.</td>
-    <td>Search Warrant under Section 34 of the Mutual Assistance in Criminal Matters Act</td>
+    <td><a href="./downloads/Appendix_A/Form_79.pdf" download>Search Warrant under Section 34 of the Mutual Assistance in Criminal Matters Act</a></td>
   </tr>
   <tr>
     <td>80.</td>
-    <td>Certificate of Service of Foreign Process Under Section 38(3)(<em>b</em>)(i) of theMutual Assistance in Criminal Matters Act</td>
+    <td><a href="./downloads/Appendix_A/Form_80.pdf" download>Certificate of Service of Foreign Process Under Section 38(3)(<em>b</em>)(i) of theMutual Assistance in Criminal Matters Act</a></td>
   </tr>
   <tr>
     <td>81.</td>
-    <td>Statement of Reason Preventing Service of Foreign Process Under Section 38(3)(<em>b</em>)(ii) of the Mutual Assistance in Criminal Matters Act</td>
+    <td><a href="./downloads/Appendix_A/Form_81.pdf" download>Statement of Reason Preventing Service of Foreign Process Under Section 38(3)(<em>b</em>)(ii) of the Mutual Assistance in Criminal Matters Act</a></td>
   </tr>
   <tr>
     <td>82.</td>
-    <td>Form of Oath</td>
+    <td><a href="./downloads/Appendix_A/Form_82.pdf" download>Form of Oath</a></td>
   </tr>
   <tr>
     <td>83.</td>
-    <td>Form of Affirmation</td>
+    <td><a href="./downloads/Appendix_A/Form_83.pdf" download>Form of Affirmation</a></td>
   </tr>
   <tr>
     <td>84.</td>
-    <td>Order for Particulars (Partnership)</td>
+    <td><a href="./downloads/Appendix_A/Form_84.pdf" download>Order for Particulars (Partnership)</a></td>
   </tr>
   <tr>
     <td>85.</td>
-    <td>Notice of Service on Partner or Partner and Manager of Partnership</td>
+    <td><a href="./downloads/Appendix_A/Form_85.pdf" download>Notice of Service on Partner or Partner and Manager of Partnership</a></td>
   </tr>
   <tr>
     <td>86.</td>
-    <td>Order for Registration of Personal Data Protection Commission Direction / Personal Data Protection Commission Notice / Data Protection Appeal Committee Decision</td>
+    <td><a href="./downloads/Appendix_A/Form_86.pdf" download>Order for Registration of Personal Data Protection Commission Direction / Personal Data Protection Commission Notice / Data Protection Appeal Committee Decision</a></td>
   </tr>
   <tr>
     <td>87.</td>
-    <td>Certificate of Order for Costs Against the Government</td>
+    <td><a href="./downloads/Appendix_A/Form_87.pdf" download>Certificate of Order for Costs Against the Government</a></td>
   </tr>
   <tr>
     <td>88.</td>
-    <td>Order for Registration of Foreign Judgment / Commonwealth Judgment</td>
+    <td><a href="./downloads/Appendix_A/Form_88.pdf" download>Order for Registration of Foreign Judgment / Commonwealth Judgment</a></td>
   </tr>
   <tr>
     <td>89.</td>
-    <td>Certificate under the Reciprocal Enforcement of Commonwealth Judgments Act</td>
+    <td><a href="./downloads/Appendix_A/Form_89.pdf" download>Certificate under the Reciprocal Enforcement of Commonwealth Judgments Act</a></td>
   </tr>
   <tr>
     <td>90.</td>
-    <td>Certificate under the Reciprocal Enforcement of Foreign Judgments Act</td>
+    <td><a href="./downloads/Appendix_A/Form_90.pdf" download>Certificate under the Reciprocal Enforcement of Foreign Judgments Act</a></td>
   </tr>
   <tr>
     <td>91.</td>
-    <td>Advertisement of Application</td>
+    <td><a href="./downloads/Appendix_A/Form_91.pdf" download>Advertisement of Application</a></td>
   </tr>
   <tr>
     <td>92.</td>
-    <td>Show Cause Notice for Order for Disgorgement Against Third Party</td>
+    <td><a href="./downloads/Appendix_A/Form_92.pdf" download>Show Cause Notice for Order for Disgorgement Against Third Party</a></td>
   </tr>
   <tr>
     <td>93.</td>
-    <td>Advertisement of Application for Directions on Claims for Compensation under Order for Disgorgement</td>
+    <td><a href="./downloads/Appendix_A/Form_93.pdf" download>Advertisement of Application for Directions on Claims for Compensation under Order for Disgorgement</a></td>
   </tr>
   <tr>
     <td>94.</td>
-    <td>Certificate of Service of Foreign Process</td>
+    <td><a href="./downloads/Appendix_A/Form_94.pdf" download>Certificate of Service of Foreign Process</a></td>
   </tr>
   <tr>
     <td>95.</td>
-    <td>Order for Possession under Order 66</td>
+    <td><a href="./downloads/Appendix_A/Form_95.pdf" download>Order for Possession under Order 66</a></td>
   </tr>
   <tr>
     <td>96.</td>
-    <td>Enforcement Order for Possession under Order 66</td>
+    <td><a href="./downloads/Appendix_A/Form_96.pdf" download>Enforcement Order for Possession under Order 66</a></td>
   </tr>
   <tr>
     <td>97.</td>
-    <td>Warrant for Search and Seizure under Section 11(1)(a) of the Terrorism (Suppression of Financing) Act</td>
+    <td><a href="./downloads/Appendix_A/Form_97.pdf" download>Warrant for Search and Seizure under Section 11(1)(a) of the Terrorism (Suppression of Financing) Act</a></td>
   </tr>
   <tr>
     <td>98.</td>
-    <td>Request for Hearing Dates / Further Hearing Dates</td>
+    <td><a href="./downloads/Appendix_A/Form_98.pdf" download>Request for Hearing Dates / Further Hearing Dates</a></td>
   </tr>
 </tbody>
 </table>
