@@ -1,9 +1,8 @@
-
 # Appendices
 
-<h2 align='center'>Appendix A</h2>
+## Appendix A
 Para.8
-<h3 align='center'>Forms prescribed in the Rules of Court 2021</h3>
+<h2 align='center'>Forms prescribed in the Rules of Court 2021</h2>
 
 <table>
 <thead>
@@ -408,9 +407,9 @@ Para.8
 </tbody>
 </table>
 
-<h2 align='center'>Appendix B</h2>
+## Appendix B
 Para.8
-<h3 align='center'>Forms prescribed in the Supreme Court Practice Directions 2021</h3>
+<h2 align='center'>Forms prescribed in the Supreme Court Practice Directions 2021</h2>
 
 <table>
 <thead>
@@ -603,8 +602,8 @@ Para.8
 </tbody>
 </table>
 
-<h2 align='center'>Appendix C</h2>
-<h3 align='center'>Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars</h3>
+## Appendix C
+<h2 align='center'>Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars</h2>
 
 <div align='center'>
 <ul type="*">
@@ -612,8 +611,8 @@ Para.8
 </ul>
 </div>
 
-<h2 align='center'>Appendix D</h2>
-<h3 align='center'>Guidelines for Advocates and Solicitors Advising Clients about ADR</h3>
+## Appendix D
+<h2 align='center'>Guidelines for Advocates and Solicitors Advising Clients about ADR</h2>
 
 <div align='center'>
 <ul type="*">
@@ -621,8 +620,8 @@ Para.8
 </ul>
 </div>
 
-<h2 align='center'>Appendix E</h2>
-<h3 align='center'>Sample Bills of Costs</h3>
+## Appendix E
+<h2 align='center'>Sample Bills of Costs</h2>
 
 <div align='center'>
 <ul type="*">
@@ -630,8 +629,8 @@ Para.8
 </ul>
 </div>
 
-<h2 align='center'>Appendix F</h2>
-<h3 align='center'>Sample Costs Schedule</h3>
+## Appendix F
+<h2 align='center'>Sample Costs Schedule</h2>
 
 <div align='center'>
 <ul type="*">
@@ -639,8 +638,8 @@ Para.8
 </ul>
 </div>
 
-<h2 align='center'>Appendix G</h2>
-<h3 align='center'>Guidelines for Party-and-Party Costs Awards in the Supreme Court of Singapore</h3>
+## Appendix G
+<h2 align='center'>Guidelines for Party-and-Party Costs Awards in the Supreme Court of Singapore</h2>
 
 <div align='center'>
 <ul type="*">
@@ -648,8 +647,8 @@ Para.8
 </ul>
 </div>
 
-<h2 align='center'>Appendix H</h2>
-<h3 align='center'>Protocol for Medical Negligence Cases in the General Division of the High Court</h3>
+## Appendix H
+<h2 align='center'>Protocol for Medical Negligence Cases in the General Division of the High Court</h2>
 
 <div align='center'>
 <ul type="*">
