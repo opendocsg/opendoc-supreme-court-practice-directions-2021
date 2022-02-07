@@ -406,7 +406,7 @@
 </tbody>
 </table>
 
-## Appendix B: Forms prescribed in the Supreme Court Practice Directions 2021</h3>
+## Appendix B: Forms prescribed in the Supreme Court Practice Directions 2021
 
 <table>
 <thead>
