@@ -628,6 +628,6 @@ MADE IN CLAIMANT’S FAVOUR</a>
 <a href="./downloads/Appendix_G/Appendix G_G4.pdf" download>4. Costs Guidelines for Originating Applications</a><br>
 <a href="./downloads/Appendix_G/Appendix G_G5.pdf" download>5. Costs Guidelines for Appeals</a>
 
-## Appendix H: >Protocol for Medical Negligence Cases in the General Division of the High Court
+## Appendix H: Protocol for Medical Negligence Cases in the General Division of the High Court
 
 <a href="./downloads/Appendix_H/Appendix H.pdf" download>PROTOCOL FOR MEDICAL NEGLIGENCE CASES IN THE GENERAL DIVISION OF THE HIGH COURT</a>
