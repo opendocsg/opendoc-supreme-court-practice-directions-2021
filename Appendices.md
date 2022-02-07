@@ -601,7 +601,7 @@
 
 ## Appendix C: Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars
 
-<a href="./downloads/Appendix_C/Appendix C.pdf" download>Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars</a></li>
+<a href="./downloads/Appendix_C/Appendix C.pdf" download>Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars</a>
 
 
 ## Appendix D: Guidelines for Advocates and Solicitors Advising Clients about ADR
