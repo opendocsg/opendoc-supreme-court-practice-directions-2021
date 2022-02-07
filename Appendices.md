@@ -1,10 +1,7 @@
 
 # Appendices
 
-## Appendix A
-
-Para.8
-<h3 align='center'>Forms prescribed in the Rules of Court 2021</h3>
+## Appendix A: Forms prescribed in the Rules of Court 2021
 
 <table>
 <thead>
@@ -224,7 +221,7 @@ Para.8
   </tr>
   <tr>
     <td>53.</td>
-    <td><a href="./downloads/Appendix_A/Form_53.pdf" download>Request for Service of Originating Claim In Rem by Sheriff</a></td>
+    <td><a href="./downloads/Appendix_A/Form_53.pdf" download>Request for Service of Originating Claim <em>In Rem</em> by Sheriff</a></td>
   </tr>
   <tr>
     <td>54.</td>
@@ -409,10 +406,7 @@ Para.8
 </tbody>
 </table>
 
-## Appendix B
-
-Para.8
-<h3 align='center'>Forms prescribed in the Supreme Court Practice Directions 2021</h3>
+## Appendix B: Forms prescribed in the Supreme Court Practice Directions 2021</h3>
 
 <table>
 <thead>
@@ -605,59 +599,35 @@ Para.8
 </tbody>
 </table>
 
-## Appendix C
+## Appendix C: Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars
 
-<h3 align='center'>Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars</h3>
+<a href="./downloads/Appendix_C/Appendix C.pdf" download>Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars</a></li>
 
-<div align='center'>
-<ul type="*">
-	<li><a href="./downloads/Appendix_A/Form_01.pdf" download>sample</a></li>
-</ul>
-</div>
 
-## Appendix D
+## Appendix D: Guidelines for Advocates and Solicitors Advising Clients about ADR
 
-<h3 align='center'>Guidelines for Advocates and Solicitors Advising Clients about ADR</h3>
+<a href="./downloads/Appendix_D/Appendix D.pdf" download>Guidelines for Advocates and Solicitors Advising Clients about ADR</a>
 
-<div align='center'>
-<ul type="*">
-	<li><a href="./downloads/Appendix_A/Form_01.pdf" download>sample</a></li>
-</ul>
-</div>
+## Appendix E: Sample Bills of Costs
 
-## Appendix E
+<a href="./downloads/Appendix_E/Appendix E_E1.pdf" download>1. Sample Bill of Costs for Contentious Matters – Trials</a><br>
+<a href="./downloads/Appendix_E/Appendix E_E2.pdf" download>2. Sample Bill of Costs for Contentious Matters Other Than Trials</a><br>
+<a href="./downloads/Appendix_E/Appendix E_E3.pdf" download>3. Sample Bill of Costs for Non-Contentious Matters</a><br>
 
-<h3 align='center'>Sample Bills of Costs</h3>
+## Appendix F: Sample Costs Schedule
 
-<div align='center'>
-<ul type="*">
-	<li><a href="./downloads/Appendix_A/Form_01.pdf" download>sample</a></li>
-</ul>
-</div>
+<a href="./downloads/Appendix_F/Appendix F_F1.pdf" download>1. SAMPLE COSTS SCHEDULE</a><br>
+<a href="./downloads/Appendix_F/Appendix F_F2.pdf" download>2. COMPLETED INTERLOCUTORY APPLICATIONS / APPEALS FROM APPLICATIONS IN ACTIONS WITH COSTS ORDERS
+MADE IN CLAIMANT’S FAVOUR</a>
 
-## Appendix F
-<h3 align='center'>Sample Costs Schedule</h3>
+## Appendix G: Guidelines for Party-and-Party Costs Awards in the Supreme Court of Singapore
 
-<div align='center'>
-<ul type="*">
-	<li><a href="./downloads/Appendix_A/Form_01.pdf" download>sample</a></li>
-</ul>
-</div>
+<a href="./downloads/Appendix_G/Appendix G_G1.pdf" download>1. Use of the Costs Guidelines</a><br>
+<a href="./downloads/Appendix_G/Appendix G_G2.pdf" download>2. Costs Guidelines for Summonses</a><br>
+<a href="./downloads/Appendix_G/Appendix G_G3.pdf" download>3. Costs Guidelines for Trials (including Assessments of Damages)</a><br>
+<a href="./downloads/Appendix_G/Appendix G_G4.pdf" download>4. Costs Guidelines for Originating Applications</a><br>
+<a href="./downloads/Appendix_G/Appendix G_G5.pdf" download>5. Costs Guidelines for Appeals</a>
 
-## Appendix G
-<h3 align='center'>Guidelines for Party-and-Party Costs Awards in the Supreme Court of Singapore</h3>
+## Appendix H: >Protocol for Medical Negligence Cases in the General Division of the High Court
 
-<div align='center'>
-<ul type="*">
-	<li><a href="./downloads/Appendix_A/Form_01.pdf" download>sample</a></li>
-</ul>
-</div>
-
-## Appendix H
-<h3 align='center'>Protocol for Medical Negligence Cases in the General Division of the High Court</h3>
-
-<div align='center'>
-<ul type="*">
-	<li><a href="./downloads/Appendix_A/Form_01.pdf" download>sample</a></li>
-</ul>
-</div>
+<a href="./downloads/Appendix_H/Appendix H.pdf" download>PROTOCOL FOR MEDICAL NEGLIGENCE CASES IN THE GENERAL DIVISION OF THE HIGH COURT</a>
