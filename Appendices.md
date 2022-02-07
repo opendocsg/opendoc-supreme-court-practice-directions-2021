@@ -610,22 +610,22 @@
 
 ## Appendix E: Sample Bills of Costs
 
-<a href="./downloads/Appendix_E/Appendix E_E1.pdf" download>1. Sample Bill of Costs for Contentious Matters – Trials</a>
-<a href="./downloads/Appendix_E/Appendix E_E2.pdf" download>2. Sample Bill of Costs for Contentious Matters Other Than Trials</a></li>
-<a href="./downloads/Appendix_E/Appendix E_E3.pdf" download>3. Sample Bill of Costs for Non-Contentious Matters</a></li>
+<a href="./downloads/Appendix_E/Appendix E_E1.pdf" download>1. Sample Bill of Costs for Contentious Matters – Trials</a><br>
+<a href="./downloads/Appendix_E/Appendix E_E2.pdf" download>2. Sample Bill of Costs for Contentious Matters Other Than Trials</a><br>
+<a href="./downloads/Appendix_E/Appendix E_E3.pdf" download>3. Sample Bill of Costs for Non-Contentious Matters</a><br>
 
 ## Appendix F: Sample Costs Schedule
 
-<a href="./downloads/Appendix_F/Appendix F_F1.pdf" download>1. SAMPLE COSTS SCHEDULE</a>
+<a href="./downloads/Appendix_F/Appendix F_F1.pdf" download>1. SAMPLE COSTS SCHEDULE</a><br>
 <a href="./downloads/Appendix_F/Appendix F_F2.pdf" download>2. COMPLETED INTERLOCUTORY APPLICATIONS / APPEALS FROM APPLICATIONS IN ACTIONS WITH COSTS ORDERS
 MADE IN CLAIMANT’S FAVOUR</a>
 
 ## Appendix G: Guidelines for Party-and-Party Costs Awards in the Supreme Court of Singapore
 
-<a href="./downloads/Appendix_G/Appendix G_G1.pdf" download>1. Use of the Costs Guidelines</a>
-<a href="./downloads/Appendix_G/Appendix G_G2.pdf" download>2. Costs Guidelines for Summonses</a>
-<a href="./downloads/Appendix_G/Appendix G_G3.pdf" download>3. Costs Guidelines for Trials (including Assessments of Damages)</a>
-<a href="./downloads/Appendix_G/Appendix G_G4.pdf" download>4. Costs Guidelines for Originating Applications</a>
+<a href="./downloads/Appendix_G/Appendix G_G1.pdf" download>1. Use of the Costs Guidelines</a><br>
+<a href="./downloads/Appendix_G/Appendix G_G2.pdf" download>2. Costs Guidelines for Summonses</a><br>
+<a href="./downloads/Appendix_G/Appendix G_G3.pdf" download>3. Costs Guidelines for Trials (including Assessments of Damages)</a><br>
+<a href="./downloads/Appendix_G/Appendix G_G4.pdf" download>4. Costs Guidelines for Originating Applications</a><br>
 <a href="./downloads/Appendix_G/Appendix G_G5.pdf" download>5. Costs Guidelines for Appeals</a>
 
 ## Appendix H: >Protocol for Medical Negligence Cases in the General Division of the High Court
