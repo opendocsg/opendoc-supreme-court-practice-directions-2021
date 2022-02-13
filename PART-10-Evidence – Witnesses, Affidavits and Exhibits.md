@@ -81,9 +81,9 @@
 <li>(iii)	the ordinal number of the affidavit in relation to the previous affidavits filed in the cause or matter by the maker of the affidavit;</li>
 
 <li>(iv)	the date the affidavit is to be filed;
-<br>
+<br><br>
 For example, “2nd Df; Tan Ah Kow; 4th; 15.12.2021”.</li>
-</ul>
+</ul><br>
 
 <li>(d)	every page of the affidavit must be paginated consecutively, and the page number must be inserted at the centre top of each page of the affidavit other than the exhibits and separators. Exhibits and separators must be paginated in accordance with paragraph 80(3) below.</li>
 
@@ -117,6 +117,7 @@ For example, “2nd Df; Tan Ah Kow; 4th; 15.12.2021”.</li>
 <ul type="*">
 
 <li>(a)	a table of contents of the documentary exhibits (enumerating every exhibit in the affidavit) must be inserted before the first exhibit in the manner of the example set out below:
+<br><br>
 
 | Reference in affidavit | Nature of Exhibit | Page No |
 | --------- | --------- | ---------- |
@@ -131,7 +132,7 @@ and </li>
 
 ***Pagination***
 
-(3)	Every page of the exhibits, including cover pages, dividing sheets or separators between exhibits, must be consecutively numbered at the top right hand corner of each page, following from the page numbers of the text of the affidavit (i.e., the first page of the exhibits must take the page number following the last sheet of the text of the affidavit). The page number of the affidavit must correspond to the page number in the Portable Document Format (PDF) version that is filed through the Electronic Filing Service.
+(3)	Every page of the exhibits, <em>including cover pages, dividing sheets or separators between exhibits,</em> must be consecutively numbered at the top right hand corner of each page, following from the page numbers of the text of the affidavit (i.e., the first page of the exhibits must take the page number following the last sheet of the text of the affidavit). The page number of the affidavit must correspond to the page number in the Portable Document Format (PDF) version that is filed through the Electronic Filing Service.
 
 ***Dividing sheets***
 
@@ -162,15 +163,17 @@ A Commissioner for Oaths
 
 (8)	Where the maker of the affidavit wishes to refer to documents already exhibited to another person’s affidavit, he or she must exhibit them to his or her own affidavit pursuant to Order 15, Rule 27(1) to (3) of the Rules of Court 2021 which provide as follows:
 
-```
-Documents referred to in affidavit (O. 15, r. 27)
+<ul type="*">
 
-27.—(1) Where an affidavit refers to a document, a copy of that document must be annexed to the affidavit.
+<strong>Documents referred to in affidavit (O. 15, r. 27)</strong>
+
+<strong>27</strong>.—(1) Where an affidavit refers to a document, a copy of that document must be annexed to the affidavit.
 
 (2)	If it is necessary to refer to the whole document, a copy of the document must be annexed.
 
 (3)	If it is necessary to refer to only certain portions of the document, a copy of only those portions need to be annexed.
-```
+
+</ul>
 
 ***Related documents***
 
@@ -186,16 +189,17 @@ Documents referred to in affidavit (O. 15, r. 27)
 
 ## 82. Affirming of documents by persons who do not understand English, are illiterate or blind
 
-(1)	A remote communication technology mentioned in Order 15, Rule 22(1) of the Rules of Court 2021 must be capable of creating a live video link or live television link through which a commissioner for oaths is able to do all of the things mentioned in Order 15, Rule 22(3) of the Rules of Court 2021.
+(1)	Rule 8 of the Commissioners for Oaths Rules restricts solicitors who are appointed as commissioners for oaths to taking affidavits or statutory declarations, or administering oaths, for persons who speak and understand English, or, in the solicitor’s discretion, for persons who speak and understand a language or dialect other than English in which the solicitor is proficient.
 
-(2)	For the purposes of Order 15, Rule 22(2) of the Rules of Court 2021, the maker of the affidavit and the commissioner for oaths may sign the affidavit electronically by applying a security procedure that results in a secure electronic signature under section 18 of the Electronic Transactions Act.
+(2)	As commissioners for oaths are under a duty to ensure that the maker of the affidavit understands the document being affirmed, where the maker of the affidavit is not able to understand English, is illiterate or blind, the commissioner for oaths is obliged to ensure that the following requirements under Order 15, Rule 24 of the Rules of Court 2021 are met:
 
-(3)	Where an affidavit is made pursuant to Order 15, Rule 22 of the Rules of Court 2021, the affidavit should be made, as far as possible, as if the maker of the affidavit were appearing before the commissioner for oaths in person, and the attestation must state that the affidavit was affirmed and signed in Singapore with the maker of the affidavit appearing before the commissioner for oaths through a live video link or live television link, or that the affidavit was signed by the maker of the affidavit and/or the commissioner for oaths electronically in Singapore, or both, as the case may be.
+<ul type="*">
 
-```
-Safeguards for persons who do not understand English, are illiterate or blind (O. 15, r. 24)
+<strong>Safeguards for persons who do not understand English, are illiterate or blind (O. 15, r. 24)
 
-24.	Where the maker of the affidavit is not able to understand English, is illiterate or blind, the commissioner for oaths must certify on the affidavit that —
+24.</strong>	Where the maker of the affidavit is not able to understand English, is illiterate or blind, the commissioner for oaths must certify on the affidavit that —
+
+<ul type="*">
 
 (a)	the affidavit was read in the commissioner for oaths’ presence to the maker in a language or dialect that the maker understands;
 
@@ -204,8 +208,10 @@ Safeguards for persons who do not understand English, are illiterate or blind (O
 (c)	the maker indicated that he or she understood the affidavit and confirmed its contents; and
 
 (d)	the maker signed or placed his or her fingerprint willingly in the commissioner for oaths’ presence to affirm the affidavit.
-```
 
+</ul>
+
+</ul>
 
 (3)	Sub-paragraph (2) also applies to persons who do not understand English, are illiterate or are blind, and who are brought before a Supreme Court commissioner for oaths. In such a case, the necessary steps referred to in Order 15, Rule 24 of the Rules of Court 2021 may take a considerable time and may cause long delays for other persons who wish to take affidavits or statutory declarations before the Supreme Court commissioner for oaths.
 
