@@ -577,7 +577,6 @@ are to be electronically filed by the relevant deadlines.
 &nbsp;&nbsp;&nbsp;&nbsp;1st Appellant – Record of Appeal Vol 1
 
 &nbsp;&nbsp;&nbsp;&nbsp;1st Appellant – Record of Appeal Vol 2
-
 <br>
 
 (17)	The CD-ROM must be clearly labelled with the case number and title of the proceedings. If there is more than one CD-ROM, the CD-ROMs must be numbered sequentially.
