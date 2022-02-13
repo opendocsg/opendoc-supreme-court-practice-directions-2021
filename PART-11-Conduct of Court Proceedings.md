@@ -852,9 +852,9 @@ The following are examples of law reports that should be used for citation:
 <ul type="*">
 <li>(a)	Cases reported in the Singapore Law Reports must be cited using their Singapore Law Reports citations, in priority to their neutral citations.</li>
 
-<li>(b)	Unreported decisions must be cited using their neutral citations.</li>
+<li>(b)	Unreported decisions must be cited using their neutral citations.</li><br>
 
-**COURT DESIGNATORS**
+<strong>COURT DESIGNATORS</strong>
 
 SGCA – Singapore Court of Appeal
 
@@ -866,7 +866,8 @@ SGHC – Singapore High Court (before 2 January 2021) or Singapore High Court (G
 
 SGHCR – Singapore High Court Registrar (before 2 January 2021) or Singapore High Court (General Division) Registrar (on or after 2 January 2021)
 
-**EXAMPLE AND EXPLANATION**
+<strong>EXAMPLE AND EXPLANATION</strong>
+
 ```
 ABC Co Pte Ltd v XYZ Co Ltd [2021] SGCA 5, at [3], [8]
 Year of the decision : 2021
