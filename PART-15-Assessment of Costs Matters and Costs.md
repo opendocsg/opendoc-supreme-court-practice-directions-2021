@@ -80,7 +80,7 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 <br><br>
 
-(d)	Whenever costs are required to be assessed by virtue of the Motor Vehicles (Third-Party Risks and Compensation) Act, a bill should be drawn up for assessment between the solicitor and his or her client and another bill drawn up for assessment between the client and the other party to the proceedings in which the solicitor acted for the client. A waiver of the filing fees for the solicitor-and-client bill may be requested when this bill is filed:
+(d)	Whenever costs are required to be assessed by virtue of the Motor Vehicles (Third-Party Risks and Compensation) Act, a bill should be drawn up for assessment between the solicitor and his or her client <em>and</em> another bill drawn up for assessment between the client and the other party to the proceedings in which the solicitor acted for the client. A waiver of the filing fees for the solicitor-and-client bill may be requested when this bill is filed:
 
 <ul type="*">
 <li>(i)	The party-and-party bill should be filed first and the solicitor-and-client bill should reference the first bill.</li>
@@ -226,7 +226,8 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 <ul type="*">
 <li>(i)	where no party-and-party bill of costs has been filed; or</li>
-<li>(ii)	where the solicitor-and-client costs is not referenced to a party-and-party bill filed early, the receiving party and the Public Trustee need not attend at the assessment and the bill will be assessed in their absence. However, if the Registrar disagrees with the quantum of costs agreed on, he or she may nonetheless direct the attendance of the receiving party and the Public Trustee, at a later date;</li>
+<li>(ii)	where the solicitor-and-client costs is not referenced to a party-and-party bill filed early,</li>
+<li> the receiving party and the Public Trustee need not attend at the assessment and the bill will be assessed in their absence. However, if the Registrar disagrees with the quantum of costs agreed on, he or she may nonetheless direct the attendance of the receiving party and the Public Trustee, at a later date;</li>
 </ul>
 
 </li>
@@ -236,7 +237,8 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 <ul type="*">
 <li>(i)	party-and-party bills filed by the creditor under the Bankruptcy (Costs) Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020, to which the estate of the bankrupt is the respondent;</li>
 <li>(ii)	party-and-party bills filed by the creditor in companies winding-up matters where the Official Receiver is appointed liquidator and to which the company in liquidation is the respondent to the bill of costs; or</li>
-<li>(iii)	solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act where the Director of Legal Aid is the respondent, the receiving party and the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, need not attend at the assessment and the bill will be assessed in their absence. However, if the Registrar disagrees with the quantum of costs agreed on, he or she may nonetheless direct the attendance of the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, and the receiving party, at a later date.</li>
+<li>(iii)	solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act where the Director of Legal Aid is the respondent,</li>
+<li>the receiving party and the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, need not attend at the assessment and the bill will be assessed in their absence. However, if the Registrar disagrees with the quantum of costs agreed on, he or she may nonetheless direct the attendance of the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, and the receiving party, at a later date.</li>
 </ul>
 
 </li>
@@ -248,13 +250,15 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 ## 136. Fixing costs instead of ordering assessment
 
 (1)	Order 21, Rule 2(3) of the Rules of Court 2021 provides that:
-```
-Powers of the Court (O. 21, r. 2)
-
-…
-
+<ul type="*">
+<strong>Powers of the Court (O. 21, r. 2)</strong><br><br>
+…<br><br>
 (3) Subject to the provisions of this Order and any written law, the costs payable by any party to any other party in any matter must be fixed by the Court which heard the matter after an oral hearing or by way of written submissions from the parties, unless the Court thinks fit to direct an assessment of the costs.
-```
+</ul>
+
+Counsel should therefore be prepared to make submissions on the entitlement to and quantum
+of costs at the end of a hearing or trial, whether before or after judgment is delivered.
+
 (2)	Counsel should note that the Court may fix costs where costs have been ordered to be in the cause, or on hearing applications for dismissal or striking out pursuant to an unless order, and be prepared to make submissions accordingly.
 
 ## 137. Costs Scheduling
