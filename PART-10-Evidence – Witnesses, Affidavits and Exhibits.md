@@ -119,10 +119,27 @@ For example, “2nd Df; Tan Ah Kow; 4th; 15.12.2021”.</li>
 <li>(a)	a table of contents of the documentary exhibits (enumerating every exhibit in the affidavit) must be inserted before the first exhibit in the manner of the example set out below:
 <br><br>
 
-| Reference in affidavit | Nature of Exhibit | Page No |
-| --------- | --------- | ---------- |
-| "TAK-1" | Certificate of marriage | 6 |
-| "TAK-2" | Certificate of birth | 8 |
+<table>
+<thead>
+  <tr>
+	  <th><strong>Reference in affidavit</strong></th>
+	  <th><strong>Nature of Exhibit</strong></th>
+	  <th><strong>Page No</strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>"TAK-1"</td>
+    <td>Certificate of marriage</td>
+    <td>6</td>
+  </tr>
+	<tr>
+		<td>"TAK-2"</td>
+		<td>Certificate of birth</td>
+		<td>8</td>
+	</tr>
+</tbody>
+</table>
 
 and </li>
 
@@ -165,12 +182,9 @@ A Commissioner for Oaths
 
 <ul type="*">
 
-<strong>Documents referred to in affidavit (O. 15, r. 27)</strong>
-
-<strong>27</strong>.—(1) Where an affidavit refers to a document, a copy of that document must be annexed to the affidavit.
-
-(2)	If it is necessary to refer to the whole document, a copy of the document must be annexed.
-
+<strong>Documents referred to in affidavit (O. 15, r. 27)</strong><br><br>
+<strong>27</strong>.—(1) Where an affidavit refers to a document, a copy of that document must be annexed to the affidavit.<br><br>
+(2)	If it is necessary to refer to the whole document, a copy of the document must be annexed.<br><br>
 (3)	If it is necessary to refer to only certain portions of the document, a copy of only those portions need to be annexed.
 
 </ul>
@@ -195,19 +209,19 @@ A Commissioner for Oaths
 
 <ul type="*">
 
-<strong>Safeguards for persons who do not understand English, are illiterate or blind (O. 15, r. 24)
+<strong>Safeguards for persons who do not understand English, are illiterate or blind (O. 15, r. 24)<br>
 
 24.</strong>	Where the maker of the affidavit is not able to understand English, is illiterate or blind, the commissioner for oaths must certify on the affidavit that —
 
 <ul type="*">
 
-(a)	the affidavit was read in the commissioner for oaths’ presence to the maker in a language or dialect that the maker understands;
+<li>(a)	the affidavit was read in the commissioner for oaths’ presence to the maker in a language or dialect that the maker understands;</li>
 
-(b)	the person who did the translation was competent to do so;
+<li>(b)	the person who did the translation was competent to do so;</li>
 
-(c)	the maker indicated that he or she understood the affidavit and confirmed its contents; and
+<li>(c)	the maker indicated that he or she understood the affidavit and confirmed its contents; and</li>
 
-(d)	the maker signed or placed his or her fingerprint willingly in the commissioner for oaths’ presence to affirm the affidavit.
+<li>(d)	the maker signed or placed his or her fingerprint willingly in the commissioner for oaths’ presence to affirm the affidavit.</li>
 
 </ul>
 
