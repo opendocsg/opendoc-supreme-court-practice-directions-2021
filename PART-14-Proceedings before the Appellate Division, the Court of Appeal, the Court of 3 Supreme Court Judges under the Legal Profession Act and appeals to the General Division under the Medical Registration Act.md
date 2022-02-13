@@ -232,12 +232,12 @@ Documents filed for proceedings before the General Division under section 55 of 
 		<td>In relation to the following documents:
 			<ul type="*">
 			<li>(i)	the appellant’s Case and the respondent’s Case that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021; and</li>
-			<li>(ii)the appellant’s core bundle of documents and the respondent’s core bundle of documents that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021.</li></ul>
+			<li>(ii) the appellant’s core bundle of documents and the respondent’s core bundle of documents that are required to be filed in appeals to the Appellate Division and the Court of Appeal under Order 19 of the Rules of Court 2021.</li></ul>
 		</td>
 		<td>14 days before the filing deadline</td>
 	</tr>
 	<tr>
-		<td colspan="3"><strong><em>Documents filed for applications under Order 18 and Order 19 of the Rules of Court</em></strong></td>
+		<td colspan="3"><strong><em>Documents filed for applications under Order 18 and Order 19 of the Rules of Court 2021</em></strong></td>
 	</tr>
 	<tr>
 		<td>(c)</td>
@@ -330,7 +330,6 @@ Documents filed for proceedings before the General Division under section 55 of 
 <li>(i) <strong>Volume I</strong> – A certified copy of the judgment or grounds of decision of the lower Court and the extracted order of the lower Court.</li>
 <li>(ii) <strong>Volume II</strong> – Notice of appeal, certificate of security for costs and pleadings (to include all originating processes).</li>
 <li>(iii) <strong>Volume III</strong> – Affidavits (in chronological order), and transcripts or notes of evidence and arguments.</li>
-<li>(iii) <strong>Volume III</strong> – Affidavits (in chronological order), and transcripts or notes of evidence and arguments.</li>
 <li>(iv) <strong>Volume IV</strong> – All such exhibits and documents as they were tendered in the lower Court, but which did not form an exhibit to any affidavit.</li>
 <li>(v) <strong>Volume V</strong> – The Agreed Bundle (if any) in its original physical form as it was tendered in the lower Court.</li>
 </ul>
@@ -382,7 +381,7 @@ Documents filed for proceedings before the General Division under section 55 of 
 
 ***Spacing***
 
-(4)	The line spacing on every page of the records of which the original is typed-written (for example, any pleadings) must be double-spaced.
+(4)	The line spacing on every page of the records of which the original is type-written (for example, any pleadings) must be double-spaced.
 
 ***Arrangement of the appellant’s and respondent’s core bundles of documents and the second core bundle***
 
@@ -424,7 +423,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 ***Superfluous, irrelevant or duplicative documents***
 
-(9)	With regard to the inclusion of documents, the attention of solicitor is drawn to the definitions of “record of appeal”, “core bundle of documents” and “second core bundle” in Order 19, Rule 3 of the Rules of Court 2021. Only documents which are relevant to the subject matter of the appeal must be included in the appeal records.
+(9)	With regard to the inclusion of documents, the attention of solicitors is drawn to the definitions of “record of appeal”, “core bundle of documents” and “second core bundle” in Order 19, Rule 3 of the Rules of Court 2021. Only documents which are relevant to the subject matter of the appeal must be included in the appeal records.
 
 (10)	Parties are reminded not to exhibit duplicate documents in their respondent’s core bundle of documents or the second core bundle if such documents are already included in a core bundle of documents that has been filed earlier. Documents must not appear more than once in the record of appeal, even if exhibited to different affidavits.
 
@@ -464,7 +463,7 @@ are to be electronically filed by the relevant deadlines.
 
 (3)	In lieu of electronically filing the record of appeal, the appellant is to electronically file, by the prescribed time set out in Order 19 of the Rules of Court 2021 for the filing of the record of appeal, one copy of the form of the record of appeal in Form 21 of Appendix B of these Practice Directions. In lieu of electronically filing the supplemental record of appeal, the appellant is to electronically file, by the prescribed time set out in Order 19 of the Rules of Court 2021 for the filing of the supplemental record of appeal, one copy of the form of the supplemental record of appeal in Form 22 of Appendix B of these Practice Directions.
 
-(4)	In lieu of electronically filing bundles of authorities, the party filing bundles of authorities is to electronically file, by the prescribed time set out in the Rules of Court 2021 and the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 for the filing of such bundles of authorities, one copy of a list of authorities (that corresponds to the index of the actual copy of the bundles of authorities). Parties are to also comply with specific requirements of this Part relating to submission of hard copies and soft copies of bundles of authorities for particular proceedings. Where there are no such specific requirements, parties are required to tender soft copies of the bundles of authorities in Portable Document Format (PDF) in a CD- ROM by the prescribed time for the filing of such bundles of authorities.
+(4)	In lieu of electronically filing bundles of authorities, the party filing bundles of authorities is to electronically file, by the prescribed time set out in the Rules of Court 2021 and the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 for the filing of such bundles of authorities, one copy of a list of authorities (that corresponds to the index of the actual copy of the bundles of authorities). Parties are to also comply with specific requirements of this Part relating to submission of hard copies and soft copies of bundles of authorities for particular proceedings. Where there are no such specific requirements, parties are required to tender soft copies of the bundles of authorities in Portable Document Format (PDF) in a CD-ROM by the prescribed time for the filing of such bundles of authorities.
 
 (5)	If a party wishes to rely on a document which does not exist in the electronic case file, he must file the document together with the respective forms of appeal bundles. Further, a table of contents must be included for these documents. These documents must be paginated consecutively at the centre top of the page and the solicitor must ensure that the pagination takes into account the pages comprising the respective forms of appeal bundles and the table of contents for these additional documents. For example, if the form of the record of appeal is 5 pages and the table of contents for the additional documents is 2 pages, the first page of the first document should be paginated as page 8.
 
@@ -490,7 +489,7 @@ are to be electronically filed by the relevant deadlines.
 
 <li>(a)	written submissions; and</li>
 
-<li>(b)	bundles of authorities</li>
+<li>(b)	bundles of authorities.</li>
 
 </ul>
 
