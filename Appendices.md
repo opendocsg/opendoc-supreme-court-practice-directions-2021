@@ -205,7 +205,7 @@
   </tr>
   <tr>
     <td>49.</td>
-    <td><a href="./downloads/Appendix_A/Form_49.pdf" download>Notice of Intention to Content or Not Contest an Originating Claim in Action <em>In Rem</em></a></td>
+    <td><a href="./downloads/Appendix_A/Form_49.pdf" download>Notice of Intention to Contest or Not Contest an Originating Claim in Action <em>In Rem</em></a></td>
   </tr>
   <tr>
     <td>50.</td>
@@ -245,7 +245,7 @@
   </tr>
   <tr>
     <td>59.</td>
-    <td><a href="./downloads/Appendix_A/Form_59.pdf" download>Order for Recognition of Foreign Judgment / Recognition and Enforcement of Foreign Judgment / Enforcement of Judicial Settlement under the Choice of Court Agreements Act</a></td>
+    <td><a href="./downloads/Appendix_A/Form_59.pdf" download>Order for Recognition of a Foreign Judgment / Recognition and Enforcement of a Foreign Judgment / Enforcement of a Judicial Settlement under the Choice of Court Agreements Act</a></td>
   </tr>
   <tr>
     <td>60.</td>
