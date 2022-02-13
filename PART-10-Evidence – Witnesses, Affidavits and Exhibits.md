@@ -209,7 +209,7 @@ A Commissioner for Oaths
 
 <ul type="*">
 
-<strong>Safeguards for persons who do not understand English, are illiterate or blind (O. 15, r. 24)<br>
+<strong>Safeguards for persons who do not understand English, are illiterate or blind (O. 15, r. 24)<br><br>
 
 24.</strong>	Where the maker of the affidavit is not able to understand English, is illiterate or blind, the commissioner for oaths must certify on the affidavit that —
 
