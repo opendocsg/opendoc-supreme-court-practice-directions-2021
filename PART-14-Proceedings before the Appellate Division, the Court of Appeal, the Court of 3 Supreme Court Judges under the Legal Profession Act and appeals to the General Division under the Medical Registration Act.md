@@ -561,25 +561,24 @@ are to be electronically filed by the relevant deadlines.
 ***Naming convention for documents in the CD-ROM and labelling of the CD-ROM***
 
 (16)	The files in the CD-ROMs that are required to be tendered under this paragraph must be named in accordance with the following format:
+<br>
 
-```
-<party> - <document title>
+&nbsp;&nbsp;&nbsp;&nbsp;\<party> - \<document title>
 
-For example -
+&nbsp;&nbsp;&nbsp;&nbsp;For example -
 
-1st Appellant – Appellant’s Case
+&nbsp;&nbsp;&nbsp;&nbsp;1st Appellant – Appellant’s Case
 
-1st Appellant – Appellant’s Reply
+&nbsp;&nbsp;&nbsp;&nbsp;1st Appellant – Appellant’s Reply
 
-1st Appellant – Bundle of Authorities Vol 1
+&nbsp;&nbsp;&nbsp;&nbsp;1st Appellant – Bundle of Authorities Vol 1
 
-1st Appellant – Bundle of Authorities Vol 2
+&nbsp;&nbsp;&nbsp;&nbsp;1st Appellant – Bundle of Authorities Vol 2
 
-1st Appellant – Record of Appeal Vol 1
+&nbsp;&nbsp;&nbsp;&nbsp;1st Appellant – Record of Appeal Vol 1
 
-1st Appellant – Record of Appeal Vol 2
-
-```
+&nbsp;&nbsp;&nbsp;&nbsp;1st Appellant – Record of Appeal Vol 2
+<br>
 
 (17)	The CD-ROM must be clearly labelled with the case number and title of the proceedings. If there is more than one CD-ROM, the CD-ROMs must be numbered sequentially.
 
@@ -607,9 +606,7 @@ For example -
 
 <li>(f)	The pagination of the documents in the BDSRO must follow the pagination of the corresponding documents in the appeal bundles. Fresh pagination should not be assigned to the documents in the BDSRO.</li>
 
-<li>(g)	At the time when the parties tender and electronically file (where such electronic filing is required) the appeal bundles and the BDSRO, they must by way of a letter to the Registry: (i) inform the Registry that the BDSRO contains redacted information,</li>
-
-<li>(i)	specify the basis for the redaction; and (iii) request that the Registry seal the BDSRO in the electronic case file and keep the hard copies from public inspection. The letter is to be sent to the Registry both by way of hard copy and by way of electronic filing at the same time as when hard copies of the BDSRO are tendered.</li>
+<li>(g)	At the time when the parties tender and electronically file (where such electronic filing is required) the appeal bundles and the BDSRO, they must by way of a letter to the Registry: (i) inform the Registry that the BDSRO contains redacted information, (ii)	specify the basis for the redaction; and (iii) request that the Registry seal the BDSRO in the electronic case file and keep the hard copies from public inspection. The letter is to be sent to the Registry both by way of hard copy and by way of electronic filing at the same time as when hard copies of the BDSRO are tendered.</li>
 
 </ul>
 
@@ -673,7 +670,7 @@ must be in Form 24 or 25 of Appendix B of these Practice Directions.
 
 <li>(a)	where permission to appeal under section 47(1) of the Supreme Court of Judicature Act is required, be in Form 26 or 27 of Appendix B of these Practice Directions; or</li>
 
-(b)	in any other case, be in Form 24 or 25 of Appendix B of these Practice Directions with the necessary modifications to the title of the form.</li>
+<li>(b)	in any other case, be in Form 24 or 25 of Appendix B of these Practice Directions with the necessary modifications to the title of the form.</li>
 
 </ul>
 
