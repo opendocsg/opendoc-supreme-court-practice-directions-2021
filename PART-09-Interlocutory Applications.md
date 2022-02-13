@@ -218,17 +218,17 @@ The Court may also direct that this paragraph applies to any other application.
 
 Where a claim in the General Division which may have initially exceeded $250,000 is subsequently reduced below this amount, solicitors should bring this to the attention of the Registrar and apply by summons or at the hearing of a case conference for an order that the action be transferred to a State Court for trial under section 54C of the State Courts Act, which provides:
 
-```
-General power to transfer from General Division of High Court to State Courts
+<ul type="*">
+<strong>General power to transfer from General Division of High Court to State Courts</strong><br><br>
 
-54C.—(1) A party to any civil proceedings pending in the General Division of the High Court may for any sufficient reason at any time apply to the General Division of the High Court for an order that the proceedings be transferred to a State Court.
+<strong>54C</strong>.—(1) A party to any civil proceedings pending in the General Division of the High Court may for any sufficient reason at any time apply to the General Division of the High Court for an order that the proceedings be transferred to a State Court.
 
 (2)	Subject to subsection (3), the General Division of the High Court may, if it thinks fit, and on such terms as it sees fit, and either on its own motion or on application, order that the proceedings be transferred accordingly notwithstanding any other provision of this Act.
 
 (3)	An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the State Court to which the application relates, if the value of the claim had been within the District Court limit or the Magistrate’s Court limit, as the case may be.
 
-Explanation— The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute sufficient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the General Division of the High Court under any enforcement arrangements currently in force.
-```
+<em>Explanation</em>— The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute sufficient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the General Division of the High Court under any enforcement arrangements currently in force.
+</ul>
 
 ## 71. Applications without notice for injunctions
 
@@ -273,7 +273,7 @@ Explanation— The fact that the proceedings fall within the civil jurisdiction 
 
 <li>(d)	Factual basis for any reasonable defences that may be relied on by the opponent;</li>
 
-<li>(e)	Whether the applicant is aware of any issues relating to jurisdiction, forum non conveniens or service out of Singapore, and if so, whether any application relating to these issues has been or will be made;</li>
+<li>(e)	Whether the applicant is aware of any issues relating to jurisdiction, <em>forum non conveniens</em> or service out of Singapore, and if so, whether any application relating to these issues has been or will be made;</li>
 
 <li>(f)	An undertaking to pay for losses that may be caused to the opponent or other persons by the granting of the orders sought, stating what assets are available to meet that undertaking and to whom the assets belong; and</li>
 
