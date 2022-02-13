@@ -221,12 +221,9 @@ Where a claim in the General Division which may have initially exceeded $250,000
 <ul type="*">
 <strong>General power to transfer from General Division of High Court to State Courts</strong><br><br>
 
-<strong>54C</strong>.—(1) A party to any civil proceedings pending in the General Division of the High Court may for any sufficient reason at any time apply to the General Division of the High Court for an order that the proceedings be transferred to a State Court.
-
-(2)	Subject to subsection (3), the General Division of the High Court may, if it thinks fit, and on such terms as it sees fit, and either on its own motion or on application, order that the proceedings be transferred accordingly notwithstanding any other provision of this Act.
-
-(3)	An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the State Court to which the application relates, if the value of the claim had been within the District Court limit or the Magistrate’s Court limit, as the case may be.
-
+<strong>54C</strong>.—(1) A party to any civil proceedings pending in the General Division of the High Court may for any sufficient reason at any time apply to the General Division of the High Court for an order that the proceedings be transferred to a State Court.<br><br>
+(2)	Subject to subsection (3), the General Division of the High Court may, if it thinks fit, and on such terms as it sees fit, and either on its own motion or on application, order that the proceedings be transferred accordingly notwithstanding any other provision of this Act.<br><br>
+(3)	An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the State Court to which the application relates, if the value of the claim had been within the District Court limit or the Magistrate’s Court limit, as the case may be.<br><br>
 <em>Explanation</em>— The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute sufficient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the General Division of the High Court under any enforcement arrangements currently in force.
 </ul>
 
