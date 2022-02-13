@@ -12,7 +12,7 @@
 
 (2)	In view of the requirements under Rules 25, 26 and 27 of the Legal Profession (Admission) Rules 2011, an applicant is to ensure the requisite document(s) for admission are served on the Attorney General, the Law Society of Singapore and the Singapore Institute of Legal Education in compliance with the timelines stipulated in the respective Rules (“applicable timelines”).
 
-(3)	All applications for admission must be filed through the Electronic Filing Service. Supervising solicitors may allow their practice trainees to file the relevant papers for admission as an advocate and solicitor through the Electronic Filing Service using the law practice’s front- end system. Alternatively, applicants may file their requisite documents for admission through the service bureau.
+(3)	All applications for admission must be filed through the Electronic Filing Service. Supervising solicitors may allow their practice trainees to file the relevant papers for admission as an advocate and solicitor through the Electronic Filing Service using the law practice’s front-end system. Alternatively, applicants may file their requisite documents for admission through the service bureau.
 
 (4)	The applicant must file a Request for hearing together with the applicant’s affidavit for admission as advocate and solicitor. In the Request for hearing, the applicant must request the issuance of the following documents:
 
