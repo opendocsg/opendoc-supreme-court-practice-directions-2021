@@ -852,29 +852,28 @@ The following are examples of law reports that should be used for citation:
 <ul type="*">
 <li>(a)	Cases reported in the Singapore Law Reports must be cited using their Singapore Law Reports citations, in priority to their neutral citations.</li>
 
-<li>(b)	Unreported decisions must be cited using their neutral citations.</li><br>
+<li>(b)	Unreported decisions must be cited using their neutral citations.</li>
 
-<strong>COURT DESIGNATORS</strong>
+<strong>COURT DESIGNATORS</strong><br><br>
 
-SGCA – Singapore Court of Appeal
+SGCA – Singapore Court of Appeal<br><br>
 
-SGHC(A) – Singapore High Court (Appellate Division)
+SGHC(A) – Singapore High Court (Appellate Division)<br><br>
 
-SGHC(I) – Singapore High Court (Singapore International Commercial Court)
+SGHC(I) – Singapore High Court (Singapore International Commercial Court)<br><br>
 
-SGHC – Singapore High Court (before 2 January 2021) or Singapore High Court (General Division) (on or after 2 January 2021)
+SGHC – Singapore High Court (before 2 January 2021) or Singapore High Court (General Division) (on or after 2 January 2021)<br><br>
 
-SGHCR – Singapore High Court Registrar (before 2 January 2021) or Singapore High Court (General Division) Registrar (on or after 2 January 2021)
+SGHCR – Singapore High Court Registrar (before 2 January 2021) or Singapore High Court (General Division) Registrar (on or after 2 January 2021)<br><br>
 
-<strong>EXAMPLE AND EXPLANATION</strong>
+<strong>EXAMPLE AND EXPLANATION</strong><br><br>
 
-```
-ABC Co Pte Ltd v XYZ Co Ltd [2021] SGCA 5, at [3], [8]
-Year of the decision : 2021
-Level of Court	: SGCA (Singapore Court of Appeal)
-Sequential Number : 5 (fifth written judgment rendered by the Court of Appeal in 2021)
-Paragraph Number(s): Paragraphs 3 and 8 of the judgment
-```
+<h6>ABC Co Pte Ltd v XYZ Co Ltd [2021] SGCA 5, at [3], [8]<br><br>
+Year of the decision : 2021<br><br>
+Level of Court	: SGCA (Singapore Court of Appeal)<br><br>
+Sequential Number : 5 (fifth written judgment rendered by the Court of Appeal in 2021)<br><br>
+Paragraph Number(s): Paragraphs 3 and 8 of the judgment</h6>
+
 </ul>
 
 ***Ancillary Provisions***
