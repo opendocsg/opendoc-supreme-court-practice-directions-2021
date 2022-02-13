@@ -552,7 +552,7 @@ The solicitor must explain why it was not possible to file the documents in adva
 <li>(i)	The bundle of authorities must be legible. Clear copies of the authorities must be made available for inspection by the other parties or the Judge if the copies exhibited in the bundle of authorities are not legible.</li>
 </ul>
 
-(9)	The Court may reject bundles of authorities that are not in compliance with sub- paragraph (8) above, and in exercising its discretion as to costs, take such non-compliance into account.
+(9)	The Court may reject bundles of authorities that are not in compliance with sub-paragraph (8) above, and in exercising its discretion as to costs, take such non-compliance into account.
 
 (10)	Only authorities which are relevant or necessary for the trial or hearing may be included in the bundle. No bundle of authorities is necessary in cases where parties are not relying on any authority at the trial or hearing. In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary authorities, the Court will have no hesitation in making a special order for costs against the relevant party.
 
