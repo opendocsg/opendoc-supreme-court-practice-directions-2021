@@ -176,6 +176,7 @@ If parties wish to tender any hard copy documents ahead of the hearing before th
 (1)	If:
 
 <ul type="*">
+
 <li>(a)	any party to proceedings;</li>
 
 <li>(b)	any witness;</li>
@@ -183,11 +184,12 @@ If parties wish to tender any hard copy documents ahead of the hearing before th
 <li>(c)	any counsel; or</li>
 
 <li>(d)	the Public Prosecutor or the Public Prosecutor’s deputy,</li>
+
 </ul>
 
 is required to attend Court and wishes to absent himself or herself from Court on medical grounds, he or she must provide the Court with an original medical certificate. The medical certificate must be in the proper form and contain the information and particulars required by sub-paragraphs (2) to (5).
 
-(2)	A medical certificate issued by a Government hospital or clinic may be in the pre- printed form produced by the Ministry of Health, a sample of which may be found at Form 15 of Appendix B of these Practice Directions. A medical certificate issued by a restructured hospital or specialist centre may also be in a pre-printed form similar to the sample which appears at Form 15. The pre-printed medical certificate must:
+(2)	A medical certificate issued by a Government hospital or clinic may be in the pre-printed form produced by the Ministry of Health, a sample of which may be found at Form 15 of Appendix B of these Practice Directions. A medical certificate issued by a restructured hospital or specialist centre may also be in a pre-printed form similar to the sample which appears at Form 15. The pre-printed medical certificate must:
 
 <ul type="*">
 <li>(a)	be completely and properly filled in;</li>
@@ -206,7 +208,7 @@ is required to attend Court and wishes to absent himself or herself from Court o
 (3)	If a medical certificate is not in Form 15 of Appendix B of these Practice Directions, the medical certificate should:
 
 <ul type="*">
-<li>(a)	be addressed to “Registrar, Supreme Court” (and not “whoever-it-may- concern”);</li>
+<li>(a)	be addressed to “Registrar, Supreme Court” (and not “whoever-it-may-concern”);</li>
 
 <li>(b)	identify clearly the medical practitioner who issued the certificate;</li>
 
@@ -379,7 +381,7 @@ The Chief Justice has directed that the following forms of address apply:
 
 (1)	Subject to sub-paragraphs (2) and (3), in the event that a party is represented by more than one counsel at a hearing, whether in open court or in chambers, the making of submissions and the questioning of witnesses may be carried out by one counsel for each party only.
 
-(2)	If a party would like certain portions of the submissions, or examination, cross- examination or re-examination of witnesses to be conducted by different counsel in the same case, an oral application for permission to do so should be made to Court as early as is practicable and by no later than the commencement of the trial or hearing. The following information should be provided to the Court for the purposes of the application:
+(2)	If a party would like certain portions of the submissions, or examination, cross-examination or re-examination of witnesses to be conducted by different counsel in the same case, an oral application for permission to do so should be made to Court as early as is practicable and by no later than the commencement of the trial or hearing. The following information should be provided to the Court for the purposes of the application:
 
 <ul type="*">
 <li>(a)	the issues on which each counsel will be making submissions; and/or</li>
@@ -391,7 +393,7 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 
 (3)	If permission has been granted in accordance with sub-paragraph (2), counsel should ensure that he or she confines himself or herself to the issues or portions of evidence in respect of which permission was granted and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party. Further, counsel must not repeat, clarify or expand on any submissions that have been made by another counsel for the same party, or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.
 
-(4)	For civil proceedings, lead counsel are strongly encouraged to apprise the client of the benefits of allocating certain advocacy tasks to junior assisting counsel, including the potential benefits of reduced legal costs and increased focus by lead counsel on the main advocacy tasks, and to therefore consider obtaining instructions to make an application in accordance with sub- paragraph (2). In this regard, lead counsel are encouraged to consider that giving junior assisting counsel more opportunities for oral advocacy could potentially benefit the client and, at the same time, promote renewal of the Bar.
+(4)	For civil proceedings, lead counsel are strongly encouraged to apprise the client of the benefits of allocating certain advocacy tasks to junior assisting counsel, including the potential benefits of reduced legal costs and increased focus by lead counsel on the main advocacy tasks, and to therefore consider obtaining instructions to make an application in accordance with sub-paragraph (2). In this regard, lead counsel are encouraged to consider that giving junior assisting counsel more opportunities for oral advocacy could potentially benefit the client and, at the same time, promote renewal of the Bar.
 
 (5)	For civil trials:
 
@@ -437,18 +439,15 @@ For every case proceeding to trial in the General Division, each party must file
 
 The attention of parties is drawn to Order 3, Rule 2(4)(e) of the Rules of Court 2021 which provides that:
 
-```
-General powers of Court (O. 3, r. 2)
-
-…
-
-(4) Where there is non-compliance with these Rules, any other written law, the Court’s orders or directions or any practice directions, the Court may exercise all or any of the following powers:
-
-…
-
-
+<ul type="*">
+<strong>General powers of Court (O. 3, r. 2)</strong><br><br>
+…<br><br>
+(4) Where there is non-compliance with these Rules, any other written law, the Court’s orders or directions or any practice directions, the Court may exercise all or any of the following powers:<br><br>
+…<br><br>
 (e) impose a late filing fee of $50 for each day that a document remains unfiled after the expiry of the period within which the document is required to be filed, excluding non-court days; …
-```
+</ul>
+
+For example, where a document is required to be filed by 4.00 p.m. on Monday, 4 April 2022 pursuant to the Court’s order, but is only filed at 4.00 p.m. on Monday, 11 April 2022, the Court may order late filing fees of $250 to be paid by the filing party.
 
 ## 101. Filing of documents and authorities for use in Court generally
 
@@ -533,14 +532,14 @@ The solicitor must explain why it was not possible to file the documents in adva
 
 <li>(e)	The table of contents must contain a concise statement of the relevance of each authority to the specific issues before the Court. The relevance of each authority must be succinctly expressed and comprise no more than 3 sentences. The statement must be set out immediately after the name of the case. For example:
 
-        PEX International Pte Ltd v Lim Seng Chye and Anor [2021] 1 SLR 631
+<ul type="*">
 
-		Relevance: The foreseeability of the risk of harm is not generally necessary to mount a successful action in the tort of private nuisance but foreseeability of the type of harm is relevant.
+<em>PEX International Pte Ltd v Lim Seng Chye and Anor </em>[2021] 1 SLR 631<br><br>
+<span style="text-decoration: underline">Relevance</span>: The foreseeability of the risk of harm is not generally necessary to mount a successful action in the tort of private nuisance but foreseeability of the type of harm is relevant.<br><br>
+<em>Denka Advantech Pte Ltd and Anor v Seraya Energy Pte Ltd and Anor </em>[2020] 1 SLR 373<br><br>
+<span style="text-decoration: underline">Relevance</span>: The rule against penalties in Singapore remains focussed on whether the clause in question provides a genuine pre-estimate of the likely loss at the time of contracting, and its only legitimate interest is that of compensation
 
-		Denka Advantech Pte Ltd and Anor v Seraya Energy Pte Ltd and Anor [2020] 1 SLR 373
-
-		Relevance: The rule against penalties in Singapore remains focussed on whether the clause in question provides a genuine pre-estimate of the likely loss at the time of contracting, and its only legitimate interest is that of compensation
-
+</ul>
 
 </li>
 
@@ -868,11 +867,11 @@ SGHCR – Singapore High Court Registrar (before 2 January 2021) or Singapore Hi
 
 <strong>EXAMPLE AND EXPLANATION</strong><br><br>
 
-<h6>ABC Co Pte Ltd v XYZ Co Ltd [2021] SGCA 5, at [3], [8]<br><br>
+<sub>ABC Co Pte Ltd v XYZ Co Ltd [2021] SGCA 5, at [3], [8]<br><br>
 Year of the decision : 2021<br><br>
 Level of Court	: SGCA (Singapore Court of Appeal)<br><br>
 Sequential Number : 5 (fifth written judgment rendered by the Court of Appeal in 2021)<br><br>
-Paragraph Number(s): Paragraphs 3 and 8 of the judgment</h6>
+Paragraph Number(s): Paragraphs 3 and 8 of the judgment</sub>
 
 </ul>
 
