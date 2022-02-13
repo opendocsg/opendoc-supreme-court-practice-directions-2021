@@ -616,9 +616,7 @@
 
 ## Appendix F: Sample Costs Schedule
 
-<a href="./downloads/Appendix_F/Appendix F_F1.pdf" download>1. SAMPLE COSTS SCHEDULE</a><br>
-<a href="./downloads/Appendix_F/Appendix F_F2.pdf" download>2. COMPLETED INTERLOCUTORY APPLICATIONS / APPEALS FROM APPLICATIONS IN ACTIONS WITH COSTS ORDERS
-MADE IN CLAIMANT’S FAVOUR</a>
+<a href="./downloads/Appendix_F/Appendix F.pdf" download>Appendix F</a><br>
 
 ## Appendix G: Guidelines for Party-and-Party Costs Awards in the Supreme Court of Singapore
 
