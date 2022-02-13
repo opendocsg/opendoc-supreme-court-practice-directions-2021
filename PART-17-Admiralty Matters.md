@@ -23,7 +23,7 @@
 
 (4)	To enable the Sheriff to discharge his duties effectively, upon the arrest of a vessel, the Sheriff will require the solicitors representing arresting parties to deposit with the Sheriff a sum of $10,000. Such deposit is in addition to the usual undertaking.
 
-(5)	During the relevant period as defined in Order 33, Rule 11(5) of the Rules of Court 2021, the solicitors representing arresting parties must make reasonable efforts to notify the following persons and entities in writing of the service of the warrant of arrest or the originating claim in an action in rem as soon as practicable after the warrant of arrest or the originating claim (as the case may be) is served in accordance with Order 33, Rule 10 of the Rules of Court 2021:
+(5)	During the relevant period as defined in Order 33, Rule 11(5) of the Rules of Court 2021, the solicitors representing arresting parties must make reasonable efforts to notify the following persons and entities in writing of the service of the warrant of arrest or the originating claim in an action <em>in rem</em> as soon as practicable after the warrant of arrest or the originating claim (as the case may be) is served in accordance with Order 33, Rule 10 of the Rules of Court 2021:
 
 <ul type="*">
 <li>(a)	the owner of the ship;</li>
@@ -42,7 +42,7 @@
 <ul type="*">
 <li>(a)	the identity of the agent of the ship; and</li>
 
-<li>(b)	the location of the ship or, where the property is cargo, the ship in which the cargo was carried, within the limits of the port declared under section 3(1) of the Maritime and Port Authority of Singapore Act, on the date and at the time of the service of the warrant of arrest or the originating claim in an action in rem (as the case may be).</li>
+<li>(b)	the location of the ship or, where the property is cargo, the ship in which the cargo was carried, within the limits of the port declared under section 3(1) of the Maritime and Port Authority of Singapore Act, on the date and at the time of the service of the warrant of arrest or the originating claim in an action <em>in rem</em> (as the case may be).</li>
 </ul>
 
 ## 147. Arrest of ships in shipyards
