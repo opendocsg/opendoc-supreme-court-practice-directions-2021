@@ -345,9 +345,9 @@ The Direction to the Accountant-General for Payment Out must be in Form 44(b) of
 
 **Direction to Accountant-General for Payment In or Payment Out**
 
-(4)	Where the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the relevant judgment or order of court to VITAL by email to [VITAL_FS_Receivable@vital.gov.sg](VITAL_FS_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
+(4)	Where the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the relevant judgment or order of court to VITAL by email to <a href="mailto:VITAL_FS_Receivable@vital.gov.sg" style="text-decoration:none;">VITAL_FS_Receivable@vital.gov.sg</a>. Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
 
-(5)	Where the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the relevant judgment or order of court to VITAL by email to [VITAL_FS_Receivable@vital.gov.sg](VITAL_FS_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on the process for the release of the monies.
+(5)	Where the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the relevant judgment or order of court to VITAL by email to <a href="mailto:VITAL_FS_Receivable@vital.gov.sg" style="text-decoration:none;">VITAL_FS_Receivable@vital.gov.sg</a>. Upon successful receipt of the documents, VITAL will provide instructions on the process for the release of the monies.
 
 **Furnishing security for costs by depositing monies in the Registry**
 
@@ -363,7 +363,7 @@ The Direction to the Accountant-General for Payment Out must be in Form 44(b) of
 
 The party must provide proof of such deposit when filing the appeal or application.
 
-(7)	Where security for costs is to be paid out to any party pursuant to the Rules of Court 2021 or an order or direction of the Court, the party entitled to payment of the security may write to the Registry to request payment out. Once the request for payment out is approved by the Registry, the party entitled to the payment must send a copy of the Registry’s approval to the	Finance	Directorate	of	the	Supreme	Court	at <SUPCOURT_FIN_Revenue@supcourt.gov.sg>. The Finance Directorate of the Supreme Court will provide instructions on the documents to be furnished to process the release of the monies.
+(7)	Where security for costs is to be paid out to any party pursuant to the Rules of Court 2021 or an order or direction of the Court, the party entitled to payment of the security may write to the Registry to request payment out. Once the request for payment out is approved by the Registry, the party entitled to the payment must send a copy of the Registry’s approval to the	Finance	Directorate	of	the	Supreme	Court	at <a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg" style="text-decoration:none;">SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>. The Finance Directorate of the Supreme Court will provide instructions on the documents to be furnished to process the release of the monies.
 
 ***Request for information on balance of monies paid into Court or deposited in the Registry***
 
