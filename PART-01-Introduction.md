@@ -21,13 +21,13 @@
 (1)	These Practice Directions may be cited as the Supreme Court Practice Directions 2021, and will apply, on and after 1 April 2022, to:
 
 <ul type="*">
-	
+
 <li>(a)	any cause or matter, in the General Division, the Appellate Division or the Court of Appeal, that is governed by the Rules of Court 2021; and</li>
 
 <li>(b)	any criminal proceedings commenced, in the General Division or the Court of Appeal, on or after 1 April 2022.</li>
 
 </ul>
-	
+
 (2)	The Supreme Court Practice Directions as in force immediately before 1 April 2022 continue to apply, on and after 1 April 2022, to:
 
 <ul type="*">
@@ -37,7 +37,7 @@
 <li>(b)	any criminal proceedings commenced, in the General Division or the Court of Appeal, before 1 April 2022.</li>
 
 </ul>
-	
+
 ## 2.	Definitions
 
 In these Practice Directions, unless the context otherwise requires: “Appellate Division” means the Appellate Division of the High Court; and “General Division” means the General Division of the High Court.
@@ -46,11 +46,15 @@ In these Practice Directions, unless the context otherwise requires: “Appellat
 
 In these Practice Directions, unless the context otherwise requires:
 
-(a)	any reference to a repealed provision of any written law is a reference to that provision as in force immediately before the date the provision is repealed;
+<ul type="*">
 
-(b)	any reference to “Rules of Court 2021” is a reference to the Rules of Court 2021 as in force on or after 1 April 2022; and
+<li>(a)	any reference to a repealed provision of any written law is a reference to that provision as in force immediately before the date the provision is repealed;</li>
 
-(c)	where any legislation is cited in these Practice Directions, the citation is to be read as referring to the version of that legislation currently in force.
+<li>(b)	any reference to “Rules of Court 2021” is a reference to the Rules of Court 2021 as in force on or after 1 April 2022; and</li>
+
+<li>(c)	where any legislation is cited in these Practice Directions, the citation is to be read as referring to the version of that legislation currently in force.</li>
+
+</ul>
 
 ## 4.	Commencement
 
@@ -77,7 +81,7 @@ Unless otherwise stated, the provisions in the Rules of Court 2021 relating to t
 ## 8.	Forms
 
 The forms specified by number in the Rules of Court 2021 are set out in Appendix A of these Practice Directions. The forms specified by number in these Practice Directions are set out in Appendix B of these Practice Directions. The forms are to be used where applicable, with such variations as the circumstances of the case may require.
- 
+
 ## 9.	Registrar’s Circulars
 
 Registrar’s	Circulars	can	be	found	at	the	Singapore	Courts	website	at [http://www.judiciary.gov.sg](http://www.judiciary.gov.sg)
