@@ -35,14 +35,15 @@
 (4)	Order 9, Rule 9(7) of the Rules of Court 2021 sets out the types of applications which may be taken out by any party at any time and without the Court’s direction or approval.
 
 (5)	Order 9, Rule 9(8) and (10) of the Rules of Court 2021 state:
-```
-(8) The Court’s approval to file further applications other than those directed at a case conference must be sought by letter setting out the essence of the intended application and the reasons why it is necessary at that stage of the proceedings.
 
-…
+<ul type="*">
 
-
+(8) The Court’s approval to file further applications other than those directed at a case conference must be sought by letter setting out the essence of the intended application and the reasons why it is necessary at that stage of the proceedings.<br><br>
+…<br><br>
 (10) No application may be taken out during the period starting 14 days before the commencement of the trial and ending when the Court has determined the merits of the action, except in a special case and with the trial Judge’s approval.
-```
+
+</ul>
+
 (6)	Where a party wishes to file further applications other than those directed at a case conference, the party must first obtain the Court’s approval by filing a Request in the manner and form prescribed in Form 9 of Appendix B of these Practice Directions.
 
 (7)	The party is to specify the nature and essence of the intended application, the date of filing of the intended application and the reason(s) why the intended application is necessary at that stage of the proceedings.
