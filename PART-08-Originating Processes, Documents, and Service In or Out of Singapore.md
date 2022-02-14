@@ -3,38 +3,38 @@
 <ul type="*">
 	<li>57. Originating Applications</li>
 		<ul>
-			<li>Form of originating applications</li> 
-			<li>Originating applications to be heard in open court</li> 
+			<li>Form of originating applications</li>
+			<li>Originating applications to be heard in open court</li>
 		</ul>
 	<li>58. Identification numbers to be stated in cause papers</li>
 		<ul>
-			<li>Parties named in the title of the documents</li> 
-			<li>Parties not named in the title of the documents</li> 
-			<li>Documents filed by 2 or more parties</li> 
-			<li>Identification numbers for non-parties</li> 
+			<li>Parties named in the title of the documents</li>
+			<li>Parties not named in the title of the documents</li>
+			<li>Documents filed by 2 or more parties</li>
+			<li>Identification numbers for non-parties</li>
 			<li>Special cases</li>
-			<li>Identification numbers</li> 
-			<li>Guidelines for the selection of identification numbers</li> 
+			<li>Identification numbers</li>
+			<li>Guidelines for the selection of identification numbers</li>
 			<li>Inability to furnish identification number at the time of filing a document</li>
-			<li>Meaning of document</li> 
+			<li>Meaning of document</li>
 			<li>Non-compliance</li>
 		</ul>
-	<li>59. Endorsements on originating processes and other documents</li> 
+	<li>59. Endorsements on originating processes and other documents</li>
 	<li>60. Amendment of documents</li>
 		<ul>
 			<li>Application</li>
-			<li>Amendment of any document</li> 
-			<li>Amendment of pleadings</li> 
-			<li>Amendment endorsements on electronic forms</li> 
+			<li>Amendment of any document</li>
+			<li>Amendment of pleadings</li>
+			<li>Amendment endorsements on electronic forms</li>
 		</ul>
-	<li>61. Pleadings</li> 
-	<li>62. Personal service of processes and documents</li> 
-	<li>63. Application for service out of Singapore of originating process or other court document</li> 
-	<li>64. Court’s power to dismiss an action if no reasonable steps taken to serve originating process expeditiously</li> 
+	<li>61. Pleadings</li>
+	<li>62. Personal service of processes and documents</li>
+	<li>63. Application for service out of Singapore of originating process or other court document</li>
+	<li>64. Court’s power to dismiss an action if no reasonable steps taken to serve originating process expeditiously</li>
 	<li>65. Substituted service</li>
 </ul>
 
-## 57. Originating Applications 
+## 57. Originating Applications
 
 (1)	This paragraph applies to originating applications filed on or after 1 April 2022.
 
@@ -57,7 +57,7 @@
 <li>(b)	applications to wind up a company (Rule 6(1)(b) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020);</li>
 
 <li>(c)	applications to wind up a limited liability partnership (Rule 5(1)(a) of the Limited Liability Partnerships (Winding Up) Rules);</li>
- 
+
 <li>(d)	applications to wind up a variable capital company or a sub-fund (Rule 6(1)(a) of the Variable Capital Companies (Winding Up) Rules 2020);</li>
 
 <li>(e)	applications for an order declaring the dissolution of a company void (Rule 6(1)(c) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020);</li>
@@ -79,33 +79,35 @@
 <li>(c)	applications for apportionment of salvage in Order 33, Rule 32(1) of the Rules of Court 2021;</li>
 
 <li>(d)	applications under the Land Titles (Strata) Act in Order 49, Rule 2 of the Rules of Court 2021;</li>
- 
+
 <li>(e)	applications and appeals under the Patents Act in Order 69, Rules 9(1), 10(1) and 13(1) of the Rules of Court 2021;</li>
 
 <li>(f)	applications and appeals under the Trade Marks Act in Order 70, Rules 2(1) and 4(1) of the Rules of Court 2021;</li>
 
 <li>(g)	applications for admission of advocate and solicitor under section 12 of the Legal Profession Act;</li>
 
-<li>(h)	applications for ad hoc admissions under section 15 of the Legal Profession Act;</li>
+<li>(h)	applications for <em>ad hoc</em> admissions under section 15 of the Legal Profession Act;</li>
 
 <li>(i)	applications for permission for eligibility for election or appointment as a member of Council of Law Society under section 49(6) of the Legal Profession Act;</li>
 
 <li>(j)	applications for an order that a solicitor be struck off the roll, etc. under section 98(1) of the Legal Profession Act;</li>
 
 <li>(k)	applications for the name of a solicitor to be replaced on the roll under section 102(2) of the Legal Profession Act;</li>
+
+<li>(l)	applications for the vesting of property of a registered trade union in a trustee under section 45 of the Trade Unions Act;</li>
+
+<li>(m)	applications by the Public Trustee for the appointment of new trustees to administer a charitable trust under section 63(4) of the Trustees Act; and</li>
+
+<li>(n)	applications for a company to be placed under judicial management under section 227A of the Companies Act or section 90 of the Insolvency, Restructuring and Dissolution Act 2018.</li>
+
 </ul>
-(l)	applications for the vesting of property of a registered trade union in a trustee under section 45 of the Trade Unions Act;
 
-(m)	applications by the Public Trustee for the appointment of new trustees to administer a charitable trust under section 63(4) of the Trustees Act; and
-
-(n)	applications for a company to be placed under judicial management under section 227A of the Companies Act or section 90 of the Insolvency, Restructuring and Dissolution Act 2018.
-
-## 58. Identification numbers to be stated in cause papers 
+## 58. Identification numbers to be stated in cause papers
 
 ***Parties named in the title of the documents***
 
 (1)	Where a party to any proceedings in the Supreme Court first files a document in such proceedings, he or she must provide his or her identification number in accordance with the Electronic Filing System data entry fields for identification number.
- 
+
 ***Parties not named in the title of the documents***
 
 (2)	Where a party to any proceedings in the Supreme Court first files a document in such proceedings, and the name of the party does not appear in the title of the document but does appear in the body of the document, the identification number of the party should be provided in accordance with the Electronic Filing System data entry fields for identification number.
@@ -120,7 +122,7 @@
 
 ***Special cases***
 
-(5)	The following directions apply in addition to the directions contained in sub- paragraphs (1) to (4):
+(5)	The following directions apply in addition to the directions contained in sub-paragraphs (1) to (4):
 <ul type="*">
 <li>(a)	Where a party is represented by a litigation representative or guardian in adoption, sub-paragraphs (1) to (3) apply to the litigation representative or guardian in adoption as if he or she were a party to the proceedings, and the identification numbers of the party, the litigation representative and/or the guardian in adoption must be provided in accordance with the Electronic Filing System data entry fields for identification number;</li>
 
@@ -138,55 +140,59 @@
 ***Guidelines for the selection of identification numbers***
 
 (7)	The following guidelines should be followed in deciding on the appropriate identification number:
-```
-NATURAL PERSON WITH SINGAPORE IDENTITY CARD
 
-(a)	For a natural person who is a Singapore citizen or permanent resident, the identification number is the number of the identity card issued under the National Registration Act. The 7-digit number as well as the letters at the front and end should be stated. For example, “(NRIC No. S1234567A)”.
+<ul type="*">
 
-NATURAL PERSON WITH FIN NUMBER
+<strong><em>NATURAL PERSON WITH SINGAPORE IDENTITY CARD</em></strong><br><br>
 
-(b)	For a natural person (whether a Singapore citizen or permanent resident or not) who has not been issued with an identity card under the National Registration Act, but has been assigned a FIN number under the Immigration Regulations, the identification number is the FIN number. The number should be preceded by the prefix “FIN No.”
+(a)	For a natural person who is a Singapore citizen or permanent resident, the identification number is the number of the identity card issued under the National Registration Act. The 7-digit number as well as the letters at the front and end should be stated. For example, “(NRIC No. S1234567A)”.<br><br>
 
-NATURAL PERSON: BIRTH CERTIFICATE OR PASSPORT NUMBER
+<strong><em>NATURAL PERSON WITH FIN NUMBER</em></strong><br><br>
 
-(c)	For a natural person (whether a Singapore citizen or permanent resident or not) who has not been issued with an identity card under the National Registration Act or assigned a FIN number, the identification number is the birth certificate or passport number. The number should be preceded by either of the following, as appropriate: “(Issuing country) BC No.” or “(Issuing country) PP No.”
+(b)	For a natural person (whether a Singapore citizen or permanent resident or not) who has not been issued with an identity card under the National Registration Act, but has been assigned a FIN number under the Immigration Regulations, the identification number is the FIN number. The number should be preceded by the prefix “FIN No.”<br><br>
 
-NATURAL PERSON: OTHER NUMBERS
+<strong><em>NATURAL PERSON: BIRTH CERTIFICATE OR PASSPORT NUMBER</em></strong><br><br>
 
-(d)	For a natural person who is not a Singapore citizen or permanent resident, and has not been assigned a FIN number and does not have a birth certificate or passport number, the identification number is the number of any identification document he or she may possess. Both the number as well as some descriptive words which will enable the nature of the number given and the authority issuing the identification document to be ascertained should be stated. For example, “Japanese Identification Card No.”
+(c)	For a natural person (whether a Singapore citizen or permanent resident or not) who has not been issued with an identity card under the National Registration Act or assigned a FIN number, the identification number is the birth certificate or passport number. The number should be preceded by either of the following, as appropriate: “(Issuing country) BC No.” or “(Issuing country) PP No.”<br><br>
 
-DECEASED PERSON
+<strong><em>NATURAL PERSON: OTHER NUMBERS</em></strong><br><br>
 
-(e)	For a deceased natural person, the identification number must be as set out in sub-paragraph 7(a) to (d) above. However, if such numbers are not available, the identification number is the death registration number under the Registration of Births and Deaths Rules or the equivalent foreign provisions, where the death is registered abroad. The number as well as the following words should be stated: “(Country or place of registration of death) Death Reg. No.”
+(d)	For a natural person who is not a Singapore citizen or permanent resident, and has not been assigned a FIN number and does not have a birth certificate or passport number, the identification number is the number of any identification document he or she may possess. Both the number as well as some descriptive words which will enable the nature of the number given and the authority issuing the identification document to be ascertained should be stated. For example, “Japanese Identification Card No.”<br><br>
 
-COMPANY REGISTERED UNDER THE COMPANIES ACT
+<strong><em>DECEASED PERSON</em></strong><br><br>
 
-(f)	For a company registered under the Companies Act, the identification number is the Unique Entity Number (UEN).
+(e)	For a deceased natural person, the identification number must be as set out in sub-paragraph 7(a) to (d) above. However, if such numbers are not available, the identification number is the death registration number under the Registration of Births and Deaths Rules or the equivalent foreign provisions, where the death is registered abroad. The number as well as the following words should be stated: “(Country or place of registration of death) Death Reg. No.”<br><br>
 
-COMPANY REGISTERED OUTSIDE SINGAPORE
+<strong><em>COMPANY REGISTERED UNDER THE COMPANIES ACT</em></strong><br><br>
 
-(g)	For a company registered outside Singapore which is not registered under the Companies Act, the identification number is the registration number of the company in the country of registration.
+(f)	For a company registered under the Companies Act, the identification number is the Unique Entity Number (UEN).<br><br>
 
-BUSINESS REGISTERED UNDER THE BUSINESS NAMES REGISTRATION ACT 2014
+<strong><em>COMPANY REGISTERED OUTSIDE SINGAPORE</em></strong><br><br>
 
-(h)	For a body registered under the Business Names Registration Act 2014, the identification number is the UEN number.
+(g)	For a company registered outside Singapore which is not registered under the Companies Act, the identification number is the registration number of the company in the country of registration.<br><br>
 
-LIMITED LIABILITY PARTNERSHIP REGISTERED UNDER THE LIMITED LIABILITY PARTNERSHIPS ACT
+<strong><em>BUSINESS REGISTERED UNDER THE BUSINESS NAMES REGISTRATION ACT 2014</em></strong><br><br>
 
-(i)	For a limited liability partnership registered under the Limited Liability Partnerships Act, the identification number is the UEN number.
+(h)	For a body registered under the Business Names Registration Act 2014, the identification number is the UEN number.<br><br>
 
-OTHER BODIES AND ASSOCIATIONS
+<strong><em>LIMITED LIABILITY PARTNERSHIP REGISTERED UNDER THE LIMITED LIABILITY PARTNERSHIPS ACT</em></strong><br><br>
 
-(j)	For any other body or association, whether incorporated or otherwise, which does not fall within sub-paragraph 7(f) to (i), the identification number is any unique number assigned to the body or association by any authority. Both the number as well as some descriptive words which will enable the nature of the number given and the authority assigning the number to be ascertained should be stated. For example, “Singapore Trade Union Reg. No. 123 A”.
+(i)	For a limited liability partnership registered under the Limited Liability Partnerships Act, the identification number is the UEN number.<br><br>
 
-SHIP OR VESSEL
+<strong><em>OTHER BODIES AND ASSOCIATIONS</em></strong><br><br>
 
-(k)	For a ship or vessel, the identification number is the registration number assigned by the port of registry. If no such registration number is available, the identification number assigned by the International Maritime Organisation (IMO) or the number of the license granted by any authority is the identification number.
+(j)	For any other body or association, whether incorporated or otherwise, which does not fall within sub-paragraph 7(f) to (i), the identification number is any unique number assigned to the body or association by any authority. Both the number as well as some descriptive words which will enable the nature of the number given and the authority assigning the number to be ascertained should be stated. For example, “Singapore Trade Union Reg. No. 123 A”.<br><br>
 
-NO IDENTIFICATION NUMBERS EXIST
+<strong><em>SHIP OR VESSEL</em></strong><br><br>
+
+(k)	For a ship or vessel, the identification number is the registration number assigned by the port of registry. If no such registration number is available, the identification number assigned by the International Maritime Organisation (IMO) or the number of the license granted by any authority is the identification number.<br><br>
+
+<strong><em>NO IDENTIFICATION NUMBERS EXIST</em></strong><br><br>
 
 (l)	Where the appropriate identification numbers prescribed by   sub- paragraph (7)(a) to (k) do not exist, the following words should be stated immediately below or after the name of the party, person, entity or property concerned: “(No ID No. exists)”.
-```
+
+</ul>
+
 ***Inability to furnish identification number at the time of filing a document***
 
 (8)	If a party who wishes to file a document is unable at the time of filing to furnish the necessary identification numbers required by this paragraph, the party may indicate “(ID No. Not Known)” at the time of filing. However, when the necessary identification numbers have been obtained, the party will have to furnish the necessary identification numbers to the Registry through the Electronic Filing Service.
@@ -199,7 +205,7 @@ NO IDENTIFICATION NUMBERS EXIST
 
 (10)	Any document which does not comply with this paragraph may be rejected for filing by the Registry.
 
-## 59. Endorsements on originating processes and other documents 
+## 59. Endorsements on originating processes and other documents
 
 (1)	Where it is necessary to include endorsements on any document, the directions in this paragraph apply.
 
@@ -210,11 +216,11 @@ NO IDENTIFICATION NUMBERS EXIST
 <li>(a)	Solicitors should select the appropriate endorsement, and check the accuracy of the electronic form in the preview stage before filing the originating process or other document. The acceptance by the Registry of electronic forms composed online does not affect the regularity of any endorsements on the document.</li>
 
 <li>(b)	Where endorsements can be made prior to the filing or issuance of a document, those endorsements must be incorporated into the document before the document is filed or issued.</li>
- 
+
 <li>(c)	Where endorsements must be made on a document which has already been filed or issued, a fresh copy of the document containing the relevant endorsements must be prepared, and the document must be re-filed or re-issued, as the case may be. An example of this would be renewals of originating claims.</li>
 </ul>
 
-## 60. Amendment of documents 
+## 60. Amendment of documents
 
 ***Application***
 
@@ -235,7 +241,7 @@ NO IDENTIFICATION NUMBERS EXIST
 <li>(i)	deletions must be made by drawing a single line across the words to be deleted; and</li>
 
 <li>(ii)	insertions must be underlined.</li>
- 
+
 </ul>
 </ul>
 (4)	The directions in sub-paragraph (3)(b) do not apply to originating applications and summonses amended from an application or summons to an application or summons without notice or the other way around.
@@ -269,27 +275,36 @@ NO IDENTIFICATION NUMBERS EXIST
 
 <li>(b)	a version showing the amendments in colour.</li>
  </ul>
-Only 1 amended pleading consisting of these 2 versions is required to be filed.  
+Only 1 amended pleading consisting of these 2 versions is required to be filed.
 
 ***Amendment endorsements on electronic forms***
 
 (9)	An amended pleading or other document must be endorsed with a statement that it has been amended, specifying the date on which it was amended and by whom the order (if any) authorising the amendment was made and the date of the order, and if no such order was made, the relevant provision in the Rules of Court 2021 pursuant to which the amendment was made. Where electronic forms are amended, the amendment endorsement must take either one of the following forms:
+
 <ul type="*">
+
 <li>(a)	By order of court made on [date order was made]; or</li>
 
 <li>(b)	Pursuant to Order 9, Rule [cite specific sub-rule number] of the Rules of Court 2021.</li>
+
 </ul>
+
 (10)	The amendment endorsement must be appended to the title of the electronic form, after the amendment number as required under sub-paragraph (3)(b). Where an electronic form is amended more than once, the endorsement need only cite the basis for the most recent amendment. For example:
-```
-Originating Application (Amendment No. 3, by Order of Court made on 1 April 2022)
+
+<ul type="*">
+
+Originating Application (Amendment No. 3, by Order of Court made on 1 April 2022)<br><br>
+
 Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Court 2021)
-```
+
+</ul>
+
 (11)	The date of the electronic form must reflect the date on which the document is amended.
 
-## 61. Pleadings 
+## 61. Pleadings
 
-(1)	The attention of advocates and solicitors is drawn to the pleading requirements laid down by the Court of Appeal in the case of Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal [2013] 4 SLR 193 for disputes involving a contextual approach to the construction of a contract.
- 
+(1)	The attention of advocates and solicitors is drawn to the pleading requirements laid down by the Court of Appeal in the case of <em>Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal </em>[2013] 4 SLR 193 for disputes involving a contextual approach to the construction of a contract.
+
 (2)	In particular, the Court of Appeal made the following observations at [73] of the judgment:
 <ul type="*">
 <li>(a)	parties who contend that the factual matrix is relevant to the construction of the contract must plead with specificity each fact of the factual matrix that they wish to rely on in support of their construction of the contract;</li>
@@ -301,7 +316,7 @@ Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Cou
 <li>(d)	the obligation of the parties to disclose evidence would be limited by the extent to which the evidence is relevant to the facts pleaded in sub-paragraph (2)(a) and (b).</li>
 </ul>
 
-## 62. Personal service of processes and documents 
+## 62. Personal service of processes and documents
 
 (1)	The attention of solicitors is drawn to Order 7, Rule 2(2) of the Rules of Court 2021.
 
@@ -313,7 +328,7 @@ Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Cou
 
 (5)	On the appointed date, the person accompanying the Court process server should call at the Registry. The party requesting service to be effected by the Court process server will be responsible for all transport charges incurred for the purposes of effecting service.
 
-## 63. Application for service out of Singapore of originating process or other court document 
+## 63. Application for service out of Singapore of originating process or other court document
 
 (1)	Under Order 8, Rule 1(2) of the Rules of Court 2021, a claimant applying for the Court’s approval to serve an originating process or other court document out of Singapore must file a supporting affidavit stating, among others, why the Court has the jurisdiction, or is the appropriate court, to hear the action.
 
@@ -321,7 +336,7 @@ Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Cou
 <ul type="*">
 <li>(a)	there is a good arguable case that there is sufficient nexus to Singapore;</li>
 
-<li>(b)	Singapore is the forum conveniens; and</li>
+<li>(b)	Singapore is the <em>forum conveniens</em>; and</li>
 
 <li>(c)	there is a serious question to be tried on the merits of the claim.</li>
 </ul>
@@ -330,7 +345,7 @@ Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Cou
 <li>(a)	relief is sought against a person who is domiciled, ordinarily resident or carrying on business in Singapore, or who has property in Singapore;</li>
 
 <li>(b)	an injunction is sought ordering the defendant to do or refrain from doing anything in Singapore (whether or not damages are also claimed in respect of a failure to do or the doing of that thing);</li>
- 
+
 <li>(c)	the claim is brought against a person duly served in or outside Singapore, and a person outside Singapore is a necessary or proper party to the claim;</li>
 
 <li>(d)	the claim is brought to enforce, rescind, dissolve, annul or otherwise affect a contract, or to recover damages or obtain other relief in respect of the breach of a contract, being (in either case) a contract which —</li>
@@ -352,7 +367,7 @@ Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Cou
 <li>(ii)	is wholly or partly founded on, or is for the recovery of damages in respect of, damage suffered in Singapore caused by a tortious act or omission wherever occurring</li>
 </ul>
 <li>(g)	the whole subject matter is immovable property situated in Singapore (with or without rents or profits) or the perpetuation of testimony relating to immovable property so situated;</li>
- 
+
 <li>(h)	the claim is brought to construe, rectify, set aside or enforce an act, deed, will, contract, obligation or liability affecting immovable property situated in Singapore;</li>
 
 <li>(i)	the claim is made for a debt secured on immovable property situated in Singapore, or is made to assert, declare or determine proprietary or possessory rights, or rights of security, in or over movable property, or to obtain authority to dispose of movable property, situated in Singapore;</li>
@@ -372,7 +387,7 @@ Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Cou
 <li>(p)	the claim is founded on a cause of action arising in Singapore;</li>
 
 <li>(q)	the claim is for a contribution or an indemnity in respect of a liability enforceable by proceedings in Singapore;</li>
- 
+
 <li>(r)	the claim is in respect of matters in which the defendant has submitted or agreed to submit to the jurisdiction of the Court;</li>
 
 <li>(s)	the claim concerns the construction, effect or enforcement of any written law; or</li>
@@ -383,25 +398,33 @@ Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Cou
 ## 64. Court’s power to dismiss an action if no reasonable steps taken to serve originating process expeditiously
 
 (1)	Under Order 2, Rule 3(2) of the Rules of Court 2021, the claimant has to take reasonable steps to serve the originating claim with a statement of claim, or the originating application supported by affidavit, on a defendant expeditiously:
+
 <ul type="*">
+
 <li>(a)	Order 6, Rule 5(6) and (7) of the Rules of Court 2021 set out the relevant periods within which reasonable steps to serve the originating claim on the defendant, whether in or out of Singapore, must be made; and</li>
 
-<li>(b)	Order 6, Rule 11(4) and (5) of the Rules of Court 2021 set out the relevant periods within which reasonable steps to serve the originating application and the supporting affidavit on the defendant, whether in or out of Singapore, must be made./li>
+<li>(b)	Order 6, Rule 11(4) and (5) of the Rules of Court 2021 set out the relevant periods within which reasonable steps to serve the originating application and the supporting affidavit on the defendant, whether in or out of Singapore, must be made.</li>
+
 </ul>
+
 (2)	Under Order 2, Rule 6(3)(a) and/or Order 9, Rule 5(1)(a) of the Rules of Court 2021, the Court may dismiss the action if it is not satisfied that the claimant has taken reasonable steps to effect service of the originating claim or originating application expeditiously. Whether a claimant has taken reasonable steps to serve the originating claim or originating application on the defendant expeditiously would depend on the facts of the case. A non-exhaustive list of factors that may be relevant to this inquiry include:
+
 <ul type="*">
-<li>(a)	The chosen mode(s) to effect personal service on the defendant;/li>
 
-<li>(b)	The day and time during which personal service was attempted on the defendant;/li>
+<li>(a)	The chosen mode(s) to effect personal service on the defendant;</li>
 
-<li>(c)	The number of times for which personal service was attempted on the defendant;/li>
+<li>(b)	The day and time during which personal service was attempted on the defendant;</li>
 
-<li>(d)	The reason(s) for which each attempt at personal service was unsuccessful;/li>
+<li>(c)	The number of times for which personal service was attempted on the defendant;</li>
 
-<li>(e)	Whether an application for substituted service has been or will be taken out by the claimant./li>
+<li>(d)	The reason(s) for which each attempt at personal service was unsuccessful;</li>
+
+<li>(e)	Whether an application for substituted service has been or will be taken out by the claimant.</li>
+
 </ul>
+
 (3)	Before exercising its powers under Order 2, Rule 6(3)(a) and/or Order 9, Rule 5(1)(a) of the Rules of Court 2021, the Court may require an affidavit relating to service attempts to be filed by or on behalf of the claimant. The claimant has to demonstrate in the affidavit relating to service attempts that the steps taken to serve the originating claim or originating application on the defendant are reasonable and expeditious in the circumstances.
- 
+
 ## 65. Substituted service
 
 (1)	In any application for substituted service, the applicant should persuade the Court that the proposed mode of substituted service will probably be effective in bringing the document in question to the notice of the person to be served.
@@ -411,11 +434,9 @@ Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Cou
 (3)	The applicant should, where appropriate, also consider other modes of substituted service, such as AR registered post or electronic means (including email or Internet transmission) in addition to or in substitution for substituted service by posting on doors or gates of residential or business premises.
 
 (4)	An application for substituted service by posting at an address or by AR registered post should contain evidence (for example, relevant search results from the Inland Revenue Authority of Singapore, the Singapore Land Authority, the Housing & Development Board or the Accounting and Corporate Regulatory Authority) that the person to be served is resident or can be located at the property.
- 
+
 (5)	To avoid doubt, substituted service by AR registered post is deemed to be effected when the postal service has delivered the document, or attempted to deliver the document (in cases where no one is present or willing to accept the document).
 
 (6)	If substituted service is by email, it has to be shown that the email account to which the document will be sent belongs to the person to be served and that it is currently active.
 
 (7)	An application for substituted service by advertisement (in one issue of the Straits Times if the person to be served is literate in English, or one issue of the Straits Times and one issue of one of the main non-English language newspapers where his or her language literacy is unknown) should only be considered as a last resort and should contain evidence that the person to be served is literate in the language of the newspaper in which the advertisement will be placed.
-
-
