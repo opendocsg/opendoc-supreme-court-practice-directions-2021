@@ -50,9 +50,11 @@
 (8)	Where the intended application is to be filed:
 
 <ul type="*">
+
 <li>(a)	subsequent to the single application pending trial (“SAPT”), the party must specify why the intended application could not have been dealt with under the SAPT; and</li>
 
 <li>(b)	during the period starting 14 days before the commencement of the trial and ending when the Court has determined the merits of the action, the party must specify why this is a special case.</li>
+
 </ul>
 
 (9)	Where the intended application is filed subsequent to the SAPT and is one that should have been dealt with under the SAPT (“subsequent application”), the relevant fees for the subsequent application are as stipulated under item 7(k), Part 1 of the Fourth Schedule to the Rules of Court 2021 as follows:
@@ -128,20 +130,26 @@
 (1)	The directions in this paragraph do not apply to a single application pending trial under Order 9, Rule 9 of the Rules of Court 2021 but apply to all other applications unless the Court otherwise directs.
 
 (2)	Where a party intends to make more than one distinct substantive application in a cause or matter, he or she must file each application in a separate summons. Distinct applications should not be combined in a single summons, unless they are inextricably or closely linked, or involve overlapping or substantially similar issues. For example, it can be envisaged that applications for:
+
 <ul type="*">
+
 <li>(a)	extension or shortening of time;</li>
 
 <li>(b)	amendment of pleadings; and</li>
 
 <li>(c)	costs;</li>
-	</ul>
+
+</ul>
+
 may be closely linked to other more substantive applications.
 
 (3)	In addition, applications should not contain alternative prayers when the alternative prayers sought in effect amount to distinct applications. For example, a party should not make an application for further and better particulars of pleadings on particular issues, and in the alternative, production of documents on different issues. In such a case, separate summonses should be filed. In contrast, the following is an example of alternative prayer which may be permitted:
 
-```
+<ul type="*">
+
 In the defendant’s summons setting out a prayer for the striking out of certain paragraphs of the statement of claim, the defendant may include an alternative prayer for the claimant to be ordered to amend those paragraphs of the statement of claim.
-```
+
+</ul>
 
 (4)	Any summons that is not in compliance with this paragraph may be rejected by the Registry. The Court may also direct the party to file separate summonses before proceeding with the hearing or proceed with the hearing on the solicitor’s undertaking to file further summonses for the distinct applications.
 
@@ -150,9 +158,11 @@ In the defendant’s summons setting out a prayer for the striking out of certai
 (1)	Unless otherwise directed, this paragraph applies to any application made for an order under Order 9, Rule 13 or Order 9, Rule 20 read with Order 11 of the Rules of Court 2021, where:
 
 <ul type="*">
+
 <li>(a)	more than 5 categories or sub-categories of particulars or documents are sought, or the parties agree that this paragraph applies to the application; and</li>
 
 <li>(b)	the application is contested.</li>
+
 </ul>
 
 The Court may also direct that this paragraph applies to any other application.
@@ -162,6 +172,7 @@ The Court may also direct that this paragraph applies to any other application.
 (3)	Unless otherwise directed by the Court, the parties must complete the Summary Table in the following manner:
 
 <ul type="*">
+
 <li>(a)	The applicant must complete columns A and B of the Summary Table, and serve the Summary Table on the respondent, when filing the application. The applicant may also complete column C of the Summary Table before the applicant serves the Summary Table on the respondent under this sub-paragraph.</li>
 
 <li>(b)	If the applicant did not complete column C of the Summary Table when the application was filed, the applicant must complete column C of the Summary Table, and serve the Summary Table with column C completed on the respondent, no later than 8 working days before the date of the hearing.</li>
@@ -169,14 +180,17 @@ The Court may also direct that this paragraph applies to any other application.
 <li>(c)	The respondent must complete column D of the Summary Table, and serve the Summary Table with column D completed on the applicant, within 3 working days after receiving from the applicant the Summary Table with column C completed.</li>
 
 <li>(d)	The applicant must complete column E of the Summary Table, serve on the respondent the completed Summary Table, and file the completed Summary Table using the Electronic Filing Service as an “Other Hearing Related Request”, within 3 working days after receiving from the respondent the Summary Table with column D completed and, in any event, no later than 2 working days before the date of the hearing.</li>
+
 </ul>
 
 (4)	Where a party wishes to adduce any evidence for the purposes of the application, or the Court grants a party permission to file written submissions in addition to the Summary Table:
 
 <ul type="*">
+
 <li>(a)	the Court may adjust the timelines mentioned in sub-paragraph (3); and</li>
 
 <li>(b)	the party must file and serve the party’s affidavit or written submissions (as the case may be) in accordance with the timelines directed by the Court.</li>
+
 </ul>
 
 ## 69. Applications to be heard in open court
@@ -189,6 +203,7 @@ The Court may also direct that this paragraph applies to any other application.
 (3)	In addition to any provisions in the Rules of Court 2021 or other written law, and subject to further directions made by the Court, the Registrar hereby directs that the following applications are to be heard in open court:
 
 <ul type="*">
+
 <li>(a)	applications for mandatory orders, prohibiting orders or quashing orders under Order 24, Rule 6 of the Rules of Court 2021;</li>
 
 <li>(b)	applications for remedies where property protected by a caveat is arrested under Order 33, Rule 6 of the Rules of Court 2021;</li>
@@ -212,6 +227,7 @@ The Court may also direct that this paragraph applies to any other application.
 <li>(k)	applications for the committal of a person to prison for contempt in relation to the winding up of a company under section 124 of the Insolvency, Restructuring and Dissolution Act 2018; and</li>
 
 <li>(l)	applications to rectify the register of members of a company under section 152 of the Insolvency, Restructuring and Dissolution Act 2018.</li>
+
 </ul>
 
 ## 70. Transfer of proceedings to the State Courts
@@ -219,12 +235,13 @@ The Court may also direct that this paragraph applies to any other application.
 Where a claim in the General Division which may have initially exceeded $250,000 is subsequently reduced below this amount, solicitors should bring this to the attention of the Registrar and apply by summons or at the hearing of a case conference for an order that the action be transferred to a State Court for trial under section 54C of the State Courts Act, which provides:
 
 <ul type="*">
-<strong>General power to transfer from General Division of High Court to State Courts</strong><br><br>
 
+<strong>General power to transfer from General Division of High Court to State Courts</strong><br><br>
 <strong>54C</strong>.—(1) A party to any civil proceedings pending in the General Division of the High Court may for any sufficient reason at any time apply to the General Division of the High Court for an order that the proceedings be transferred to a State Court.<br><br>
 (2)	Subject to subsection (3), the General Division of the High Court may, if it thinks fit, and on such terms as it sees fit, and either on its own motion or on application, order that the proceedings be transferred accordingly notwithstanding any other provision of this Act.<br><br>
 (3)	An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the State Court to which the application relates, if the value of the claim had been within the District Court limit or the Magistrate’s Court limit, as the case may be.<br><br>
 <em>Explanation</em>— The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute sufficient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the General Division of the High Court under any enforcement arrangements currently in force.
+
 </ul>
 
 ## 71. Applications without notice for injunctions
@@ -234,11 +251,13 @@ Where a claim in the General Division which may have initially exceeded $250,000
 (2)	Despite sub-paragraph (1), any party applying for an injunction without notice (including an injunction prohibiting the disposal of assets) must give notice of the application to the other concerned parties prior to the hearing. The notice may be given by way of email, or, in cases of extreme urgency, orally by telephone. Except in cases of extreme urgency or with the permission of the Court, the party must give a minimum of 2 hours’ notice to the other parties before the hearing. The notice should inform the other parties of the date, time and place fixed for the hearing of the application and the nature of the relief sought. If possible, a copy of the originating process, the summons without notice or the originating application without notice (if no originating process has been issued yet) and supporting affidavit(s) should be given to each of the other parties in draft form as soon as they are ready to be filed in Court. At the hearing of the application without notice, in the event that some or all of the other parties are not present or represented, the applicant’s solicitors should inform the Court of:
 
 <ul type="*">
+
 <li>(a)	the attempts that were made to notify the other parties or their solicitors of the making of the application;</li>
 
 <li>(b)	what documents were given to the other parties or their solicitors and when these documents were given; and</li>
 
 <li>(c)	whether the other parties or their solicitors consent to the application being heard without their presence.</li>
+
 </ul>
 
 (3)	The directions set out in sub-paragraph (2) need not be followed if the giving of the notice to the other parties, or some of them, would or might defeat the purpose of the application without notice. However, in such cases, the reasons for not following the directions should be clearly set out in the affidavit prepared and filed in support of the application without notice.
@@ -262,6 +281,7 @@ Where a claim in the General Division which may have initially exceeded $250,000
 (1)	Without limiting the requirements stated in Order 13, Rule 1 of the Rules of Court 2021 and paragraphs 71 and 72 of these Practice Directions, in order to assist the Court hearing applications without notice for injunctions (including injunctions prohibiting the disposal of assets) and search orders, an applicant must include in the affidavit prepared and filed in support of the application the following information under clearly defined headings:
 
 <ul type="*">
+
 <li>(a)	Reasons the application is taken out without notice, including whether the applicant believes that there is a risk of dissipation of assets, destruction of evidence or any other prejudicial conduct;</li>
 
 <li>(b)	Urgency of the application (if applicable), including whether there is any particular event that may trigger the dissipation of assets, destruction of evidence or any other prejudicial conduct;</li>
@@ -275,6 +295,7 @@ Where a claim in the General Division which may have initially exceeded $250,000
 <li>(f)	An undertaking to pay for losses that may be caused to the opponent or other persons by the granting of the orders sought, stating what assets are available to meet that undertaking and to whom the assets belong; and</li>
 
 <li>(g)	Any other material facts which the Court should be aware of.</li>
+
 </ul>
 
 (2)	Without limiting paragraph 44 of these Practice Directions, an applicant must prepare and file skeletal arguments on the points to be raised at the hearing of the application without notice. At the hearing, the applicant must give a copy of the skeletal arguments to the Court and to any opponent present.
@@ -286,9 +307,11 @@ Where a claim in the General Division which may have initially exceeded $250,000
 (1)	This paragraph applies to applications made under Order 11, Rule 11 of the Rules of Court 2021:
 
 <ul type="*">
+
 <li>(a)	by an owner or exclusive licensee of copyright material against a network service provider for information relating to the identity of a user of the network service provider’s primary network who is alleged to have infringed the copyright in the material in relation to an electronic copy of the material on, or accessible through, the network service provider’s primary network; or</li>
 
 <li>(b)	by the performer of a performance against a network service provider for information relating to the identity of a user of the network service provider’s primary network who is alleged to have made an unauthorised use of the performance in relation to an electronic recording of the material on, or accessible through, the network service provider’s primary network.</li>
+
 </ul>
 
 (2)	An application referred to in sub-paragraph (1) must be made in Form 15 (Originating Application) in Appendix A of these Practice Directions.
