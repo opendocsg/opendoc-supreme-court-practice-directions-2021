@@ -355,7 +355,7 @@ The Direction to the Accountant-General for Payment Out must be in Form 44(b) of
 
 <ul type="*">
 
-<li>(a)	<span style="text-decoration: underline">By electronic payment</span>: The party is to send his or her case details by email to the Finance Directorate of the Supreme Court at <a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg">SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>. The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Directorate.</li>
+<li>(a)	<span style="text-decoration: underline">By electronic payment</span>: The party is to send his or her case details by email to the Finance Directorate of the Supreme Court at <a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg" style="text-decoration:none;">SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>. The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Directorate.</li>
 
 <li>(b)	<span style="text-decoration: underline">By making payment at the Supreme Court</span>: The party will be required to complete a requisite form when he or she attends at the Supreme Court. The accepted payment modes are Cash, Cashier’s Order (made payable to “Registrar Supreme Court/AG”), NETS and credit card. Upon payment at the counter, a receipt will be issued to the party.</li>
 
@@ -371,9 +371,9 @@ The party must provide proof of such deposit when filing the appeal or applicati
 
 <ul type="*">
 
-<li>(a)	<a href="mailto:VITAL_FS_Receivable@vital.gov.sg">VITAL_FS_Receivable@vital.gov.sg</a>, if the monies were lodged with the Accountant-General; or</li>
+<li>(a)	<a href="mailto:VITAL_FS_Receivable@vital.gov.sg" style="text-decoration:none;">VITAL_FS_Receivable@vital.gov.sg</a>, if the monies were lodged with the Accountant-General; or</li>
 
-<li>(b)	<a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg">SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>, if the monies were deposited in the Registry.</li>
+<li>(b)	<a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg" style="text-decoration:none;">SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>, if the monies were deposited in the Registry.</li>
 
 </ul>
 
