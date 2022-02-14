@@ -15,50 +15,64 @@
 	<li>52. File inspection and obtaining hard copy extracts or certified true copies of documents</li>
 </ul>
 
-## 48. Application 
+## 48. Application
 
 The directions contained in this Part apply to proceedings that do not require the use of the Electronic Filing Service.
 
-## 49. Information to be provided in cause papers and documents that are filed in the Registry 
+## 49. Information to be provided in cause papers and documents that are filed in the Registry
 
 To facilitate the contacting of lawyers having conduct of an action or matter by members of the staff of the Supreme Court, the following information must be inserted on the cover sheet or the backing sheet of all cause papers and documents filed in the Registry in the format set out below.
-```
-(Name of lawyer(s) having conduct of action or charge of matter)
-(Name of law firm)
-(Address of law firm)
-Email: (Email address of lawyer / law firm)
-Tel: (Contact telephone number)
-Ref: (File reference of law firm)
-```
+
+<ul type="*">
+<ul type="*">
+
+<sub>(Name of lawyer(s) having conduct of action or charge of matter)<br>
+(Name of law firm)<br>
+(Address of law firm)<br>
+Email: (Email address of lawyer / law firm)<br>
+Tel: (Contact telephone number)<br>
+Ref: (File reference of law firm)</sub>
+
+</ul>
+</ul>
+
 The information is to be inserted as a block near the bottom of the cover sheet or near the bottom right hand corner of the backing sheet.
 
-## 50. Form of affidavits 
+## 50. Form of affidavits
 
 (1)	In addition to the requirements set out in paragraph 78 of these Practice Directions, affidavits must be:
+
 <ul type="*">
+
 <li>(a)	on A4-ISO paper of durable quality; and</li>
 
 <li>(b)	produced by printing or typewriting, and in any case not by carbon copying. A document produced by a photographic or similar process giving a positive and permanent representation free from blemishes will be treated, to the extent that it contains an exact copy of matter produced by either of the above processes, as if it were so produced. Photographic copies which are not clearly legible will be rejected.</li>
+
 </ul>
 
 ***Binding of affidavits***
 
 (2)	Affidavits of 30 pages or less (including exhibits and dividing and backing sheets) may be stapled firmly at the top left hand corner of the paper. Any affidavit (including exhibits, dividing and backing sheets) exceeding 30 pages must be bound with plastic ring binding or plastic spine thermal binding (the plastic rings or spines to be red for claimants/appellants, and blue for defendants/respondents) with a transparent plastic cover in front and at the back.
 
-## 51. Documentary exhibits to affidavits 
+## 51. Documentary exhibits to affidavits
 
 ***Dividing sheets***
 
 (1)	The dividing sheet that separates the documentary exhibits must be in a light colour other than white, marked, typed or stamped clearly with an exhibit mark and including the certificate of the commissioner for oaths required under Order 15, Rule 27(5) of the Rules of Court 2021 as follows:
 
-```
-“This is the exhibit marked [letter of the alphabet or a number] referred to in the affidavit of [name of the maker of the affidavit] and sworn/affirmed before me this [date on which the affidavit is affirmed]
+<ul type="*">
+<ul type="*">
 
-Before me,
+<sub>“This is the exhibit marked [letter of the alphabet or a number] referred to in the affidavit of [name of the maker of the affidavit] and sworn/affirmed before me this [date on which the affidavit is affirmed]</sub><br><br>
 
-(Signed)
-A Commissioner for Oaths”
-```
+<sub>Before me,</sub><br><br>
+
+<sub>(Signed)<br>
+A Commissioner for Oaths”</sub>
+
+</ul>
+</ul>
+
 ***More than 10 documentary exhibits***
 
 (2)	In addition to the requirements set out in paragraph 80 (except sub-paragraph (5) of that paragraph), when there are more than 10 distinct documentary exhibits in an affidavit, each exhibit must be flagged by means of a plastic tag, marked in accordance with the exhibit reference and such flags must run vertically down the right edge of the exhibits evenly spaced out so as not to overlap one another. Where a table of contents of the documentary exhibits is required, the table of contents itself must bear the top-most flag, marked “TABLE”.
