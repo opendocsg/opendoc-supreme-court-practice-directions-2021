@@ -325,26 +325,35 @@ Documents filed for proceedings before the General Division under section 55 of 
 (1)	This sub-paragraph sets out the manner of arranging appeal records.
 
 <ul type="*">
+
 <li>(a)	To facilitate cross-referencing, the record of appeal must be arranged in the following separate volumes:</li>
+
 <ul type="*">
+
 <li>(i) <strong>Volume I</strong> – A certified copy of the judgment or grounds of decision of the lower Court and the extracted order of the lower Court.</li>
 <li>(ii) <strong>Volume II</strong> – Notice of appeal, certificate of security for costs and pleadings (to include all originating processes).</li>
 <li>(iii) <strong>Volume III</strong> – Affidavits (in chronological order), and transcripts or notes of evidence and arguments.</li>
 <li>(iv) <strong>Volume IV</strong> – All such exhibits and documents as they were tendered in the lower Court, but which did not form an exhibit to any affidavit.</li>
 <li>(v) <strong>Volume V</strong> – The Agreed Bundle (if any) in its original physical form as it was tendered in the lower Court.</li>
+
 </ul>
+
 <li>(b)	Where there are no exhibits or documents referred to in sub-paragraph (1)(a)(iv) above, Volume IV need not be produced, and Volume V must be renumbered as Volume IV.</li>
 <li>(c)	To facilitate cross-referencing, any supplemental record of appeal must be arranged in the following manner in 1 volume:</li>
+
 <ul type="*">
+
 <li>(i)	the notice of appeal to the Court of Appeal;</li>
 <li>(ii) the certificate of payment of security for costs in respect of the appeal to the Court of Appeal;</li>
 <li>(iii) the written judgment or grounds of decision of the Appellate Division or, if there is no judgment or grounds of decision, the certified minute sheet of the Appellate Division;</li>
-<li>(iii) <strong>Volume III</strong> – Affidavits (in chronological order), and transcripts or notes of evidence and arguments.</li>
 <li>(iv) the order granting permission to appeal to the Court of Appeal;</li>
 <li>(v)	parties’ Cases filed in the Appellate Division; and</li>
 <li>(vi) all documents filed in the Appellate Division (so far as they are relevant to the matter decided and the nature of the appeal).</li>
+
 </ul>
+
 <li>(d)	If any volume should exceed 300 pages, then that volume must be sub-divided, at a convenient page, into sub-volumes designated as part thereof, for example, Volume III Part A, Volume III Part B and so on. Conversely, if any of the volumes (with the exception of Volumes I and II which must remain as separate volumes) should be less than 100 pages each, these may be amalgamated into combined volumes, each not exceeding 300 pages, and renumbered accordingly.</li>
+
 </ul>
 
 ***Pagination in soft copy***
@@ -467,7 +476,7 @@ are to be electronically filed by the relevant deadlines.
 
 (5)	If a party wishes to rely on a document which does not exist in the electronic case file, he must file the document together with the respective forms of appeal bundles. Further, a table of contents must be included for these documents. These documents must be paginated consecutively at the centre top of the page and the solicitor must ensure that the pagination takes into account the pages comprising the respective forms of appeal bundles and the table of contents for these additional documents. For example, if the form of the record of appeal is 5 pages and the table of contents for the additional documents is 2 pages, the first page of the first document should be paginated as page 8.
 
-(6)	In addition to the requirement for electronic filing (where applicable), parties are to comply with the directions contained in this paragraph for the provision of hard and soft copies to assist the Court unless otherwise directed.
+(6)	In addition to the requirement for electronic filing (where a pplicable), parties are to comply with the directions contained in this paragraph for the provision of hard and soft copies to assist the Court unless otherwise directed.
 
 ***Appeals under Order 18 of the Rules of Court 2021***
 
