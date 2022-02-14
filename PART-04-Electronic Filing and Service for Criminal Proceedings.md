@@ -19,8 +19,10 @@
 <li>(e)	40;</li>
 <li>(f)	41;</li>
 <li>(g)	42;</li>
-<li>(h)	43, save for the provision relating to fees; (i)	58(6);</li>
-<li>(j)	59(3)(b) and 59(3)(c); (k)	60(2) to 60(6);</li>
+<li>(h)	43, save for the provision relating to fees;
+<li>(i)	58(6);</li>
+<li>(j)	59(3)(b) and 59(3)(c);
+<li>(k)	60(2) to 60(6);</li>
 <li>(l)	78;</li>
 <li>(m)	86(8).</li>
 </ul>
