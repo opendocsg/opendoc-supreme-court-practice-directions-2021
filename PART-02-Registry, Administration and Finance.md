@@ -31,7 +31,7 @@
 	<li>21. Requests and other Correspondence</li>
 	<li>22. Requesting a hearing date through the Electronic Filing Service</li>
 	<li>23. Fixing of hearing dates</li>
-	<li>24. Adjournment or vacation of trial dates and part-heard cases</li> 
+	<li>24. Adjournment or vacation of trial dates and part-heard cases</li>
 	<li>25. Adjournment or vacation of hearings other than trials</li>
 	<li>26. Authorisation for collection of Court documents or mail</li>
 	<li>27. Electronic payment of Court fees</li>
@@ -73,9 +73,11 @@ The Chief Justice has directed that the General Division, the Appellate Division
 (1)	Selected hearings in the Supreme Court will be conducted by video conferencing or where appropriate, telephone conferencing. Where the Court issues directions for a hearing to be conducted by way of video conferencing or telephone conferencing:
 
 <ul type="*">
+
 <li>(a)	Solicitors may write to the Court to raise any concerns that they may have within 2 days after receiving notification of such directions; and</li>
 
 <li>(b)	A party who is not legally represented is strongly encouraged to use video conferencing or telephone conferencing, but may inform the Court if he or she does not wish to do so.</li>
+
 </ul>
 
 (2)	The Court retains full discretion to decide (a) whether to conduct any hearing by video conferencing or telephone conferencing, and (b) whether to conduct any hearing with one or more parties attending by video conferencing or telephone conferencing and any other party attending physically in Court.
@@ -95,15 +97,17 @@ The Chief Justice has directed that the General Division, the Appellate Division
 (4)	Where the Court makes directions under sub-paragraph (3) for the use of alternative means of producing transcripts:
 
 <ul type="*">
+
 <li>(a)	the transcript of the notes of proceedings will constitute the Court’s note of proceedings for the purposes of Order 15, Rule 11(7) of the Rules of Court 2021; and</li>
 
 <li>(b)	the parties must inform the Registry by letter at least 7 working days before the scheduled hearing as to the mode by which the proceedings will be recorded.</li>
+
 </ul>
 
 (5)	The costs of engaging a service provider must be paid by the parties directly to the service provider.
 
 (6)	Requests for certified transcripts of the official record of the hearing must be made by filing the requisite Request electronic form through the Electronic Filing Service at least 7 working days before the scheduled hearing.
- 
+
 (7)	Sub-paragraph (6) applies to both civil and criminal proceedings.
 
 ## 15. Certification of transcripts
@@ -111,11 +115,13 @@ The Chief Justice has directed that the General Division, the Appellate Division
 (1)	Pursuant to Order 15, Rule 11(10) of the Rules of Court 2021, the Registrar hereby directs that transcripts of the official record of the hearing may be certified by:
 
 <ul type="*">
+
 <li>(a)	the Judge or judicial officer having conduct of the proceedings;</li>
 
 <li>(b)	with the approval of the Court, the Manager or Personal Assistant, as the case may be, to the Judge or judicial officer having conduct of the proceedings; or</li>
 
 <li>(c)	with the approval of the Court, the service provider.</li>
+
 </ul>
 
 (2)	The costs of producing a certified transcript of the official record of the hearing may be claimed as an item of disbursement unless otherwise ordered by the Court.
@@ -143,11 +149,13 @@ The Chief Justice has directed that the General Division, the Appellate Division
 (9)	Engagement of private interpreters (i.e., interpreters not from the Supreme Court’s Interpreters Section):
 
 <ul type="*">
+
 <li>(a)	To avoid doubt, a party may engage the services of a private interpreter for interpretation services in respect of the languages listed in Form 1 of Appendix B of these Practice Directions.</li>
 
 <li>(b)	If a party requires the services of an interpreter in a language apart from those listed in Form 1 of Appendix B of these Practice Directions, it is the duty of the party to engage such an interpreter directly to obtain his or her services for the scheduled hearing.</li>
 
 <li>(c)	Interpreters who are not from the Supreme Court's Interpreters Section must be sworn in before the Duty Registrar before they may provide interpretation services for proceedings in Court.</li>
+
 </ul>
 
 (10)	Requests for translation of documents in Chinese, Malay or Tamil for use in Supreme Court proceedings must be filed through the Electronic Filing Service at least 4 weeks before the date the translations are required. Failure to comply with the directions set out in this sub- paragraph may result in translations not being available or provided by the date they are required.
@@ -156,7 +164,7 @@ The Chief Justice has directed that the General Division, the Appellate Division
 
 (12)	A party who is not legally represented may submit his or her request for interpretation services or translation of documents for Supreme Court proceedings using the respective forms available on the Singapore Courts website at [http://www.judiciary.gov.sg](http://www.judiciary.gov.sg).
 
-## 17. Access to case file, inspection, taking copies and searches 
+## 17. Access to case file, inspection, taking copies and searches
 
 ***Access by parties to a case file***
 
@@ -173,18 +181,22 @@ The Chief Justice has directed that the General Division, the Appellate Division
 (5)	In order to inspect a case file, the following procedure should be followed:
 
 <ul type="*">
+
 <li>(a)	A Request should be made to obtain permission to inspect the file. The Request should state the name of the person who is to carry out the search or inspection. If this person is not a solicitor, his or her identification and contact details should also be included in the Request, and his or her identification document (including physical or digital identity card) should be produced for verification when requested. The Request should also state the interest that the applicant has in the matter, and the reason for the search or inspection. If the search or inspection is requested for the purpose of ascertaining information for use in a separate suit or matter, the Request should clearly state the nature of the information sought and the relevance of such information to the separate suit or matter.</li>
 
 <li>(b)	Once approval for inspection has been received from the Court,</li>
+
 <ul type="*">
+
 <li>(i)	registered users can inspect the case file online through the Electronic Filing Service; and</li>
 
 <li>(ii)	parties who are not registered users can inspect the case file by presenting a copy of the approval at the service bureau. After verifying the approval, the service bureau will assign the inspecting party a personal computer for the inspection to be carried out. An inspecting party will usually be allowed 60 minutes to carry out the inspection. If a longer period is required, the service bureau may impose a charge for use of the computer. The service bureau may impose additional charges for downloading soft copies or printing hard copies of documents from the case file being inspected.</li>
+
 </ul>
 </ul>
 
 (6)	Solicitors must communicate to the Registrar in writing the names of their employees who have their authority to make searches and inspections. Such authority may be in respect of a specific search or inspection or for a specified period.
- 
+
 (7)	All copies of documents taken in the course of inspection should not be used for purposes other than those stated in the Request to inspect. Solicitors are responsible for informing their clients of this. To avoid doubt, a non-party that has obtained approval to inspect a case file may take and retain a soft copy of any document that is available for inspection.
 
 ***Obtaining certified true copies of documents***
@@ -194,11 +206,13 @@ The Chief Justice has directed that the General Division, the Appellate Division
 (9)	Applications to obtain certified true copies of documents should be made by way of filing a Request through the Electronic Filing Service.
 
 <ul type="*">
+
 <li>(a)	The intended use of the certified true copies should be clearly stated in the Request. The relevance and necessity of the certified true copies in relation to their intended use should also be clearly described.</li>
 
 <li>(b)	The applicant will be informed of the outcome to his or her Request and the fees payable for the provision of the certified true copies if the Request is approved. Upon confirmation of the receipt of payment of the fees payable, the certified true copies will be released to the applicant. The Registry may require verification of the identity of the applicant against his or her identification document (including physical or digital identity card) prior to the release of the certified true copies.</li>
 
 <li>(c)	The fees prescribed by the Fourth Schedule to the Rules of Court 2021 will be payable for the provision of the above service.</li>
+
 </ul>
 
 ***Electronic cause books and registers maintained by the Registry***
@@ -206,13 +220,15 @@ The Chief Justice has directed that the General Division, the Appellate Division
 (10)	For the purposes of Order 26, Rule 3(1) of the Rules of Court 2021, the Registry must maintain the following Court records:
 
 <ul type="*">
+
 <li>(a)	details of all originating processes, including:</li>
 
 <ul type="*">
+
 <li>(i)	details of interlocutory applications filed in the originating processes;</li>
 
 <li>(ii)	details of appeals filed in the originating processes;</li>
- 
+
 <li>(iii)	details of admiralty proceedings;</li>
 
 <li>(iv)	details of caveats filed against arrest of vessels;</li>
@@ -222,6 +238,7 @@ The Chief Justice has directed that the General Division, the Appellate Division
 <li>(vi)	details of bankruptcy proceedings; and</li>
 
 <li>(vii)	details of winding up proceedings against companies and limited liability partnerships;</li>
+
 </ul>
 
 <li>(b)	details of enforcement orders, writs of distress and warrants of arrest;</li>
@@ -229,7 +246,9 @@ The Chief Justice has directed that the General Division, the Appellate Division
 <li>(c)	details of appeals filed in the Court of Appeal, appeals filed in the Appellate Division and appeals filed in the General Division; and</li>
 
 <li>(d)	any other information as may from time to time be found necessary.</li>
+
 </ul>
+
 (11)	Searches for any Court records mentioned in sub-paragraph (10) may be conducted through the Electronic Filing Service at a service bureau or at the Registry. The fees prescribed by the Fourth Schedule to the Rules of Court 2021 will be payable for such searches.
 
 (12)	An application may be made by any person for a licence to use any information contained in any electronic cause book or register subject to such terms and conditions as the Registrar may determine. Successful applicants will be required to enter into separate technical services agreements with the Electronic Filing Service provider. Applications under this sub-paragraph must be made in writing, identifying the data fields sought and providing details of how the information will be used.
@@ -239,9 +258,11 @@ The Chief Justice has directed that the General Division, the Appellate Division
 (1)	For the purposes of the following paragraphs:
 
 <ul type="*">
+
 <li>(a)	“personal data” has the same meaning as defined in the Personal Data Protection Act 2012; and</li>
- 
+
 <li>(b)	“data subject” means a person whose personal data appears in any document filed in the Registry or an electronic cause book or register maintained by the Registry.</li>
+
 </ul>
 
 ***Consent to collection, use or disclosure of personal data***
@@ -263,15 +284,19 @@ The Chief Justice has directed that the General Division, the Appellate Division
 (7)	**Contained in electronic cause books and registers maintained by the Registry.** A data subject who wishes to correct any error or omission of his or her personal data in any electronic cause book or register maintained by the Registry must comply with the following procedure:
 
 <ul type="*">
+
 <li>(a)	The request to correct the error or omission must be made in writing by the data subject or by his or her solicitor, together with the reason for the requested correction. The request must clearly identify the record and the personal data to be corrected;</li>
 
 <li>(b)	If the data subject is not represented, his or her identification and contact details should also be included in the request, and his or her identification document (including physical or digital identity card) should be produced for verification when requested; and</li>
 
 <li>(c)	The following documents should accompany the request:</li>
+
 <ul type="*">
+
 <li>(i)	recent copy of the record identifying the error or omission; and</li>
 
 <li>(ii)	supporting document(s) to substantiate the proposed correction.</li>
+
 </ul>
 </ul>
 
@@ -286,11 +311,15 @@ The Chief Justice has directed that the General Division, the Appellate Division
 (3)	The Registry will not accept a document named as a deed of revocation if the deed only seeks to partially revoke the powers created in a document.
 
 (4)	Where the document creating a power of attorney is executed by a corporation and the corporation does not have a common seal, an affidavit in support of an application to deposit the document in the Registry under Order 26, Rule 4(1) of the Rules of Court 2021 should be filed on behalf of the corporation:
+
 <ul type="*">
+
 <li>(a)	to affirm the requirements for a valid execution of the power of attorney in accordance with the laws and practices of the corporation’s country of incorporation; and</li>
 
 <li>(b)	to satisfy the Court that the requirements have been complied with.</li>
+
 </ul>
+
 (5)	A party may rely on the same affidavit in a subsequent filing of separate documents on behalf of the same corporation by indicating on the top right hand corner of the document the following statement: “Reference is made to affidavit of [name] filed on [date] in PA No.
 (xxxxxx) of (xxxx).”
 
@@ -303,41 +332,51 @@ The Chief Justice has directed that the General Division, the Appellate Division
 (2)	Where monies are to be paid out of Court, a copy of the following document (as the case may be) must be attached to the draft Direction to Accountant-General for Payment Out and filed into the case file via the Electronic Filing Service for approval by the Court:
 
 <ul type="*">
+
 <li>(a)	a copy of the judgment or order of court; or</li>
 
 <li>(b)	the Notice of Acceptance of Money Paid into Court in Form 28 of Appendix A of these Practice Directions.</li>
+
 </ul>
+
 The Direction to the Accountant-General for Payment Out must be in Form 44(b) of Appendix A of these Practice Directions.
 
 (3)	Each draft Direction to Accountant-General for Payment In or Payment Out must contain amounts in a single currency. Where monies in different currencies are to be paid into or out of Court, separate draft Directions must be prepared for each currency in which payment is to be made.
 
 **Direction to Accountant-General for Payment In or Payment Out**
 
-(4)	Where the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the relevant judgment or order of court to VITAL by email to <VITAL_FS_Receivable@vital.gov.sg>. Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
+(4)	Where the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the relevant judgment or order of court to VITAL by email to VITAL_FS_Receivable@vital.gov.sg. Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
 
-(5)	Where the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the relevant judgment or order of court to VITAL by email to <VITAL_FS_Receivable@vital.gov.sg>. Upon successful receipt of the documents, VITAL will provide instructions on the process for the release of the monies.
- 
+(5)	Where the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the relevant judgment or order of court to VITAL by email to VITAL_FS_Receivable@vital.gov.sg. Upon successful receipt of the documents, VITAL will provide instructions on the process for the release of the monies.
+
 **Furnishing security for costs by depositing monies in the Registry**
 
 (6)	Where a party wishes to furnish security for costs for an appeal or an application filed in the Supreme Court by depositing monies in the Registry, he or she must deposit the monies in one of the following manners:
+
 <ul type="*">
+
 <li>(a)	<span style="text-decoration: underline">By electronic payment</span>: The party is to send his or her case details by email to the Finance Directorate of the Supreme Court at <a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg">SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>. The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Directorate.</li>
 
 <li>(b)	<span style="text-decoration: underline">By making payment at the Supreme Court</span>: The party will be required to complete a requisite form when he or she attends at the Supreme Court. The accepted payment modes are Cash, Cashier’s Order (made payable to “Registrar Supreme Court/AG”), NETS and credit card. Upon payment at the counter, a receipt will be issued to the party.</li>
+
 </ul>
-The party must provide proof of such deposit when filing the appeal or application.  
+
+The party must provide proof of such deposit when filing the appeal or application.
 
 (7)	Where security for costs is to be paid out to any party pursuant to the Rules of Court 2021 or an order or direction of the Court, the party entitled to payment of the security may write to the Registry to request payment out. Once the request for payment out is approved by the Registry, the party entitled to the payment must send a copy of the Registry’s approval to the	Finance	Directorate	of	the	Supreme	Court	at <SUPCOURT_FIN_Revenue@supcourt.gov.sg>. The Finance Directorate of the Supreme Court will provide instructions on the documents to be furnished to process the release of the monies.
 
 ***Request for information on balance of monies paid into Court or deposited in the Registry***
 
 (8)	Where a party wishes to request information on the balance of monies paid into Court or deposited in the Registry, the party or his or her solicitors may send the request, accompanied by the case details and reasons for the request, by email to:
+
 <ul type="*">
+
 <li>(a)	<a href="mailto:VITAL_FS_Receivable@vital.gov.sg">VITAL_FS_Receivable@vital.gov.sg</a>, if the monies were lodged with the Accountant-General; or</li>
- 
+
 <li>(b)	<a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg">SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>, if the monies were deposited in the Registry.</li>
+
 </ul>
- 
+
 ## 21. Requests and other Correspondence
 
 (1)	All Requests relating to or in connection with any pending cause or matter are to be made using the electronic forms available through the Electronic Filing Service. Where an electronic form is available through the Electronic Filing Service for the Request that is sought, the Registry has the discretion to refuse acceptance of other forms of written correspondence (including letters) and to refuse to act on such correspondence.
@@ -347,16 +386,21 @@ The party must provide proof of such deposit when filing the appeal or applicati
 (3)	Apart from Requests coming within sub-paragraph (1), all correspondence relating to or in connection with any cause or matter before the Court of Appeal, the Appellate Division, the General Division or a Judge must be addressed to the Registrar.
 
 (4)	In addition, all letters should be captioned with the number of the case to which they relate and the names of the parties. For example:
-```
-SUIT NO. 1 OF 2021 (if an action begun by originating claim);
 
+<ul type="*">
 
-Between AB (and ANOR or ORS, if there are 2 or more claimants, as the case may be) and CD (and ANOR or ORS, if there are 2 or more defendants, as the case may be)
-```
-If the letter relates to an interlocutory application, the reference number of that application should be stated in the caption below the parties’ names. For example:
-```
-SUMMONS NO. 1 OF 2021
-```
+<li><strong>SUIT NO. 1 OF 2021 </strong>(if an action begun by originating claim);<br><br><br>
+<strong>Between AB</strong> (and <strong>ANOR</strong> or <strong>ORS</strong>, if there are 2 or more claimants, as the case may be) <strong>and CD</strong> (and <strong>ANOR</strong> or <strong>ORS</strong>, if there are 2 or more defendants, as the case may be)</li>
+
+</ul>
+
+If the letter relates to an interlocutory application, the reference number of that application <strong>should be stated in the caption below the parties’ names. For example:</strong>
+
+<ul type="*">
+
+<li><strong><em>SUMMONS NO. 1 OF 2021</em></strong></li>
+
+</ul>
 
 (5)	Compliance with the directions in this paragraph will facilitate the expeditious processing of the request.
 
@@ -369,13 +413,17 @@ SUMMONS NO. 1 OF 2021
 ## 22. Requesting a hearing date through the Electronic Filing Service
 
 (1)	When filing applications through the Electronic Filing Service, solicitors may be permitted to make a request for a preferred hearing date for the following classes of applications:
+
 <ul type="*">
+
 <li>(a)	interlocutory applications to be heard before Registrars;</li>
 
 <li>(b)	bankruptcy applications; and</li>
 
 <li>(c)	winding up applications.</li>
+
 </ul>
+
 (2)	Solicitors should confer with all parties to the application before selecting a preferred hearing date. Counsel arguing the application for all parties should be available to attend the hearing on the date selected.
 
 (3)	In the event that it is not possible to confer with opposing counsel on a preferred hearing date, whether due to the nature or urgency of the application or otherwise, solicitors must select a date where counsel arguing the application for the applicant will be available.
@@ -390,12 +438,12 @@ SUMMONS NO. 1 OF 2021
 
 (4)	Further, parties are to note that any request for an early hearing date for any application, cause or matter is subject to the discretion and availability of the Court. In deciding when to fix an application, cause or matter for hearing or render its decision in any application, cause or matter, the Court is not obliged to give effect to any private agreement between parties on timelines and hearing dates.
 
-## 24. Adjournment or vacation of trial dates and part-heard cases 
+## 24. Adjournment or vacation of trial dates and part-heard cases
 
 (1)	Where dates have been fixed for the trial of any cause or matter, any request for an adjournment or vacation of the trial dates must be made to the Court by way of summons with a supporting affidavit, even in those cases where there is consent to the adjournment or vacation of the trial dates.
 
 (2)	Subject to any directions of the Court, when a case is adjourned, the Registrar will assign such days as are available for the hearing of the case, and counsel will be expected to take the dates at short notice.
- 
+
 (3)	In the event that the hearing of a case is not concluded within the number of days allotted, the Court may direct the hearing of the case to continue beyond the allotted time, rather than adjourning the case part-heard to another date. Counsel for parties in all cases should therefore be prepared to continue with the hearing of the matter despite the fact that the time originally allotted may have expired.
 
 ## 25. Adjournment or vacation of hearings other than trials
@@ -445,7 +493,7 @@ SUMMONS NO. 1 OF 2021
 (1)	The video conference facilities and the Mobile Infocomm Technology Facilities (“MIT facilities”) may, at the discretion of the Registrar, be used:
 <ul type="*">
 <li>(a)	for the hearing of any matter, whether before a Judge or Registrar, in open court or in chambers; or</li>
- 
+
 <li>(b)	for any other dispute resolution process.</li>
 </ul>
 (2)	The Registrar may refuse any request for the use of any of the services described in this Part at any time owing to the unavailability of staff or equipment or for any other reason. The Registrar need not give any reasons for the refusal of such a request.
