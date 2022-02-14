@@ -867,11 +867,11 @@ SGHCR – Singapore High Court Registrar (before 2 January 2021) or Singapore Hi
 
 <strong>EXAMPLE AND EXPLANATION</strong><br><br>
 
-<sub>ABC Co Pte Ltd v XYZ Co Ltd [2021] SGCA 5, at [3], [8]<br>
-Year of the decision : 2021<br>
-Level of Court	: SGCA (Singapore Court of Appeal)<br>
-Sequential Number : 5 (fifth written judgment rendered by the Court of Appeal in 2021)<br>
-Paragraph Number(s): Paragraphs 3 and 8 of the judgment</sub>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;ABC Co Pte Ltd v XYZ Co Ltd [2021] SGCA 5, at [3], [8]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Year of the decision : 2021<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Level of Court	: SGCA (Singapore Court of Appeal)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Sequential Number : 5 (fifth written judgment rendered by the Court of Appeal in 2021)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Paragraph Number(s): Paragraphs 3 and 8 of the judgment</sub>
 
 </ul>
 
