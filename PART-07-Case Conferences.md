@@ -50,7 +50,7 @@
 
 (8)	Prior to the RCC where the issue of expert evidence (if any) is discussed, the parties are to fill in an Expert Witness Template in Form 7 of Appendix B of these Practice Directions.
 
-(9)	The Expert Witness Template requires the parties to provide information such as the general information pertaining to the proposed expert(s), the list of issues to be referred to the proposed expert(s)', the proposed timelines for the proposed expert(s) to render his or her opinion, and the proposed duration for the expert(s) evidence at trial.
+(9)	The Expert Witness Template requires the parties to provide information such as the general information pertaining to the proposed expert(s), the list of issues to be referred to the proposed expert(s), the proposed timelines for the proposed expert(s) to render his or her opinion, and the proposed duration for the expert(s)' evidence at trial.
 
 ***Position on an order under Order 9, Rule 8(1) of the Rules of Court 2021***
 
