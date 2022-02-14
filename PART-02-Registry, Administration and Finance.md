@@ -505,20 +505,24 @@ If the letter relates to an interlocutory application, the reference number of t
 (2)	An application to use the video conference facilities for any other dispute resolution process must be made by submitting Form 2 of Appendix B of these Practice Directions to the Registrar, through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out, at least 14 working days before the dispute resolution proceedings at which it is to be used.
 
 (3)	Upon a successful request to use the video conference facilities,
+
 <ul type="*">
+
 <li>(a)	prior arrangements for equipment testing have to be made at least 5 working days before the first day fixed for the hearing, in order to ensure equipment compatibility;</li>
 
 <li>(b)	applicants will be informed of the number for video conferencing during the testing session; and</li>
 
 <li>(c)	as a matter of general practice, the remote site will connect to the number and it is the responsibility of the party requesting the video conference to coordinate the booking and calling in from the remote site.</li>
+
 </ul>
+
 (4)	Any person who desires to use audio-visual and computer equipment additional to those provided in a courtroom will be asked to provide details of such equipment. The applicant must also be prepared to have the equipment available for testing with the audio-visual system of the courtroom at least 3 working days before the first day fixed for the hearing. It is the responsibility of the applicant to provide equipment that is compatible with the audio-visual system of the courtroom.
 
 ## 30. Applications to use the Mobile Infocomm Technology Facilities
 
 (1)	A request to use the MIT facilities for the hearing of any matter in open court or in chambers before a Judge or Registrar must be made by filing a Request electronic form in the manner and form set out in Form 2 of Appendix B of these Practice Directions through the Electronic Filing Service at least 14 working days before the hearing at which the MIT facilities are to be used.
 
-(2)	An application to use the MIT facilities for any other dispute resolution process must be made by submitting Form 2 of Appendix B of these Practice Directions to the Registrar, through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out as soon as practicable, as availability of the resources is on a first-come- first served basis.
+(2)	An application to use the MIT facilities for any other dispute resolution process must be made by submitting Form 2 of Appendix B of these Practice Directions to the Registrar, through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out as soon as practicable, as availability of the resources is on a first-come-first served basis.
 
 (3)	MIT facilities are available for use in both open court and in chambers.
 
