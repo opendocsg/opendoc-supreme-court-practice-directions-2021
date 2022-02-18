@@ -389,7 +389,7 @@ The Chief Justice has directed that the following forms of address apply:
 <li>(b)	the witnesses to be examined, cross-examined or re-examined by each counsel, or the portions of their evidence for which each counsel will conduct the examination, cross-examination or re-examination.</li>
 </ul>
 
-Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions, or having conduct of any portion of the examination, cross- examination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them.
+Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions, or having conduct of any portion of the examination, cross-examination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them.
 
 (3)	If permission has been granted in accordance with sub-paragraph (2), counsel should ensure that he or she confines himself or herself to the issues or portions of evidence in respect of which permission was granted and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party. Further, counsel must not repeat, clarify or expand on any submissions that have been made by another counsel for the same party, or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.
 
