@@ -522,7 +522,7 @@ If the letter relates to an interlocutory application, the reference number of t
 
 (1)	A request to use the MIT facilities for the hearing of any matter in open court or in chambers before a Judge or Registrar must be made by filing a Request electronic form in the manner and form set out in Form 2 of Appendix B of these Practice Directions through the Electronic Filing Service at least 14 working days before the hearing at which the MIT facilities are to be used.
 
-(2)	An application to use the MIT facilities for any other dispute resolution process must be made by submitting Form 2 of Appendix B of these Practice Directions to the Registrar, through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out as soon as practicable, as availability of the resources is on a first-come-first served basis.
+(2)	An application to use the MIT facilities for any other dispute resolution process must be made by submitting Form 2 of Appendix B of these Practice Directions to the Registrar, through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out as soon as practicable, as availability of the resources is on a first-come,first-served basis.
 
 (3)	MIT facilities are available for use in both open court and in chambers.
 
