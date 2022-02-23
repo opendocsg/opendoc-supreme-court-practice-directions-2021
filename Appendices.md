@@ -594,7 +594,7 @@
   </tr>
   <tr>
     <td>45.</td>
-    <td><a href="./downloads/Appendix_B/Appendix B_Form_45.pdf" download>Information Sheet to be exhibited in an Affidavit in support of an Application for Permission under s 394H of the Criminal Procedure Code</a></td>
+    <td><a href="./downloads/Appendix_B/Appendix B_Form_45.pdf" download>Information Sheet to be exhibited in an Affidavit in support of an Application for Permission under s Section 394H of the Criminal Procedure Code</a></td>
   </tr>
 </tbody>
 </table>
@@ -610,9 +610,9 @@
 
 ## Appendix E: Sample Bills of Costs
 
-<a href="./downloads/Appendix_E/Appendix E_E1.pdf" download>1. Sample Bill of Costs for Contentious Matters – Trials</a><br>
-<a href="./downloads/Appendix_E/Appendix E_E2.pdf" download>2. Sample Bill of Costs for Contentious Matters Other Than Trials</a><br>
-<a href="./downloads/Appendix_E/Appendix E_E3.pdf" download>3. Sample Bill of Costs for Non-Contentious Matters</a><br>
+<a href="./downloads/Appendix_E/Appendix E_E1.pdf" download>E1. Sample Bill of Costs for Contentious Matters – Trials</a><br>
+<a href="./downloads/Appendix_E/Appendix E_E2.pdf" download>E2. Sample Bill of Costs for Contentious Matters Other Than Trials</a><br>
+<a href="./downloads/Appendix_E/Appendix E_E3.pdf" download>E3. Sample Bill of Costs for Non-Contentious Matters</a><br>
 
 ## Appendix F: Sample Costs Schedule
 
