@@ -594,7 +594,7 @@
   </tr>
   <tr>
     <td>45.</td>
-    <td><a href="./downloads/Appendix_B/Appendix B_Form_45.pdf" download>Information Sheet to be exhibited in an Affidavit in support of an Application for Permission under s Section 394H of the Criminal Procedure Code</a></td>
+    <td><a href="./downloads/Appendix_B/Appendix B_Form_45.pdf" download>Information Sheet to be exhibited in an Affidavit in support of an Application for Permission under Section 394H of the Criminal Procedure Code</a></td>
   </tr>
 </tbody>
 </table>
