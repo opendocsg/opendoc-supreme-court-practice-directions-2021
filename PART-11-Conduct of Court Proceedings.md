@@ -289,7 +289,7 @@ is required to attend Court and wishes to absent himself or herself from Court o
 
 <li>(b)	if one or more Judges hear the proceedings in a courtroom, unless the Court otherwise directs, every advocate and solicitor in the proceedings will wear the usual attire for open court proceedings;</li>
 
-<li>(c)	if the Judge conduct proceedings through the live video link or live television link, and the parties attend the proceedings in the courtroom, unless the Court otherwise directs, every advocate and solicitors in the proceedings will wear the usual attire for open court proceedings.</li>
+<li>(c)	if the Judge conducts proceedings through the live video link or live television link, and the parties attend the proceedings in the courtroom, unless the Court otherwise directs, every advocate and solicitors in the proceedings will wear the usual attire for open court proceedings.</li>
 </ul>
 
 (4)	When appearing before the Judge or Registrar in chambers, the attire for an advocate and solicitor will be the same as for open court, except that a gown need not be worn.
