@@ -617,31 +617,27 @@
 
 ## Appendix C: Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars
 
-<a href="./downloads/Appendix_C/Appendix C.pdf" download>Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars</a>
+<a href="./downloads/Appendix_C/SUPCT_new PDs (Appendix C).pdf" download>Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars</a>
 
 
 ## Appendix D: Guidelines for Advocates and Solicitors Advising Clients about ADR
 
-<a href="./downloads/Appendix_D/Appendix D.pdf" download>Guidelines for Advocates and Solicitors Advising Clients about ADR</a>
+<a href="./downloads/Appendix_D/SUPCT_new PDs (Appendix D).pdf" download>Guidelines for Advocates and Solicitors Advising Clients about ADR</a>
 
 ## Appendix E: Sample Bills of Costs
 
-<a href="./downloads/Appendix_E/Appendix E_E1.pdf" download>1. Sample Bill of Costs for Contentious Matters – Trials</a><br>
-<a href="./downloads/Appendix_E/Appendix E_E2.pdf" download>2. Sample Bill of Costs for Contentious Matters Other Than Trials</a><br>
-<a href="./downloads/Appendix_E/Appendix E_E3.pdf" download>3. Sample Bill of Costs for Non-Contentious Matters</a><br>
+<a href="./downloads/Appendix_E/SUPCT_new PDs (Appendix E1).pdf" download>1. Sample Bill of Costs for Contentious Matters – Trials</a><br>
+<a href="./downloads/Appendix_E/SUPCT_new PDs (Appendix E2).pdf" download>2. Sample Bill of Costs for Contentious Matters Other Than Trials</a><br>
+<a href="./downloads/Appendix_E/SUPCT_new PDs (Appendix E3).pdf" download>3. Sample Bill of Costs for Non-Contentious Matters</a><br>
 
 ## Appendix F: Sample Costs Schedule
 
-<a href="./downloads/Appendix_F/Appendix F.pdf" download>Appendix F</a><br>
+<a href="./downloads/Appendix_F/SUPCT_new PDs (Appendix F).pdf" download>Appendix F</a><br>
 
 ## Appendix G: Guidelines for Party-and-Party Costs Awards in the Supreme Court of Singapore
 
-<a href="./downloads/Appendix_G/Appendix G_G1.pdf" download>1. Use of the Costs Guidelines</a><br>
-<a href="./downloads/Appendix_G/Appendix G_G2.pdf" download>2. Costs Guidelines for Summonses</a><br>
-<a href="./downloads/Appendix_G/Appendix G_G3.pdf" download>3. Costs Guidelines for Trials (including Assessments of Damages)</a><br>
-<a href="./downloads/Appendix_G/Appendix G_G4.pdf" download>4. Costs Guidelines for Originating Applications</a><br>
-<a href="./downloads/Appendix_G/Appendix G_G5.pdf" download>5. Costs Guidelines for Appeals</a>
+<a href="./downloads/Appendix_G/SUPCT_new PDs (Appendix G).pdf" download>Appendix G</a><br>
 
 ## Appendix H: Protocol for Medical Negligence Cases in the General Division of the High Court
 
-<a href="./downloads/Appendix_H/Appendix H.pdf" download>PROTOCOL FOR MEDICAL NEGLIGENCE CASES IN THE GENERAL DIVISION OF THE HIGH COURT</a>
+<a href="./downloads/Appendix_H/SUPCT_new PDs (Appendix H).pdf" download>PROTOCOL FOR MEDICAL NEGLIGENCE CASES IN THE GENERAL DIVISION OF THE HIGH COURT</a>
