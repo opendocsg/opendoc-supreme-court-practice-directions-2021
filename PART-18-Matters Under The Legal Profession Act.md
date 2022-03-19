@@ -42,7 +42,7 @@ Section 32(3) of the Legal Profession Act allows “part-call” applications to
 
 ## 158. Electronic applications for practising certificate
 
-(1)	Subject to section 26 of the Legal Profession Act, section 25 of the same requires all practising solicitors to have in force a valid Practising Certificate issued by the Registrar, before he or she does any act in the capacity of an advocate and solicitor. Unless otherwise directed, all applications for practising certificates must be made only through the Practising Certificate Module (PC Module) of the Integrated Electronic Litigation System (eLitigation) according to the procedures set out on the eLitigation website at [http://www.elitigation.sg](http://www.elitigation.sg).
+(1)	Subject to section 26 of the Legal Profession Act, section 25 of the same requires all practising solicitors to have in force a valid Practising Certificate issued by the Registrar, before he or she does any act in the capacity of an advocate and solicitor. Unless otherwise directed, all applications for practising certificates must be made only through the Practising Certificate Module (PC Module) of the Integrated Electronic Litigation System (eLitigation) according to the procedures set out on the eLitigation website at [https://www.elitigation.sg](https://www.elitigation.sg).
 
 (2)	Solicitors who do not have access to eLitigation may file an application through the service bureau. Payment for applications made through the service bureau must be made by way of NETS, cashier’s order, cash or a law firm issued cheque.
 
