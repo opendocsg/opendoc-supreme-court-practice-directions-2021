@@ -162,7 +162,7 @@ The Chief Justice has directed that the General Division, the Appellate Division
 
 (11)	In the event that the Supreme Court’s Interpreters Section is unable to accept a translation request, parties and counsel should approach a private translation service instead.
 
-(12)	A party who is not legally represented may submit his or her request for interpretation services or translation of documents for Supreme Court proceedings using the respective forms available on the Singapore Courts website at [http://www.judiciary.gov.sg](http://www.judiciary.gov.sg).
+(12)	A party who is not legally represented may submit his or her request for interpretation services or translation of documents for Supreme Court proceedings using the respective forms available on the Singapore Courts website at [https://www.judiciary.gov.sg](https://www.judiciary.gov.sg).
 
 ## 17. Access to case file, inspection, taking copies and searches
 
@@ -201,7 +201,7 @@ The Chief Justice has directed that the General Division, the Appellate Division
 
 ***Obtaining certified true copies of documents***
 
-(8)	Users are encouraged to use the Authentic Court Order system to validate orders of court issued after 2 January 2020 by going to [http://www.courtorders.gov.sg](http://www.courtorders.gov.sg). However, certified true copies of orders of court will still be available upon application.
+(8)	Users are encouraged to use the Authentic Court Order system to validate orders of court issued after 2 January 2020 by going to [https://www.courtorders.gov.sg](https://www.courtorders.gov.sg). However, certified true copies of orders of court will still be available upon application.
 
 (9)	Applications to obtain certified true copies of documents should be made by way of filing a Request through the Electronic Filing Service.
 
