@@ -37,7 +37,7 @@
 <li>(e)	if the ship is in a shipyard — the shipyard.</li>
 </ul>
 
-(6)	For the purposes of Order 33, Rules 11(3)(a) and (4)(a)(ii) of the Rules of Court 2021, the claimant must annex a copy of the results of a search on the ship conducted on the Maritime and Port Authority of Singapore website at [http://digitalport.mpa.gov.sg](http://digitalport.mpa.gov.sg) showing:
+(6)	For the purposes of Order 33, Rules 11(3)(a) and (4)(a)(ii) of the Rules of Court 2021, the claimant must annex a copy of the results of a search on the ship conducted on the Maritime and Port Authority of Singapore website at [https://digitalport.mpa.gov.sg](https://digitalport.mpa.gov.sg) showing:
 
 <ul type="*">
 <li>(a)	the identity of the agent of the ship; and</li>
@@ -53,11 +53,11 @@
 
 ## 148. Form of undertaking
 
-In order to ensure that there is no undue delay in the issuance and execution of warrants of arrest and release as well as commissions for appraisement and sale, solicitors are requested to prepare the undertaking in the manner and form set out in Form 43 of Appendix B of these Practice Directions.
+In order to ensure that there is no undue delay in the issuance and execution of warrants of arrest and release as well as commissions for appraisement and sale, solicitors are requested to prepare the undertaking in the manner and form set out in Form B43 of Appendix B of these Practice Directions.
 
 ## 149. Release of vessel lying under arrest
 
-(1)	If the arresting party requires the Sheriff to attend at the port in which a vessel is lying under arrest for the purposes of releasing the vessel from arrest, whether during or after office hours, he or she must do so by filing the Request for Attendance of the Sheriff in Form 35 of Appendix B of these Practice Directions through the Electronic Filing Service. A Request for Attendance of the Sheriff made in any other manner will not be acceded to.
+(1)	If the arresting party requires the Sheriff to attend at the port in which a vessel is lying under arrest for the purposes of releasing the vessel from arrest, whether during or after office hours, he or she must do so by filing the Request for Attendance of the Sheriff in Form B35 of Appendix B of these Practice Directions through the Electronic Filing Service. A Request for Attendance of the Sheriff made in any other manner will not be acceded to.
 
 (2)	The fees prescribed by the Fourth Schedule to the Rules of Court 2021 will be payable in respect of any attendance by the Sheriff.
 
@@ -98,4 +98,4 @@ Order 33, Rule 27(2) of the Rules of Court 2021 provides that the party by whom 
 
 (2)	The Court appointed appraiser(s) must be named in Form 58 of Appendix A of these Practice Directions.
 
-(3)	The list of appraisers referred to in sub-paragraph (1) may be found on the Singapore Courts website at [http://www.judiciary.gov.sg/services/sheriff-sales-services/sheriff's-sales](http://www.judiciary.gov.sg/services/sheriff-sales-services/sheriff's-sales) or will be provided by the Registry upon request.
+(3)	The list of appraisers referred to in sub-paragraph (1) may be found on the Singapore Courts website at [https://www.judiciary.gov.sg/services/sheriff-sales-services/sheriff's-sales](https://www.judiciary.gov.sg/services/sheriff-sales-services/sheriff's-sales) or will be provided by the Registry upon request.
