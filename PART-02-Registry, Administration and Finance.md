@@ -132,7 +132,7 @@ The Chief Justice has directed that the General Division, the Appellate Division
 
 (1)	The directions set out in sub-paragraphs (2) to (8) below are to be followed in relation to all requests for interpretation services of interpreters from the Supreme Court’s Interpreters Section, whether the services are required for hearings in open court or in chambers.
 
-(2)	Not less than 7 working days before the day on which the services of an interpreter are required (“scheduled day”), the requesting party must file a Request electronic form addressed to the appropriate Head Interpreter through the Electronic Filing Service in the manner and form set out in Form 1 of Appendix B of these Practice Directions.
+(2)	Not less than 7 working days before the day on which the services of an interpreter are required (“scheduled day”), the requesting party must file a Request electronic form addressed to the appropriate Head Interpreter through the Electronic Filing Service in the manner and form set out in Form B1 of Appendix B of these Practice Directions.
 
 (3)	The Request in sub-paragraph (2) must be filed for hearings of matters which have been adjourned or part-heard, even if the services of an interpreter were requested and provided at an earlier hearing of the same matter. In the event that a Request is made in respect of an adjourned or part-heard matter, the Request should state the date of the earlier hearing.
 
@@ -150,9 +150,9 @@ The Chief Justice has directed that the General Division, the Appellate Division
 
 <ul type="*">
 
-<li>(a)	To avoid doubt, a party may engage the services of a private interpreter for interpretation services in respect of the languages listed in Form 1 of Appendix B of these Practice Directions.</li>
+<li>(a)	To avoid doubt, a party may engage the services of a private interpreter for interpretation services in respect of the languages listed in Form B1 of Appendix B of these Practice Directions.</li>
 
-<li>(b)	If a party requires the services of an interpreter in a language apart from those listed in Form 1 of Appendix B of these Practice Directions, it is the duty of the party to engage such an interpreter directly to obtain his or her services for the scheduled hearing.</li>
+<li>(b)	If a party requires the services of an interpreter in a language apart from those listed in Form B1 of Appendix B of these Practice Directions, it is the duty of the party to engage such an interpreter directly to obtain his or her services for the scheduled hearing.</li>
 
 <li>(c)	Interpreters who are not from the Supreme Court's Interpreters Section must be sworn in before the Duty Registrar before they may provide interpretation services for proceedings in Court.</li>
 
@@ -500,9 +500,9 @@ If the letter relates to an interlocutory application, the reference number of t
 
 ## 29. Applications to use the Video Conference Facilities and Usage of Additional Equipment
 
-(1)	A request to use the video conference facilities for the hearing of any matter before a Judge or Registrar must be made by filing a Request electronic form in the manner and form set out in Form 2 of Appendix B of these Practice Directions through the Electronic Filing Service at least 14 working days before the hearing at which those facilities are to be used.
+(1)	A request to use the video conference facilities for the hearing of any matter before a Judge or Registrar must be made by filing a Request electronic form in the manner and form set out in Form B2 of Appendix B of these Practice Directions through the Electronic Filing Service at least 14 working days before the hearing at which those facilities are to be used.
 
-(2)	An application to use the video conference facilities for any other dispute resolution process must be made by submitting Form 2 of Appendix B of these Practice Directions to the Registrar, through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out, at least 14 working days before the dispute resolution proceedings at which it is to be used.
+(2)	An application to use the video conference facilities for any other dispute resolution process must be made by submitting Form B2 of Appendix B of these Practice Directions to the Registrar, through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out, at least 14 working days before the dispute resolution proceedings at which it is to be used.
 
 (3)	Upon a successful request to use the video conference facilities,
 
@@ -520,9 +520,9 @@ If the letter relates to an interlocutory application, the reference number of t
 
 ## 30. Applications to use the Mobile Infocomm Technology Facilities
 
-(1)	A request to use the MIT facilities for the hearing of any matter in open court or in chambers before a Judge or Registrar must be made by filing a Request electronic form in the manner and form set out in Form 2 of Appendix B of these Practice Directions through the Electronic Filing Service at least 14 working days before the hearing at which the MIT facilities are to be used.
+(1)	A request to use the MIT facilities for the hearing of any matter in open court or in chambers before a Judge or Registrar must be made by filing a Request electronic form in the manner and form set out in Form B2 of Appendix B of these Practice Directions through the Electronic Filing Service at least 14 working days before the hearing at which the MIT facilities are to be used.
 
-(2)	An application to use the MIT facilities for any other dispute resolution process must be made by submitting Form 2 of Appendix B of these Practice Directions to the Registrar, through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out as soon as practicable, as availability of the resources is on a first-come, first-served basis.
+(2)	An application to use the MIT facilities for any other dispute resolution process must be made by submitting Form B2 of Appendix B of these Practice Directions to the Registrar, through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out as soon as practicable, as availability of the resources is on a first-come, first-served basis.
 
 (3)	MIT facilities are available for use in both open court and in chambers.
 
