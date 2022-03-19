@@ -123,11 +123,11 @@ If parties wish to tender any hard copy documents ahead of the hearing before th
 
 ## 87. Request for urgent hearing before Judge
 
-(1)	Before an applicant attends before the Duty Registrar to request an urgent hearing before a Judge of any application for any civil matter, the applicant should complete (as far as possible) and file Form 14 of Appendix B of these Practice Directions. A copy of Form 14 should be served on each respondent to the application at the time of filing, unless the application is an application without notice and service of Form 14 would or might defeat the purpose of the application.
+(1)	Before an applicant attends before the Duty Registrar to request an urgent hearing before a Judge of any application for any civil matter, the applicant should complete (as far as possible) and file Form B14 of Appendix B of these Practice Directions. A copy of Form B14 should be served on each respondent to the application at the time of filing, unless the application is an application without notice and service of Form B14 would or might defeat the purpose of the application.
 
-(2)	The applicant should prepare skeletal submissions for the urgent hearing before the Judge, and file the skeletal submissions at the same time as Form 14 of Appendix B of these Practice Directions. A copy of the skeletal submissions should be served on each respondent to the application at the time of filing, unless the application is an application without notice and service of the skeletal submissions would or might defeat the purpose of the application. If the skeletal submissions are not filed, the applicant should inform the Duty Registrar whether the skeletal submissions will be filed and served by the time of the urgent hearing before the Judge.
+(2)	The applicant should prepare skeletal submissions for the urgent hearing before the Judge, and file the skeletal submissions at the same time as Form B14 of Appendix B of these Practice Directions. A copy of the skeletal submissions should be served on each respondent to the application at the time of filing, unless the application is an application without notice and service of the skeletal submissions would or might defeat the purpose of the application. If the skeletal submissions are not filed, the applicant should inform the Duty Registrar whether the skeletal submissions will be filed and served by the time of the urgent hearing before the Judge.
 
-(3)	If, due to urgency, the applicant is unable to file or serve Form 14 of Appendix B of these Practice Directions and/or the skeletal submissions before attending before the Duty Registrar, the applicant should provide a copy each of Form 14 and the skeletal submissions to each respondent to the application when the parties attend before the Duty Registrar. Each such copy of Form 14 or the skeletal submissions must be a hard copy, if the parties attend before the Duty Registrar physically, or in soft copy, if the parties attend before the Duty Registrar by video conferencing. Thereafter, Form 14 and the skeletal submissions should be filed as soon as possible and, in any event, no later than the next working day after the attendance before the Duty Registrar, unless the Court otherwise directs. If any respondent does not attend before the Duty Registrar, Form 14 and the skeletal submissions should be served on that respondent as soon as possible after the hearing before the Duty Registrar, and, in any event, before the urgent hearing before the Judge, unless the Court otherwise directs.
+(3)	If, due to urgency, the applicant is unable to file or serve Form 14 of Appendix B of these Practice Directions and/or the skeletal submissions before attending before the Duty Registrar, the applicant should provide a copy each of Form B14 and the skeletal submissions to each respondent to the application when the parties attend before the Duty Registrar. Each such copy of Form 14 or the skeletal submissions must be a hard copy, if the parties attend before the Duty Registrar physically, or in soft copy, if the parties attend before the Duty Registrar by video conferencing. Thereafter, Form 14 and the skeletal submissions should be filed as soon as possible and, in any event, no later than the next working day after the attendance before the Duty Registrar, unless the Court otherwise directs. If any respondent does not attend before the Duty Registrar, Form B14 and the skeletal submissions should be served on that respondent as soon as possible after the hearing before the Duty Registrar, and, in any event, before the urgent hearing before the Judge, unless the Court otherwise directs.
 
 (4)	In cases of extreme urgency where the applicant is unable to comply with the requirement to file or provide a copy of the skeletal submissions by the time of the urgent hearing before the Judge, the applicant should inform the Duty Registrar of the applicant’s intention to seek a dispensation of that requirement at the hearing before the Judge, and provide supporting reasons for the dispensation.
 
@@ -189,7 +189,7 @@ If parties wish to tender any hard copy documents ahead of the hearing before th
 
 is required to attend Court and wishes to absent himself or herself from Court on medical grounds, he or she must provide the Court with an original medical certificate. The medical certificate must be in the proper form and contain the information and particulars required by sub-paragraphs (2) to (5).
 
-(2)	A medical certificate issued by a Government hospital or clinic may be in the pre-printed form produced by the Ministry of Health, a sample of which may be found at Form 15 of Appendix B of these Practice Directions. A medical certificate issued by a restructured hospital or specialist centre may also be in a pre-printed form similar to the sample which appears at Form 15. The pre-printed medical certificate must:
+(2)	A medical certificate issued by a Government hospital or clinic may be in the pre-printed form produced by the Ministry of Health, a sample of which may be found at Form B15 of Appendix B of these Practice Directions. A medical certificate issued by a restructured hospital or specialist centre may also be in a pre-printed form similar to the sample which appears at Form B15. The pre-printed medical certificate must:
 
 <ul type="*">
 <li>(a)	be completely and properly filled in;</li>
@@ -205,7 +205,7 @@ is required to attend Court and wishes to absent himself or herself from Court o
 <li>(f)	be authenticated by a rubber stamp showing the medical practitioner’s full name and designation in the hospital or clinic, as the case may be.</li>
 </ul>
 
-(3)	If a medical certificate is not in Form 15 of Appendix B of these Practice Directions, the medical certificate should:
+(3)	If a medical certificate is not in Form B15 of Appendix B of these Practice Directions, the medical certificate should:
 
 <ul type="*">
 <li>(a)	be addressed to “Registrar, Supreme Court” (and not “whoever-it-may-concern”);</li>
@@ -389,7 +389,7 @@ The Chief Justice has directed that the following forms of address apply:
 <li>(b)	the witnesses to be examined, cross-examined or re-examined by each counsel, or the portions of their evidence for which each counsel will conduct the examination, cross-examination or re-examination.</li>
 </ul>
 
-Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions, or having conduct of any portion of the examination, cross-examination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them.
+Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions, or having conduct of any portion of the examination, cross- examination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them.
 
 (3)	If permission has been granted in accordance with sub-paragraph (2), counsel should ensure that he or she confines himself or herself to the issues or portions of evidence in respect of which permission was granted and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party. Further, counsel must not repeat, clarify or expand on any submissions that have been made by another counsel for the same party, or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.
 
@@ -433,7 +433,7 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 
 ## 99. Lead counsel’s statement on trial proceedings
 
-For every case proceeding to trial in the General Division, each party must file and serve a lead counsel’s statement in Form 16 of Appendix B of these Practice Directions to provide a list of issues for trial and an accurate estimation of the trial days needed after taking into account the time needed for the examination of each witness. The lead counsel’s statement must be filed and served within 1 week after objections to the contents of the affidavits of evidence-in-chief are due to be taken, unless the Court otherwise directs.
+For every case proceeding to trial in the General Division, each party must file and serve a lead counsel’s statement in Form B16 of Appendix B of these Practice Directions to provide a list of issues for trial and an accurate estimation of the trial days needed after taking into account the time needed for the examination of each witness. The lead counsel’s statement must be filed and served within 1 week after objections to the contents of the affidavits of evidence-in-chief are due to be taken, unless the Court otherwise directs.
 
 ## 100. Late filing fees
 
@@ -588,7 +588,7 @@ The solicitor must explain why it was not possible to file the documents in adva
 
 (5)	The opening statement, the affidavits of the evidence-in-chief of all witnesses or other affidavits, and the bundle of documents must be filed in Court as separate documents using the Electronic Filing Service, and, if required, each of the opening statement, the affidavits of the evidence-in-chief of all witnesses or other affidavits, and the bundle of documents in Portable Document Format (PDF) stored on optical media (CD-ROM or DVD-ROM) may be tendered to the Registry. The documents must comply with the provisions of this paragraph.
 
-(6)	The parties may tender the documents referred to at sub-paragraph (5) above to the Registry in hard copy. The hard copy must tally in all respects with the soft copy, and the page numbers of the hard copy must correspond to the page numbers in the Portable Document Format (PDF) version. Parties should adhere as far as possible to the guidelines set out on the eLitigation website at <http://www.elitigation.sg> on the resolution to be used when scanning documents into PDF.
+(6)	The parties may tender the documents referred to at sub-paragraph (5) above to the Registry in hard copy. The hard copy must tally in all respects with the soft copy, and the page numbers of the hard copy must correspond to the page numbers in the Portable Document Format (PDF) version. Parties should adhere as far as possible to the guidelines set out on the eLitigation website at <https://www.elitigation.sg> on the resolution to be used when scanning documents into PDF.
 
 ***Bundles of documents***
 
@@ -602,14 +602,14 @@ The solicitor must explain why it was not possible to file the documents in adva
 <li>(c)	the documents which the parties are relying on at the trial, separating them into sections for documents of which authenticity is not in dispute and documents of which authenticity is in dispute.</li>
 </ul>
 
-Where directed by the Court, the claimant’s solicitors are to prepare a table in the manner and form set out in Form 17 of Appendix B of these Practice Directions. The table seeks to provide an overview of the parties’ positions reflected in the last pleading (which incorporates all the previous pleadings).
+Where directed by the Court, the claimant’s solicitors are to prepare a table in the manner and form set out in Form B17 of Appendix B of these Practice Directions. The table seeks to provide an overview of the parties’ positions reflected in the last pleading (which incorporates all the previous pleadings).
 
 (8)	The bundles of documents must be prepared in an electronic format. The contents of the bundle of documents must be agreed on between all parties as far as possible. If there are other documents, the relevance of which is uncertain, these documents should be included and any objections taken before the trial Judge. Only documents which are relevant or necessary for the trial may be included in the bundles. In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary documents, the Court will have no hesitation in making a special order for costs against the relevant party. No bundle of documents is necessary in cases where parties are not relying on any document at the trial.
 
 (9)	The following directions apply to the electronic creation of bundles of documents:
 
 <ul type="*">
-<li>(a)	An index of contents of each bundle in the manner and form set out in Form 18 of Appendix B of these Practice Directions must also be prepared. Bookmarks should be created in the Portable Document Format (PDF) file for each such reference in the index. There should be as many bookmarks in the PDF file as there are references in the index to documents in that PDF file.</li>
+<li>(a)	An index of contents of each bundle in the manner and form set out in Form B18 of Appendix B of these Practice Directions must also be prepared. Bookmarks should be created in the Portable Document Format (PDF) file for each such reference in the index. There should be as many bookmarks in the PDF file as there are references in the index to documents in that PDF file.</li>
 
 <li>(b)	The name given to each bookmark should be the same as the corresponding reference in the index.</li>
 
