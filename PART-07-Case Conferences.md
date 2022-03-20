@@ -24,7 +24,7 @@
 
 (1)	The Pre-Case Conference Questionnaire (“PCQ”) is intended to facilitate the Court’s discussion with parties at the case conferences on the various issues, timelines and milestones for each case. Counsel or parties who are not legally represented should familiarise themselves with the PCQ and be ready to address the Court on the issues relevant to the parties’ respective cases.
 
-(2)	Unless the Court otherwise directs, each party must file the PCQ in the manner and form set out in Form 6 of Appendix B of these Practice Directions, to the extent possible, 1 week before the first RCC. Parties are to confer and discuss the matters in the PCQ, including agreed positions (if any) before filing the PCQ.
+(2)	Unless the Court otherwise directs, each party must file the PCQ in the manner and form set out in Form B6 of Appendix B of these Practice Directions, to the extent possible, 1 week before the first RCC. Parties are to confer and discuss the matters in the PCQ, including agreed positions (if any) before filing the PCQ.
 
 (3)	Unless otherwise directed by the Court, the first RCC will be fixed:
 
@@ -48,7 +48,7 @@
 
 ***Expert Witness Template***
 
-(8)	Prior to the RCC where the issue of expert evidence (if any) is discussed, the parties are to fill in an Expert Witness Template in Form 7 of Appendix B of these Practice Directions.
+(8)	Prior to the RCC where the issue of expert evidence (if any) is discussed, the parties are to fill in an Expert Witness Template in Form B7 of Appendix B of these Practice Directions.
 
 (9)	The Expert Witness Template requires the parties to provide information such as the general information pertaining to the proposed expert(s), the list of issues to be referred to the proposed expert(s), the proposed timelines for the proposed expert(s) to render his or her opinion, and the proposed duration for the expert(s)' evidence at trial.
 
@@ -67,7 +67,7 @@
 
 ***Single application pending trial checklist (SAPT Checklist)***
 
-(12)	At least 2 weeks before the date of the RCC where the issue of the filing of the SAPT will be discussed, or within such other period as the Court may direct, the Court may direct parties to complete the SAPT Checklist. A sample SAPT Checklist can be found in Form 8 of Appendix B of these Practice Directions. The SAPT Checklist is intended for parties to indicate their preferred sequence of the matters set out in the SAPT.
+(12)	At least 2 weeks before the date of the RCC where the issue of the filing of the SAPT will be discussed, or within such other period as the Court may direct, the Court may direct parties to complete the SAPT Checklist. A sample SAPT Checklist can be found in Form B8 of Appendix B of these Practice Directions. The SAPT Checklist is intended for parties to indicate their preferred sequence of the matters set out in the SAPT.
 
 (13)	The parties must fill in the SAPT Checklist in the following manner:
 <ul type="*">
