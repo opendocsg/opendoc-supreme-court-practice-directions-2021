@@ -5,7 +5,7 @@
 	<li>54. ADR Offer and Response to ADR Offer</li>
 </ul>
 
-## 53. Overview of Amicable Resolution of Disputes (ADR) for civil cases 
+## 53. Overview of Amicable Resolution of Disputes (ADR) for civil cases
 
 (1)	This Part of the Practice Directions on the amicable resolution of the parties’ disputes applies only to civil cases in the General Division, the Appellate Division and the Court of Appeal.
 
@@ -19,9 +19,9 @@
 
 (6)	The attention of advocates and solicitors as well as all the parties is drawn to Order 21, Rule 4(c) of the Rules of Court 2021. Advocates and solicitors should advise their clients on potential adverse costs orders for any unreasonable refusal to engage in ADR.
 
-## 54. ADR Offer and Response to ADR Offer 
+## 54. ADR Offer and Response to ADR Offer
 
-(1)	A party who wishes to attempt mediation or any other means of amicable resolution of the dispute should file and serve on all relevant parties an ADR Offer in Form 4 of Appendix B of these Practice Directions. The party in receipt is to respond by filing and serving the Response to ADR Offer in Form 5 of Appendix B of these Practice Directions.
+(1)	A party who wishes to attempt mediation or any other means of amicable resolution of the dispute should file and serve on all relevant parties an ADR Offer in Form B4 of Appendix B of these Practice Directions. The party in receipt is to respond by filing and serving the Response to ADR Offer in Form B5 of Appendix B of these Practice Directions.
 
 (2)	If all the parties are willing to attempt ADR, directions may be given by the Court in relation to the relevant civil case, including an adjournment of pending proceedings in Court with stipulated timelines for the completion of the ADR process.
 
