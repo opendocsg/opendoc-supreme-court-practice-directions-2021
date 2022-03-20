@@ -48,9 +48,9 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 <ul type="*">
 <li>(i)	A bill of costs drawn up for assessment of costs between one party to proceedings and another should be divided into 3 separate sections as required by Order 21, Rule 20(1) of the Rules of Court 2021.</li>
-<li>(ii)	Form 30 in Appendix B of these Practice Directions should be used for contentious business in respect of work done for a trial or in contemplation of a trial.</li>
-<li>(iii)	Form 31 in Appendix B of these Practice Directions should be used for contentious business in respect of, or in contemplation of, work done other than for a trial; such as work done for an appeal or for a specific interlocutory application.</li>
-<li>(iv)	Form 32 in Appendix B of these Practice Directions should be used for non-contentious business.</li>
+<li>(ii)	Form B30 in Appendix B of these Practice Directions should be used for contentious business in respect of work done for a trial or in contemplation of a trial.</li>
+<li>(iii)	Form B31 in Appendix B of these Practice Directions should be used for contentious business in respect of, or in contemplation of, work done other than for a trial; such as work done for an appeal or for a specific interlocutory application.</li>
+<li>(iv)	Form B32 in Appendix B of these Practice Directions should be used for non-contentious business.</li>
 </ul>
 
 </li>
@@ -59,7 +59,7 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 <br><br>
 
-(b)	Specimen bills illustrating the use of Forms 30, 31 and 32 in Appendix B of these Practice Directions are found in Appendix E of these Practice Directions.
+(b)	Specimen bills illustrating the use of Forms B30, B31 and B32 in Appendix B of these Practice Directions are found in Appendix E of these Practice Directions.
 
 </li>
 
@@ -195,7 +195,7 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 ## 133. Objections
 
-(1)	Any objections in principle or as to quantum of the items claimed in a bill of costs must be indicated by the filing and service of a Notice of Dispute in Form 33 of Appendix B of these Practice Directions at least 14 days before the date fixed by the Registrar for the assessment of the bill of costs.
+(1)	Any objections in principle or as to quantum of the items claimed in a bill of costs must be indicated by the filing and service of a Notice of Dispute in Form B33 of Appendix B of these Practice Directions at least 14 days before the date fixed by the Registrar for the assessment of the bill of costs.
 
 (2)	The Notice of Dispute must be filed through the Electronic Filing Service in Portable Document Format (PDF) and be accompanied by a Notice of Dispute summary, the electronic form of which will be composed online through the Electronic Filing Service. The information required by the Electronic Filing Service to compose the Notice of Dispute summary includes the amounts of costs to be awarded under Sections 1, 2 and 3 of the bill of costs according to the paying party.
 
@@ -270,7 +270,7 @@ of costs at the end of a hearing or trial, whether before or after judgment is d
 <li>(b)	originating applications involving cross-examination of any maker of an affidavit.</li>
 </ul>
 
-(2)	Each party to the proceedings described in sub-paragraph (1) is required to file a costs schedule using Form 34 in Appendix B of these Practice Directions. The costs schedule should set out with sufficient particularity the quantum of party-and-party costs and disbursements that the party intends to claim in the event that the party succeeds. A specimen form illustrating the use of Form 34 in Appendix B of these Practice Directions can be found in Appendix F of these Practice Directions.
+(2)	Each party to the proceedings described in sub-paragraph (1) is required to file a costs schedule using Form 34 in Appendix B of these Practice Directions. The costs schedule should set out with sufficient particularity the quantum of party-and-party costs and disbursements that the party intends to claim in the event that the party succeeds. A specimen form illustrating the use of Form B34 in Appendix B of these Practice Directions can be found in Appendix F of these Practice Directions.
 
 (3)	The relevant costs schedule will be taken into account for the purposes of assessing the quantum of costs to be awarded for the proceedings.
 
