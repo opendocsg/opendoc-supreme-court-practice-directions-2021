@@ -80,7 +80,7 @@ After a winding up application has been filed, the applicant or his or her solic
 (3)	For bundles of documents:
 
 <ul type="*">
-<li>(a)	Documents to be used at trial should be consolidated into bundles paginated consecutively throughout at the top right hand corner. An index of the contents of each bundle in the manner and form set out in Form 18 of Appendix B of these Practice Directions must also be prepared. No bundle of documents is necessary in cases where parties are not relying on any document at the trial.</li>
+<li>(a)	Documents to be used at trial should be consolidated into bundles paginated consecutively throughout at the top right hand corner. An index of the contents of each bundle in the manner and form set out in Form B18 of Appendix B of these Practice Directions must also be prepared. No bundle of documents is necessary in cases where parties are not relying on any document at the trial.</li>
 
 <li>(b)	It is the responsibility of solicitors for all parties to agree and prepare an agreed bundle as soon as possible. The scope to which the agreement extends must be stated in the index sheet of the agreed bundle.</li>
 

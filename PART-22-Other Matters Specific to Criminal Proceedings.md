@@ -9,7 +9,7 @@
 
 ## 165. Judge Case Conference Checklist for criminal trials in the General Division
 
-(1)	For every criminal case in the General Division that is scheduled for a Judge Case Conference before trial, unless the Defence has indicated that the accused wishes to plead guilty or the Court otherwise directs, the Prosecution and the Defence must each file, at least 7 days before the date of the Judge Case Conference, a Checklist (called the “Judge Case Conference Checklist”) in Form 44 of Appendix B of these Practice Directions.
+(1)	For every criminal case in the General Division that is scheduled for a Judge Case Conference before trial, unless the Defence has indicated that the accused wishes to plead guilty or the Court otherwise directs, the Prosecution and the Defence must each file, at least 7 days before the date of the Judge Case Conference, a Checklist (called the “Judge Case Conference Checklist”) in Form B44 of Appendix B of these Practice Directions.
 
 (2)	Where the accused is not legally represented, the Registry will arrange, at least 4 weeks before the date of the Judge Case Conference, for a copy of the Judge Case Conference Checklist to be sent to, or collected by, the accused.
 
@@ -17,7 +17,7 @@
 
 (1)	Under section 394H(3) of the Criminal Procedure Code read with Rules 11(2) and (3) of the Criminal Procedure Rules 2018, the applicant in an application for permission (as defined in section 394F(1) of the Criminal Procedure Code) must file an affidavit in support of the application at the same time as the filing of the application. This affidavit is to be made by the applicant’s advocate (if the applicant is represented by an advocate when the affidavit is filed) or by the applicant (if the applicant is not represented by an advocate when the affidavit is filed).
 
-(2)	Every affidavit mentioned in sub-paragraph (1) must attach as an exhibit an information sheet in Form 45 of Appendix B of these Practice Directions. The information sheet must be completed and signed by the person who makes the affidavit.
+(2)	Every affidavit mentioned in sub-paragraph (1) must attach as an exhibit an information sheet in Form B45 of Appendix B of these Practice Directions. The information sheet must be completed and signed by the person who makes the affidavit.
 
 ## 167. Written submissions for criminal appeals and other criminal matters before the Court of Appeal and the General Division
 
