@@ -44,7 +44,7 @@
 
 </ul>
 
-(6)	Where a party wishes to file further applications other than those directed at a case conference, the party must first obtain the Court’s approval by filing a Request in the manner and form prescribed in Form 9 of Appendix B of these Practice Directions.
+(6)	Where a party wishes to file further applications other than those directed at a case conference, the party must first obtain the Court’s approval by filing a Request in the manner and form prescribed in Form B9 of Appendix B of these Practice Directions.
 
 (7)	The party is to specify the nature and essence of the intended application, the date of filing of the intended application and the reason(s) why the intended application is necessary at that stage of the proceedings.
 
@@ -168,7 +168,7 @@ In the defendant’s summons setting out a prayer for the striking out of certai
 
 The Court may also direct that this paragraph applies to any other application.
 
-(2)	With a view to enhancing the efficacy of an oral hearing, the parties must complete the summary table in Form 10 in Appendix B of these Practice Directions (the “Summary Table”), instead of filing written submissions. In exceptional circumstances (e.g., where there are novel issues to be determined), the parties may seek permission of the Court to file written submissions in addition to the Summary Table.
+(2)	With a view to enhancing the efficacy of an oral hearing, the parties must complete the summary table in Form B10 in Appendix B of these Practice Directions (the “Summary Table”), instead of filing written submissions. In exceptional circumstances (e.g., where there are novel issues to be determined), the parties may seek permission of the Court to file written submissions in addition to the Summary Table.
 
 (3)	Unless otherwise directed by the Court, the parties must complete the Summary Table in the following manner:
 
@@ -323,4 +323,4 @@ Where a claim in the General Division which may have initially exceeded $250,000
 
 (1)	Where the Court appoints a receiver pursuant to Order 13, Rule 9 of the Rules of Court 2021, the Court may give directions on the form and the amount of any security to be given by the receiver for the proper discharge of the receiver’s duties.
 
-(2)	Unless otherwise directed, the security must be by guarantee (in a form approved by the Court) or, if the amount for which the security is to be given does not exceed $10,000, by an undertaking in Form 11 of Appendix B of these Practice Directions. The guarantee or undertaking must be filed in the Registry.
+(2)	Unless otherwise directed, the security must be by guarantee (in a form approved by the Court) or, if the amount for which the security is to be given does not exceed $10,000, by an undertaking in Form B11 of Appendix B of these Practice Directions. The guarantee or undertaking must be filed in the Registry.
