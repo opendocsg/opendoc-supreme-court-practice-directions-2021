@@ -66,7 +66,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 
 ## 118. Appeals Information Sheet for civil appeals to the Appellate Division and the Court of Appeal
 
-(1)	The Chief Justice has directed that for civil appeals to the Appellate Division and civil appeals to the Court of Appeal, parties must file in court and serve on every other party to the appeal or his or her solicitor an Appeals Information Sheet in Form 19 of Appendix B of these Practice Directions by the following times:
+(1)	The Chief Justice has directed that for civil appeals to the Appellate Division and civil appeals to the Court of Appeal, parties must file in court and serve on every other party to the appeal or his or her solicitor an Appeals Information Sheet in Form B19 of Appendix B of these Practice Directions by the following times:
 
 <ul type="*">
 <li>(a)	for appeals under Order 19 of the Rules of Court 2021 – at the same time as when parties’ respective Cases under Order 19, Rule 30 of the Rules of Court 2021 are filed and served; and</li>
@@ -374,7 +374,7 @@ Documents filed for proceedings before the General Division under section 55 of 
 
 <ul type="*">
 
-<li>(a)	The table of contents of all volumes of the records must be placed at the beginning of Volume I, immediately after the first title page in the manner and form set out in Form 20 of Appendix B of these Practice Directions.</li>
+<li>(a)	The table of contents of all volumes of the records must be placed at the beginning of Volume I, immediately after the first title page in the manner and form set out in Form B20 of Appendix B of these Practice Directions.</li>
 
 <li>(b)	Each volume and, if any, parts thereof, must also contain its own table of contents listing the documents contained in the volume.</li>
 
@@ -470,7 +470,7 @@ are to be electronically filed by the relevant deadlines.
 
 </ul>
 
-(3)	In lieu of electronically filing the record of appeal, the appellant is to electronically file, by the prescribed time set out in Order 19 of the Rules of Court 2021 for the filing of the record of appeal, one copy of the form of the record of appeal in Form 21 of Appendix B of these Practice Directions. In lieu of electronically filing the supplemental record of appeal, the appellant is to electronically file, by the prescribed time set out in Order 19 of the Rules of Court 2021 for the filing of the supplemental record of appeal, one copy of the form of the supplemental record of appeal in Form 22 of Appendix B of these Practice Directions.
+(3)	In lieu of electronically filing the record of appeal, the appellant is to electronically file, by the prescribed time set out in Order 19 of the Rules of Court 2021 for the filing of the record of appeal, one copy of the form of the record of appeal in Form B21 of Appendix B of these Practice Directions. In lieu of electronically filing the supplemental record of appeal, the appellant is to electronically file, by the prescribed time set out in Order 19 of the Rules of Court 2021 for the filing of the supplemental record of appeal, one copy of the form of the supplemental record of appeal in Form B22 of Appendix B of these Practice Directions.
 
 (4)	In lieu of electronically filing bundles of authorities, the party filing bundles of authorities is to electronically file, by the prescribed time set out in the Rules of Court 2021 and the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 for the filing of such bundles of authorities, one copy of a list of authorities (that corresponds to the index of the actual copy of the bundles of authorities). Parties are to also comply with specific requirements of this Part relating to submission of hard copies and soft copies of bundles of authorities for particular proceedings. Where there are no such specific requirements, parties are required to tender soft copies of the bundles of authorities in Portable Document Format (PDF) in a CD-ROM by the prescribed time for the filing of such bundles of authorities.
 
@@ -618,7 +618,7 @@ are to be electronically filed by the relevant deadlines.
 
 </ul>
 
-(4)	Solicitors are reminded of their responsibility under paragraph 121(8) to personally satisfy themselves as to the good order of the appeal records. At the time the appeal bundles and BDSRO are tendered, the solicitor having conduct of the appeal must electronically file an undertaking to the Court that he or she has satisfied himself or herself that the appeal bundles do not contain any document ordered to be redacted in its unredacted form. The undertaking must be in Form 23 of Appendix B of these Practice Directions.
+(4)	Solicitors are reminded of their responsibility under paragraph 121(8) to personally satisfy themselves as to the good order of the appeal records. At the time the appeal bundles and BDSRO are tendered, the solicitor having conduct of the appeal must electronically file an undertaking to the Court that he or she has satisfied himself or herself that the appeal bundles do not contain any document ordered to be redacted in its unredacted form. The undertaking must be in Form B23 of Appendix B of these Practice Directions.
 
 ***Inclusion of sealed documents in appeal bundles***
 
@@ -642,7 +642,7 @@ are to be electronically filed by the relevant deadlines.
 
 </ul>
 
-(6)	Solicitors are reminded of their responsibility under paragraph 121(8) to personally satisfy themselves as to the good order of the appeal records. At the time the appeal bundles and the BDSSO are tendered, the solicitor having conduct of the appeal must electronically file an undertaking to the Court that he or she has satisfied himself or herself that the appeal bundles do not contain any document ordered to be sealed. The undertaking must be in Form 23 of Appendix B of these Practice Directions.
+(6)	Solicitors are reminded of their responsibility under paragraph 121(8) to personally satisfy themselves as to the good order of the appeal records. At the time the appeal bundles and the BDSSO are tendered, the solicitor having conduct of the appeal must electronically file an undertaking to the Court that he or she has satisfied himself or herself that the appeal bundles do not contain any document ordered to be sealed. The undertaking must be in Form B23 of Appendix B of these Practice Directions.
 
 (7)	To avoid doubt, documents that have been ordered to be expunged should not in any event be tendered to the Appellate Division or the Court of Appeal in any form.
 
@@ -670,15 +670,15 @@ Where the Appellate Division or the Court of Appeal (as the case may be) orders 
 
 </ul>
 
-must be in Form 24 or 25 of Appendix B of these Practice Directions.
+must be in Form B24 or B25 of Appendix B of these Practice Directions.
 
 (2)	Any written submissions in respect of an application to the Court of Appeal under Order 18, Rule 29 or Order 19, Rule 26 of the Rules of Court 2021 for permission to appeal against a decision of the Appellate Division must:
 
 <ul type="*">
 
-<li>(a)	where permission to appeal under section 47(1) of the Supreme Court of Judicature Act is required, be in Form 26 or 27 of Appendix B of these Practice Directions; or</li>
+<li>(a)	where permission to appeal under section 47(1) of the Supreme Court of Judicature Act is required, be in Form B26 or B27 of Appendix B of these Practice Directions; or</li>
 
-<li>(b)	in any other case, be in Form 24 or 25 of Appendix B of these Practice Directions with the necessary modifications to the title of the form.</li>
+<li>(b)	in any other case, be in Form B24 or B25 of Appendix B of these Practice Directions with the necessary modifications to the title of the form.</li>
 
 </ul>
 
@@ -714,4 +714,4 @@ Subject to approval by the Court, parties may utilise presentation slides to ass
 
 ## 129. Request for waiver or deferment of Court fees
 
-For the purposes of proceedings referred to in Parts 13 and 14 of these Practice Directions, a request for the waiver or deferment of the whole or any part of any appeal Court fees under Order 25, Rule 3(1) of the Rules of Court 2021 must be supported by an affidavit in Form 28 of Appendix B of these Practice Directions. The affidavit in Form 28 must verify Form 29 of Appendix B of these Practice Directions.
+For the purposes of proceedings referred to in Parts 13 and 14 of these Practice Directions, a request for the waiver or deferment of the whole or any part of any appeal Court fees under Order 25, Rule 3(1) of the Rules of Court 2021 must be supported by an affidavit in Form B28 of Appendix B of these Practice Directions. The affidavit in Form B28 must verify Form B29 of Appendix B of these Practice Directions.
