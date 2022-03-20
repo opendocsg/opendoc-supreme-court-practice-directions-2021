@@ -41,7 +41,7 @@
 
 ***Request for Registrar to produce document or Court’s records***
 
-(4)	A request to produce a document filed in Court or the Court’s records pursuant to Order 15, Rule 4(15) of the Rules of Court 2021 must be made in Form 12 of Appendix B of these Practice Directions.
+(4)	A request to produce a document filed in Court or the Court’s records pursuant to Order 15, Rule 4(15) of the Rules of Court 2021 must be made in Form B12 of Appendix B of these Practice Directions.
 
 ## 77. Giving of evidence by person outside Singapore through live video link or live television link in any proceedings (other than proceedings in a criminal matter)
 
@@ -249,8 +249,8 @@ Any affidavit or exhibit which does not comply with the directions contained in 
 
 ## 84. Objections to the contents of affidavits of evidence-in-chief
 
-(1)	Objections to the contents of affidavits of evidence-in-chief under Order 15, Rule 16(6) of the Rules of Court 2021 must be taken by filing and serving a notice in Form 13 of Appendix B of these Practice Directions.
+(1)	Objections to the contents of affidavits of evidence-in-chief under Order 15, Rule 16(6) of the Rules of Court 2021 must be taken by filing and serving a notice in Form B13 of Appendix B of these Practice Directions.
 
-(2)	The notice in Form 13 should set out all the objections to the contents of affidavits of evidence-in-chief that will be raised at the hearing of the cause or matter and all the grounds of the objections.
+(2)	The notice in Form B13 should set out all the objections to the contents of affidavits of evidence-in-chief that will be raised at the hearing of the cause or matter and all the grounds of the objections.
 
 (3)	An adjudication on the material objected to in affidavits of evidence-in-chief filed pursuant to an order of court should only be sought at the trial or hearing of the cause or matter for which the affidavits of evidence-in-chief were filed, and not before. If an adjudication is sought prior to the trial or hearing of the cause or matter, the application for the adjudication will be adjourned to be dealt with at the trial or hearing of the cause or matter, and the applicant may be ordered to pay the costs of the adjournment.
