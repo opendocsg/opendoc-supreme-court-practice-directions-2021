@@ -1,7 +1,7 @@
 # Part 11: Conduct of Court Proceedings
 
 <ul type="*">
-	<li>85. Urgent applications o utside of the Court’s office hours</li>
+	<li>85. Urgent applications outside of the Court’s office hours</li>
 	<li>86. Duty Registrar</li>
 	<li>87. Request for urgent hearing before Judge</li>
 	<li>88. Attendance of solicitors in Court and mentioning on behalf of other solicitors</li>
