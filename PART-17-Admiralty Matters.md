@@ -23,7 +23,7 @@
 
 (4)	To enable the Sheriff to discharge his duties effectively, upon the arrest of a vessel, the Sheriff will require the solicitors representing arresting parties to deposit with the Sheriff a sum of $10,000. Such deposit is in addition to the usual undertaking.
 
-(5)	During the relevant period as defined in Order 33, Rule 11(5) of the Rules of Court 2021, the solicitors representing arresting parties must make reasonable efforts to notify the following persons and entities in writing of the service of the warrant of arrest or the originating claim in an action <em>in rem</em> as soon as practicable after the warrant of arrest or the originating claim (as the case may be) is served in accordance with Order 33, Rule 10 of the Rules of Court 2021:
+(5)	During the relevant period as defined in Order 33, Rule 11(5) of the Rules of Court 2021, the solicitors representing arresting parties must make reasonable efforts to notify the following persons and entities in writing of the service of the warrant of arrest or the originating claim in an action <em>in rem</em> as soon as practicable after the warrant of arrest or the originating claim (as the case may be) is served in accordance with Order 33, Rule 11 of the Rules of Court 2021:
 
 <ul type="*">
 <li>(a)	the owner of the ship;</li>
@@ -98,4 +98,4 @@ Order 33, Rule 27(2) of the Rules of Court 2021 provides that the party by whom 
 
 (2)	The Court appointed appraiser(s) must be named in Form 58 of Appendix A of these Practice Directions.
 
-(3)	The list of appraisers referred to in sub-paragraph (1) may be found on the Singapore Courts website at [https://www.judiciary.gov.sg/services/sheriff-sales-services/sheriff's-sales](https://www.judiciary.gov.sg/services/sheriff-sales-services/sheriff's-sales) or will be provided by the Registry upon request.
+(3)	The list of appraisers referred to in sub-paragraph (1) may be found on the Singapore Courts website at [https://www.judiciary.gov.sg/services/sheriff-services-admiralty-actions](https://www.judiciary.gov.sg/services/sheriff-services-admiralty-actions) or will be provided by the Registry upon request.
