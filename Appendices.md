@@ -442,7 +442,7 @@
   </tr>
   <tr>
     <td>B3.</td>
-    <td><a href="./downloads/Appendix_B/SUPCT_new PDs (Appendix B - Form 3).pdf" download>Application to become Registered User of the Electronic Filing Service</a></td>
+    <td><a href="./downloads/Appendix_B/SUPCT_new PDs (Appendix B - Form 3).pdf" download>Application to be Registered User of the Electronic Filing Service</a></td>
   </tr>
   <tr>
     <td>B4.</td>
@@ -640,4 +640,9 @@
 
 ## Appendix H: Protocol for Medical Negligence Cases in the General Division of the High Court
 
-<a href="./downloads/Appendix_H/SUPCT_new PDs (Appendix H).pdf" download>PROTOCOL FOR MEDICAL NEGLIGENCE CASES IN THE GENERAL DIVISION OF THE HIGH COURT</a>
+<a href="./downloads/Appendix_H/SUPCT_new PDs (Appendix H).pdf" download>PROTOCOL FOR MEDICAL NEGLIGENCE CASES IN THE GENERAL DIVISION OF THE HIGH COURT</a>\
+
+## Appendix I
+
+<a href="./downloads/Appendix_E/SUPCT_new PDs (Appendix E1).pdf" download>I1. Form for Election</a><br>
+<a href="./downloads/Appendix_E/SUPCT_new PDs (Appendix E2).pdf" download>I2. Form for Abandonment of Claim for Monetary Relief in Excess of $500,000</a><br>
