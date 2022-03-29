@@ -270,7 +270,7 @@ of costs at the end of a hearing or trial, whether before or after judgment is d
 <li>(b)	originating applications involving cross-examination of any maker of an affidavit.</li>
 </ul>
 
-(2)	Each party to the proceedings described in sub-paragraph (1) is required to file a costs schedule using Form 34 in Appendix B of these Practice Directions. The costs schedule should set out with sufficient particularity the quantum of party-and-party costs and disbursements that the party intends to claim in the event that the party succeeds. A specimen form illustrating the use of Form B34 in Appendix B of these Practice Directions can be found in Appendix F of these Practice Directions.
+(2)	Each party to the proceedings described in sub-paragraph (1) is required to file a costs schedule using Form B34 in Appendix B of these Practice Directions. The costs schedule should set out with sufficient particularity the quantum of party-and-party costs and disbursements that the party intends to claim in the event that the party succeeds. A specimen form illustrating the use of Form B34 in Appendix B of these Practice Directions can be found in Appendix F of these Practice Directions.
 
 (3)	The relevant costs schedule will be taken into account for the purposes of assessing the quantum of costs to be awarded for the proceedings.
 
