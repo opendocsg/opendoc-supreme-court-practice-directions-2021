@@ -640,7 +640,7 @@
 
 ## Appendix H: Protocol for Medical Negligence Cases in the General Division of the High Court
 
-<a href="./downloads/Appendix_H/SUPCT_new PDs (Appendix H).pdf" download>PROTOCOL FOR MEDICAL NEGLIGENCE CASES IN THE GENERAL DIVISION OF THE HIGH COURT</a>\
+<a href="./downloads/Appendix_H/SUPCT_new PDs (Appendix H).pdf" download>PROTOCOL FOR MEDICAL NEGLIGENCE CASES IN THE GENERAL DIVISION OF THE HIGH COURT</a>
 
 ## Appendix I
 
