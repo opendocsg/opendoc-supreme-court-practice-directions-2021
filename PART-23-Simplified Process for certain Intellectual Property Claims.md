@@ -13,6 +13,7 @@ The directions contained in this Part apply to all proceedings to which the simp
 ## 170. Proceedings under the Simplified Process
 
 ***Election by Claimant for Part 2 of SCJIPR to apply***
+
 (1) A claimant who wishes to elect for Part 2 of the SCJIPR to apply to the claimant's originating claim must, within 2 working days after the claimant's originating claim has been filed and accepted by the Registry, comply with rule 5(1) of the SCJIPR.
 
 (2) Where a claimant has elected for Part 2 of the SCJIPR to apply to the claimant's originating claim, a defendant that makes a counterclaim must, within 2 working days after the filing of the defence and counterclaim:
@@ -50,6 +51,7 @@ The directions contained in this Part apply to all proceedings to which the simp
 </ul>
 
 ***Application by Defendant for order for Part 2 of SCJIPR to apply to originating claim***
+
 (7) A defendant who wishes to make an application under rule 6(2) of the SCJIPR for an order for Part 2 of the SCJIPR to apply to a case must do so as soon as practicable. If the defendant is making a counterclaim, the defendant must, before making the application:
 
 <ul type="*">
