@@ -29,13 +29,13 @@ The directions contained in this Part apply to all proceedings to which the simp
 
 </ul>
 
-<li>(b) if the defendant does not agree to the application of Part 2 of the SCJIPR - comply with rule 5(2)( c) of the SCJIPR.</li>
+<li>(b) if the defendant does not agree to the application of Part 2 of the SCJIPR - comply with rule 5(2)(c) of the SCJIPR.</li>
 
 </ul>
 
 (3) Where subparagraph (2)(a) applies, the Court will give directions to determine whether Part 2 of the SCJIPR should continue to apply to the case.
 
-(4) Where subparagraph (2)(b) applies, the Court will give directions to the defendant to make an application under rule 5 (4) of the SCJIPR for an order for Part 2 of the SCJIPR not to apply nto the case.
+(4) Where subparagraph (2)(b) applies, the Court will give directions to the defendant to make an application under rule 5(4) of the SCJIPR for an order for Part 2 of the SCJIPR not to apply to the case.
 
 (5) Where a claimant has elected for Part 2 of the SCJIPR to apply to the claimant's originating claim, a defendant that does not make a counterclaim and does not agree to the application of Part 2 of the SCJIPR must, within 2 working days after the filing of the defence, make an application under rule 5(4) of the SCJIPR for an order for Part 2 of the SCJIPR not to apply to the case.
 
@@ -66,8 +66,8 @@ In accordance with the definition of "form" in rule 3 of the SCJIPR:
 
 <ul type="*">
 
-<li>(a) for the purposes of rule 5 ( 1 )(a) of the SCJIPR, the relevant form for the form to elect for Part 2 of the SCJIPR to apply is Form I1 of Appendix I of these Practice Directions; and </li>
+<li>(a) for the purposes of rule 5(1)(a) of the SCJIPR, the relevant form for the form to elect for Part 2 of the SCJIPR to apply is Form I1 of Appendix I of these Practice Directions; and </li>
 
-<li>(b) for the purposes of rules 4(2)(a), 5(1)(b) and (2)(a) and 6(3)(a) of the SCJIPR, the relevant form for the form to abandon any claim for monetary relief in excess of $500,000 is Form 12 of Appendix I of these Practice Directions</li>
+<li>(b) for the purposes of rules 4(2)(a), 5(1)(b) and (2)(a) and 6(3)(a) of the SCJIPR, the relevant form for the form to abandon any claim for monetary relief in excess of $500,000 is Form I2 of Appendix I of these Practice Directions.</li>
 
 </ul>
