@@ -405,19 +405,19 @@
   </tr>
   <tr>
     <td>99.</td>
-    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 99).pdf" download>Limited Civil Restraint Order</a></td>
+    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 99)_1.pdf" download>Limited Civil Restraint Order</a></td>
   </tr>
   <tr>
     <td>100.</td>
-    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 100).pdf" download>Extended Civil Restraint Order</a></td>
+    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 100)_1.pdf" download>Extended Civil Restraint Order</a></td>
   </tr>
   <tr>
     <td>101.</td>
-    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 101).pdf" download>General Civil Restraint Order</a></td>
+    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 101)_1.pdf" download>General Civil Restraint Order</a></td>
   </tr>
   <tr>
     <td>102.</td>
-    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 102).pdf" download>Order under Section 74(1) of Supreme Court of Judicature Act 1969</a></td>
+    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 102)_1.pdf" download>Order under Section 74(1) of Supreme Court of Judicature Act 1969</a></td>
   </tr>
 </tbody>
 </table>
@@ -506,7 +506,7 @@
   </tr>
   <tr>
     <td>B19.</td>
-    <td><a href="./downloads/Appendix_B/SUPCT_new PDs (Appendix B - Form 19).pdf" download>Appeals Information Sheet</a></td>
+    <td><a href="./downloads/Appendix_B/SUPCT_new PDs (Appendix B - Form 19)_2.pdf" download>Appeals Information Sheet</a></td>
   </tr>
   <tr>
     <td>B20.</td>
@@ -644,5 +644,5 @@
 
 ## Appendix I
 
-<a href="./downloads/Appendix_E/SUPCT_new PDs (Appendix E1).pdf" download>I1. Form for Election</a><br>
-<a href="./downloads/Appendix_E/SUPCT_new PDs (Appendix E2).pdf" download>I2. Form for Abandonment of Claim for Monetary Relief in Excess of $500,000</a><br>
+<a href="./downloads/Appendix_I/Appendix I I1.pdf" download>I1. Form for Election</a><br>
+<a href="./downloads/Appendix_I/Appendix I I2.pdf" download>I2. Form for Abandonment of Claim for Monetary Relief in Excess of $500,000</a><br>
