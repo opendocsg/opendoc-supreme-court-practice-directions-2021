@@ -50,7 +50,7 @@ In these Practice Directions, unless the context otherwise requires:
 
 <li>(a)	any reference to a repealed provision of any written law is a reference to that provision as in force immediately before the date the provision is repealed;</li>
 
-<li>(b)	any reference to “Rules of Court 2021” is a reference to the Rules of Court 2021 as in force on or after 1 April 2022; and</li>
+<li>(b)	any reference to “Rules of Court 2021” is a reference to the Rules of Court 2021 (G.N. No. S 914/2021) as in force on or after 1 April 2022; and</li>
 
 <li>(c)	where any legislation is cited in these Practice Directions, the citation is to be read as referring to the version of that legislation currently in force.</li>
 
