@@ -2,7 +2,7 @@
 
 <ul type="*">
 	<li>31. Application</li>
-	<li>32. Establishment of Electronic Filing Service and appointment of electronic service provider</li>
+	<li>32. Establishment of Electronic Filing Service and appointment of electronic filing service provider</li>
 	<li>33. Appointment of agent to establish service bureau</li>
 	<li>34. Registered users and authorised users</li>
 	<li>35. Documents which must be filed, served, delivered or otherwise conveyed using the Electronic Filing Service</li>
@@ -25,7 +25,7 @@
 
 (2)	Where the words and phrases set out in Order 28, Rule 1 of the Rules of Court 2021 are used in this Part, they have the same meaning as defined in Order 28, Rule 1 of the Rules of Court 2021, unless otherwise specified.
 
-## 32. Establishment of Electronic Filing Service and appointment of electronic service provider
+## 32. Establishment of Electronic Filing Service and appointment of electronic filing service provider
 
 In exercise of the powers conferred by Order 28, Rules 2 and 3 of the Rules of Court 2021, the Registrar, with the approval of the Chief Justice, has established an Electronic Filing Service known as the Integrated Electronic Litigation System or eLitigation and accessible at <https://www.elitigation.sg> and has appointed CrimsonLogic Pte Ltd as the Electronic Filing Service provider.
 
