@@ -223,7 +223,7 @@ The Court may also direct that this paragraph applies to any other application.
 
 <li>(i)	applications under the Patents Act under Order 69, Rule 11(6) of the Rules of Court 2021;</li>
 
-<li>(j)	applications for legal officers or non-practising solicitors to be struck off the roll under section 82A(10) of the Legal Profession Act;</li>
+<li>(j)	applications for Judicial Service Officers, Legal Service Officers or non-practising solicitors to be struck off the roll under section 82A(10) of the Legal Profession Act;</li>
 
 <li>(k)	applications for the committal of a person to prison for contempt in relation to the winding up of a company under section 124 of the Insolvency, Restructuring and Dissolution Act 2018; and</li>
 
