@@ -329,7 +329,7 @@ The Chief Justice has directed that the General Division, the Appellate Division
 
 (1)	Where monies are to be paid into Court pursuant to a judgment or order of court, a copy of the judgment or order must be attached to the draft Direction to Accountant-General for Payment In and filed into the case file via the Electronic Filing Service for approval by the Court. The Direction to Account-General for Payment In must be in Form 44(a) of Appendix A of these Practice Directions.
 
-(2)	Where monies are to be paid out of Court, a copy of the following document (as the case may be) must be attached to the draft Direction to Accountant-General for Payment Out and filed into the case file via the Electronic Filing Service for approval by the Court:
+(2)	Where monies are to be paid out of Court, a copy of one of the following documents must be attached to the draft Direction to Accountant-General for Payment Out and filed into the case file via the Electronic Filing Service for approval by the Court:
 
 <ul type="*">
 
