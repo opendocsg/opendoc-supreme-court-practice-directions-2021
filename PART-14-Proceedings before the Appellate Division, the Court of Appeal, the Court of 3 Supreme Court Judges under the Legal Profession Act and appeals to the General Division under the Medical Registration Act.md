@@ -148,7 +148,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 </tbody>
 </table>
 
-(2)	The following table sets out the prescribed page limits for various documents filed (a) under the Rules of Court 2021 for proceedings before the General Division under the Medical Registration Act; and (b) under the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act:
+(2)	The following table sets out the prescribed page limits for various documents filed (a) under the Rules of Court 2021 for proceedings before the General Division under the Medical Registration Act; and (b) under the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022 for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act:
 
 <table>
 <thead>
@@ -200,7 +200,7 @@ Documents filed for proceedings before the General Division under section 55 of 
 
 (4)	Cover page(s) are mandatory for all documents. A table of contents is mandatory for all documents for which the prescribed page limit is 20 pages or higher.
 
-(5)	If any party wishes to seek permission from the relevant Court in accordance with the Rules of Court 2021 or the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 (as the case may be) to exceed the page limits prescribed under sub-paragraphs (1) and (2), the party must file a Request in the Electronic Filing Service stating the reasons for requiring additional pages, the number of additional pages required and the position of the other parties on the request. Parties are to note the fees that are payable under the Rules of Court 2021 or the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 (as the case may be) for the filing of documents exceeding the prescribed page limit.
+(5)	If any party wishes to seek permission from the relevant Court in accordance with the Rules of Court 2021 or the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022 (as the case may be) to exceed the page limits prescribed under sub-paragraphs (1) and (2), the party must file a Request in the Electronic Filing Service stating the reasons for requiring additional pages, the number of additional pages required and the position of the other parties on the request. Parties are to note the fees that are payable under the Rules of Court 2021 or the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022 (as the case may be) for the filing of documents exceeding the prescribed page limit.
 
 (6)	An application for permission under sub-paragraph (5) must be filed by the deadlines as set out in the following table:
 
@@ -454,7 +454,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 <li>(b)	under the Rules of Court 2021 for appeals to the General Division under the Medical Registration Act (as well as for applications in respect of such appeals);</li>
 
-<li>(c)	under the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 for applications to the Court of 3 Supreme Court Judges under the Legal Profession Act (as well as for applications in respect of such applications);</li>
+<li>(c)	under the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022 for applications to the Court of 3 Supreme Court Judges under the Legal Profession Act (as well as for applications in respect of such applications);</li>
 
 </ul>
 
@@ -466,13 +466,13 @@ are to be electronically filed by the relevant deadlines.
 
 <li>(a)	the record of appeal and the supplemental record of appeal that are required to be filed under Order 19 of the Rules of Court 2021; and</li>
 
-<li>(b)	all bundles of authorities that are required to be filed under Order 18 and Order 19 of the Rules of Court 2021 and the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022.</li>
+<li>(b)	all bundles of authorities that are required to be filed under Order 18 and Order 19 of the Rules of Court 2021 and the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022.</li>
 
 </ul>
 
 (3)	In lieu of electronically filing the record of appeal, the appellant is to electronically file, by the prescribed time set out in Order 19 of the Rules of Court 2021 for the filing of the record of appeal, one copy of the form of the record of appeal in Form B21 of Appendix B of these Practice Directions. In lieu of electronically filing the supplemental record of appeal, the appellant is to electronically file, by the prescribed time set out in Order 19 of the Rules of Court 2021 for the filing of the supplemental record of appeal, one copy of the form of the supplemental record of appeal in Form B22 of Appendix B of these Practice Directions.
 
-(4)	In lieu of electronically filing bundles of authorities, the party filing bundles of authorities is to electronically file, by the prescribed time set out in the Rules of Court 2021 and the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022 for the filing of such bundles of authorities, one copy of a list of authorities (that corresponds to the index of the actual copy of the bundles of authorities). Parties are to also comply with specific requirements of this Part relating to submission of hard copies and soft copies of bundles of authorities for particular proceedings. Where there are no such specific requirements, parties are required to tender soft copies of the bundles of authorities in Portable Document Format (PDF) in a CD-ROM by the prescribed time for the filing of such bundles of authorities.
+(4)	In lieu of electronically filing bundles of authorities, the party filing bundles of authorities is to electronically file, by the prescribed time set out in the Rules of Court 2021 and the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022 for the filing of such bundles of authorities, one copy of a list of authorities (that corresponds to the index of the actual copy of the bundles of authorities). Parties are to also comply with specific requirements of this Part relating to submission of hard copies and soft copies of bundles of authorities for particular proceedings. Where there are no such specific requirements, parties are required to tender soft copies of the bundles of authorities in Portable Document Format (PDF) in a CD-ROM by the prescribed time for the filing of such bundles of authorities.
 
 (5)	If a party wishes to rely on a document which does not exist in the electronic case file, he must file the document together with the respective forms of appeal bundles. Further, a table of contents must be included for these documents. These documents must be paginated consecutively at the centre top of the page and the solicitor must ensure that the pagination takes into account the pages comprising the respective forms of appeal bundles and the table of contents for these additional documents. For example, if the form of the record of appeal is 5 pages and the table of contents for the additional documents is 2 pages, the first page of the first document should be paginated as page 8.
 
@@ -552,7 +552,7 @@ are to be electronically filed by the relevant deadlines.
 
 ***Applications under sections 36U(1), 82A(10) and 98(1) of the Legal Profession Act***
 
-(14)	In order to assist the Court of 3 Supreme Court Judges hearing originating applications under sections 36U(1), 82A(10) and 98(1) of the Legal Profession Act, the applicant is required to tender 1 hard copy of the record of proceedings and 4 hard copies each of the applicant’s written submissions and bundles of authorities to the Registry by the prescribed time for the filing of such documents under the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022. The respondent is required to tender 4 hard copies each of the respondent’s written submissions and bundles of authorities to the Registry by the prescribed time for the filing of such documents under the Legal Profession (Court of 3 Supreme Court Judges) Rules 2022.
+(14)	In order to assist the Court of 3 Supreme Court Judges hearing originating applications under sections 36U(1), 82A(10) and 98(1) of the Legal Profession Act, the applicant is required to tender 1 hard copy of the record of proceedings and 4 hard copies each of the applicant’s written submissions and bundles of authorities to the Registry by the prescribed time for the filing of such documents under the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022. The respondent is required to tender 4 hard copies each of the respondent’s written submissions and bundles of authorities to the Registry by the prescribed time for the filing of such documents under the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022.
 
 (15)	In addition to tendering hard copies, the applicant and respondent are to tender soft copies of the following documents in Portable Document Format (PDF) at the same time in a CD-ROM:
 
