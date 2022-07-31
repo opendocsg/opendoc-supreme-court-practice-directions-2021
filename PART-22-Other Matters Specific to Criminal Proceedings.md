@@ -29,7 +29,7 @@
 <li>(b)	magistrate’s appeals and other criminal matters before the General Division, except where the General Division is exercising its original criminal jurisdiction.</li>
 </ul>
 
-(2)	The provisions of this paragraph are subject to the provisions of the Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Regulations 2012 and these Practice Directions, requiring the electronic filing of documents in criminal proceedings.
+(2)	The provisions of this paragraph are subject to the provisions of the Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Rules 2022 and these Practice Directions, requiring the electronic filing of documents in criminal proceedings.
 
 (3)	Parties in magistrate’s appeals, criminal revisions and criminal motions before the General Division should ensure that 2 hard copies each of any written submissions and bundles of authorities (if any) are tendered to the Registry, unless parties are informed that more than 2 hard copies are to be tendered.
 

@@ -8,6 +8,7 @@
 		</ul>
 	<li>67. Filing of Distinct Applications in Separate Summonses</li>
 	<li>68. Summary Table for Applications for Further and Better Particulars or Production of Documents</li>
+	<li>68A. Assessment of damages and taking of accounts in bifurcated cases </li>
 	<li>69. Applications to be heard in open court</li>
 	<li>70. Transfer of proceedings to the State Courts</li>
 	<li>71. Applications without notice for injunctions</li>
@@ -194,6 +195,20 @@ The Court may also direct that this paragraph applies to any other application.
 
 </ul>
 
+## 68A. Assessment of damages and taking of accounts in bifurcated cases
+
+(1) This paragraph applies where a case is bifurcated, and the Court gives judgment on liability and for damages to be assessed or the taking of accounts.
+
+(2) The parties are to inform the Court at a case conference (or in accordance with the Court's directions) whether they intend to file any interlocutory application pending the assessment of damages or the taking of accounts.
+
+(3) Pursuant to Order 15, Rule 15(4) of the Rules of Court 2021, the party entitled to the benefit of the judgment must file and serve the application for directions within one month from the date of the judgment. Further, the party must include all the interlocutory applications he or she is making in the application for directions.
+
+(4) Where any other party wishes to file any interlocutory application, he or she must also file and serve an application for directions including all the interlocutory applications he or she is making, within one month from the date of the judgment.
+
+(5) A supporting affidavit must be filed and served together with any application for directions which includes interlocutory applications. An affidavit in reply may be filed and served by the other party within 21 days after service of the application for directions and supporting affidavit.
+
+(6) No other application may be taken out by any party other than as directed at the case conference or with the Court's approval.
+
 ## 69. Applications to be heard in open court
 
 
@@ -221,7 +236,7 @@ The Court may also direct that this paragraph applies to any other application.
 
 <li>(h)	applications for objections to a decision on a reference under Order 33, Rule 43 of the Rules of Court 2021;</li>
 
-<li>(i)	applications under the Patents Act under Order 69, Rule 11(6) of the Rules of Court 2021;</li>
+<li>(i)	applications under the Patents Act 1994 under Rule 46(6) of the Supreme Court of Judicature (Intellectual Property) Rules 2022;</li>
 
 <li>(j)	applications for Judicial Service Officers, Legal Service Officers or non-practising solicitors to be struck off the roll under section 82A(10) of the Legal Profession Act;</li>
 

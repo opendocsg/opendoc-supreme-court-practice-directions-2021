@@ -52,17 +52,17 @@
 
 (6)	The following are examples of originating applications to be heard in open court pursuant to written law:
 <ul type="*">
-<li>(a)	applications for a judicial management order (Rule 6(1)(a) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020;</li>
+<li>(a) applications for a judicial management order (Rule 6(1)(a) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020;</li>
 
-<li>(b)	applications to wind up a company (Rule 6(1)(b) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020);</li>
+<li>(b) applications to wind up a company (Rule 6(1)(b) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020);</li>
 
 <li>(c)	applications to wind up a limited liability partnership (Rule 5(1)(a) of the Limited Liability Partnerships (Winding Up) Rules);</li>
 
 <li>(d)	applications to wind up a variable capital company or a sub-fund (Rule 6(1)(a) of the Variable Capital Companies (Winding Up) Rules 2020);</li>
 
-<li>(e)	applications for an order declaring the dissolution of a company void (Rule 6(1)(c) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020);</li>
+<li>(e) applications for an order declaring the dissolution of a company void (Rule 6(1)(c) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020);</li>
 
-<li>(f)	applications for an order declaring the dissolution of a limited liability partnership void (Rule 5(1)(c) of the Limited Liability Partnership (Winding Up) Rules);</li>
+<li>(f) applications for an order declaring the dissolution of a limited liability partnership void (Rule 5(1)(c) of the Limited Liability Partnership (Winding Up) Rules);</li>
 
 <li>(g)	applications for an order declaring the dissolution of a variable capital company void (Rule 6(1)(c) of the Variable Capital Companies (Winding Up) Rules 2020) or an order declaring the dissolution of a sub-fund void (Rule 6(1)(d) of the Variable Capital Companies (Winding Up) Rules 2020);</li>
 
@@ -70,7 +70,9 @@
 
 <li>(i)	applications to rectify the register of members kept by a variable capital company (Rule 6(1)(f) of the Variable Capital Companies (Winding Up) Rules 2020).</li>
 </ul>
+
 (7)	In addition to any provisions in written law, the Registrar hereby directs that the following applications made by originating application are to be heard in open court:
+
 <ul type="*">
 <li>(a)	appeals to the General Division from a tribunal under Order 20, Rule 1(a) of the Rules of Court 2021;</li>
 
@@ -80,9 +82,13 @@
 
 <li>(d)	applications under the Land Titles (Strata) Act in Order 49, Rule 2 of the Rules of Court 2021;</li>
 
-<li>(e)	applications and appeals under the Patents Act in Order 69, Rules 9(1), 10(1) and 13(1) of the Rules of Court 2021;</li>
+<li>(da) applications and appeals under the Geographical Indications Act 2014 in Rules 17, 20(1) and 26(1) of the Supreme Court of Judicature (Intellectual Property) Rules 2022; </li>
 
-<li>(f)	applications and appeals under the Trade Marks Act in Order 70, Rules 2(1) and 4(1) of the Rules of Court 2021;</li>
+<li>(e)	applications and appeals under the Patents Act 1994 in Rules 40(1), 44(1) and 45(1) of the Supreme Court of Judicature (Intellectual Property) Rules 2022; </li>
+
+<li>(ea) applications and appeals under the Registered Designs Act 2000 in Rules 55 and 58(1) of the Supreme Court of Judicature (Intellectual Property) Rules 2022; </li>
+
+<li>(f)	applications and appeals under the Trade Marks Act 1998 in Rules 67 and 70(1) of the Supreme Court of Judicature (Intellectual Property) Rules 2022; </li>
 
 <li>(g)	applications for admission of advocate and solicitor under section 12 of the Legal Profession Act;</li>
 
