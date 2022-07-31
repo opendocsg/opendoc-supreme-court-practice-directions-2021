@@ -10,7 +10,7 @@
 	<li>37. Form of documents</li>
 	<li>38. Pagination of documents</li>
 	<li>39. Filing documents through service bureau</li>
-	<li>40. Filing of documents to the Supreme Court through a State Courts service bureau</li>
+	<li>40. Filing of documents to the Supreme Court through another service bureau</li>
 	<li>41. Limits on the size and number of documents submitted using the Electronic Filing Service</li>
 	<li>42. Documents which cannot be converted into an electronic format</li>
 	<li>43. Rejection of documents, back-dating and refund of penalty</li>
@@ -31,7 +31,7 @@ In exercise of the powers conferred by Order 28, Rules 2 and 3 of the Rules of C
 
 ## 33. Appointment of agent to establish service bureau
 
-Pursuant to Order 28, Rule 5 of the Rules of Court 2021, the Registrar has appointed CrimsonLogic Pte Ltd as an agent to establish a service bureau in the Supreme Court of Singapore.
+Pursuant to Order 28, Rule 5 of the Rules of Court 2021, the Registrar has appointed CrimsonLogic Pte Ltd as an agent to establish a service bureau or service bureaux at such address or addresses in Singapore as may be deemed suitable.
 
 ## 34. Registered users and authorised users
 
@@ -48,7 +48,7 @@ Pursuant to Order 28, Rule 5 of the Rules of Court 2021, the Registrar has appoi
 
 ## 35. Documents which must be filed, served, delivered or otherwise conveyed using the Electronic Filing Service
 
-(1)	Pursuant to Order 28, Rules 2 and 8 of the Rules of Court 2021, the Registrar hereby specifies that all documents to be filed with, served on, delivered or otherwise conveyed to the Registrar in all proceedings other than criminal proceedings (which are governed by Part 4 of these Practice Directions and the Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Regulations 2012) must be so filed, served, delivered or otherwise conveyed using the Electronic Filing Service.
+(1)	Pursuant to Order 28, Rules 2 and 8 of the Rules of Court 2021, the Registrar hereby specifies that all documents to be filed with, served on, delivered or otherwise conveyed to the Registrar in all proceedings other than criminal proceedings (which are governed by Part 4 of these Practice Directions and the Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Rules 2022) must be so filed, served, delivered or otherwise conveyed using the Electronic Filing Service.
 
 (2)	Documents which are filed pursuant to Order 9, Rule 25(9) of the Rules of Court 2021 may, in addition to being filed through the Electronic Filing Service, be filed in accordance with the procedure outlined in paragraph 102(5) to (6).
 
@@ -74,9 +74,9 @@ Every single page of a document must be paginated so that the pagination on the 
 
 (2)	The operating hours of the service bureau may be found on the eLitigation website at <https://www.elitigation.sg>.
 
-## 40. Filing of documents to the Supreme Court through a State Courts service bureau
+## 40. Filing of documents to the Supreme Court through another service bureau
 
-Pursuant to Order 28, Rule 17(5) of the Rules of Court 2021, the Registrar of the Supreme Court hereby prescribes that any service bureau established or authorised to be established by the Registrar of the State Courts may assist in the filing, service, delivery or conveyance of documents pertaining to Supreme Court proceedings using the Electronic Filing Service if the service bureau, or, if there are more than one, all the service bureaux, established or authorised to be established by the Registrar of the Supreme Court are unable to provide such services owing to failure of hardware or software, or both.
+Pursuant to Order 28, Rule 17(5) and (6) of the Rules of Court 2021, the Registrar of the Supreme Court hereby prescribes that any service bureau established or authorised to be established by the Registrar of the State Courts or the Registrar of the Family Justice Courts may be used to assist in the filing, service, delivery or conveyance of documents pertaining to Supreme Court proceedings using the Electronic Filing Service in all cases and circumstances where the staff of that service bureau are able to provide such assistance.
 
 ## 41. Limits on the size and number of documents submitted using the Electronic Filing Service
 
