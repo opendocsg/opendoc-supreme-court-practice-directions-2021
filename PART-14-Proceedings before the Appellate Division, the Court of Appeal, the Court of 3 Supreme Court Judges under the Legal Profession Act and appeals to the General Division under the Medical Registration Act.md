@@ -1,8 +1,9 @@
-# Part 14: Proceedings before the Appellate Division, the Court of Appeal, the Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act
+# Part 14: Proceedings before the Appellate Division, the Court of Appeal, the Court of 3 Supreme Court Judges under the Legal Profession Act 1966 and appeals to the General Division under the Medical Registration Act 1997
 
 <ul type="*">
 	<li>116. Application of this Part</li>
 	<li>117. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges</li>
+	<li>117A. Applications that may be made either to the General Division or an appellate Court</li>
 	<li>118. Appeals Information Sheet for civil appeals to the Appellate Division and the Court of Appeal</li>
 	<li>119. Page limits</li>
 	<li>120. Formatting requirements for written Cases and written submissions</li>
@@ -63,6 +64,18 @@ The directions in this Part apply to all appeals, applications and other proceed
 ## 117. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges
 
 Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of Appeal may determine, as and when appropriate, whether to convene a panel of 5 or any greater uneven number of Judges. Such determination of the Court of Appeal will be final.
+
+## 117A. Applications that may be made either to the General Division or an appellate Court
+
+(1) Where an application may be made either to the General Division or to an appellate Court (being the Appellate Division or the Court of Appeal), and the application is first made to the General Division pursuant to section 39 or 57 of the Supreme Court of Judicature Act 1969:
+
+<ul type="*">
+<li>(a)	if the application is refused by the General Division, and the applicant still wishes to obtain the relief sought in the refused application, the applicant should make an application to the appellate Court for the same relief, instead of filing an appeal to the appellate Court; and</li>
+
+<li>(b)	in any event, any party who wishes to vary or discharge any direction or order made by the General Division on the application should likewise make an application to the appellate Court to vary or discharge that direction or order, instead of filing an appeal to the appellate Court.</li>
+</ul>
+
+(2) Except as provided in sub-paragraph (1), any party who is dissatisfied with a decision of the General Division may file an appeal to the appellate Court against that decision in accordance with the relevant provisions of the Supreme Court of Judicature Act 1969 and the applicable rules of civil procedure.
 
 ## 118. Appeals Information Sheet for civil appeals to the Appellate Division and the Court of Appeal
 
