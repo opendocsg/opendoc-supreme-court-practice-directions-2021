@@ -80,7 +80,7 @@
 
 <li>(c)	applications for apportionment of salvage in Order 33, Rule 32(1) of the Rules of Court 2021;</li>
 
-<li>(d)	applications under the Land Titles (Strata) Act in Order 49, Rule 2 of the Rules of Court 2021;</li>
+<li>(d)	applications under the Land Titles (Strata) Act 1967 in Order 49, Rule 2 of the Rules of Court 2021;</li>
 
 <li>(da) applications and appeals under the Geographical Indications Act 2014 in Rules 17, 20(1) and 26(1) of the Supreme Court of Judicature (Intellectual Property) Rules 2022; </li>
 
@@ -90,21 +90,21 @@
 
 <li>(f)	applications and appeals under the Trade Marks Act 1998 in Rules 67 and 70(1) of the Supreme Court of Judicature (Intellectual Property) Rules 2022; </li>
 
-<li>(g)	applications for admission of advocate and solicitor under section 12 of the Legal Profession Act;</li>
+<li>(g)	applications for admission of advocate and solicitor under section 12 of the Legal Profession Act; 1966</li>
 
-<li>(h)	applications for <em>ad hoc</em> admissions under section 15 of the Legal Profession Act;</li>
+<li>(h)	applications for <em>ad hoc</em> admissions under section 15 of the Legal Profession Act 1966;</li>
 
-<li>(i)	applications for permission for eligibility for election or appointment as a member of Council of Law Society under section 49(6) of the Legal Profession Act;</li>
+<li>(i)	applications for permission for eligibility for election or appointment as a member of Council of Law Society under section 49(6) of the Legal Profession Act 1966;</li>
 
-<li>(j)	applications for an order that a solicitor be struck off the roll, etc. under section 98(1) of the Legal Profession Act;</li>
+<li>(j)	applications for an order that a solicitor be struck off the roll, etc. under section 98(1) of the Legal Profession Act 1966;</li>
 
-<li>(k)	applications for the name of a solicitor to be replaced on the roll under section 102(2) of the Legal Profession Act;</li>
+<li>(k)	applications for the name of a solicitor to be replaced on the roll under section 102(2) of the Legal Profession Act 1966;</li>
 
-<li>(l)	applications for the vesting of property of a registered trade union in a trustee under section 45 of the Trade Unions Act;</li>
+<li>(l)	applications for the vesting of property of a registered trade union in a trustee under section 45 of the Trade Unions Act 1940;</li>
 
-<li>(m)	applications by the Public Trustee for the appointment of new trustees to administer a charitable trust under section 63(4) of the Trustees Act; and</li>
+<li>(m)	applications by the Public Trustee for the appointment of new trustees to administer a charitable trust under section 63(4) of the Trustees Act 1967; and</li>
 
-<li>(n)	applications for a company to be placed under judicial management under section 227A of the Companies Act or section 90 of the Insolvency, Restructuring and Dissolution Act 2018.</li>
+<li>(n)	applications for a company to be placed under judicial management under section 227A of the Companies Act (Cap. 50, 2006 Rev. Ed.) or section 90 of the Insolvency, Restructuring and Dissolution Act 2018.</li>
 
 </ul>
 
@@ -151,15 +151,15 @@
 
 <strong><em>NATURAL PERSON WITH SINGAPORE IDENTITY CARD</em></strong><br><br>
 
-(a)	For a natural person who is a Singapore citizen or permanent resident, the identification number is the number of the identity card issued under the National Registration Act. The 7-digit number as well as the letters at the front and end should be stated. For example, “(NRIC No. S1234567A)”.<br><br>
+(a)	For a natural person who is a Singapore citizen or permanent resident, the identification number is the number of the identity card issued under the National Registration Act 1965. The 7-digit number as well as the letters at the front and end should be stated. For example, “(NRIC No. S1234567A)”.<br><br>
 
 <strong><em>NATURAL PERSON WITH FIN NUMBER</em></strong><br><br>
 
-(b)	For a natural person (whether a Singapore citizen or permanent resident or not) who has not been issued with an identity card under the National Registration Act, but has been assigned a FIN number under the Immigration Regulations, the identification number is the FIN number. The number should be preceded by the prefix “FIN No.”<br><br>
+(b)	For a natural person (whether a Singapore citizen or permanent resident or not) who has not been issued with an identity card under the National Registration Act 1965, but has been assigned a FIN number under the Immigration Regulations, the identification number is the FIN number. The number should be preceded by the prefix “FIN No.”<br><br>
 
 <strong><em>NATURAL PERSON: BIRTH CERTIFICATE OR PASSPORT NUMBER</em></strong><br><br>
 
-(c)	For a natural person (whether a Singapore citizen or permanent resident or not) who has not been issued with an identity card under the National Registration Act or assigned a FIN number, the identification number is the birth certificate or passport number. The number should be preceded by either of the following, as appropriate: “(Issuing country) BC No.” or “(Issuing country) PP No.”<br><br>
+(c)	For a natural person (whether a Singapore citizen or permanent resident or not) who has not been issued with an identity card under the National Registration Act 1965 or assigned a FIN number, the identification number is the birth certificate or passport number. The number should be preceded by either of the following, as appropriate: “(Issuing country) BC No.” or “(Issuing country) PP No.”<br><br>
 
 <strong><em>NATURAL PERSON: OTHER NUMBERS</em></strong><br><br>
 
@@ -169,21 +169,21 @@
 
 (e)	For a deceased natural person, the identification number must be as set out in sub-paragraph 7(a) to (d) above. However, if such numbers are not available, the identification number is the death registration number under the Registration of Births and Deaths Rules or the equivalent foreign provisions, where the death is registered abroad. The number as well as the following words should be stated: “(Country or place of registration of death) Death Reg. No.”<br><br>
 
-<strong><em>COMPANY REGISTERED UNDER THE COMPANIES ACT</em></strong><br><br>
+<strong><em>COMPANY REGISTERED UNDER THE COMPANIES ACT 1967</em></strong><br><br>
 
-(f)	For a company registered under the Companies Act, the identification number is the Unique Entity Number (UEN).<br><br>
+(f)	For a company registered under the Companies Act 1967, the identification number is the Unique Entity Number (UEN).<br><br>
 
 <strong><em>COMPANY REGISTERED OUTSIDE SINGAPORE</em></strong><br><br>
 
-(g)	For a company registered outside Singapore which is not registered under the Companies Act, the identification number is the registration number of the company in the country of registration.<br><br>
+(g)	For a company registered outside Singapore which is not registered under the Companies Act 1967, the identification number is the registration number of the company in the country of registration.<br><br>
 
 <strong><em>BUSINESS REGISTERED UNDER THE BUSINESS NAMES REGISTRATION ACT 2014</em></strong><br><br>
 
 (h)	For a body registered under the Business Names Registration Act 2014, the identification number is the UEN number.<br><br>
 
-<strong><em>LIMITED LIABILITY PARTNERSHIP REGISTERED UNDER THE LIMITED LIABILITY PARTNERSHIPS ACT</em></strong><br><br>
+<strong><em>LIMITED LIABILITY PARTNERSHIP REGISTERED UNDER THE LIMITED LIABILITY PARTNERSHIPS ACT 2005</em></strong><br><br>
 
-(i)	For a limited liability partnership registered under the Limited Liability Partnerships Act, the identification number is the UEN number.<br><br>
+(i)	For a limited liability partnership registered under the Limited Liability Partnerships Act 2005, the identification number is the UEN number.<br><br>
 
 <strong><em>OTHER BODIES AND ASSOCIATIONS</em></strong><br><br>
 
@@ -384,9 +384,9 @@ Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Cou
 
 <li>(l)	the claim is brought in an administration action within the meaning of Order 32 of the Rules of Court 2021;</li>
 
-<li>(m)	the claim is brought to enforce any judgment or arbitral award, or any adjudication determination within the meaning of the Building and Construction Industry Security of Payment Act;</li>
+<li>(m)	the claim is brought to enforce any judgment or arbitral award, or any adjudication determination within the meaning of the Building and Construction Industry Security of Payment Act 2004;</li>
 
-<li>(n)	the claim is made under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act or any other written law;</li>
+<li>(n)	the claim is made under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992, the Terrorism (Suppression of Financing) Act 2002 or any other written law;</li>
 
 <li>(o)	the claim is a restitutionary one (including a claim for quantum meruit or quantum valebat) or for an account or other relief against the defendant as trustee or fiduciary, and the defendant’s alleged liability arises out of any act done, whether by the defendant or otherwise, in Singapore;</li>
 

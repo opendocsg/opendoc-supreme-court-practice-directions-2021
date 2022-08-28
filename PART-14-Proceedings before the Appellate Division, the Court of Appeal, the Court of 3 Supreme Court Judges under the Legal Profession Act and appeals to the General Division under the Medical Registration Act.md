@@ -24,8 +24,8 @@
 		<ul>
 			<li>Appeals under Order 18 of the Rules of Court 2021</li>
 			<li>Appeals under Order 19 of the Rules of Court 2021</li>
-			<li>Appeals under the Medical Registration Act</li>
-			<li>Applications under sections 36U(1), 82A(10) and 98(1) of the Legal Profession Act</li>
+			<li>Appeals under the Medical Registration Act 1997</li>
+			<li>Applications under sections 36U(1), 82A(10) and 98(1) of the Legal Profession Act 1966</li>
 			<li>Naming convention for documents in the CD-ROM and labelling of the CD-ROM</li>
 		</ul>
 	<li>123. Inclusion in appeal bundles of documents ordered to be sealed or redacted</li>
@@ -34,16 +34,16 @@
 			<li>Inclusion of sealed documents in appeal bundles</li>
 		</ul>
 	<li>124. Further written submissions for civil matters before the Appellate Division and the Court of Appeal</li>
-	<li>125. Applications in civil matters before the Appellate Division and the Court of Appeal, proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act</li>
+	<li>125. Applications in civil matters before the Appellate Division and the Court of Appeal, proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act 1966 and appeals to the General Division under the Medical Registration Act 1997</li>
 	<li>126. Applications to the Appellate Division, and applications to the Court of Appeal, for permission to appeal in civil matters</li>
-	<li>127. Use of presentation slides for all proceedings before the Appellate Division, Court of Appeal and Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act</li>
+	<li>127. Use of presentation slides for all proceedings before the Appellate Division, Court of Appeal and Court of 3 Supreme Court Judges under the Legal Profession Act 1966 and appeals to the General Division under the Medical Registration Act 1997</li>
 		<ul>
 			<li>Typeface</li>
 			<li>Colours</li>
 			<li>Animation and sounds</li>
 			<li>Corporate logos</li>
 		</ul>
-	<li>128. Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act and the Legal Aid and Advice Regulations</li>
+	<li>128. Lapse of cancellation of Grant of Aid under the Legal Aid and Advice Act 1995 and the Legal Aid and Advice Regulations</li>
 	<li>129. Request for waiver or deferment of Court fees</li>
 </ul>
 
@@ -56,14 +56,14 @@ The directions in this Part apply to all appeals, applications and other proceed
 
 <li>(b)	the Appellate Division;</li>
 
-<li>(c)	the Court of 3 Supreme Court Judges under the Legal Profession Act; and</li>
+<li>(c)	the Court of 3 Supreme Court Judges under the Legal Profession Act 1966; and</li>
 
-<li>(d)	the General Division under section 55 of the Medical Registration Act.</li>
+<li>(d)	the General Division under section 55 of the Medical Registration Act 1997.</li>
 </ul>
 
 ## 117. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges
 
-Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of Appeal may determine, as and when appropriate, whether to convene a panel of 5 or any greater uneven number of Judges. Such determination of the Court of Appeal will be final.
+Pursuant to section 50(1) of the Supreme Court of Judicature Act 1969, the Court of Appeal may determine, as and when appropriate, whether to convene a panel of 5 or any greater uneven number of Judges. Such determination of the Court of Appeal will be final.
 
 ## 117A. Applications that may be made either to the General Division or an appellate Court
 
@@ -161,7 +161,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 </tbody>
 </table>
 
-(2)	The following table sets out the prescribed page limits for various documents filed (a) under the Rules of Court 2021 for proceedings before the General Division under the Medical Registration Act; and (b) under the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022 for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act:
+(2)	The following table sets out the prescribed page limits for various documents filed (a) under the Rules of Court 2021 for proceedings before the General Division under the Medical Registration Act 1997; and (b) under the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022 for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act 1966:
 
 <table>
 <thead>
@@ -174,31 +174,31 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act, the Court of A
 <tbody>
   <tr>
     <td colspan="3"><strong><em>
-Documents filed for proceedings before the General Division under section 55 of the Medical Registration Act
+Documents filed for proceedings before the General Division under section 55 of the Medical Registration Act 1997
 </em></strong></td>
   </tr>
 	<tr>
     <td>(a)</td>
-    <td>Written submissions that are required to be filed for appeals to the General Division under the Medical Registration Act</td>
+    <td>Written submissions that are required to be filed for appeals to the General Division under the Medical Registration Act 1997</td>
     <td>55 pages</td>
   </tr>
 	<tr>
 		<td>(b)</td>
-		<td>Written submissions that are required to be filed for applications in respect of appeals to the General Division under the Medical Registration Act</td>
+		<td>Written submissions that are required to be filed for applications in respect of appeals to the General Division under the Medical Registration Act 1997</td>
 		<td>35 pages</td>
 	</tr>
 	<tr>
-		<td colspan="3"><strong><em>Documents filed for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act
+		<td colspan="3"><strong><em>Documents filed for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act 1966
 </em></strong></td>
 	</tr>
 	<tr>
 		<td>(c)</td>
-		<td>Written submissions that are required to be filed	for	Originating	Applications under sections 36U(1) and  98(1) of the Legal Profession Act and for a summons under section 82A(10) of the Legal Profession Act</td>
+		<td>Written submissions that are required to be filed	for	Originating	Applications under sections 36U(1) and  98(1) of the Legal Profession Act 1966 and for a summons under section 82A(10) of the Legal Profession Act 1966</td>
 		<td>55 pages</td>
 	</tr>
 	<tr>
 		<td>(d)</td>
-		<td>Written submissions that are required to be filed for Originating Applications under section 49(4) and 102(2) of the Legal Profession Act</td>
+		<td>Written submissions that are required to be filed for Originating Applications under section 49(4) and 102(2) of the Legal Profession Act 1966</td>
 		<td>35 pages</td>
 	</tr>
 	<tr>
@@ -262,29 +262,29 @@ Documents filed for proceedings before the General Division under section 55 of 
 		<td>5 days before the filing deadline</td>
 	</tr>
 	<tr>
-		<td colspan="3"><strong><em>Documents filed for proceedings before the General Division under section 55 of the Medical Registration Act</em></strong></td>
+		<td colspan="3"><strong><em>Documents filed for proceedings before the General Division under section 55 of the Medical Registration Act 1997</em></strong></td>
 	</tr>
 	<tr>
 		<td>(d)</td>
-		<td>Written submissions that are required to be filed for appeals to the General Division under the Medical Registration Act</td>
+		<td>Written submissions that are required to be filed for appeals to the General Division under the Medical Registration Act 1997</td>
 		<td>14 days before the filing deadline</td>
 	</tr>
 	<tr>
 		<td>(e)</td>
-		<td>Written submissions that are required to be filed for applications in respect of appeals to the General Division under the Medical Registration Act</td>
+		<td>Written submissions that are required to be filed for applications in respect of appeals to the General Division under the Medical Registration Act 1997</td>
 		<td>5 days before the filing deadline</td>
 	</tr>
 	<tr>
-		<td colspan="3"><strong><em>Documents filed for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act</em></strong></td>
+		<td colspan="3"><strong><em>Documents filed for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act 1966</em></strong></td>
 	</tr>
 	<tr>
 		<td>(f)</td>
-		<td>Written submissions that are required to be filed for Originating Applications under sections 36U(1) and 98(1) of the Legal Profession Act and for a summons under section 82A(10) of the Legal Profession Act</td>
+		<td>Written submissions that are required to be filed for Originating Applications under sections 36U(1) and 98(1) of the Legal Profession Act 1966 and for a summons under section 82A(10) of the Legal Profession Act 1966</td>
 		<td>14 days before the filing deadline</td>
 	</tr>
 	<tr>
 		<td>(g)</td>
-		<td>Written submissions that are required to be filed for Originating Applications under section 49(4) and 102(2) of the Legal Profession Act</td>
+		<td>Written submissions that are required to be filed for Originating Applications under section 49(4) and 102(2) of the Legal Profession Act 1966</td>
 		<td>5 days before the filing deadline</td>
 	</tr>
 	<tr>
@@ -308,9 +308,9 @@ Documents filed for proceedings before the General Division under section 55 of 
 
 <li>(c)	written submissions filed for applications to the Appellate Division and the Court of Appeal under Order 18 and Order 19 of the Rules of Court 2021 (including written submissions filed for applications for permission to appeal);</li>
 
-<li>(d)	written submissions filed for proceedings before the General Division under section 55 of the Medical Registration Act;</li>
+<li>(d)	written submissions filed for proceedings before the General Division under section 55 of the Medical Registration Act 1997;</li>
 
-<li>(e)	written submissions filed for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act; and</li>
+<li>(e)	written submissions filed for proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act 1966; and</li>
 
 <li>(f)	further written submissions filed under paragraph 124 of these Practice Directions.</li>
 </ul>
@@ -465,9 +465,9 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 <li>(a)	under the Rules of Court 2021 for appeals and applications to the Appellate Division and the Court of Appeal;</li>
 
-<li>(b)	under the Rules of Court 2021 for appeals to the General Division under the Medical Registration Act (as well as for applications in respect of such appeals);</li>
+<li>(b)	under the Rules of Court 2021 for appeals to the General Division under the Medical Registration Act 1997 (as well as for applications in respect of such appeals);</li>
 
-<li>(c)	under the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022 for applications to the Court of 3 Supreme Court Judges under the Legal Profession Act (as well as for applications in respect of such applications);</li>
+<li>(c)	under the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022 for applications to the Court of 3 Supreme Court Judges under the Legal Profession Act 1966 (as well as for applications in respect of such applications);</li>
 
 </ul>
 
@@ -547,9 +547,9 @@ are to be electronically filed by the relevant deadlines.
 
 </ul>
 
-***Appeals under the Medical Registration Act***
+***Appeals under the Medical Registration Act 1997***
 
-(12)	In order to assist the General Division hearing appeals under the Medical Registration Act, the appellant is required to tender 1 hard copy of the record of proceedings and 4 hard copies each of the appellant’s written submissions and bundles of authorities to the Registry by the prescribed time set out in Order 19 of the Rules of Court 2021 for the filing of such documents. The respondent is required to tender 4 hard copies each of the respondent’s written submissions and bundles of authorities to the Registry at the same time when filing them within the prescribed time under the Rules of Court 2021.
+(12)	In order to assist the General Division hearing appeals under the Medical Registration Act 1997, the appellant is required to tender 1 hard copy of the record of proceedings and 4 hard copies each of the appellant’s written submissions and bundles of authorities to the Registry by the prescribed time set out in Order 19 of the Rules of Court 2021 for the filing of such documents. The respondent is required to tender 4 hard copies each of the respondent’s written submissions and bundles of authorities to the Registry at the same time when filing them within the prescribed time under the Rules of Court 2021.
 
 (13)	In addition to tendering hard copies, the appellant and respondent are to tender soft copies of the following documents in Portable Document Format (PDF) at the same time in a CD-ROM:
 
@@ -563,9 +563,9 @@ are to be electronically filed by the relevant deadlines.
 
 </ul>
 
-***Applications under sections 36U(1), 82A(10) and 98(1) of the Legal Profession Act***
+***Applications under sections 36U(1), 82A(10) and 98(1) of the Legal Profession Act 1966***
 
-(14)	In order to assist the Court of 3 Supreme Court Judges hearing originating applications under sections 36U(1), 82A(10) and 98(1) of the Legal Profession Act, the applicant is required to tender 1 hard copy of the record of proceedings and 4 hard copies each of the applicant’s written submissions and bundles of authorities to the Registry by the prescribed time for the filing of such documents under the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022. The respondent is required to tender 4 hard copies each of the respondent’s written submissions and bundles of authorities to the Registry by the prescribed time for the filing of such documents under the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022.
+(14)	In order to assist the Court of 3 Supreme Court Judges hearing originating applications under sections 36U(1), 82A(10) and 98(1) of the Legal Profession Act 1966, the applicant is required to tender 1 hard copy of the record of proceedings and 4 hard copies each of the applicant’s written submissions and bundles of authorities to the Registry by the prescribed time for the filing of such documents under the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022. The respondent is required to tender 4 hard copies each of the respondent’s written submissions and bundles of authorities to the Registry by the prescribed time for the filing of such documents under the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022.
 
 (15)	In addition to tendering hard copies, the applicant and respondent are to tender soft copies of the following documents in Portable Document Format (PDF) at the same time in a CD-ROM:
 
@@ -663,13 +663,13 @@ are to be electronically filed by the relevant deadlines.
 
 Where the Appellate Division or the Court of Appeal (as the case may be) orders further written submissions to be filed for any civil matter, such written submissions must not exceed 10 pages unless otherwise directed by the Appellate Division or the Court of Appeal (as the case may be). Any written submissions filed in breach of any requirement in this paragraph may be rejected. The written submissions are to comply with all formatting requirements prescribed in paragraph 120(2) of these Practice Directions.
 
-## 125. Applications in civil matters before the Appellate Division and the Court of Appeal, proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act
+## 125. Applications in civil matters before the Appellate Division and the Court of Appeal, proceedings before the Court of 3 Supreme Court Judges under the Legal Profession Act 1966 and appeals to the General Division under the Medical Registration Act 1997
 
-(1)	If no affidavits or submissions are filed for applications to the Appellate Division or the Court of Appeal by the timelines prescribed by Order 18, Rules 35 and 37 and Order 19, Rules 35 and 37 of the Rules of Court 2021, the Appellate Division or the Court of Appeal (as the case may be) will proceed on the basis that the party does not intend to file any affidavit or submissions and may, in accordance with section 37(1) or section 55(1) of the Supreme Court of Judicature Act (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
+(1)	If no affidavits or submissions are filed for applications to the Appellate Division or the Court of Appeal by the timelines prescribed by Order 18, Rules 35 and 37 and Order 19, Rules 35 and 37 of the Rules of Court 2021, the Appellate Division or the Court of Appeal (as the case may be) will proceed on the basis that the party does not intend to file any affidavit or submissions and may, in accordance with section 37(1) or section 55(1) of the Supreme Court of Judicature Act 1969 (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
 
-(2)	If no affidavits or submissions are filed for applications made in respect of appeals to the General Division under the Medical Registration Act by the relevant prescribed timelines, the General Division will proceed on the basis that the party does not intend to file any affidavit or submissions and may, in accordance with section 17B(1) of the Supreme Court of Judicature Act decide the matter based on the documents before it without hearing oral arguments.
+(2)	If no affidavits or submissions are filed for applications made in respect of appeals to the General Division under the Medical Registration Act 1997 by the relevant prescribed timelines, the General Division will proceed on the basis that the party does not intend to file any affidavit or submissions and may, in accordance with section 17B(1) of the Supreme Court of Judicature Act 1969 decide the matter based on the documents before it without hearing oral arguments.
 
-(3)	In relation to applications referred to under section 192 of the Legal Profession Act, if no affidavits or submission are filed by the relevant prescribed timelines, the Court of 3 Supreme Court Judges will proceed on the basis that the party does not intend to file any affidavit or submissions and may, in accordance with section 192 of the Legal Profession Act decide the matter based on the documents before it without hearing oral arguments.
+(3)	In relation to applications referred to under section 192 of the Legal Profession Act 1966, if no affidavits or submission are filed by the relevant prescribed timelines, the Court of 3 Supreme Court Judges will proceed on the basis that the party does not intend to file any affidavit or submissions and may, in accordance with section 192 of the Legal Profession Act 1966 decide the matter based on the documents before it without hearing oral arguments.
 
 ## 126. Applications to the Appellate Division, and applications to the Court of Appeal, for permission to appeal in civil matters
 
@@ -689,7 +689,7 @@ must be in Form B24 or B25 of Appendix B of these Practice Directions.
 
 <ul type="*">
 
-<li>(a)	where permission to appeal under section 47(1) of the Supreme Court of Judicature Act is required, be in Form B26 or B27 of Appendix B of these Practice Directions; or</li>
+<li>(a)	where permission to appeal under section 47(1) of the Supreme Court of Judicature Act 1969 is required, be in Form B26 or B27 of Appendix B of these Practice Directions; or</li>
 
 <li>(b)	in any other case, be in Form B24 or B25 of Appendix B of these Practice Directions with the necessary modifications to the title of the form.</li>
 
@@ -697,9 +697,9 @@ must be in Form B24 or B25 of Appendix B of these Practice Directions.
 
 (3)	The written submissions mentioned in sub-paragraphs (1) and (2) must comply with the prescribed page limits as set out in the Rules of Court 2021 and the formatting requirements as set out in paragraph 120 of these Practice Directions.
 
-(4)	If no written submissions are filed in the Appellate Division or the Court of Appeal by the timelines prescribed by Order 18, Rule 29 or Order 19, Rule 26 of the Rules of Court 2021 (as the case may be), the Appellate Division or the Court of Appeal (as the case may be) will proceed on the basis that the party does not intend to file any written submissions and may, in accordance with section 37(1) or section 55(1) of the Supreme Court of Judicature Act (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
+(4)	If no written submissions are filed in the Appellate Division or the Court of Appeal by the timelines prescribed by Order 18, Rule 29 or Order 19, Rule 26 of the Rules of Court 2021 (as the case may be), the Appellate Division or the Court of Appeal (as the case may be) will proceed on the basis that the party does not intend to file any written submissions and may, in accordance with section 37(1) or section 55(1) of the Supreme Court of Judicature Act 1969 (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
 
-## 127. Use of presentation slides for all proceedings before the Appellate Division, Court of Appeal and Court of 3 Supreme Court Judges under the Legal Profession Act and appeals to the General Division under the Medical Registration Act
+## 127. Use of presentation slides for all proceedings before the Appellate Division, Court of Appeal and Court of 3 Supreme Court Judges under the Legal Profession Act 1966 and appeals to the General Division under the Medical Registration Act 1997
 
 Subject to approval by the Court, parties may utilise presentation slides to assist in oral submissions before the Court. Presentation slides may be projected in the courtroom or hearing chambers when oral submissions are made. Presentation slides must comply with the following standards:
 
@@ -719,11 +719,11 @@ Subject to approval by the Court, parties may utilise presentation slides to ass
 
 (4)	Corporate logos of the law practice may be displayed on the presentation slides. Care should be taken to ensure that the size and location of corporate logos do not distract from the substance of the presentation slides.
 
-## 128. Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act and the Legal Aid and Advice Regulations
+## 128. Lapse of cancellation of Grant of Aid under the Legal Aid and Advice Act 1995 and the Legal Aid and Advice Regulations
 
 (1)	Where a Grant of Aid lapses or is cancelled in the course of any proceedings in the Appellate Division or the Court of Appeal, counsel must promptly notify the Appellate Division or the Court of Appeal (as the case may be) of the lapse or the cancellation in writing. This is given that questions may arise from the lapse or the cancellation of a Grant of Aid as to whether security for costs would need to be furnished to enable the proceedings in the Appellate Division or the Court of Appeal (as the case may be) to continue to be pursued.
 
-(2)	To avoid doubt, “Grant of Aid” in sub-paragraph (1) means a document issued under section 8 of the Legal Aid and Advice Act stating that legal aid is granted to a person (whether on a provisional basis or otherwise).
+(2)	To avoid doubt, “Grant of Aid” in sub-paragraph (1) means a document issued under section 8 of the Legal Aid and Advice Act 1995 stating that legal aid is granted to a person (whether on a provisional basis or otherwise).
 
 ## 129. Request for waiver or deferment of Court fees
 

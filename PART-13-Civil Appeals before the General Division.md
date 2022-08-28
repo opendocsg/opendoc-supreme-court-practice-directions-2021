@@ -15,7 +15,7 @@
 
 ## 111. Application of this Part
 
-The directions in this Part apply to civil appeals before the General Division (excluding appeals under section 55 of the Medical Registration Act).
+The directions in this Part apply to civil appeals before the General Division (excluding appeals under section 55 of the Medical Registration Act 1997).
 
 ## 112. Request for further arguments before Judge
 

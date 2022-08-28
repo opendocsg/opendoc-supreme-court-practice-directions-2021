@@ -238,7 +238,7 @@ The Court may also direct that this paragraph applies to any other application.
 
 <li>(i)	applications under the Patents Act 1994 under Rule 46(6) of the Supreme Court of Judicature (Intellectual Property) Rules 2022;</li>
 
-<li>(j)	applications for Judicial Service Officers, Legal Service Officers or non-practising solicitors to be struck off the roll under section 82A(10) of the Legal Profession Act;</li>
+<li>(j)	applications for Judicial Service Officers, Legal Service Officers or non-practising solicitors to be struck off the roll under section 82A(10) of the Legal Profession Act 1966;</li>
 
 <li>(k)	applications for the committal of a person to prison for contempt in relation to the winding up of a company under section 124 of the Insolvency, Restructuring and Dissolution Act 2018; and</li>
 
@@ -248,7 +248,7 @@ The Court may also direct that this paragraph applies to any other application.
 
 ## 70. Transfer of proceedings to the State Courts
 
-Where a claim in the General Division which may have initially exceeded $250,000 is subsequently reduced below this amount, solicitors should bring this to the attention of the Registrar and apply by summons or at the hearing of a case conference for an order that the action be transferred to a State Court for trial under section 54C of the State Courts Act, which provides:
+Where a claim in the General Division which may have initially exceeded $250,000 is subsequently reduced below this amount, solicitors should bring this to the attention of the Registrar and apply by summons or at the hearing of a case conference for an order that the action be transferred to a State Court for trial under section 54C of the State Courts Act 1970, which provides:
 
 <ul type="*">
 

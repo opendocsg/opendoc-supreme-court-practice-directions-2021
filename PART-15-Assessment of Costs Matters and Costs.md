@@ -80,7 +80,7 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 <br><br>
 
-(d)	Whenever costs are required to be assessed by virtue of the Motor Vehicles (Third-Party Risks and Compensation) Act, a bill should be drawn up for assessment between the solicitor and his or her client <em>and</em> another bill drawn up for assessment between the client and the other party to the proceedings in which the solicitor acted for the client. A waiver of the filing fees for the solicitor-and-client bill may be requested when this bill is filed:
+(d)	Whenever costs are required to be assessed by virtue of the Motor Vehicles (Third-Party Risks and Compensation) Act 1960, a bill should be drawn up for assessment between the solicitor and his or her client <em>and</em> another bill drawn up for assessment between the client and the other party to the proceedings in which the solicitor acted for the client. A waiver of the filing fees for the solicitor-and-client bill may be requested when this bill is filed:
 
 <ul type="*">
 <li>(i)	The party-and-party bill should be filed first and the solicitor-and-client bill should reference the first bill.</li>
@@ -120,7 +120,7 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 <br><br>
 
-(b)	The proportion of input tax for which the receiving parties, or one or more of them, are not entitled to credit should be stated, as a percentage, in parentheses after the GST registration number of the party or parties concerned. For a person who is not liable to be registered within the meaning of the First Schedule to the Goods and Services Tax Act, this proportion should be 100%.
+(b)	The proportion of input tax for which the receiving parties, or one or more of them, are not entitled to credit should be stated, as a percentage, in parentheses after the GST registration number of the party or parties concerned. For a person who is not liable to be registered within the meaning of the First Schedule to the Goods and Services Tax Act 1993, this proportion should be 100%.
 
 </li>
 
@@ -222,7 +222,7 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 (3)	If the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid, as the case may be, agrees with the amounts claimed in the bill of costs, then:
 
 <ul type="*">
-<li>(a)	for costs required to be assessed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act:
+<li>(a)	for costs required to be assessed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act 1960:
 
 <ul type="*">
 <li>(i)	where no party-and-party bill of costs has been filed; or</li>
@@ -237,7 +237,7 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 <ul type="*">
 <li>(i)	party-and-party bills filed by the creditor under the Bankruptcy (Costs) Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020, to which the estate of the bankrupt is the respondent;</li>
 <li>(ii)	party-and-party bills filed by the creditor in companies winding-up matters where the Official Receiver is appointed liquidator and to which the company in liquidation is the respondent to the bill of costs; or</li>
-<li>(iii)	solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act where the Director of Legal Aid is the respondent,</li>
+<li>(iii)	solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act 1995 where the Director of Legal Aid is the respondent,</li>
 <li>the receiving party and the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, need not attend at the assessment and the bill will be assessed in their absence. However, if the Registrar disagrees with the quantum of costs agreed on, he or she may nonetheless direct the attendance of the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, and the receiving party, at a later date.</li>
 </ul>
 
@@ -245,7 +245,7 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 </ul>
 
-(4)	If costs are required to be assessed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act and the bill of costs claiming the same is referenced to an earlier party-and-party bill filed pursuant to paragraph 131(3)(d), the Public Trustee need not attend the assessment of the bill and the party-and-party and solicitor-and-client costs will be assessed in the absence of the Public Trustee. However, the Public Trustee may attend at the assessment if he or she so wishes, and must attend if an express direction is made by the Registrar that he or she attends in relation to a particular bill of costs.
+(4)	If costs are required to be assessed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act 1960 and the bill of costs claiming the same is referenced to an earlier party-and-party bill filed pursuant to paragraph 131(3)(d), the Public Trustee need not attend the assessment of the bill and the party-and-party and solicitor-and-client costs will be assessed in the absence of the Public Trustee. However, the Public Trustee may attend at the assessment if he or she so wishes, and must attend if an express direction is made by the Registrar that he or she attends in relation to a particular bill of costs.
 
 ## 136. Fixing costs instead of ordering assessment
 

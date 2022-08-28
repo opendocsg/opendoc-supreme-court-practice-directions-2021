@@ -48,7 +48,7 @@
 
 ## 10.	Business of the Registry
 
-(1)	Pursuant to section 71(1) of the Supreme Court of Judicature Act and Order 26, Rule 1(1) of the Rules of Court 2021, the Chief Justice has directed that the Registry of the Supreme Court (“the Registry”) comprises the Division for the Court of Appeal and the Appellate Division, the Division for the General Division and the Division for the Singapore International Commercial Court
+(1)	Pursuant to section 71(1) of the Supreme Court of Judicature Act 1969 and Order 26, Rule 1(1) of the Rules of Court 2021, the Chief Justice has directed that the Registry of the Supreme Court (“the Registry”) comprises the Division for the Court of Appeal and the Appellate Division, the Division for the General Division and the Division for the Singapore International Commercial Court
 
 (2)	There is to be a Divisional Registrar for the Court of Appeal and the Appellate Division, a Divisional Registrar for the General Division, and a Divisional Registrar for the Singapore International Commercial Court. The Divisional Registrar for each division of the Registry will have control and supervision of the affairs of that division. Overall control and supervision of the Registry will remain with the Registrar of the Supreme Court.
 

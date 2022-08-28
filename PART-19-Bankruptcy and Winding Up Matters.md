@@ -3,7 +3,7 @@
 <ul type="*">
 	<li>159. Bankruptcy applications</li>
 	<li>160. Applications to set aside statutory demands made under the Bankruptcy Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020</li>
-	<li>161. Judicial management and winding up applications under the Companies Act or the Insolvency, Restructuring and Dissolution Act 2018</li>
+	<li>161. Judicial Management and winding up applications under the Companies Act (Cap. 50, 2006 Rev. Ed.) or Insolvency, Restructuring and Dissolution Act 2018</li>
 	<li>162. Documents for use in open court trials of contested winding-up applications</li>
 		<ul>
 			<li>Bundles of documents</li>
@@ -22,7 +22,7 @@ The following arrangements will apply to hearings of bankruptcy matters:
 <ul type="*">
 <li>(a)	applications for bankruptcy orders; and</li>
 
-<li>(b)	other applications under the Bankruptcy Act or Bankruptcy Rules, or under Parts 13 to 21 of the Insolvency, Restructuring and Dissolution Act 2018 or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020, including:</li>
+<li>(b)	other applications under the Bankruptcy Act (Cap. 20, 2009 Rev. Ed.) or Bankruptcy Rules, or under Parts 13 to 21 of the Insolvency, Restructuring and Dissolution Act 2018 or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020, including:</li>
 
 <ul type="*">
 <li>(i)	applications to set aside statutory demands;</li>
@@ -57,9 +57,9 @@ The following arrangements will apply to hearings of bankruptcy matters:
 
 the Court will normally set aside the statutory demand if, in its opinion, on the evidence there is a genuine triable issue.
 
-## 161. Judicial management and winding up applications under the Companies Act or the Insolvency, Restructuring and Dissolution Act 2018
+## 161. Judicial Management and winding up applications under the Companies Act (Cap. 50, 2006 Rev. Ed.) or Insolvency, Restructuring and Dissolution Act 2018
 
-After a winding up application has been filed, the applicant or his or her solicitor should file the necessary documents using the checklist provided in the Electronic Filing Service. Once the necessary documents under the checklist have been filed, the applicant or his or her solicitor should generate and file the winding up memorandum before attending before the Duty Registrar in compliance with Rule 32 of the Companies (Winding Up) Rules or Rule 73 of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020. This requirement will similarly apply to judicial management applications under the Companies Act or the Insolvency, Restructuring and Dissolution Act 2018.
+After a winding up application has been filed, the applicant or his or her solicitor should file the necessary documents using the checklist provided in the Electronic Filing Service. Once the necessary documents under the checklist have been filed, the applicant or his or her solicitor should generate and file the winding up memorandum before attending before the Duty Registrar in compliance with Rule 32 of the Companies (Winding Up) Rules or Rule 73 of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020. This requirement will similarly apply to judicial management applications under the Companies Act (Cap. 50, 2006 Rev. Ed.) or the Insolvency, Restructuring and Dissolution Act 2018.
 
 ## 162. Documents for use in open court trials of contested winding-up applications
 
