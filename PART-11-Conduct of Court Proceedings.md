@@ -270,7 +270,7 @@ is required to attend Court and wishes to absent himself or herself from Court o
 
 ## 92. Precedence and preaudience of Senior Counsel
 
-(1)	By virtue of section 31 of the Legal Profession Act and existing custom and usage, Senior Counsel are given precedence and the right of preaudience.
+(1)	By virtue of section 31 of the Legal Profession Act 1966 and existing custom and usage, Senior Counsel are given precedence and the right of preaudience.
 
 (2)	In order to give substance to the principle of precedence and preaudience to Senior Counsel, the Chief Justice has directed that Senior Counsel who intend to appear before Judges or Registrars for summonses should inform the Registrar in writing not later than 2 clear days before the scheduled hearing date. Senior Counsel should indicate their presence in the Central Display Management System (CDMS), and will be given precedence and the right of preaudience, subject to the Judge’s or Registrar’s overriding discretion.
 
