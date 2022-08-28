@@ -42,7 +42,7 @@
 <ul type="*">
 <li>(a)	the identity of the agent of the ship; and</li>
 
-<li>(b)	the location of the ship or, where the property is cargo, the ship in which the cargo was carried, within the limits of the port declared under section 3(1) of the Maritime and Port Authority of Singapore Act, on the date and at the time of the service of the warrant of arrest or the originating claim in an action <em>in rem</em> (as the case may be).</li>
+<li>(b)	the location of the ship or, where the property is cargo, the ship in which the cargo was carried, within the limits of the port declared under section 3(1) of the Maritime and Port Authority of Singapore Act 1996, on the date and at the time of the service of the warrant of arrest or the originating claim in an action <em>in rem</em> (as the case may be).</li>
 </ul>
 
 ## 147. Arrest of ships in shipyards
