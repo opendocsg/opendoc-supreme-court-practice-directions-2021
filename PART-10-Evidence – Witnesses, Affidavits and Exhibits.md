@@ -87,6 +87,9 @@ For example, “2nd Df; Tan Ah Kow; 4th; 15.12.2021”.</li>
 
 <li>(d)	every page of the affidavit must be paginated consecutively, and the page number must be inserted at the centre top of each page of the affidavit other than the exhibits and separators. Exhibits and separators must be paginated in accordance with paragraph 80(3) below.</li>
 
+<li>(d)	every page of the affidavit must be paginated consecutively, and the page number must be inserted at the centre top of each page of the affidavit other than the exhibits and separators. Exhibits and separators must be paginated in accordance with paragraph 80(3) below.</li>
+</ul>
+
 (2)	When filing affidavits for use during a hearing of an interlocutory application, the summons number of the interlocutory application must be provided in the Electronic Filing Service in addition to the case number of the suit or matter.
 
 (3)	Every affidavit which is filed in conjunction with a summons must have endorsed at the top left hand corner of the first page of the affidavit the summons number.
@@ -194,7 +197,7 @@ A Commissioner for Oaths
 
 (1)	A remote communication technology mentioned in Order 15, Rule 22(1) of the Rules of Court 2021 must be capable of creating a live video link or live television link through which a commissioner for oaths is able to do all of the things mentioned in Order 15, Rule 22(3) of the Rules of Court 2021.
 
-(2)	For the purposes of Order 15, Rule 22(2) of the Rules of Court 2021, the maker of the affidavit and the commissioner for oaths may sign the affidavit electronically by applying a security procedure that results in a secure electronic signature under section 18 of the Electronic Transactions Act.
+(2)	For the purposes of Order 15, Rule 22(2) of the Rules of Court 2021, the maker of the affidavit and the commissioner for oaths may sign the affidavit electronically by applying a security procedure that results in a secure electronic signature under section 18 of the Electronic Transactions Act 2010.
 
 (3)	Where an affidavit is made pursuant to Order 15, Rule 22 of the Rules of Court 2021, the affidavit should be made, as far as possible, as if the maker of the affidavit were appearing before the commissioner for oaths in person, and the attestation must state that the affidavit was affirmed and signed in Singapore with the maker of the affidavit appearing before the commissioner for oaths through a live video link or live television link, or that the affidavit was signed by the maker of the affidavit and/or the commissioner for oaths electronically in Singapore, or both, as the case may be.
 
