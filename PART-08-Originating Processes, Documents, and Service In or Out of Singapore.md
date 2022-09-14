@@ -90,7 +90,7 @@
 
 <li>(f)	applications and appeals under the Trade Marks Act 1998 in Rules 67 and 70(1) of the Supreme Court of Judicature (Intellectual Property) Rules 2022; </li>
 
-<li>(g)	applications for admission of advocate and solicitor under section 12 of the Legal Profession Act; 1966</li>
+<li>(g)	applications for admission of advocate and solicitor under section 12 of the Legal Profession Act 1966;</li>
 
 <li>(h)	applications for <em>ad hoc</em> admissions under section 15 of the Legal Profession Act 1966;</li>
 

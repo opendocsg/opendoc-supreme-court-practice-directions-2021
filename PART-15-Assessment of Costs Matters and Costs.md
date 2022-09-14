@@ -76,7 +76,7 @@ The attention of solicitors is drawn to Order 21, Rules 2(2) and 20 of the Rules
 
 </li>
 
-<li><strong><em>BILLS OF COSTS REQUIRED TO BE ASSESSED UNDER SECTION 18(3) OF THE MOTOR VEHICLES (THIRD-PARTY RISKS AND COMPENSATION) ACT</em></strong>
+<li><strong><em>BILLS OF COSTS REQUIRED TO BE ASSESSED UNDER SECTION 18(3) OF THE MOTOR VEHICLES (THIRD-PARTY RISKS AND COMPENSATION) ACT 1960</em></strong>
 
 <br><br>
 

@@ -13,7 +13,7 @@
 
 (2)	Where the accused is not legally represented, the Registry will arrange, at least 4 weeks before the date of the Judge Case Conference, for a copy of the Judge Case Conference Checklist to be sent to, or collected by, the accused.
 
-## 166. Affidavit in support of an application for permission under section 394H of the Criminal Procedure Code
+## 166. Affidavit in support of an application for permission under section 394H of the Criminal Procedure Code 2010
 
 (1)	Under section 394H(3) of the Criminal Procedure Code 2010 read with Rules 11(2) and (3) of the Criminal Procedure Rules 2018, the applicant in an application for permission (as defined in section 394F(1) of the Criminal Procedure Code 2010) must file an affidavit in support of the application at the same time as the filing of the application. This affidavit is to be made by the applicant’s advocate (if the applicant is represented by an advocate when the affidavit is filed) or by the applicant (if the applicant is not represented by an advocate when the affidavit is filed).
 
