@@ -245,7 +245,7 @@
   </tr>
   <tr>
     <td>59.</td>
-    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 59).pdf" download>Order for Recognition of a Foreign Judgment / Recognition and Enforcement of a Foreign Judgment / Enforcement of a Judicial Settlement under the Choice of Court Agreements Act</a></td>
+    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 59).pdf" download>Order for Recognition of a Foreign Judgment / Recognition and Enforcement of a Foreign Judgment / Enforcement of a Judicial Settlement under the Choice of Court Agreements Act 2016</a></td>
   </tr>
   <tr>
     <td>60.</td>
@@ -253,7 +253,7 @@
   </tr>
   <tr>
     <td>61.</td>
-    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 61).pdf" download>Search Warrant under Section 34 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act</a></td>
+    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 61).pdf" download>Search Warrant under Section 34 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992</a></td>
   </tr>
   <tr>
     <td>62.</td>
@@ -325,15 +325,15 @@
   </tr>
   <tr>
     <td>79.</td>
-    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 79).pdf" download>Search Warrant under Section 34 of the Mutual Assistance in Criminal Matters Act</a></td>
+    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 79).pdf" download>Search Warrant under Section 34 of the Mutual Assistance in Criminal Matters Act 2000</a></td>
   </tr>
   <tr>
     <td>80.</td>
-    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 80).pdf" download>Certificate of Service of Foreign Process Under Section 38(3)(<em>b</em>)(i) of the Mutual Assistance in Criminal Matters Act</a></td>
+    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 80).pdf" download>Certificate of Service of Foreign Process Under Section 38(3)(<em>b</em>)(i) of the Mutual Assistance in Criminal Matters Act 2000</a></td>
   </tr>
   <tr>
     <td>81.</td>
-    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 81).pdf" download>Statement of Reason Preventing Service of Foreign Process Under Section 38(3)(<em>b</em>)(ii) of the Mutual Assistance in Criminal Matters Act</a></td>
+    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 81).pdf" download>Statement of Reason Preventing Service of Foreign Process Under Section 38(3)(<em>b</em>)(ii) of the Mutual Assistance in Criminal Matters Act 2000</a></td>
   </tr>
   <tr>
     <td>82.</td>
@@ -365,11 +365,11 @@
   </tr>
   <tr>
     <td>89.</td>
-    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 89).pdf" download>Certificate under the Reciprocal Enforcement of Commonwealth Judgments Act</a></td>
+    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 89).pdf" download>Certificate under the Reciprocal Enforcement of Commonwealth Judgments Act 1921</a></td>
   </tr>
   <tr>
     <td>90.</td>
-    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 90).pdf" download>Certificate under the Reciprocal Enforcement of Foreign Judgments Act</a></td>
+    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 90).pdf" download>Certificate under the Reciprocal Enforcement of Foreign Judgments Act 1959</a></td>
   </tr>
   <tr>
     <td>91.</td>
@@ -397,7 +397,7 @@
   </tr>
   <tr>
     <td>97.</td>
-    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 97).pdf" download>Warrant for Search and Seizure under Section 11(1)(<em>a</em>) of the Terrorism (Suppression of Financing) Act</a></td>
+    <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 97).pdf" download>Warrant for Search and Seizure under Section 11(1)(<em>a</em>) of the Terrorism (Suppression of Financing) Act 2002</a></td>
   </tr>
   <tr>
     <td>98.</td>
@@ -610,7 +610,7 @@
   </tr>
   <tr>
     <td>B45.</td>
-    <td><a href="./downloads/Appendix_B/SUPCT_new PDs (Appendix B - Form 45).pdf" download>Information Sheet to be exhibited in an Affidavit in support of an Application for Permission under Section 394H of the Criminal Procedure Code</a></td>
+    <td><a href="./downloads/Appendix_B/SUPCT_new PDs (Appendix B - Form 45).pdf" download>Information Sheet to be exhibited in an Affidavit in support of an Application for Permission under Section 394H of the Criminal Procedure Code 2010</a></td>
   </tr>
 </tbody>
 </table>
@@ -628,7 +628,7 @@
 
 <a href="./downloads/Appendix_E/SUPCT_new PDs (Appendix E1).pdf" download>E1. Sample Bill of Costs for Contentious Matters – Trials</a><br>
 <a href="./downloads/Appendix_E/SUPCT_new PDs (Appendix E2).pdf" download>E2. Sample Bill of Costs for Contentious Matters Other Than Trials</a><br>
-<a href="./downloads/Appendix_E/SUPCT_new PDs (Appendix E3).pdf" download>E3. Sample Bill of Costs for Non-Contentious Matters</a><br>
+<a href="./downloads/Appendix_E/SUPCT_new PDs (Appendix E3 - sample BC - non contentious matters).pdf" download>E3. Sample Bill of Costs for Non-Contentious Matters</a><br>
 
 ## Appendix F: Sample Costs Schedule
 
@@ -636,7 +636,7 @@
 
 ## Appendix G: Guidelines for Party-and-Party Costs Awards in the Supreme Court of Singapore
 
-<a href="./downloads/Appendix_G/SUPCT_new PDs (Appendix G).pdf" download>Appendix G</a><br>
+<a href="./downloads/Appendix_G/SUPCT_new PDs (Appendix G - costs guidelines).pdf" download>Appendix G</a><br>
 
 ## Appendix H: Protocol for Medical Negligence Cases in the General Division of the High Court
 
