@@ -506,7 +506,7 @@
   </tr>
   <tr>
     <td>B19.</td>
-    <td><a href="./downloads/Appendix_B/SUPCT_new PDs (Appendix B - Form 19)_2.pdf" download>Appeals Information Sheet</a></td>
+    <td><a href="./downloads/Appendix_B/SUPCT_new PDs (Appendix B - Form 19).pdf" download>Appeals Information Sheet</a></td>
   </tr>
   <tr>
     <td>B20.</td>
