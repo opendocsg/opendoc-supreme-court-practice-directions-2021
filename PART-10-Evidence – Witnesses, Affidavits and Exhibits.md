@@ -68,7 +68,7 @@
 <ul type="*">
 <li>(a)	they should have a blank margin not less than 35mm wide on all 4 sides of each page;</li>
 
-<li>(b)	the text of the affidavits, as opposed to the exhibits, must be printed or typed and doubled- spaced on white paper;</li>
+<li>(b)	the text of the affidavits, as opposed to the exhibits, must be printed or typed and double-spaced on white paper;</li>
 
 <li>(c)	the following information must be typed or printed in a single line at the top right hand corner of the first page of every affidavit:</li>
 
@@ -89,7 +89,6 @@ For example, “2nd Df; Tan Ah Kow; 4th; 15.12.2021”.</li>
 	
 </ul>
 
-<li>(d)	every page of the affidavit must be paginated consecutively, and the page number must be inserted at the centre top of each page of the affidavit other than the exhibits and separators. Exhibits and separators must be paginated in accordance with paragraph 80(3) below.</li>
 </ul>
 
 (2)	When filing affidavits for use during a hearing of an interlocutory application, the summons number of the interlocutory application must be provided in the Electronic Filing Service in addition to the case number of the suit or matter.
