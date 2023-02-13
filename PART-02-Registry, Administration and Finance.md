@@ -24,8 +24,8 @@
 	<li>19. Documents creating power of attorney</li>
 	<li>20. Filing directions to the Accountant-General for payment in or payment out or furnishing security for costs by depositing monies in the Registry</li>
 		<ul>
-			<li><em>Direction to Accountant-General for Payment In or Payment Out</em></li>
-			<li><em>Furnishing security for costs by depositing monies in the Registry</em></li>
+			<li>Direction to Accountant-General for Payment In or Payment Out</li>
+			<li>Furnishing security for costs by depositing monies in the Registry</li>
 			<li>Request for information on balance of monies paid into Court or deposited in the Registry</li>
 		</ul>
 	<li>21. Requests and other Correspondence</li>
