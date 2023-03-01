@@ -364,8 +364,8 @@
     <td><a href="./downloads/Appendix_A/SUPCT_new PDs (Appendix A - Form 88).pdf" download>Order for Registration of Foreign Judgment / Commonwealth Judgment</a></td>
   </tr>
   <tr>
-    <td><s>89.</s></td>
-    <td><s>Certificate under the Reciprocal Enforcement of Commonwealth Judgments Act 1921</s></td>
+    <td>89.</td>
+    <td>[deleted]</td>
   </tr>
   <tr>
     <td>90.</td>
