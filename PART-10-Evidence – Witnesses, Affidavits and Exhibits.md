@@ -25,6 +25,7 @@
 	<li>82. Affirming of documents by persons who do not understand English, are illiterate or blind</li>
 	<li>83. Effect of non-compliance</li>
 	<li>84. Objections to the contents of affidavits of evidence-in-chief</li>
+	<li>84A. Notice to Admit Hearsay Evidence</li>
 </ul>
 
 ## 76. Witnesses
@@ -86,7 +87,6 @@ For example, “2nd Df; Tan Ah Kow; 4th; 15.12.2021”.</li>
 </ul><br>
 
 <li>(d)	every page of the affidavit must be paginated consecutively, and the page number must be inserted at the centre top of each page of the affidavit other than the exhibits and separators. Exhibits and separators must be paginated in accordance with paragraph 80(3) below.</li>
-
 </ul>
 
 (2)	When filing affidavits for use during a hearing of an interlocutory application, the summons number of the interlocutory application must be provided in the Electronic Filing Service in addition to the case number of the suit or matter.
@@ -253,3 +253,9 @@ Any affidavit or exhibit which does not comply with the directions contained in 
 (2)	The notice in Form B13 should set out all the objections to the contents of affidavits of evidence-in-chief that will be raised at the hearing of the cause or matter and all the grounds of the objections.
 
 (3)	An adjudication on the material objected to in affidavits of evidence-in-chief filed pursuant to an order of court should only be sought at the trial or hearing of the cause or matter for which the affidavits of evidence-in-chief were filed, and not before. If an adjudication is sought prior to the trial or hearing of the cause or matter, the application for the adjudication will be adjourned to be dealt with at the trial or hearing of the cause or matter, and the applicant may be ordered to pay the costs of the adjournment.
+
+## 84A. Notice to Admit Hearsay Evidence
+
+(1)	For the purposes of Order 15, Rule 16(9) of the Rules of Court 2021, the notice in Order 15, Rule 16(7) of those Rules must be in Form B13A of Appendix B of these Practice Directions.
+
+(2)	For the purposes of Order 15, Rule 16(10) of the Rules of Court 2021, the notice in Order 15, Rule 16(7) of those Rules must be in Form B13B of Appendix B of these Practice Directions.
