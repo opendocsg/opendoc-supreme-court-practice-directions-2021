@@ -396,9 +396,19 @@ Originating Claim (Amendment No. 1, pursuant to O 9, r 14(5) of the Rules of Cou
 
 <li>(r)	the claim is in respect of matters in which the defendant has submitted or agreed to submit to the jurisdiction of the Court;</li>
 
-<li>(s)	the claim concerns the construction, effect or enforcement of any written law; or</li>
+<li>(s)	the claim concerns the construction, effect or enforcement of any written law;</li>
 
-<li>(t)	the claim is for a committal order under Order 23 of the Rules of Court 2021.</li>
+<li>(t)	the claim is for a committal order under Order 23 of the Rules of Court 2021; or</li>
+
+<li>(u)	the application is for the production of documents or information:</li>
+<ul type="*">
+<li>(i)	to identify possible parties to proceedings before the commencement of those proceedings in Singapore;</li>
+
+<li>(ii) to enable tracing of property before the commencement of proceedings in Singapore relating to the property; or</li>
+
+<li>(iii)	where the production of the documents or information is in the interests of justice.</li>
+
+</ul>
 </ul>
 
 ## 64. Court’s power to dismiss an action if no reasonable steps taken to serve originating process expeditiously
