@@ -623,9 +623,9 @@
 </tbody>
 </table>
 
-## Appendix C: Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars
+## Appendix C: Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars
 
-<a href="./downloads/Appendix_C/SUPCT_new PDs (Appendix C).pdf" download>Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars</a>
+<a href="./downloads/Appendix_C/SUPCT_new PDs (Appendix C).pdf" download>Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars</a>
 
 
 ## Appendix D: Guidelines for Advocates and Solicitors Advising Clients about ADR
