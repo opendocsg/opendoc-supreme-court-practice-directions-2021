@@ -50,11 +50,11 @@
 
 (1)	Pursuant to section 71(1) of the Supreme Court of Judicature Act 1969 and Order 26, Rule 1(1) of the Rules of Court 2021, the Chief Justice has directed that the Registry of the Supreme Court (“the Registry”) comprises the Division for the Court of Appeal and the Appellate Division, the Division for the General Division and the Division for the Singapore International Commercial Court
 
-(2)	There is to be a Divisional Registrar for the Court of Appeal and the Appellate Division, a Divisional Registrar for the General Division, and a Divisional Registrar for the Singapore International Commercial Court. The Divisional Registrar for each division of the Registry will have control and supervision of the affairs of that division. Overall control and supervision of the Registry will remain with the Registrar of the Supreme Court.
+(2)	There is to be one or more Divisional Registrars for the Court of Appeal and the Appellate Division, for the General Division, and for the Singapore International Commercial Court. The Divisional Registrar or Divisional Registrars for each division of the Registry will have control and supervision of the affairs of that division. Overall control and supervision of the Registry will remain with the Registrar of the Supreme Court.
 
 (3)	The Chief Justice may designate any Assistant Registrar as Senior Assistant Registrar. The Chief Justice may also designate the Deputy Registrar, any Senior Assistant Registrar or any Assistant Registrar as Divisional Registrar or Deputy Divisional Registrar of any division of the Registry.
 
-(4)	Appendix C of these Practice Directions sets out the names of the Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars.
+(4)	Appendix C of these Practice Directions sets out the names of the Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars.
 
 (5)	To avoid doubt, it is hereby declared that any instruction manuals which may be issued from time to time by the Government are not applicable to the business of the Registry.
 
@@ -355,7 +355,7 @@ The Direction to the Accountant-General for Payment Out must be in Form 44(b) of
 
 <ul type="*">
 
-<li>(a)	<span style="text-decoration: underline">By electronic payment</span>: The party is to send his or her case details by email to the Finance Directorate of the Supreme Court at <a href="mailto:FPD_Revenue@judiciary.gov.sg" style="text-decoration:none;">FPD_Revenue@judiciary.gov.sg</a>. The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Directorate.</li>
+<li>(a)	<span style="text-decoration: underline">By electronic payment</span>: The party is to send his or her case details by email to the Finance Division of the Judiciary at <a href="mailto:FPD_Revenue@judiciary.gov.sg" style="text-decoration:none;">FPD_Revenue@judiciary.gov.sg</a>. The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Division of the Judiciary.</li>
 
 <li>(b)	<span style="text-decoration: underline">By making payment at the Supreme Court</span>: The party will be required to complete a requisite form when he or she attends at the Supreme Court. The accepted payment modes are Cash, Cashier’s Order (made payable to “Registrar Supreme Court/AG”), NETS and credit card. Upon payment at the counter, a receipt will be issued to the party.</li>
 
@@ -363,7 +363,7 @@ The Direction to the Accountant-General for Payment Out must be in Form 44(b) of
 
 The party must provide proof of such deposit when filing the appeal or application.
 
-(7)	Where security for costs is to be paid out to any party pursuant to the Rules of Court 2021 or an order or direction of the Court, the party entitled to payment of the security may write to the Registry to request payment out. Once the request for payment out is approved by the Registry, the party entitled to the payment must send a copy of the Registry’s approval to the	Finance	Directorate	of	the	Supreme	Court	at <a href="mailto:FPD_Revenue@judiciary.gov.sg" style="text-decoration:none;">FPD_Revenue@judiciary.gov.sg</a>. The Finance Directorate of the Supreme Court will provide instructions on the documents to be furnished to process the release of the monies.
+(7)	Where security for costs is to be paid out to any party pursuant to the Rules of Court 2021 or an order or direction of the Court, the party entitled to payment of the security may write to the Registry to request payment out. Once the request for payment out is approved by the Registry, the party entitled to the payment must send a copy of the Registry’s approval to the	Finance Division of the Judiciary	at <a href="mailto:FPD_Revenue@judiciary.gov.sg" style="text-decoration:none;">FPD_Revenue@judiciary.gov.sg</a>. The Finance Division of the Judiciary will provide instructions on the documents to be furnished to process the release of the monies.
 
 ***Request for information on balance of monies paid into Court or deposited in the Registry***
 

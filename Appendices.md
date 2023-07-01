@@ -485,6 +485,14 @@
     <td><a href="./downloads/Appendix_B/SUPCT_new PDs (Appendix B - Form 13).pdf" download>Notice of Objections to Contents of Affidavits of Evidence-in-Chief</a></td>
   </tr>
   <tr>
+    <td>B13A.</td>
+    <td><a href="./downloads/Appendix_B/SUPCT_new PDs (Appendix B - Form 13A).pdf" download>Notice to Admit Documentary Hearsay Evidence</a></td>
+  </tr>
+  <tr>
+    <td>B13B.</td>
+    <td><a href="./downloads/Appendix_B/SUPCT_new PDs (Appendix B - Form 13B).pdf" download>Notice to Admit Non-Documentary Hearsay Evidence</a></td>
+  </tr>
+  <tr>
     <td>B14.</td>
     <td><a href="./downloads/Appendix_B/SUPCT_new PDs (Appendix B - Form 14).pdf" download>Request for Urgent Hearing before Judge</a></td>
   </tr>
@@ -615,9 +623,9 @@
 </tbody>
 </table>
 
-## Appendix C: Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars
+## Appendix C: Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars
 
-<a href="./downloads/Appendix_C/SUPCT_new PDs (Appendix C).pdf" download>Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars</a>
+<a href="./downloads/Appendix_C/SUPCT_new PDs (Appendix C).pdf" download>Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars</a>
 
 
 ## Appendix D: Guidelines for Advocates and Solicitors Advising Clients about ADR
